@@ -15,8 +15,8 @@ export const META_LKOD = {
 	provider: "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70889546",
 	homepage: "https://datazapad.cz",
 	contact_type: 'Organizace',
-	contact_name: 'Krajský úřad Královéhradeckého kraje / Odbor analýz a podpory řízení',
-	contact_email: 'datakhk@kr-kralovehradecky.cz',
+	contact_name: 'Karlovarská agentura rozvoje podnikání, p. o.',
+	contact_email: 'info@karp-kv.cz',
 	themes: {
 		'Kraj a dotace': ['REGI', 'GOVE'],
 		'Investice kraje': ['GOVE', 'ECON'],
@@ -45,7 +45,7 @@ export const META_LKOD = {
 		'012': 'UNKNOWN',
 	} as Record<string, string>,
 	excludedDatasets: [
-		'55bde3ffb8814807a81b3e733cd0f66d', // Úřední deska Královéhradeckého kraje
-		'9cef37eacc0541d89acb3f21481c4809', // Aktuality Královéhradeckého kraje
+		' ', // Úřední deska Karlovarského kraje
+		' ', // Aktuality Karlovarského kraje
 	]
 }
