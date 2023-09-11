@@ -16,7 +16,7 @@ export const META_LKOD = {
 	homepage: "https://datazapad.cz",
 	contact_type: 'Organizace',
 	contact_name: 'Karlovarská agentura rozvoje podnikání, p. o.',
-	contact_email: 'info@karp-kv.cz',
+	contact_email: 'info@datazapad.cz',
 	themes: {
 		'Kraj a dotace': ['REGI', 'GOVE'],
 		'Investice kraje': ['GOVE', 'ECON'],
