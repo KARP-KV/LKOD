@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "builds": [
+    { "src": "public/**", "use": "@vercel/static" }
+  ],
+  "redirects": [
+    { "source": "/", "destination": "/katalog.jsonld" }
+  ],
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/public/$1" }
+  ],
+  "github": {
+    "silent": true
+  }
+}

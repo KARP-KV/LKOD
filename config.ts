@@ -45,7 +45,5 @@ export const META_LKOD = {
 		'012': 'UNKNOWN',
 	} as Record<string, string>,
 	excludedDatasets: [
-		' ', // Úřední deska Karlovarského kraje
-		' ', // Aktuality Karlovarského kraje
 	]
 }

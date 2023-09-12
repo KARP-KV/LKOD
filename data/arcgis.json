@@ -1,0 +1,77 @@
+{
+  "@context": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld",
+  "@type": "dcat:Catalog",
+  "conformsTo": "https://project-open-data.cio.gov/v1.1/schema",
+  "describedBy": "https://project-open-data.cio.gov/v1.1/schema/catalog.json",
+  "dataset": [
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=a595baf3ad6d4dabb3533e9720fabb69&sublayer=0",
+      "landingPage": "https://datazapad-karp.hub.arcgis.com/maps/a595baf3ad6d4dabb3533e9720fabb69_0",
+      "title": "Inovační infrastruktura KVK WFL1",
+      "description": "",
+      "keyword": [
+        ""
+      ],
+      "issued": "2023-08-21T12:42:41.000Z",
+      "modified": "2023-08-21T12:42:42.547Z",
+      "publisher": {
+        "name": "jan.sklepek@karp-kv.cz"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "jan.sklepek@karp-kv.cz"
+      },
+      "accessLevel": "public",
+      "spatial": "12.3640,50.0762,12.9472,50.2960",
+      "license": "",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/maps/a595baf3ad6d4dabb3533e9720fabb69_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Inova%C4%8Dn%C3%AD_infrastruktura_KVK_WFL1/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/datasets/a595baf3ad6d4dabb3533e9720fabb69_0.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/datasets/a595baf3ad6d4dabb3533e9720fabb69_0.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/datasets/a595baf3ad6d4dabb3533e9720fabb69_0.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/datasets/a595baf3ad6d4dabb3533e9720fabb69_0.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    }
+  ]
+}
