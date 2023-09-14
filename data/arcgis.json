@@ -45,28 +45,28 @@
           "title": "CSV",
           "format": "CSV",
           "mediaType": "text/csv",
-          "accessURL": "https://datazapad-karp.hub.arcgis.com/datasets/a595baf3ad6d4dabb3533e9720fabb69_0.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/datasets/a595baf3ad6d4dabb3533e9720fabb69_0.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
         },
         {
           "@type": "dcat:Distribution",
           "title": "GeoJSON",
           "format": "GeoJSON",
           "mediaType": "application/vnd.geo+json",
-          "accessURL": "https://datazapad-karp.hub.arcgis.com/datasets/a595baf3ad6d4dabb3533e9720fabb69_0.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/datasets/a595baf3ad6d4dabb3533e9720fabb69_0.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Shapefile",
           "format": "ZIP",
           "mediaType": "application/zip",
-          "accessURL": "https://datazapad-karp.hub.arcgis.com/datasets/a595baf3ad6d4dabb3533e9720fabb69_0.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/datasets/a595baf3ad6d4dabb3533e9720fabb69_0.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
         },
         {
           "@type": "dcat:Distribution",
           "title": "KML",
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
-          "accessURL": "https://datazapad-karp.hub.arcgis.com/datasets/a595baf3ad6d4dabb3533e9720fabb69_0.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/datasets/a595baf3ad6d4dabb3533e9720fabb69_0.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
         }
       ],
       "theme": [
