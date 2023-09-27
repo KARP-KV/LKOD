@@ -57,7 +57,7 @@ import * as CONFIG from '@/../config';
 		dataset['téma'] = detectTheme(arcgisDataset);
 		dataset['periodicita_aktualizace'] = detectPeriodicity(arcgisDataset);
 		dataset['prvek_rúian'] = [
-			"https://linked.cuzk.cz/resource/ruian/vusc/86"
+			"https://linked.cuzk.cz/resource/ruian/vusc/51"
 		];
 
 		const documentation = detectDocumentation(arcgisDataset);
