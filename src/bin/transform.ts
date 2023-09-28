@@ -3,7 +3,7 @@ import _url from 'url';
 import { readJson, writeJson, parseArcgisIdentifier } from '@/helpers';
 import { detectDocumentation, detectMediaType, detectPeriodicity, detectTheme } from '@/mapper';
 import { generateUrl } from '@/generator';
-import { sanitizeText } from "@/sanitizer";
+import { sanitizeArray, sanitizeText } from "@/sanitizer";
 import * as CONFIG from '@/../config';
 
 (async () => {
@@ -52,13 +52,11 @@ import * as CONFIG from '@/../config';
 			cs: sanitizeText(arcgisDataset.description)
 		};
 		dataset['klíčové_slovo'] = {
-			cs: arcgisDataset.keyword,
+			cs: sanitizeArray(arcgisDataset.keyword),
 		}
 		dataset['téma'] = detectTheme(arcgisDataset);
 		dataset['periodicita_aktualizace'] = detectPeriodicity(arcgisDataset);
-		dataset['prvek_rúian'] = [
-			"https://linked.cuzk.cz/resource/ruian/vusc/51"
-		];
+		dataset['prvek_rúian'] = [CONFIG.META_LKOD.ruian];
 
 		const documentation = detectDocumentation(arcgisDataset);
 		if (documentation) {

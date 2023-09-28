@@ -17,6 +17,7 @@ export const META_LKOD = {
 	contact_type: 'Organizace',
 	contact_name: 'Karlovarská agentura rozvoje podnikání, p. o.',
 	contact_email: 'info@datazapad.cz',
+	ruian: 'https://linked.cuzk.cz/resource/ruian/vusc/51',
 	themes: {
 		'Kraj a dotace': ['REGI', 'GOVE'],
 		'Investice kraje': ['GOVE', 'ECON'],
