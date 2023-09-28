@@ -30,7 +30,7 @@
         "cs": "Inovační infrastruktury KVK"
       },
       "popis": {
-        "cs": "Datová sada s prostorovou lokalizací inovačních infrastruktur Karlovarského kraje - coworkingová centra, pobočky vysokých škol, podnikatelské inkubátory, vědeckotechnické parky, výzkumné organizace a další významné organizace inovačního prostředí KVK."
+        "cs": "Datová sada s prostorovou lokalizací inovačních infrastruktur Karlovarského kraje - coworkingová centra, pobočky vysokých škol, podnikatelské inkubátory, vědeckotechnické parky, výzkumné organizace a další významné organizace inovačního prostředí KVK. Zdrojem dat je Karlovarská agentura rozvoje podnikání, p.o."
       },
       "klíčové_slovo": {
         "cs": [
@@ -41,7 +41,7 @@
       "téma": [],
       "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
       "prvek_rúian": [
-        "https://linked.cuzk.cz/resource/ruian/vusc/86"
+        "https://linked.cuzk.cz/resource/ruian/vusc/51"
       ],
       "distribuce": [
         {
