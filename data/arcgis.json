@@ -6,6 +6,92 @@
   "dataset": [
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=34e6a1f1443846e49676de22bf53bd7d&sublayer=0",
+      "landingPage": "https://datazapad-karp.hub.arcgis.com/maps/34e6a1f1443846e49676de22bf53bd7d_0",
+      "title": "Aurora High Line Canal Trail",
+      "description": "<span>This portion of the High Line Canal Trail in Aurora,\n Colorado is derived from the city of Aurora Parks, Recreation &amp; \nOpen Space Department's line feature class for trails, bike lanes, and \nbike routes. It also includes sidewalks identified for use as connectors\n where trail gaps exist. All the features included in this feature layer\n have a Name field equal to High Line Canal.</span>",
+      "keyword": [
+        "Trails",
+        "test",
+        "Parks and Recreation",
+        "Aurora Bike Commuter Initiative",
+        "Colorado Bike Trails"
+      ],
+      "issued": "2023-08-14T08:40:54.000Z",
+      "modified": "2023-08-14T08:54:55.482Z",
+      "publisher": {
+        "name": "jan.sklepek@karp-kv.cz"
+      },
+      "contactPoint": {
+        "fn": "jan.sklepek@karp-kv.cz",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": {
+        "coordinates": [
+          [
+            -104.8662,
+            39.7034
+          ],
+          [
+            -104.7765,
+            39.7476
+          ]
+        ],
+        "type": "envelope"
+      },
+      "license": "http://creativecommons.org/licenses/by/4.0",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/maps/34e6a1f1443846e49676de22bf53bd7d_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/TrailShapefile/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/datasets/34e6a1f1443846e49676de22bf53bd7d_0.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/datasets/34e6a1f1443846e49676de22bf53bd7d_0.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/datasets/34e6a1f1443846e49676de22bf53bd7d_0.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/datasets/34e6a1f1443846e49676de22bf53bd7d_0.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=9fa2b7a9640540c6b956414fa811595d&sublayer=0",
       "landingPage": "https://datazapad-karp.hub.arcgis.com/maps/9fa2b7a9640540c6b956414fa811595d_0",
       "title": "Inovační infrastruktury KVK",
@@ -22,11 +108,24 @@
         "name": "Karlovarská agentura rozvoje podnikání, p.o."
       },
       "contactPoint": {
-        "@type": "vcard:Contact",
-        "fn": "pavla.brabencova_karp"
+        "fn": "pavla.brabencova_karp",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
       },
       "accessLevel": "public",
-      "spatial": "12.3640,50.0762,12.9472,50.2960",
+      "spatial": {
+        "coordinates": [
+          [
+            12.364,
+            50.0762
+          ],
+          [
+            12.9472,
+            50.296
+          ]
+        ],
+        "type": "envelope"
+      },
       "license": "http://creativecommons.org/licenses/by/4.0",
       "distribution": [
         {
