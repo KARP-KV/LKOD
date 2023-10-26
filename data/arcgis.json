@@ -6,6 +6,62 @@
   "dataset": [
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=073609297206497ea346594382ad0729",
+      "landingPage": "https://datazapad-karp.hub.arcgis.com/feedback/surveys/073609297206497ea346594382ad0729",
+      "title": "Zpětná vazba",
+      "description": "{{description}}",
+      "keyword": [
+        "DATA ZAPAD",
+        "Hub Survey",
+        "Dotazník"
+      ],
+      "issued": "2023-10-24T08:48:31.000Z",
+      "modified": "2023-10-25T10:45:56.000Z",
+      "publisher": {
+        "name": "jan.sklepek@karp-kv.cz"
+      },
+      "contactPoint": {
+        "fn": "jan.sklepek@karp-kv.cz",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": {
+        "coordinates": [
+          [
+            12.094,
+            48.5525
+          ],
+          [
+            18.8574,
+            51.0581
+          ]
+        ],
+        "type": "envelope"
+      },
+      "license": "",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/feedback/surveys/073609297206497ea346594382ad0729"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://KARP.maps.arcgis.com"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=34e6a1f1443846e49676de22bf53bd7d&sublayer=0",
       "landingPage": "https://datazapad-karp.hub.arcgis.com/maps/34e6a1f1443846e49676de22bf53bd7d_0",
       "title": "Aurora High Line Canal Trail",
@@ -169,6 +225,86 @@
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
           "accessURL": "https://datazapad-karp.hub.arcgis.com/datasets/9fa2b7a9640540c6b956414fa811595d_0.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=b20504884a5f4ab3acc4fa7bc2611be2&sublayer=0",
+      "landingPage": "https://datazapad-karp.hub.arcgis.com/maps/b20504884a5f4ab3acc4fa7bc2611be2_0",
+      "title": "Vstupy Zpětná vazba (systémový soubor)",
+      "description": "{{description}}",
+      "keyword": [],
+      "issued": "2023-10-25T07:04:18.000Z",
+      "modified": "2023-10-25T13:27:58.728Z",
+      "publisher": {
+        "name": "jan.sklepek@karp-kv.cz"
+      },
+      "contactPoint": {
+        "fn": "jan.sklepek@karp-kv.cz",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": {
+        "coordinates": [
+          [
+            -180,
+            -90
+          ],
+          [
+            180,
+            90
+          ]
+        ],
+        "type": "envelope"
+      },
+      "license": "",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/maps/b20504884a5f4ab3acc4fa7bc2611be2_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/survey123_073609297206497ea346594382ad0729_form/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/datasets/b20504884a5f4ab3acc4fa7bc2611be2_0.csv?where=1=1&outSR=%7B%22latestWkid%22%3A4326%2C%22wkid%22%3A4326%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/datasets/b20504884a5f4ab3acc4fa7bc2611be2_0.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A4326%2C%22wkid%22%3A4326%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/datasets/b20504884a5f4ab3acc4fa7bc2611be2_0.zip?where=1=1&outSR=%7B%22latestWkid%22%3A4326%2C%22wkid%22%3A4326%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/datasets/b20504884a5f4ab3acc4fa7bc2611be2_0.kml?where=1=1&outSR=%7B%22latestWkid%22%3A4326%2C%22wkid%22%3A4326%7D"
         }
       ],
       "theme": [

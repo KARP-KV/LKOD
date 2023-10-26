@@ -18,7 +18,9 @@
     "e-mail": "mailto:info@datazapad.cz"
   },
   "datová_sada": [
+    "https://open.datazapad.cz/073609297206497ea346594382ad0729.jsonld",
     "https://open.datazapad.cz/34e6a1f1443846e49676de22bf53bd7d.jsonld",
-    "https://open.datazapad.cz/9fa2b7a9640540c6b956414fa811595d.jsonld"
+    "https://open.datazapad.cz/9fa2b7a9640540c6b956414fa811595d.jsonld",
+    "https://open.datazapad.cz/b20504884a5f4ab3acc4fa7bc2611be2.jsonld"
   ]
 }
