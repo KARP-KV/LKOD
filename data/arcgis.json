@@ -148,6 +148,126 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=57c8b30a84554342869c647db610e4e0",
+      "landingPage": "https://datazapad-karp.hub.arcgis.com/pages/57c8b30a84554342869c647db610e4e0",
+      "title": "Publikační plán",
+      "description": "{{description}}",
+      "keyword": [
+        ""
+      ],
+      "issued": "2023-10-27T05:23:47.000Z",
+      "modified": "2023-10-30T12:53:42.000Z",
+      "publisher": {
+        "name": "jan.sklepek@karp-kv.cz"
+      },
+      "contactPoint": {
+        "fn": "jan.sklepek@karp-kv.cz",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent}}",
+      "license": "",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/pages/57c8b30a84554342869c647db610e4e0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=5ad57de2f5ea4f4483fd123f48beee47&sublayer=0",
+      "landingPage": "https://datazapad-karp.hub.arcgis.com/maps/5ad57de2f5ea4f4483fd123f48beee47_0",
+      "title": "Galerie kreativců KVK",
+      "description": "Přehled kreativců publikovaných v Galerii kreativců Karlovarského kraje. Přehled uvádí rovněž kontaktní údaje a zaměření kreativců. Zdrojem dat je Karlovarská agentura rozvoje podnikání, p.o.",
+      "keyword": [
+        "kreativci",
+        "kreativec",
+        "Karlovarský kraj",
+        "galerie"
+      ],
+      "issued": "2023-10-30T10:08:16.000Z",
+      "modified": "2023-10-30T10:08:33.652Z",
+      "publisher": {
+        "name": "Karlovarská agentura rozvoje podnikání, p.o."
+      },
+      "contactPoint": {
+        "fn": "pavla.brabencova_karp",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": {
+        "coordinates": [
+          [
+            12.1878,
+            49.2275
+          ],
+          [
+            14.475,
+            50.3736
+          ]
+        ],
+        "type": "envelope"
+      },
+      "license": "http://creativecommons.org/licenses/by/4.0",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/maps/5ad57de2f5ea4f4483fd123f48beee47_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Galerie_kreativc%C5%AF_WFL1/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/datasets/5ad57de2f5ea4f4483fd123f48beee47_0.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/datasets/5ad57de2f5ea4f4483fd123f48beee47_0.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/datasets/5ad57de2f5ea4f4483fd123f48beee47_0.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/datasets/5ad57de2f5ea4f4483fd123f48beee47_0.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=9fa2b7a9640540c6b956414fa811595d&sublayer=0",
       "landingPage": "https://datazapad-karp.hub.arcgis.com/maps/9fa2b7a9640540c6b956414fa811595d_0",
       "title": "Inovační infrastruktury KVK",
