@@ -1,13 +1,13 @@
 {
   "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://open.datazapad.cz/57c8b30a84554342869c647db610e4e0.jsonld",
+  "iri": "https://open.datazapad.cz/2ebd7f10b8a04bfbbb15094adde03cdb.jsonld",
   "typ": "Datová sada",
   "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891168",
   "název": {
-    "cs": "Publikační plán"
+    "cs": "Otevřená data"
   },
   "popis": {
-    "cs": "Zajímá Vás, jaké datové sady pro Vás připravujeme k otevření a kdy je v katalogu otevřených dat budete moci najít? Vše naleznete v našem publikačním plánu, který pravidelně aktualizujeme."
+    "cs": "Otevřená data jsou připravena tak, aby byla jednoduše použita programátory pro další zpracování a jejich součástí je i dokumentace."
   },
   "klíčové_slovo": {
     "cs": [
@@ -24,12 +24,12 @@
   "distribuce": [
     {
       "typ": "Distribuce",
-      "iri": "https://datazapad-karp.hub.arcgis.com/pages/57c8b30a84554342869c647db610e4e0",
+      "iri": "https://datazapad-karp.hub.arcgis.com/pages/2ebd7f10b8a04bfbbb15094adde03cdb",
       "název": {
         "cs": "ArcGIS Hub Dataset"
       },
-      "soubor_ke_stažení": "https://datazapad-karp.hub.arcgis.com/pages/57c8b30a84554342869c647db610e4e0",
-      "přístupové_url": "https://datazapad-karp.hub.arcgis.com/pages/57c8b30a84554342869c647db610e4e0",
+      "soubor_ke_stažení": "https://datazapad-karp.hub.arcgis.com/pages/2ebd7f10b8a04bfbbb15094adde03cdb",
+      "přístupové_url": "https://datazapad-karp.hub.arcgis.com/pages/2ebd7f10b8a04bfbbb15094adde03cdb",
       "typ_média": "http://www.iana.org/assignments/media-types/text/html",
       "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
       "podmínky_užití": {
