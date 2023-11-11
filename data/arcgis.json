@@ -149,6 +149,53 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=29027f6b1ea945fc81afe73fb613ca33",
+      "landingPage": "https://datazapad-karp.hub.arcgis.com/pages/29027f6b1ea945fc81afe73fb613ca33",
+      "title": "Další výstupy",
+      "description": "Zde jsou Vám k dispozici analytické výstupy realizované členy týmu Karlovarské agentury rozvoje podnikání. ",
+      "keyword": [
+        ""
+      ],
+      "issued": "2023-11-10T10:16:23.000Z",
+      "modified": "2023-11-10T11:24:07.000Z",
+      "publisher": {
+        "name": "jan.sklepek@karp-kv.cz"
+      },
+      "contactPoint": {
+        "fn": "jan.sklepek@karp-kv.cz",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": {
+        "coordinates": [
+          [
+            12.094,
+            48.5525
+          ],
+          [
+            18.8574,
+            51.0581
+          ]
+        ],
+        "type": "envelope"
+      },
+      "license": "",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/pages/29027f6b1ea945fc81afe73fb613ca33"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=2ebd7f10b8a04bfbbb15094adde03cdb",
       "landingPage": "https://datazapad-karp.hub.arcgis.com/pages/2ebd7f10b8a04bfbbb15094adde03cdb",
       "title": "Otevřená data",
@@ -157,7 +204,7 @@
         ""
       ],
       "issued": "2023-11-01T12:36:09.000Z",
-      "modified": "2023-11-06T11:14:49.000Z",
+      "modified": "2023-11-10T10:10:29.000Z",
       "publisher": {
         "name": "jan.sklepek@karp-kv.cz"
       },
@@ -184,6 +231,53 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=3ba120c44ae64934b9e436fcead3ce2c",
+      "landingPage": "https://datazapad-karp.hub.arcgis.com/pages/3ba120c44ae64934b9e436fcead3ce2c",
+      "title": "Mapa strategických dokumentů",
+      "description": "Mapa zobrazuje přehledně strategické, koncepční a další dokumenty podobného charakteru, jež se vztahují k území Karlovarského kraje.",
+      "keyword": [
+        ""
+      ],
+      "issued": "2023-11-10T09:54:12.000Z",
+      "modified": "2023-11-10T11:25:51.000Z",
+      "publisher": {
+        "name": "jan.sklepek@karp-kv.cz"
+      },
+      "contactPoint": {
+        "fn": "jan.sklepek@karp-kv.cz",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": {
+        "coordinates": [
+          [
+            12.094,
+            48.5525
+          ],
+          [
+            18.8574,
+            51.0581
+          ]
+        ],
+        "type": "envelope"
+      },
+      "license": "",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/pages/3ba120c44ae64934b9e436fcead3ce2c"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=57c8b30a84554342869c647db610e4e0",
       "landingPage": "https://datazapad-karp.hub.arcgis.com/pages/57c8b30a84554342869c647db610e4e0",
       "title": "Publikační plán",
@@ -192,7 +286,7 @@
         ""
       ],
       "issued": "2023-10-27T05:23:47.000Z",
-      "modified": "2023-11-07T13:46:30.000Z",
+      "modified": "2023-11-10T10:14:42.000Z",
       "publisher": {
         "name": "jan.sklepek@karp-kv.cz"
       },
@@ -383,6 +477,41 @@
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
           "accessURL": "https://datazapad-karp.hub.arcgis.com/datasets/5ef744c53344420e9fcd015555da3766_0.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=8dc6c116fcf0438cb1326f9ad91a918e",
+      "landingPage": "https://datazapad-karp.hub.arcgis.com/pages/8dc6c116fcf0438cb1326f9ad91a918e",
+      "title": "Analytické výstupy",
+      "description": "{{description}}",
+      "keyword": [
+        ""
+      ],
+      "issued": "2023-11-10T10:00:26.000Z",
+      "modified": "2023-11-10T13:45:43.000Z",
+      "publisher": {
+        "name": "jan.sklepek@karp-kv.cz"
+      },
+      "contactPoint": {
+        "fn": "jan.sklepek@karp-kv.cz",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent}}",
+      "license": "",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/pages/8dc6c116fcf0438cb1326f9ad91a918e"
         }
       ],
       "theme": [
