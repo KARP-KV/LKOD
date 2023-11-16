@@ -21,7 +21,9 @@
     "https://open.datazapad.cz/073609297206497ea346594382ad0729.jsonld",
     "https://open.datazapad.cz/1e8bbb08d50844d1b456ddd232922ad1.jsonld",
     "https://open.datazapad.cz/29027f6b1ea945fc81afe73fb613ca33.jsonld",
+    "https://open.datazapad.cz/2cfb94de483c4ce5abe503767a7d0bcb.jsonld",
     "https://open.datazapad.cz/2ebd7f10b8a04bfbbb15094adde03cdb.jsonld",
+    "https://open.datazapad.cz/367e694987ab4990a0bcbb98bc400e12.jsonld",
     "https://open.datazapad.cz/3ba120c44ae64934b9e436fcead3ce2c.jsonld",
     "https://open.datazapad.cz/57c8b30a84554342869c647db610e4e0.jsonld",
     "https://open.datazapad.cz/5ad57de2f5ea4f4483fd123f48beee47.jsonld",
@@ -29,7 +31,9 @@
     "https://open.datazapad.cz/8dc6c116fcf0438cb1326f9ad91a918e.jsonld",
     "https://open.datazapad.cz/9fa2b7a9640540c6b956414fa811595d.jsonld",
     "https://open.datazapad.cz/b20504884a5f4ab3acc4fa7bc2611be2.jsonld",
-    "https://open.datazapad.cz/c828346c0ace4e39859674675df03a51.jsonld"
+    "https://open.datazapad.cz/c828346c0ace4e39859674675df03a51.jsonld",
+    "https://open.datazapad.cz/ef261834498e445b93b7303df33d253f.jsonld",
+    "https://open.datazapad.cz/f72b081f8c6d4ae0bb0876aadc8d463b.jsonld"
   ],
   "_datasets": [
     {
@@ -281,6 +285,50 @@
     },
     {
       "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+      "iri": "https://open.datazapad.cz/2cfb94de483c4ce5abe503767a7d0bcb.jsonld",
+      "typ": "Datová sada",
+      "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891168",
+      "název": {
+        "cs": "Regionální inovační mapa"
+      },
+      "popis": {
+        "cs": "Mapa prezentuje interaktivním způsobem data o inovačním prostředí Karlovarského kraje."
+      },
+      "klíčové_slovo": {
+        "cs": [
+          ""
+        ]
+      },
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "prvek_rúian": [
+        "https://linked.cuzk.cz/resource/ruian/vusc/51"
+      ],
+      "distribuce": [
+        {
+          "typ": "Distribuce",
+          "iri": "https://datazapad-karp.hub.arcgis.com/pages/2cfb94de483c4ce5abe503767a7d0bcb",
+          "název": {
+            "cs": "ArcGIS Hub Dataset"
+          },
+          "soubor_ke_stažení": "https://datazapad-karp.hub.arcgis.com/pages/2cfb94de483c4ce5abe503767a7d0bcb",
+          "přístupové_url": "https://datazapad-karp.hub.arcgis.com/pages/2cfb94de483c4ce5abe503767a7d0bcb",
+          "typ_média": "http://www.iana.org/assignments/media-types/text/html",
+          "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
+          "podmínky_užití": {
+            "typ": "Specifikace podmínek užití",
+            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+          }
+        }
+      ]
+    },
+    {
+      "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
       "iri": "https://open.datazapad.cz/2ebd7f10b8a04bfbbb15094adde03cdb.jsonld",
       "typ": "Datová sada",
       "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891168",
@@ -311,6 +359,50 @@
           },
           "soubor_ke_stažení": "https://datazapad-karp.hub.arcgis.com/pages/2ebd7f10b8a04bfbbb15094adde03cdb",
           "přístupové_url": "https://datazapad-karp.hub.arcgis.com/pages/2ebd7f10b8a04bfbbb15094adde03cdb",
+          "typ_média": "http://www.iana.org/assignments/media-types/text/html",
+          "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
+          "podmínky_užití": {
+            "typ": "Specifikace podmínek užití",
+            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+          }
+        }
+      ]
+    },
+    {
+      "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+      "iri": "https://open.datazapad.cz/367e694987ab4990a0bcbb98bc400e12.jsonld",
+      "typ": "Datová sada",
+      "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891168",
+      "název": {
+        "cs": "Kontakty, tým "
+      },
+      "popis": {
+        "cs": "Zjistěte více o týmu který stojí za vytvořením datapoetálu KVK."
+      },
+      "klíčové_slovo": {
+        "cs": [
+          ""
+        ]
+      },
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "prvek_rúian": [
+        "https://linked.cuzk.cz/resource/ruian/vusc/51"
+      ],
+      "distribuce": [
+        {
+          "typ": "Distribuce",
+          "iri": "https://datazapad-karp.hub.arcgis.com/pages/367e694987ab4990a0bcbb98bc400e12",
+          "název": {
+            "cs": "ArcGIS Hub Dataset"
+          },
+          "soubor_ke_stažení": "https://datazapad-karp.hub.arcgis.com/pages/367e694987ab4990a0bcbb98bc400e12",
+          "přístupové_url": "https://datazapad-karp.hub.arcgis.com/pages/367e694987ab4990a0bcbb98bc400e12",
           "typ_média": "http://www.iana.org/assignments/media-types/text/html",
           "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
           "podmínky_užití": {
@@ -1032,6 +1124,94 @@
           },
           "soubor_ke_stažení": "https://datazapad-karp.hub.arcgis.com/pages/c828346c0ace4e39859674675df03a51",
           "přístupové_url": "https://datazapad-karp.hub.arcgis.com/pages/c828346c0ace4e39859674675df03a51",
+          "typ_média": "http://www.iana.org/assignments/media-types/text/html",
+          "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
+          "podmínky_užití": {
+            "typ": "Specifikace podmínek užití",
+            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+          }
+        }
+      ]
+    },
+    {
+      "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+      "iri": "https://open.datazapad.cz/ef261834498e445b93b7303df33d253f.jsonld",
+      "typ": "Datová sada",
+      "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891168",
+      "název": {
+        "cs": "O webu"
+      },
+      "popis": {
+        "cs": "Datazapad.cz jsou reakcí Karlovarského kraje na jeden z celosvětových trendů současné společnosti, a sice práci s daty. "
+      },
+      "klíčové_slovo": {
+        "cs": [
+          ""
+        ]
+      },
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "prvek_rúian": [
+        "https://linked.cuzk.cz/resource/ruian/vusc/51"
+      ],
+      "distribuce": [
+        {
+          "typ": "Distribuce",
+          "iri": "https://datazapad-karp.hub.arcgis.com/pages/ef261834498e445b93b7303df33d253f",
+          "název": {
+            "cs": "ArcGIS Hub Dataset"
+          },
+          "soubor_ke_stažení": "https://datazapad-karp.hub.arcgis.com/pages/ef261834498e445b93b7303df33d253f",
+          "přístupové_url": "https://datazapad-karp.hub.arcgis.com/pages/ef261834498e445b93b7303df33d253f",
+          "typ_média": "http://www.iana.org/assignments/media-types/text/html",
+          "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
+          "podmínky_užití": {
+            "typ": "Specifikace podmínek užití",
+            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+          }
+        }
+      ]
+    },
+    {
+      "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+      "iri": "https://open.datazapad.cz/f72b081f8c6d4ae0bb0876aadc8d463b.jsonld",
+      "typ": "Datová sada",
+      "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891168",
+      "název": {
+        "cs": "Možnosti spolupráce"
+      },
+      "popis": {
+        "cs": "Využijte naší nabídky na spolupráci a kontaktujte nás prostřednictvím jednoduchého formuláře."
+      },
+      "klíčové_slovo": {
+        "cs": [
+          ""
+        ]
+      },
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "prvek_rúian": [
+        "https://linked.cuzk.cz/resource/ruian/vusc/51"
+      ],
+      "distribuce": [
+        {
+          "typ": "Distribuce",
+          "iri": "https://datazapad-karp.hub.arcgis.com/pages/f72b081f8c6d4ae0bb0876aadc8d463b",
+          "název": {
+            "cs": "ArcGIS Hub Dataset"
+          },
+          "soubor_ke_stažení": "https://datazapad-karp.hub.arcgis.com/pages/f72b081f8c6d4ae0bb0876aadc8d463b",
+          "přístupové_url": "https://datazapad-karp.hub.arcgis.com/pages/f72b081f8c6d4ae0bb0876aadc8d463b",
           "typ_média": "http://www.iana.org/assignments/media-types/text/html",
           "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
           "podmínky_užití": {

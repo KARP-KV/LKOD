@@ -196,6 +196,53 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=2cfb94de483c4ce5abe503767a7d0bcb",
+      "landingPage": "https://datazapad-karp.hub.arcgis.com/pages/2cfb94de483c4ce5abe503767a7d0bcb",
+      "title": "Regionální inovační mapa",
+      "description": "Mapa prezentuje interaktivním způsobem data o inovačním prostředí Karlovarského kraje.",
+      "keyword": [
+        ""
+      ],
+      "issued": "2023-11-14T10:31:14.000Z",
+      "modified": "2023-11-15T07:02:17.000Z",
+      "publisher": {
+        "name": "jan.sklepek@karp-kv.cz"
+      },
+      "contactPoint": {
+        "fn": "jan.sklepek@karp-kv.cz",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": {
+        "coordinates": [
+          [
+            12.094,
+            48.5525
+          ],
+          [
+            18.8574,
+            51.0581
+          ]
+        ],
+        "type": "envelope"
+      },
+      "license": "",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/pages/2cfb94de483c4ce5abe503767a7d0bcb"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=2ebd7f10b8a04bfbbb15094adde03cdb",
       "landingPage": "https://datazapad-karp.hub.arcgis.com/pages/2ebd7f10b8a04bfbbb15094adde03cdb",
       "title": "Otevřená data",
@@ -223,6 +270,53 @@
           "format": "Web Page",
           "mediaType": "text/html",
           "accessURL": "https://datazapad-karp.hub.arcgis.com/pages/2ebd7f10b8a04bfbbb15094adde03cdb"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=367e694987ab4990a0bcbb98bc400e12",
+      "landingPage": "https://datazapad-karp.hub.arcgis.com/pages/367e694987ab4990a0bcbb98bc400e12",
+      "title": "Kontakty, tým ",
+      "description": "Zjistěte více o týmu který stojí za vytvořením datapoetálu KVK.",
+      "keyword": [
+        ""
+      ],
+      "issued": "2023-11-15T07:32:21.000Z",
+      "modified": "2023-11-15T07:35:45.000Z",
+      "publisher": {
+        "name": "jan.sklepek@karp-kv.cz"
+      },
+      "contactPoint": {
+        "fn": "jan.sklepek@karp-kv.cz",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": {
+        "coordinates": [
+          [
+            12.094,
+            48.5525
+          ],
+          [
+            18.8574,
+            51.0581
+          ]
+        ],
+        "type": "envelope"
+      },
+      "license": "",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/pages/367e694987ab4990a0bcbb98bc400e12"
         }
       ],
       "theme": [
@@ -286,7 +380,7 @@
         ""
       ],
       "issued": "2023-10-27T05:23:47.000Z",
-      "modified": "2023-11-14T10:51:12.000Z",
+      "modified": "2023-11-15T07:48:37.000Z",
       "publisher": {
         "name": "jan.sklepek@karp-kv.cz"
       },
@@ -724,6 +818,100 @@
           "format": "Web Page",
           "mediaType": "text/html",
           "accessURL": "https://datazapad-karp.hub.arcgis.com/pages/c828346c0ace4e39859674675df03a51"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=ef261834498e445b93b7303df33d253f",
+      "landingPage": "https://datazapad-karp.hub.arcgis.com/pages/ef261834498e445b93b7303df33d253f",
+      "title": "O webu",
+      "description": "Datazapad.cz jsou reakcí Karlovarského kraje na jeden z celosvětových trendů současné společnosti, a sice práci s daty. ",
+      "keyword": [
+        ""
+      ],
+      "issued": "2023-11-15T07:19:31.000Z",
+      "modified": "2023-11-15T07:28:13.000Z",
+      "publisher": {
+        "name": "jan.sklepek@karp-kv.cz"
+      },
+      "contactPoint": {
+        "fn": "jan.sklepek@karp-kv.cz",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": {
+        "coordinates": [
+          [
+            12.094,
+            48.5525
+          ],
+          [
+            18.8574,
+            51.0581
+          ]
+        ],
+        "type": "envelope"
+      },
+      "license": "",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/pages/ef261834498e445b93b7303df33d253f"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=f72b081f8c6d4ae0bb0876aadc8d463b",
+      "landingPage": "https://datazapad-karp.hub.arcgis.com/pages/f72b081f8c6d4ae0bb0876aadc8d463b",
+      "title": "Možnosti spolupráce",
+      "description": "Využijte naší nabídky na spolupráci a kontaktujte nás prostřednictvím jednoduchého formuláře.",
+      "keyword": [
+        ""
+      ],
+      "issued": "2023-11-15T07:37:36.000Z",
+      "modified": "2023-11-15T09:58:29.000Z",
+      "publisher": {
+        "name": "jan.sklepek@karp-kv.cz"
+      },
+      "contactPoint": {
+        "fn": "jan.sklepek@karp-kv.cz",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": {
+        "coordinates": [
+          [
+            12.094,
+            48.5525
+          ],
+          [
+            18.8574,
+            51.0581
+          ]
+        ],
+        "type": "envelope"
+      },
+      "license": "",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/pages/f72b081f8c6d4ae0bb0876aadc8d463b"
         }
       ],
       "theme": [
