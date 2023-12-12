@@ -157,7 +157,7 @@
         ""
       ],
       "issued": "2023-11-10T10:16:23.000Z",
-      "modified": "2023-12-07T14:48:22.000Z",
+      "modified": "2023-12-11T09:51:14.000Z",
       "publisher": {
         "name": "jan.sklepek@karp-kv.cz"
       },
@@ -251,7 +251,7 @@
         ""
       ],
       "issued": "2023-11-01T12:36:09.000Z",
-      "modified": "2023-12-07T14:14:03.000Z",
+      "modified": "2023-12-11T10:24:51.000Z",
       "publisher": {
         "name": "jan.sklepek@karp-kv.cz"
       },
@@ -579,6 +579,53 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=8456fb9ab03846d9bb3801b81f8d0985",
+      "landingPage": "https://datazapad-karp.hub.arcgis.com/pages/8456fb9ab03846d9bb3801b81f8d0985",
+      "title": "Další výstupy - Chytrý region",
+      "description": "Dotazníkové šetření zaměřené na problematiku chytrého regionu v rámci Karlovarského kraje. Osloveny byly všechny obce kraje, do průzkumu se zapojila více než třetina z nich.",
+      "keyword": [
+        ""
+      ],
+      "issued": "2023-12-05T13:05:27.000Z",
+      "modified": "2023-12-11T13:17:23.000Z",
+      "publisher": {
+        "name": "jan.sklepek@karp-kv.cz"
+      },
+      "contactPoint": {
+        "fn": "jan.sklepek@karp-kv.cz",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": {
+        "coordinates": [
+          [
+            12.094,
+            48.5525
+          ],
+          [
+            18.8574,
+            51.0581
+          ]
+        ],
+        "type": "envelope"
+      },
+      "license": "",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/pages/8456fb9ab03846d9bb3801b81f8d0985"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=8dc6c116fcf0438cb1326f9ad91a918e",
       "landingPage": "https://datazapad-karp.hub.arcgis.com/pages/8dc6c116fcf0438cb1326f9ad91a918e",
       "title": "Analytické výstupy",
@@ -587,7 +634,7 @@
         ""
       ],
       "issued": "2023-11-10T10:00:26.000Z",
-      "modified": "2023-12-07T14:49:18.000Z",
+      "modified": "2023-12-11T10:32:52.000Z",
       "publisher": {
         "name": "jan.sklepek@karp-kv.cz"
       },
@@ -620,7 +667,7 @@
       "description": "{{description}}",
       "keyword": [],
       "issued": "2023-10-25T07:04:18.000Z",
-      "modified": "2023-11-23T08:59:12.983Z",
+      "modified": "2023-12-11T12:54:39.363Z",
       "publisher": {
         "name": "jan.sklepek@karp-kv.cz"
       },
@@ -702,7 +749,7 @@
         ""
       ],
       "issued": "2023-11-03T09:24:32.000Z",
-      "modified": "2023-12-07T14:41:01.000Z",
+      "modified": "2023-12-11T12:10:49.000Z",
       "publisher": {
         "name": "jan.sklepek@karp-kv.cz"
       },
