@@ -6,6 +6,53 @@
   "dataset": [
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=152ffdce2d444886ae5a3ff671240f25",
+      "landingPage": "https://datazapad-karp.hub.arcgis.com/pages/152ffdce2d444886ae5a3ff671240f25",
+      "title": "Další výstupy - Analýza chytrých řešení pro města a venkov",
+      "description": "Analýza se věnuje příkladům dobré praxe v různě velkých městech a obcích České republiky a následně realizovaným řešením v Karlovarském kraji, která by se mohla stát základem pro budování chytrého regionu.",
+      "keyword": [
+        ""
+      ],
+      "issued": "2023-12-18T13:27:22.000Z",
+      "modified": "2023-12-18T13:29:17.000Z",
+      "publisher": {
+        "name": "jan.sklepek@karp-kv.cz"
+      },
+      "contactPoint": {
+        "fn": "jan.sklepek@karp-kv.cz",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": {
+        "coordinates": [
+          [
+            12.094,
+            48.5525
+          ],
+          [
+            18.8574,
+            51.0581
+          ]
+        ],
+        "type": "envelope"
+      },
+      "license": "",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/pages/152ffdce2d444886ae5a3ff671240f25"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=1e8bbb08d50844d1b456ddd232922ad1&sublayer=0",
       "landingPage": "https://datazapad-karp.hub.arcgis.com/maps/1e8bbb08d50844d1b456ddd232922ad1_0",
       "title": "Kreativní vouchery 2020 - 2022",
@@ -436,6 +483,53 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=5dba3a20c86f4183b0ef9e8aa40f996c",
+      "landingPage": "https://datazapad-karp.hub.arcgis.com/pages/5dba3a20c86f4183b0ef9e8aa40f996c",
+      "title": "Další výstupy - Analýza přínosů lázeňství pro Karlovarský",
+      "description": "Cílem analýzy bylo identifikovat a ohodnotit konkrétní přínosy, které lázeňství Karlovarskému kraji přináší, a odůvodnit tak jeho význam pro kraj.",
+      "keyword": [
+        ""
+      ],
+      "issued": "2023-12-18T13:10:58.000Z",
+      "modified": "2023-12-18T13:13:42.000Z",
+      "publisher": {
+        "name": "jan.sklepek@karp-kv.cz"
+      },
+      "contactPoint": {
+        "fn": "jan.sklepek@karp-kv.cz",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": {
+        "coordinates": [
+          [
+            12.094,
+            48.5525
+          ],
+          [
+            18.8574,
+            51.0581
+          ]
+        ],
+        "type": "envelope"
+      },
+      "license": "",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/pages/5dba3a20c86f4183b0ef9e8aa40f996c"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=5ef744c53344420e9fcd015555da3766&sublayer=0",
       "landingPage": "https://datazapad-karp.hub.arcgis.com/maps/5ef744c53344420e9fcd015555da3766_0",
       "title": "Inovační vouchery 2012 - 2022",
@@ -732,6 +826,241 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=c97598555f314fbba01c650ed469d963",
+      "landingPage": "https://datazapad-karp.hub.arcgis.com/pages/c97598555f314fbba01c650ed469d963",
+      "title": "Další výstupy - Lázně očima hostů",
+      "description": "Socioekonomický průzkum mezi tuzemskými lázeňskými hosty a potenciálními klienty lázní, kterého se účastnilo přes 3000 respondentů. Výsledky byly zpracovány jednak do podoby 14 odborných článků doplněných o interaktivní vizuály a dále 2 souhrnných zpráv.",
+      "keyword": [
+        ""
+      ],
+      "issued": "2023-12-18T13:23:29.000Z",
+      "modified": "2023-12-18T13:25:03.000Z",
+      "publisher": {
+        "name": "jan.sklepek@karp-kv.cz"
+      },
+      "contactPoint": {
+        "fn": "jan.sklepek@karp-kv.cz",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": {
+        "coordinates": [
+          [
+            12.094,
+            48.5525
+          ],
+          [
+            18.8574,
+            51.0581
+          ]
+        ],
+        "type": "envelope"
+      },
+      "license": "",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/pages/c97598555f314fbba01c650ed469d963"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=d111df7a5bac47a0a53543d93be2ffc3",
+      "landingPage": "https://datazapad-karp.hub.arcgis.com/pages/d111df7a5bac47a0a53543d93be2ffc3",
+      "title": "Další výstupy - Image analýza Karlovarského kraje",
+      "description": "Cílem analýzy bylo zmapovat image Karlovarského kraje, získat návrhy na její zlepšení a na směry k pozitivní propagaci kraje.",
+      "keyword": [
+        ""
+      ],
+      "issued": "2023-12-18T13:25:40.000Z",
+      "modified": "2023-12-18T13:27:10.000Z",
+      "publisher": {
+        "name": "jan.sklepek@karp-kv.cz"
+      },
+      "contactPoint": {
+        "fn": "jan.sklepek@karp-kv.cz",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": {
+        "coordinates": [
+          [
+            12.094,
+            48.5525
+          ],
+          [
+            18.8574,
+            51.0581
+          ]
+        ],
+        "type": "envelope"
+      },
+      "license": "",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/pages/d111df7a5bac47a0a53543d93be2ffc3"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=e2543f73bd914dbaa544d095c4038ae6",
+      "landingPage": "https://datazapad-karp.hub.arcgis.com/pages/e2543f73bd914dbaa544d095c4038ae6",
+      "title": "Další výstupy - Analýza změn inovačního prostředí Karlovarského kraje",
+      "description": "Analýza hodnotí změny, které nastaly v oblasti výzkumu, vývoje a inovací ve firmách Karlovarského kraje mezi lety 2017 a 2021. Šetření se uskutečnilo ve 20 podnicích.",
+      "keyword": [
+        ""
+      ],
+      "issued": "2023-12-18T13:18:26.000Z",
+      "modified": "2023-12-18T13:21:04.000Z",
+      "publisher": {
+        "name": "jan.sklepek@karp-kv.cz"
+      },
+      "contactPoint": {
+        "fn": "jan.sklepek@karp-kv.cz",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": {
+        "coordinates": [
+          [
+            12.094,
+            48.5525
+          ],
+          [
+            18.8574,
+            51.0581
+          ]
+        ],
+        "type": "envelope"
+      },
+      "license": "",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/pages/e2543f73bd914dbaa544d095c4038ae6"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=e3f37251185d477da4583f223dd545e8",
+      "landingPage": "https://datazapad-karp.hub.arcgis.com/pages/e3f37251185d477da4583f223dd545e8",
+      "title": "Další výstupy - Analýza překážek inovačního prostředí Karlovarského kraje ",
+      "description": "Cílem analýzy bylo určit hlavní problémy a potřeby bránící rozvoji inovačního ekosystému Karlovarského kraje.",
+      "keyword": [
+        ""
+      ],
+      "issued": "2023-12-18T13:29:28.000Z",
+      "modified": "2023-12-18T13:31:25.000Z",
+      "publisher": {
+        "name": "jan.sklepek@karp-kv.cz"
+      },
+      "contactPoint": {
+        "fn": "jan.sklepek@karp-kv.cz",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": {
+        "coordinates": [
+          [
+            12.094,
+            48.5525
+          ],
+          [
+            18.8574,
+            51.0581
+          ]
+        ],
+        "type": "envelope"
+      },
+      "license": "",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/pages/e3f37251185d477da4583f223dd545e8"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=ee1612c042fb4cb1bb8d3527c69da2c1",
+      "landingPage": "https://datazapad-karp.hub.arcgis.com/pages/ee1612c042fb4cb1bb8d3527c69da2c1",
+      "title": "Další výstupy - Lázeňská zařízení Karlovarského kraje v číslech",
+      "description": "Série 6 odborných článků mapujících lázeňská zařízení Karlovarského kraje z hlediska vlastnických struktur, jejich provozovatelů či vztahů se zdravotními pojišťovnami.",
+      "keyword": [
+        ""
+      ],
+      "issued": "2023-12-18T13:21:17.000Z",
+      "modified": "2023-12-18T13:23:14.000Z",
+      "publisher": {
+        "name": "jan.sklepek@karp-kv.cz"
+      },
+      "contactPoint": {
+        "fn": "jan.sklepek@karp-kv.cz",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": {
+        "coordinates": [
+          [
+            12.094,
+            48.5525
+          ],
+          [
+            18.8574,
+            51.0581
+          ]
+        ],
+        "type": "envelope"
+      },
+      "license": "",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/pages/ee1612c042fb4cb1bb8d3527c69da2c1"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=ef261834498e445b93b7303df33d253f",
       "landingPage": "https://datazapad-karp.hub.arcgis.com/pages/ef261834498e445b93b7303df33d253f",
       "title": "O webu",
@@ -903,6 +1232,53 @@
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
           "accessURL": "https://datazapad-karp.hub.arcgis.com/datasets/f98f8248cdf140ad84649976f2d6f499_0.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=fb3a1b04d2fd428c802852e7a3b97224",
+      "landingPage": "https://datazapad-karp.hub.arcgis.com/pages/fb3a1b04d2fd428c802852e7a3b97224",
+      "title": "Další výstupy - Lázeňský cestovní ruch v ČR",
+      "description": "Interaktivní vizuál prezentující data o lázeňském cestovním ruchu, jejichž zdrojem je Český statistický úřad.",
+      "keyword": [
+        ""
+      ],
+      "issued": "2023-12-18T13:13:56.000Z",
+      "modified": "2023-12-18T13:17:20.000Z",
+      "publisher": {
+        "name": "jan.sklepek@karp-kv.cz"
+      },
+      "contactPoint": {
+        "fn": "jan.sklepek@karp-kv.cz",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": {
+        "coordinates": [
+          [
+            12.094,
+            48.5525
+          ],
+          [
+            18.8574,
+            51.0581
+          ]
+        ],
+        "type": "envelope"
+      },
+      "license": "",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/pages/fb3a1b04d2fd428c802852e7a3b97224"
         }
       ],
       "theme": [
