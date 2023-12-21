@@ -4,14 +4,16 @@
   "typ": "Datová sada",
   "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891168",
   "název": {
-    "cs": "Další výstupy - Analýza přínosů lázeňství pro Karlovarský"
+    "cs": "Další výstupy - Analýza přínosů lázeňství pro Karlovarský kraj"
   },
   "popis": {
     "cs": "Cílem analýzy bylo identifikovat a ohodnotit konkrétní přínosy, které lázeňství Karlovarskému kraji přináší, a odůvodnit tak jeho význam pro kraj."
   },
   "klíčové_slovo": {
     "cs": [
-      ""
+      "lázeňství",
+      "benefit",
+      "cestovní ruch"
     ]
   },
   "téma": [

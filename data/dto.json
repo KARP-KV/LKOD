@@ -29,6 +29,7 @@
     "https://open.datazapad.cz/5ad57de2f5ea4f4483fd123f48beee47.jsonld",
     "https://open.datazapad.cz/5dba3a20c86f4183b0ef9e8aa40f996c.jsonld",
     "https://open.datazapad.cz/5ef744c53344420e9fcd015555da3766.jsonld",
+    "https://open.datazapad.cz/7b7bcebede7844d1a15794f761590b43.jsonld",
     "https://open.datazapad.cz/8456fb9ab03846d9bb3801b81f8d0985.jsonld",
     "https://open.datazapad.cz/8dc6c116fcf0438cb1326f9ad91a918e.jsonld",
     "https://open.datazapad.cz/b20504884a5f4ab3acc4fa7bc2611be2.jsonld",
@@ -57,7 +58,9 @@
       },
       "klíčové_slovo": {
         "cs": [
-          ""
+          "chytré řešení",
+          "smart",
+          "dobrá praxe"
         ]
       },
       "téma": [
@@ -284,7 +287,9 @@
       },
       "klíčové_slovo": {
         "cs": [
-          ""
+          "inovační mapa",
+          "inovační prostředí",
+          "inovační ekosystém"
         ]
       },
       "téma": [
@@ -328,7 +333,9 @@
       },
       "klíčové_slovo": {
         "cs": [
-          ""
+          "otevřená data",
+          "katalog otevřených dat",
+          "publikační plán"
         ]
       },
       "téma": [
@@ -416,7 +423,9 @@
       },
       "klíčové_slovo": {
         "cs": [
-          ""
+          "strategický dokument",
+          "koncepce",
+          "studie"
         ]
       },
       "téma": [
@@ -460,7 +469,9 @@
       },
       "klíčové_slovo": {
         "cs": [
-          ""
+          "publikační plán",
+          "otevřená data",
+          "katalog otevřených dat"
         ]
       },
       "téma": [
@@ -634,14 +645,16 @@
       "typ": "Datová sada",
       "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891168",
       "název": {
-        "cs": "Další výstupy - Analýza přínosů lázeňství pro Karlovarský"
+        "cs": "Další výstupy - Analýza přínosů lázeňství pro Karlovarský kraj"
       },
       "popis": {
         "cs": "Cílem analýzy bylo identifikovat a ohodnotit konkrétní přínosy, které lázeňství Karlovarskému kraji přináší, a odůvodnit tak jeho význam pro kraj."
       },
       "klíčové_slovo": {
         "cs": [
-          ""
+          "lázeňství",
+          "benefit",
+          "cestovní ruch"
         ]
       },
       "téma": [
@@ -813,6 +826,52 @@
     },
     {
       "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+      "iri": "https://open.datazapad.cz/7b7bcebede7844d1a15794f761590b43.jsonld",
+      "typ": "Datová sada",
+      "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891168",
+      "název": {
+        "cs": "Další výstupy - Chytré mobilní aplikace"
+      },
+      "popis": {
+        "cs": "Přehled chytrých aplikací a jejich vývojářů, který umožňuje vedením obcí nejen Karlovarského kraje zorientovat se v nabídce aplikací dostupných na českém trhu. "
+      },
+      "klíčové_slovo": {
+        "cs": [
+          "mobilní aplikace",
+          "chytré řešení",
+          "smart"
+        ]
+      },
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "prvek_rúian": [
+        "https://linked.cuzk.cz/resource/ruian/vusc/51"
+      ],
+      "distribuce": [
+        {
+          "typ": "Distribuce",
+          "iri": "https://datazapad-karp.hub.arcgis.com/pages/7b7bcebede7844d1a15794f761590b43",
+          "název": {
+            "cs": "ArcGIS Hub Dataset"
+          },
+          "soubor_ke_stažení": "https://datazapad-karp.hub.arcgis.com/pages/7b7bcebede7844d1a15794f761590b43",
+          "přístupové_url": "https://datazapad-karp.hub.arcgis.com/pages/7b7bcebede7844d1a15794f761590b43",
+          "typ_média": "http://www.iana.org/assignments/media-types/text/html",
+          "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
+          "podmínky_užití": {
+            "typ": "Specifikace podmínek užití",
+            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+          }
+        }
+      ]
+    },
+    {
+      "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
       "iri": "https://open.datazapad.cz/8456fb9ab03846d9bb3801b81f8d0985.jsonld",
       "typ": "Datová sada",
       "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891168",
@@ -824,7 +883,9 @@
       },
       "klíčové_slovo": {
         "cs": [
-          ""
+          "chytrý region",
+          "smart",
+          "bariéra"
         ]
       },
       "téma": [
@@ -1044,7 +1105,9 @@
       },
       "klíčové_slovo": {
         "cs": [
-          ""
+          "datový zdroj",
+          "webová stránka",
+          "data"
         ]
       },
       "téma": [
@@ -1088,7 +1151,9 @@
       },
       "klíčové_slovo": {
         "cs": [
-          ""
+          "lázně",
+          "lázeňství",
+          "cestovní ruch"
         ]
       },
       "téma": [
@@ -1132,7 +1197,9 @@
       },
       "klíčové_slovo": {
         "cs": [
-          ""
+          "image",
+          "propagace",
+          "marketing"
         ]
       },
       "téma": [
@@ -1176,7 +1243,9 @@
       },
       "klíčové_slovo": {
         "cs": [
-          ""
+          "inovační prostředí",
+          "výzkum a vývoj",
+          "inovace"
         ]
       },
       "téma": [
@@ -1220,7 +1289,9 @@
       },
       "klíčové_slovo": {
         "cs": [
-          ""
+          "inovační prostředí",
+          "bariéra",
+          "RIS3"
         ]
       },
       "téma": [
@@ -1264,7 +1335,9 @@
       },
       "klíčové_slovo": {
         "cs": [
-          ""
+          "lázeňské zařízení",
+          "lázeňství",
+          "cestovní ruch"
         ]
       },
       "téma": [
@@ -1533,7 +1606,9 @@
       },
       "klíčové_slovo": {
         "cs": [
-          ""
+          "cestovní ruch",
+          "lázně",
+          "lázeňství"
         ]
       },
       "téma": [
