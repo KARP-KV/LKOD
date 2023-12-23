@@ -688,7 +688,7 @@
         "bariéra"
       ],
       "issued": "2023-12-05T13:05:27.000Z",
-      "modified": "2023-12-19T10:13:37.000Z",
+      "modified": "2023-12-22T08:32:00.000Z",
       "publisher": {
         "name": "jan.sklepek@karp-kv.cz"
       },
@@ -754,6 +754,55 @@
           "format": "Web Page",
           "mediaType": "text/html",
           "accessURL": "https://datazapad-karp.hub.arcgis.com/pages/8dc6c116fcf0438cb1326f9ad91a918e"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=a11d303c29cf49c881a3511b3f66746a",
+      "landingPage": "https://datazapad-karp.hub.arcgis.com/pages/a11d303c29cf49c881a3511b3f66746a",
+      "title": "Style Guide",
+      "description": "",
+      "keyword": [
+        "chytrý region",
+        "smart",
+        "bariéra"
+      ],
+      "issued": "2023-12-22T08:32:49.000Z",
+      "modified": "2023-12-22T10:08:11.000Z",
+      "publisher": {
+        "name": "jan.sklepek@karp-kv.cz"
+      },
+      "contactPoint": {
+        "fn": "jan.sklepek@karp-kv.cz",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": {
+        "coordinates": [
+          [
+            12.094,
+            48.5525
+          ],
+          [
+            18.8574,
+            51.0581
+          ]
+        ],
+        "type": "envelope"
+      },
+      "license": "",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/pages/a11d303c29cf49c881a3511b3f66746a"
         }
       ],
       "theme": [
