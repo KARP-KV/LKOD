@@ -199,7 +199,7 @@
         "inovační ekosystém"
       ],
       "issued": "2023-11-14T10:31:14.000Z",
-      "modified": "2024-01-08T13:04:08.000Z",
+      "modified": "2024-01-09T12:54:56.000Z",
       "publisher": {
         "name": "jan.sklepek@karp-kv.cz"
       },
@@ -688,7 +688,7 @@
         "bariéra"
       ],
       "issued": "2023-12-05T13:05:27.000Z",
-      "modified": "2024-01-08T08:55:21.000Z",
+      "modified": "2024-01-09T14:43:06.000Z",
       "publisher": {
         "name": "jan.sklepek@karp-kv.cz"
       },
@@ -772,7 +772,7 @@
         "bariéra"
       ],
       "issued": "2023-12-22T08:32:49.000Z",
-      "modified": "2024-01-08T08:48:23.000Z",
+      "modified": "2024-01-09T12:42:05.000Z",
       "publisher": {
         "name": "jan.sklepek@karp-kv.cz"
       },
@@ -817,7 +817,7 @@
       "description": "{{description}}",
       "keyword": [],
       "issued": "2023-10-25T07:04:18.000Z",
-      "modified": "2023-12-14T07:44:34.361Z",
+      "modified": "2023-12-14T07:44:33.438Z",
       "publisher": {
         "name": "jan.sklepek@karp-kv.cz"
       },
@@ -883,6 +883,55 @@
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
           "accessURL": "https://datazapad-karp.hub.arcgis.com/datasets/b20504884a5f4ab3acc4fa7bc2611be2_0.kml?where=1=1&outSR=%7B%22latestWkid%22%3A4326%2C%22wkid%22%3A4326%7D"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=bbf35a125b32488aa53eb9844aebf939",
+      "landingPage": "https://datazapad-karp.hub.arcgis.com/pages/bbf35a125b32488aa53eb9844aebf939",
+      "title": "Inovační ekosystém Karlovarského kraje",
+      "description": "",
+      "keyword": [
+        "chytrý region",
+        "smart",
+        "bariéra"
+      ],
+      "issued": "2024-01-09T12:56:29.000Z",
+      "modified": "2024-01-09T14:46:17.000Z",
+      "publisher": {
+        "name": "jan.sklepek@karp-kv.cz"
+      },
+      "contactPoint": {
+        "fn": "jan.sklepek@karp-kv.cz",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": {
+        "coordinates": [
+          [
+            12.094,
+            48.5525
+          ],
+          [
+            18.8574,
+            51.0581
+          ]
+        ],
+        "type": "envelope"
+      },
+      "license": "",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/pages/bbf35a125b32488aa53eb9844aebf939"
         }
       ],
       "theme": [
