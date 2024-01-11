@@ -6,6 +6,55 @@
   "dataset": [
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=13f64503ee9b451bb29d6201d749bbab",
+      "landingPage": "https://datazapad-karp.hub.arcgis.com/pages/13f64503ee9b451bb29d6201d749bbab",
+      "title": "RIM: Mapování inovačního prostředí",
+      "description": "",
+      "keyword": [
+        "chytrý region",
+        "smart",
+        "bariéra"
+      ],
+      "issued": "2024-01-10T13:49:00.000Z",
+      "modified": "2024-01-10T14:12:31.000Z",
+      "publisher": {
+        "name": "jan.sklepek@karp-kv.cz"
+      },
+      "contactPoint": {
+        "fn": "jan.sklepek@karp-kv.cz",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": {
+        "coordinates": [
+          [
+            12.094,
+            48.5525
+          ],
+          [
+            18.8574,
+            51.0581
+          ]
+        ],
+        "type": "envelope"
+      },
+      "license": "",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/pages/13f64503ee9b451bb29d6201d749bbab"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=152ffdce2d444886ae5a3ff671240f25",
       "landingPage": "https://datazapad-karp.hub.arcgis.com/pages/152ffdce2d444886ae5a3ff671240f25",
       "title": "Další výstupy - Analýza chytrých řešení pro města a venkov",
@@ -191,7 +240,7 @@
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=2cfb94de483c4ce5abe503767a7d0bcb",
       "landingPage": "https://datazapad-karp.hub.arcgis.com/pages/2cfb94de483c4ce5abe503767a7d0bcb",
-      "title": "Regionální inovační mapa",
+      "title": "RIM: Regionální inovační mapa",
       "description": "Mapa prezentuje interaktivním způsobem data o inovačním prostředí Karlovarského kraje.",
       "keyword": [
         "inovační mapa",
@@ -199,7 +248,7 @@
         "inovační ekosystém"
       ],
       "issued": "2023-11-14T10:31:14.000Z",
-      "modified": "2024-01-09T12:54:56.000Z",
+      "modified": "2024-01-10T13:04:56.000Z",
       "publisher": {
         "name": "jan.sklepek@karp-kv.cz"
       },
@@ -363,6 +412,55 @@
           "format": "Web Page",
           "mediaType": "text/html",
           "accessURL": "https://datazapad-karp.hub.arcgis.com/pages/3ba120c44ae64934b9e436fcead3ce2c"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=48e15ef0e799493a9ee34ac10f9cb484",
+      "landingPage": "https://datazapad-karp.hub.arcgis.com/pages/48e15ef0e799493a9ee34ac10f9cb484",
+      "title": "RIM: Srovnání inovačních infrastruktur Karlovarského kraje s ČR",
+      "description": "",
+      "keyword": [
+        "chytrý region",
+        "smart",
+        "bariéra"
+      ],
+      "issued": "2024-01-10T12:09:11.000Z",
+      "modified": "2024-01-10T13:21:49.000Z",
+      "publisher": {
+        "name": "jan.sklepek@karp-kv.cz"
+      },
+      "contactPoint": {
+        "fn": "jan.sklepek@karp-kv.cz",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": {
+        "coordinates": [
+          [
+            12.094,
+            48.5525
+          ],
+          [
+            18.8574,
+            51.0581
+          ]
+        ],
+        "type": "envelope"
+      },
+      "license": "",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/pages/48e15ef0e799493a9ee34ac10f9cb484"
         }
       ],
       "theme": [
@@ -678,6 +776,55 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=80601da30e9240f894bd39dcf3a494d1",
+      "landingPage": "https://datazapad-karp.hub.arcgis.com/pages/80601da30e9240f894bd39dcf3a494d1",
+      "title": "RIM: Soukromý sektor",
+      "description": "",
+      "keyword": [
+        "chytrý region",
+        "smart",
+        "bariéra"
+      ],
+      "issued": "2024-01-10T13:33:31.000Z",
+      "modified": "2024-01-10T13:37:29.000Z",
+      "publisher": {
+        "name": "jan.sklepek@karp-kv.cz"
+      },
+      "contactPoint": {
+        "fn": "jan.sklepek@karp-kv.cz",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": {
+        "coordinates": [
+          [
+            12.094,
+            48.5525
+          ],
+          [
+            18.8574,
+            51.0581
+          ]
+        ],
+        "type": "envelope"
+      },
+      "license": "",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/pages/80601da30e9240f894bd39dcf3a494d1"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=8456fb9ab03846d9bb3801b81f8d0985",
       "landingPage": "https://datazapad-karp.hub.arcgis.com/pages/8456fb9ab03846d9bb3801b81f8d0985",
       "title": "Další výstupy - Chytrý region",
@@ -688,7 +835,7 @@
         "bariéra"
       ],
       "issued": "2023-12-05T13:05:27.000Z",
-      "modified": "2024-01-09T14:43:06.000Z",
+      "modified": "2024-01-10T11:41:58.000Z",
       "publisher": {
         "name": "jan.sklepek@karp-kv.cz"
       },
@@ -754,6 +901,55 @@
           "format": "Web Page",
           "mediaType": "text/html",
           "accessURL": "https://datazapad-karp.hub.arcgis.com/pages/8dc6c116fcf0438cb1326f9ad91a918e"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=9b04303694c24106ba14cd55cb6613d1",
+      "landingPage": "https://datazapad-karp.hub.arcgis.com/pages/9b04303694c24106ba14cd55cb6613d1",
+      "title": "RIM: Realizace aktivit Regionální inovační strategie Karlovarského kraje",
+      "description": "",
+      "keyword": [
+        "chytrý region",
+        "smart",
+        "bariéra"
+      ],
+      "issued": "2024-01-10T12:29:27.000Z",
+      "modified": "2024-01-10T13:31:37.000Z",
+      "publisher": {
+        "name": "jan.sklepek@karp-kv.cz"
+      },
+      "contactPoint": {
+        "fn": "jan.sklepek@karp-kv.cz",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": {
+        "coordinates": [
+          [
+            12.094,
+            48.5525
+          ],
+          [
+            18.8574,
+            51.0581
+          ]
+        ],
+        "type": "envelope"
+      },
+      "license": "",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/pages/9b04303694c24106ba14cd55cb6613d1"
         }
       ],
       "theme": [
@@ -893,7 +1089,7 @@
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=bbf35a125b32488aa53eb9844aebf939",
       "landingPage": "https://datazapad-karp.hub.arcgis.com/pages/bbf35a125b32488aa53eb9844aebf939",
-      "title": "Inovační ekosystém Karlovarského kraje",
+      "title": "RIM: Inovační ekosystém Karlovarského kraje",
       "description": "",
       "keyword": [
         "chytrý region",
@@ -901,7 +1097,7 @@
         "bariéra"
       ],
       "issued": "2024-01-09T12:56:29.000Z",
-      "modified": "2024-01-09T14:46:17.000Z",
+      "modified": "2024-01-10T13:05:32.000Z",
       "publisher": {
         "name": "jan.sklepek@karp-kv.cz"
       },
@@ -1405,6 +1601,55 @@
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
           "accessURL": "https://datazapad-karp.hub.arcgis.com/datasets/f98f8248cdf140ad84649976f2d6f499_0.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=fa497cba7bfd446b905844729bbff1ae",
+      "landingPage": "https://datazapad-karp.hub.arcgis.com/pages/fa497cba7bfd446b905844729bbff1ae",
+      "title": "RIM: Firemní prostředí Karlovarského kraje",
+      "description": "",
+      "keyword": [
+        "chytrý region",
+        "smart",
+        "bariéra"
+      ],
+      "issued": "2024-01-10T13:39:32.000Z",
+      "modified": "2024-01-10T13:47:37.000Z",
+      "publisher": {
+        "name": "jan.sklepek@karp-kv.cz"
+      },
+      "contactPoint": {
+        "fn": "jan.sklepek@karp-kv.cz",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": {
+        "coordinates": [
+          [
+            12.094,
+            48.5525
+          ],
+          [
+            18.8574,
+            51.0581
+          ]
+        ],
+        "type": "envelope"
+      },
+      "license": "",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/pages/fa497cba7bfd446b905844729bbff1ae"
         }
       ],
       "theme": [
