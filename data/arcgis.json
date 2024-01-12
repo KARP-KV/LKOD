@@ -191,6 +191,55 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=236eddf44093415fb4bf359514c02109",
+      "landingPage": "https://datazapad-karp.hub.arcgis.com/pages/236eddf44093415fb4bf359514c02109",
+      "title": "RIM: Veřejný sektor",
+      "description": "",
+      "keyword": [
+        "chytrý region",
+        "smart",
+        "bariéra"
+      ],
+      "issued": "2024-01-11T09:23:31.000Z",
+      "modified": "2024-01-11T11:14:26.000Z",
+      "publisher": {
+        "name": "jan.sklepek@karp-kv.cz"
+      },
+      "contactPoint": {
+        "fn": "jan.sklepek@karp-kv.cz",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": {
+        "coordinates": [
+          [
+            12.094,
+            48.5525
+          ],
+          [
+            18.8574,
+            51.0581
+          ]
+        ],
+        "type": "envelope"
+      },
+      "license": "",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/pages/236eddf44093415fb4bf359514c02109"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=29027f6b1ea945fc81afe73fb613ca33",
       "landingPage": "https://datazapad-karp.hub.arcgis.com/pages/29027f6b1ea945fc81afe73fb613ca33",
       "title": "Další výstupy",
@@ -363,6 +412,55 @@
           "format": "Web Page",
           "mediaType": "text/html",
           "accessURL": "https://datazapad-karp.hub.arcgis.com/pages/367e694987ab4990a0bcbb98bc400e12"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=3a1e42001680442f810de1c5f6d872e2",
+      "landingPage": "https://datazapad-karp.hub.arcgis.com/pages/3a1e42001680442f810de1c5f6d872e2",
+      "title": "RIM: Počet studentů na středních školách",
+      "description": "",
+      "keyword": [
+        "chytrý region",
+        "smart",
+        "bariéra"
+      ],
+      "issued": "2024-01-11T13:23:09.000Z",
+      "modified": "2024-01-11T13:30:44.000Z",
+      "publisher": {
+        "name": "jan.sklepek@karp-kv.cz"
+      },
+      "contactPoint": {
+        "fn": "jan.sklepek@karp-kv.cz",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": {
+        "coordinates": [
+          [
+            12.094,
+            48.5525
+          ],
+          [
+            18.8574,
+            51.0581
+          ]
+        ],
+        "type": "envelope"
+      },
+      "license": "",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/pages/3a1e42001680442f810de1c5f6d872e2"
         }
       ],
       "theme": [
@@ -1087,6 +1185,55 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=bad1ca41fefe4ac6914e436cecc54d1f",
+      "landingPage": "https://datazapad-karp.hub.arcgis.com/pages/bad1ca41fefe4ac6914e436cecc54d1f",
+      "title": "RIM: Počet studentů na pobočkách VŠ",
+      "description": "",
+      "keyword": [
+        "chytrý region",
+        "smart",
+        "bariéra"
+      ],
+      "issued": "2024-01-11T13:33:09.000Z",
+      "modified": "2024-01-11T14:11:40.000Z",
+      "publisher": {
+        "name": "jan.sklepek@karp-kv.cz"
+      },
+      "contactPoint": {
+        "fn": "jan.sklepek@karp-kv.cz",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": {
+        "coordinates": [
+          [
+            12.094,
+            48.5525
+          ],
+          [
+            18.8574,
+            51.0581
+          ]
+        ],
+        "type": "envelope"
+      },
+      "license": "",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/pages/bad1ca41fefe4ac6914e436cecc54d1f"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=bbf35a125b32488aa53eb9844aebf939",
       "landingPage": "https://datazapad-karp.hub.arcgis.com/pages/bbf35a125b32488aa53eb9844aebf939",
       "title": "RIM: Inovační ekosystém Karlovarského kraje",
@@ -1324,6 +1471,55 @@
           "format": "Web Page",
           "mediaType": "text/html",
           "accessURL": "https://datazapad-karp.hub.arcgis.com/pages/e2543f73bd914dbaa544d095c4038ae6"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=e375600c148d474a80a0812e72c519f8",
+      "landingPage": "https://datazapad-karp.hub.arcgis.com/pages/e375600c148d474a80a0812e72c519f8",
+      "title": "RIM: Mapa chytrých řešení obcí a měst",
+      "description": "",
+      "keyword": [
+        "chytrý region",
+        "smart",
+        "bariéra"
+      ],
+      "issued": "2024-01-11T12:42:07.000Z",
+      "modified": "2024-01-11T13:00:20.000Z",
+      "publisher": {
+        "name": "jan.sklepek@karp-kv.cz"
+      },
+      "contactPoint": {
+        "fn": "jan.sklepek@karp-kv.cz",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": {
+        "coordinates": [
+          [
+            12.094,
+            48.5525
+          ],
+          [
+            18.8574,
+            51.0581
+          ]
+        ],
+        "type": "envelope"
+      },
+      "license": "",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/pages/e375600c148d474a80a0812e72c519f8"
         }
       ],
       "theme": [
@@ -1650,6 +1846,55 @@
           "format": "Web Page",
           "mediaType": "text/html",
           "accessURL": "https://datazapad-karp.hub.arcgis.com/pages/fa497cba7bfd446b905844729bbff1ae"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=fb093dc56a8a43a5ad703baba9335fe1",
+      "landingPage": "https://datazapad-karp.hub.arcgis.com/pages/fb093dc56a8a43a5ad703baba9335fe1",
+      "title": "RIM: Mapa škol Karlovarského kraje",
+      "description": "",
+      "keyword": [
+        "chytrý region",
+        "smart",
+        "bariéra"
+      ],
+      "issued": "2024-01-11T13:02:08.000Z",
+      "modified": "2024-01-11T13:21:28.000Z",
+      "publisher": {
+        "name": "jan.sklepek@karp-kv.cz"
+      },
+      "contactPoint": {
+        "fn": "jan.sklepek@karp-kv.cz",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": {
+        "coordinates": [
+          [
+            12.094,
+            48.5525
+          ],
+          [
+            18.8574,
+            51.0581
+          ]
+        ],
+        "type": "envelope"
+      },
+      "license": "",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/pages/fb093dc56a8a43a5ad703baba9335fe1"
         }
       ],
       "theme": [
