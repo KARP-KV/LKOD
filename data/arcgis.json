@@ -6,6 +6,96 @@
   "dataset": [
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=11796bcb67ee47bd8d38c0ec271b2787&sublayer=0",
+      "landingPage": "https://datazapad-karp.hub.arcgis.com/maps/11796bcb67ee47bd8d38c0ec271b2787_0",
+      "title": "Seznam škol a školských zařízení v KVK (bez VŠ)",
+      "description": "<div><font face='Avenir Next W01, Avenir Next W00, Avenir Next, Avenir, Helvetica Neue, sans-serif'><span style='font-size:16px;'>Seznam školských zařízení a škol od stupně mateřských škol do stupně vyšších odborných škol v Karlovarském kraji včetně kontaktů na zařízení.  Seznam neobsahuje vysoké školy.</span></font></div>",
+      "keyword": [
+        "školská zařízení",
+        "školy",
+        "Karlovarský kraj",
+        "mateřská škola",
+        "základní škola",
+        "střední škola",
+        "základní umělecká škola",
+        "vyšší odborná škola",
+        "dům dětí a mládeže"
+      ],
+      "issued": "2024-01-16T10:50:25.000Z",
+      "modified": "2024-01-16T10:50:35.408Z",
+      "publisher": {
+        "name": "Karlovarská agentura rozvoje podnikání, p.o."
+      },
+      "contactPoint": {
+        "fn": "pavla.brabencova_karp",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": {
+        "coordinates": [
+          [
+            12.1723,
+            49.9188
+          ],
+          [
+            13.2552,
+            50.4289
+          ]
+        ],
+        "type": "envelope"
+      },
+      "license": "CCO 1.0",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/maps/11796bcb67ee47bd8d38c0ec271b2787_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Seznam_%C5%A1kol_a_%C5%A1kolsk%C3%BDch_za%C5%99%C3%ADzen%C3%AD_v_KVK__bez_V%C5%A0__WFL1/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/datasets/11796bcb67ee47bd8d38c0ec271b2787_0.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/datasets/11796bcb67ee47bd8d38c0ec271b2787_0.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/datasets/11796bcb67ee47bd8d38c0ec271b2787_0.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/datasets/11796bcb67ee47bd8d38c0ec271b2787_0.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=13f64503ee9b451bb29d6201d749bbab",
       "landingPage": "https://datazapad-karp.hub.arcgis.com/pages/13f64503ee9b451bb29d6201d749bbab",
       "title": "RIM: Mapování inovačního prostředí",
@@ -65,7 +155,7 @@
         "dobrá praxe"
       ],
       "issued": "2023-12-18T13:27:22.000Z",
-      "modified": "2023-12-19T08:28:24.000Z",
+      "modified": "2024-01-16T11:07:10.000Z",
       "publisher": {
         "name": "jan.sklepek@karp-kv.cz"
       },
@@ -248,7 +338,7 @@
         ""
       ],
       "issued": "2023-11-10T10:16:23.000Z",
-      "modified": "2023-12-12T14:53:10.000Z",
+      "modified": "2024-01-16T10:50:45.000Z",
       "publisher": {
         "name": "jan.sklepek@karp-kv.cz"
       },
@@ -346,7 +436,7 @@
         "publikační plán"
       ],
       "issued": "2023-11-01T12:36:09.000Z",
-      "modified": "2023-12-19T09:48:44.000Z",
+      "modified": "2024-01-16T12:30:31.000Z",
       "publisher": {
         "name": "jan.sklepek@karp-kv.cz"
       },
@@ -789,7 +879,7 @@
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=5dba3a20c86f4183b0ef9e8aa40f996c",
       "landingPage": "https://datazapad-karp.hub.arcgis.com/pages/5dba3a20c86f4183b0ef9e8aa40f996c",
-      "title": "Další výstupy - Analýza přínosů lázeňství pro Karlovarský kraj",
+      "title": "Další výstupy - Analýza přínosů lázeňství pro Karlovarský",
       "description": "Cílem analýzy bylo identifikovat a ohodnotit konkrétní přínosy, které lázeňství Karlovarskému kraji přináší, a odůvodnit tak jeho význam pro kraj.",
       "keyword": [
         "lázeňství",
@@ -797,7 +887,7 @@
         "cestovní ruch"
       ],
       "issued": "2023-12-18T13:10:58.000Z",
-      "modified": "2023-12-19T09:17:48.000Z",
+      "modified": "2024-01-16T11:10:51.000Z",
       "publisher": {
         "name": "jan.sklepek@karp-kv.cz"
       },
@@ -933,7 +1023,7 @@
         "smart"
       ],
       "issued": "2023-12-19T11:20:44.000Z",
-      "modified": "2024-01-12T11:34:44.000Z",
+      "modified": "2024-01-16T12:45:45.000Z",
       "publisher": {
         "name": "jan.sklepek@karp-kv.cz"
       },
@@ -1031,7 +1121,7 @@
         "bariéra"
       ],
       "issued": "2023-12-05T13:05:27.000Z",
-      "modified": "2024-01-10T11:41:58.000Z",
+      "modified": "2024-01-16T12:44:58.000Z",
       "publisher": {
         "name": "jan.sklepek@karp-kv.cz"
       },
@@ -1078,7 +1168,7 @@
         ""
       ],
       "issued": "2023-11-10T10:00:26.000Z",
-      "modified": "2023-12-12T14:52:42.000Z",
+      "modified": "2024-01-16T11:00:28.000Z",
       "publisher": {
         "name": "jan.sklepek@karp-kv.cz"
       },
@@ -1307,7 +1397,7 @@
       "description": "{{description}}",
       "keyword": [],
       "issued": "2023-10-25T07:04:18.000Z",
-      "modified": "2023-12-14T07:44:34.361Z",
+      "modified": "2023-12-14T07:44:33.438Z",
       "publisher": {
         "name": "jan.sklepek@karp-kv.cz"
       },
@@ -1538,7 +1628,7 @@
         "cestovní ruch"
       ],
       "issued": "2023-12-18T13:23:29.000Z",
-      "modified": "2023-12-19T08:52:40.000Z",
+      "modified": "2024-01-16T13:26:07.000Z",
       "publisher": {
         "name": "jan.sklepek@karp-kv.cz"
       },
@@ -1587,7 +1677,7 @@
         "marketing"
       ],
       "issued": "2023-12-18T13:25:40.000Z",
-      "modified": "2023-12-19T08:32:30.000Z",
+      "modified": "2024-01-16T13:00:48.000Z",
       "publisher": {
         "name": "jan.sklepek@karp-kv.cz"
       },
@@ -1636,7 +1726,7 @@
         "inovace"
       ],
       "issued": "2023-12-18T13:18:26.000Z",
-      "modified": "2023-12-19T09:04:37.000Z",
+      "modified": "2024-01-16T11:11:43.000Z",
       "publisher": {
         "name": "jan.sklepek@karp-kv.cz"
       },
@@ -1734,7 +1824,7 @@
         "RIS3"
       ],
       "issued": "2023-12-18T13:29:28.000Z",
-      "modified": "2023-12-19T08:24:35.000Z",
+      "modified": "2024-01-16T11:09:53.000Z",
       "publisher": {
         "name": "jan.sklepek@karp-kv.cz"
       },
@@ -1783,7 +1873,7 @@
         "cestovní ruch"
       ],
       "issued": "2023-12-18T13:21:17.000Z",
-      "modified": "2023-12-19T08:53:20.000Z",
+      "modified": "2024-01-16T13:14:31.000Z",
       "publisher": {
         "name": "jan.sklepek@karp-kv.cz"
       },
@@ -2109,7 +2199,7 @@
         "lázeňství"
       ],
       "issued": "2023-12-18T13:13:56.000Z",
-      "modified": "2023-12-19T09:09:10.000Z",
+      "modified": "2024-01-16T13:20:26.000Z",
       "publisher": {
         "name": "jan.sklepek@karp-kv.cz"
       },
