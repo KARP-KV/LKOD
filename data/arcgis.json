@@ -338,7 +338,7 @@
         ""
       ],
       "issued": "2023-11-10T10:16:23.000Z",
-      "modified": "2024-01-22T14:04:20.000Z",
+      "modified": "2024-01-24T14:20:09.000Z",
       "publisher": {
         "name": "jan.sklepek@karp-kv.cz"
       },
@@ -1211,6 +1211,97 @@
           "format": "Web Page",
           "mediaType": "text/html",
           "accessURL": "https://datazapad-karp.hub.arcgis.com/pages/9ee5a70a8a6e48c198696f852e0fe1b8"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=a80fbe6e01f742a8a0a7b507bfb3998f&sublayer=0",
+      "landingPage": "https://datazapad-karp.hub.arcgis.com/maps/a80fbe6e01f742a8a0a7b507bfb3998f_0",
+      "title": "Organizace zřízené Karlovarským krajem",
+      "description": "<span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'>Organizace zřízené Karlovarským krajem v oblasti školství, dopravy, kultury, regionálního rozvoje, řízení projektů, sociální, zdravotní a životní oblasti. Datová sada obsahuje formální informace o organizacích vč. kontaktních údajů.</span>",
+      "keyword": [
+        "organizace",
+        "Karlovarský kraj",
+        "školství",
+        "doprava",
+        "region",
+        "kultura",
+        "řízení projektů",
+        "sociální",
+        "zdravotní",
+        "životní"
+      ],
+      "issued": "2024-01-24T09:26:55.000Z",
+      "modified": "2024-01-24T09:27:12.342Z",
+      "publisher": {
+        "name": "Karlovarská agentura rozvoje podnikání, p.o."
+      },
+      "contactPoint": {
+        "fn": "pavla.brabencova_karp",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": {
+        "coordinates": [
+          [
+            12.1942,
+            49.953
+          ],
+          [
+            13.1601,
+            50.5111
+          ]
+        ],
+        "type": "envelope"
+      },
+      "license": "http://creativecommons.org/publicdomain/zero/1.0",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/maps/a80fbe6e01f742a8a0a7b507bfb3998f_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Organizace_z%C5%99%C3%ADzen%C3%A9_Karlovarsk%C3%BDm_krajem_WFL1/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/datasets/a80fbe6e01f742a8a0a7b507bfb3998f_0.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/datasets/a80fbe6e01f742a8a0a7b507bfb3998f_0.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/datasets/a80fbe6e01f742a8a0a7b507bfb3998f_0.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/datasets/a80fbe6e01f742a8a0a7b507bfb3998f_0.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
         }
       ],
       "theme": [
