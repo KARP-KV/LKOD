@@ -441,6 +441,91 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=6cd2b71c45184327aab9375661268f5d&sublayer=0",
+      "landingPage": "https://datazapad-karp.hub.arcgis.com/maps/6cd2b71c45184327aab9375661268f5d_0",
+      "title": "Asistenční vouchery 2020 - 2022",
+      "description": "Přehled žadatelů o asistenční voucher v letech 2020 - 2022 v Karlovarském kraji.",
+      "keyword": [
+        "asistenční voucher",
+        "voucher",
+        "Karlovarský kraj",
+        "žadatel"
+      ],
+      "issued": "2024-01-31T11:32:45.000Z",
+      "modified": "2024-01-31T11:32:51.586Z",
+      "publisher": {
+        "name": "Karlovarská agentura rozvoje podnikání, p.o."
+      },
+      "contactPoint": {
+        "fn": "pavla.brabencova_karp",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": {
+        "coordinates": [
+          [
+            12.2847,
+            50.0079
+          ],
+          [
+            14.4353,
+            50.3621
+          ]
+        ],
+        "type": "envelope"
+      },
+      "license": "http://creativecommons.org/licenses/by/4.0",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/maps/6cd2b71c45184327aab9375661268f5d_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Asisten%C4%8Dn%C3%AD_vouchery_2020___2022_WFL1/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/datasets/6cd2b71c45184327aab9375661268f5d_0.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/datasets/6cd2b71c45184327aab9375661268f5d_0.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/datasets/6cd2b71c45184327aab9375661268f5d_0.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/datasets/6cd2b71c45184327aab9375661268f5d_0.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=a80fbe6e01f742a8a0a7b507bfb3998f&sublayer=0",
       "landingPage": "https://datazapad-karp.hub.arcgis.com/maps/a80fbe6e01f742a8a0a7b507bfb3998f_0",
       "title": "Organizace zřízené Karlovarským krajem",
