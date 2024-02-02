@@ -182,8 +182,8 @@
     },
     {
       "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=1e8bbb08d50844d1b456ddd232922ad1&sublayer=0",
-      "landingPage": "https://datazapad-karp.hub.arcgis.com/maps/1e8bbb08d50844d1b456ddd232922ad1_0",
+      "identifier": "https://www.arcgis.com/home/item.html?id=387d1403bddb48b09ba4e3cd3b7894f8&sublayer=0",
+      "landingPage": "https://datazapad-karp.hub.arcgis.com/maps/387d1403bddb48b09ba4e3cd3b7894f8_0",
       "title": "Kreativní vouchery 2020 - 2022",
       "description": "<span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'>Přehled žadatelů o kreativní voucher v Karlovarském kraji v letech 2020 až 2022. Datová sada obsahuje rovněž údaje o výši poskytnutých příspěvků, poskytnutí podpory a další podrobnosti o projektech žadatelů. Poskytovatel dat je Karlovarská agentura rozvoje podnikání, p.o.</span>",
       "keyword": [
@@ -194,8 +194,8 @@
         "Karlovarský kraj",
         "kreativní voucher"
       ],
-      "issued": "2023-11-07T09:00:29.000Z",
-      "modified": "2023-11-07T09:00:39.057Z",
+      "issued": "2024-02-01T11:44:17.000Z",
+      "modified": "2024-02-01T11:50:27.976Z",
       "publisher": {
         "name": "Karlovarská agentura rozvoje podnikání, p.o."
       },
@@ -225,42 +225,42 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://datazapad-karp.hub.arcgis.com/maps/1e8bbb08d50844d1b456ddd232922ad1_0"
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/maps/387d1403bddb48b09ba4e3cd3b7894f8_0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "ArcGIS GeoService",
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
-          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Kreativn%C3%AD_vouchery_2020___2022_WFL1/FeatureServer/0"
+          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Kreativn%C3%AD_vouchery_2020_2022_WFL1/FeatureServer/0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "CSV",
           "format": "CSV",
           "mediaType": "text/csv",
-          "accessURL": "https://datazapad-karp.hub.arcgis.com/datasets/1e8bbb08d50844d1b456ddd232922ad1_0.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/datasets/387d1403bddb48b09ba4e3cd3b7894f8_0.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
         },
         {
           "@type": "dcat:Distribution",
           "title": "GeoJSON",
           "format": "GeoJSON",
           "mediaType": "application/vnd.geo+json",
-          "accessURL": "https://datazapad-karp.hub.arcgis.com/datasets/1e8bbb08d50844d1b456ddd232922ad1_0.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/datasets/387d1403bddb48b09ba4e3cd3b7894f8_0.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Shapefile",
           "format": "ZIP",
           "mediaType": "application/zip",
-          "accessURL": "https://datazapad-karp.hub.arcgis.com/datasets/1e8bbb08d50844d1b456ddd232922ad1_0.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/datasets/387d1403bddb48b09ba4e3cd3b7894f8_0.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
         },
         {
           "@type": "dcat:Distribution",
           "title": "KML",
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
-          "accessURL": "https://datazapad-karp.hub.arcgis.com/datasets/1e8bbb08d50844d1b456ddd232922ad1_0.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/datasets/387d1403bddb48b09ba4e3cd3b7894f8_0.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
         }
       ],
       "theme": [
@@ -346,93 +346,6 @@
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
           "accessURL": "https://datazapad-karp.hub.arcgis.com/datasets/5ad57de2f5ea4f4483fd123f48beee47_0.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-        }
-      ],
-      "theme": [
-        "geospatial"
-      ]
-    },
-    {
-      "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=5ef744c53344420e9fcd015555da3766&sublayer=0",
-      "landingPage": "https://datazapad-karp.hub.arcgis.com/maps/5ef744c53344420e9fcd015555da3766_0",
-      "title": "Inovační vouchery 2012 - 2022",
-      "description": "<span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'>Přehled žadatelů o inovační voucher v Karlovarském kraji v letech 2012 až 2022. Datová sada obsahuje rovněž údaje o výši poskytnutých příspěvků, poskytnutí podpory a další podrobnosti o projektech žadatelů. Poskytovatelem dat je Karlovarská agentura rozvoje podnikání, p.o.</span>",
-      "keyword": [
-        "inovační voucher",
-        "inovační",
-        "voucher",
-        "inovace",
-        "dotace",
-        "Karlovarský kraj"
-      ],
-      "issued": "2023-11-09T07:59:39.000Z",
-      "modified": "2023-11-09T07:59:56.895Z",
-      "publisher": {
-        "name": "Karlovarská agentura rozvoje podnikání, p.o."
-      },
-      "contactPoint": {
-        "fn": "pavla.brabencova_karp",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
-      },
-      "accessLevel": "public",
-      "spatial": {
-        "coordinates": [
-          [
-            12.2006,
-            49.7469
-          ],
-          [
-            14.6019,
-            50.4097
-          ]
-        ],
-        "type": "envelope"
-      },
-      "license": "http://creativecommons.org/licenses/by/4.0",
-      "distribution": [
-        {
-          "@type": "dcat:Distribution",
-          "title": "ArcGIS Hub Dataset",
-          "format": "Web Page",
-          "mediaType": "text/html",
-          "accessURL": "https://datazapad-karp.hub.arcgis.com/maps/5ef744c53344420e9fcd015555da3766_0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "ArcGIS GeoService",
-          "format": "ArcGIS GeoServices REST API",
-          "mediaType": "application/json",
-          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Inova%C4%8Dn%C3%AD_vouchery_2012___2022_WFL1/FeatureServer/0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "CSV",
-          "format": "CSV",
-          "mediaType": "text/csv",
-          "accessURL": "https://datazapad-karp.hub.arcgis.com/datasets/5ef744c53344420e9fcd015555da3766_0.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "GeoJSON",
-          "format": "GeoJSON",
-          "mediaType": "application/vnd.geo+json",
-          "accessURL": "https://datazapad-karp.hub.arcgis.com/datasets/5ef744c53344420e9fcd015555da3766_0.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "Shapefile",
-          "format": "ZIP",
-          "mediaType": "application/zip",
-          "accessURL": "https://datazapad-karp.hub.arcgis.com/datasets/5ef744c53344420e9fcd015555da3766_0.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "KML",
-          "format": "KML",
-          "mediaType": "application/vnd.google-earth.kml+xml",
-          "accessURL": "https://datazapad-karp.hub.arcgis.com/datasets/5ef744c53344420e9fcd015555da3766_0.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
         }
       ],
       "theme": [
@@ -689,6 +602,93 @@
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
           "accessURL": "https://datazapad-karp.hub.arcgis.com/datasets/b20504884a5f4ab3acc4fa7bc2611be2_0.kml?where=1=1&outSR=%7B%22latestWkid%22%3A4326%2C%22wkid%22%3A4326%7D"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=b59dc439b86147e4aefba8d94fc6aa9e&sublayer=0",
+      "landingPage": "https://datazapad-karp.hub.arcgis.com/maps/b59dc439b86147e4aefba8d94fc6aa9e_0",
+      "title": "Inovační vouchery 2020 - 2022",
+      "description": "<span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'>Přehled žadatelů o inovační voucher v Karlovarském kraji v letech 2012 až 2022. Datová sada obsahuje rovněž údaje o výši poskytnutých příspěvků, poskytnutí podpory a další podrobnosti o projektech žadatelů. Poskytovatelem dat je Karlovarská agentura rozvoje podnikání, p.o.</span>",
+      "keyword": [
+        "inovační",
+        "voucher",
+        "inovační vouchery",
+        "Karlovarský kraj",
+        "inovace",
+        "dotace"
+      ],
+      "issued": "2024-02-01T11:22:42.000Z",
+      "modified": "2024-02-01T11:28:37.311Z",
+      "publisher": {
+        "name": "Karlovarská agentura rozvoje podnikání, p.o."
+      },
+      "contactPoint": {
+        "fn": "pavla.brabencova_karp",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": {
+        "coordinates": [
+          [
+            12.2006,
+            49.7469
+          ],
+          [
+            14.6019,
+            50.4097
+          ]
+        ],
+        "type": "envelope"
+      },
+      "license": "http://creativecommons.org/licenses/by/4.0",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/maps/b59dc439b86147e4aefba8d94fc6aa9e_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Inova%C4%8Dn%C3%AD_vouchery_2020___2022_WFL1/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/datasets/b59dc439b86147e4aefba8d94fc6aa9e_0.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/datasets/b59dc439b86147e4aefba8d94fc6aa9e_0.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/datasets/b59dc439b86147e4aefba8d94fc6aa9e_0.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/datasets/b59dc439b86147e4aefba8d94fc6aa9e_0.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
         }
       ],
       "theme": [

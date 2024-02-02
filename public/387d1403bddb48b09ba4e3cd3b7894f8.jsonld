@@ -1,22 +1,22 @@
 {
   "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://open.datazapad.cz/5ef744c53344420e9fcd015555da3766.jsonld",
+  "iri": "https://open.datazapad.cz/387d1403bddb48b09ba4e3cd3b7894f8.jsonld",
   "typ": "Datová sada",
   "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891168",
   "název": {
-    "cs": "Inovační vouchery 2012 - 2022"
+    "cs": "Kreativní vouchery 2020 - 2022"
   },
   "popis": {
-    "cs": "Přehled žadatelů o inovační voucher v Karlovarském kraji v letech 2012 až 2022. Datová sada obsahuje rovněž údaje o výši poskytnutých příspěvků, poskytnutí podpory a další podrobnosti o projektech žadatelů. Poskytovatelem dat je Karlovarská agentura rozvoje podnikání, p.o."
+    "cs": "Přehled žadatelů o kreativní voucher v Karlovarském kraji v letech 2020 až 2022. Datová sada obsahuje rovněž údaje o výši poskytnutých příspěvků, poskytnutí podpory a další podrobnosti o projektech žadatelů. Poskytovatel dat je Karlovarská agentura rozvoje podnikání, p.o."
   },
   "klíčové_slovo": {
     "cs": [
-      "inovační voucher",
-      "inovační",
       "voucher",
-      "inovace",
+      "kreativní",
+      "kreativec",
       "dotace",
-      "Karlovarský kraj"
+      "Karlovarský kraj",
+      "kreativní voucher"
     ]
   },
   "téma": [
@@ -29,12 +29,12 @@
   "distribuce": [
     {
       "typ": "Distribuce",
-      "iri": "https://datazapad-karp.hub.arcgis.com/maps/5ef744c53344420e9fcd015555da3766_0",
+      "iri": "https://datazapad-karp.hub.arcgis.com/maps/387d1403bddb48b09ba4e3cd3b7894f8_0",
       "název": {
         "cs": "ArcGIS Hub Dataset"
       },
-      "soubor_ke_stažení": "https://datazapad-karp.hub.arcgis.com/maps/5ef744c53344420e9fcd015555da3766_0",
-      "přístupové_url": "https://datazapad-karp.hub.arcgis.com/maps/5ef744c53344420e9fcd015555da3766_0",
+      "soubor_ke_stažení": "https://datazapad-karp.hub.arcgis.com/maps/387d1403bddb48b09ba4e3cd3b7894f8_0",
+      "přístupové_url": "https://datazapad-karp.hub.arcgis.com/maps/387d1403bddb48b09ba4e3cd3b7894f8_0",
       "typ_média": "http://www.iana.org/assignments/media-types/text/html",
       "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
       "podmínky_užití": {
@@ -47,12 +47,12 @@
     },
     {
       "typ": "Distribuce",
-      "iri": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Inova%C4%8Dn%C3%AD_vouchery_2012___2022_WFL1/FeatureServer/0",
+      "iri": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Kreativn%C3%AD_vouchery_2020_2022_WFL1/FeatureServer/0",
       "název": {
         "cs": "ArcGIS GeoService"
       },
-      "soubor_ke_stažení": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Inova%C4%8Dn%C3%AD_vouchery_2012___2022_WFL1/FeatureServer/0",
-      "přístupové_url": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Inova%C4%8Dn%C3%AD_vouchery_2012___2022_WFL1/FeatureServer/0",
+      "soubor_ke_stažení": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Kreativn%C3%AD_vouchery_2020_2022_WFL1/FeatureServer/0",
+      "přístupové_url": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Kreativn%C3%AD_vouchery_2020_2022_WFL1/FeatureServer/0",
       "typ_média": "http://www.iana.org/assignments/media-types/application/json",
       "formát": "http://publications.europa.eu/resource/authority/file-type/JSON",
       "podmínky_užití": {
@@ -65,12 +65,12 @@
     },
     {
       "typ": "Distribuce",
-      "iri": "https://datazapad-karp.hub.arcgis.com/datasets/5ef744c53344420e9fcd015555da3766_0.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D",
+      "iri": "https://datazapad-karp.hub.arcgis.com/datasets/387d1403bddb48b09ba4e3cd3b7894f8_0.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D",
       "název": {
         "cs": "CSV"
       },
-      "soubor_ke_stažení": "https://datazapad-karp.hub.arcgis.com/datasets/5ef744c53344420e9fcd015555da3766_0.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D",
-      "přístupové_url": "https://datazapad-karp.hub.arcgis.com/datasets/5ef744c53344420e9fcd015555da3766_0.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D",
+      "soubor_ke_stažení": "https://datazapad-karp.hub.arcgis.com/datasets/387d1403bddb48b09ba4e3cd3b7894f8_0.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D",
+      "přístupové_url": "https://datazapad-karp.hub.arcgis.com/datasets/387d1403bddb48b09ba4e3cd3b7894f8_0.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D",
       "typ_média": "http://www.iana.org/assignments/media-types/text/csv",
       "formát": "http://publications.europa.eu/resource/authority/file-type/CSV",
       "podmínky_užití": {
@@ -83,12 +83,12 @@
     },
     {
       "typ": "Distribuce",
-      "iri": "https://datazapad-karp.hub.arcgis.com/datasets/5ef744c53344420e9fcd015555da3766_0.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D",
+      "iri": "https://datazapad-karp.hub.arcgis.com/datasets/387d1403bddb48b09ba4e3cd3b7894f8_0.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D",
       "název": {
         "cs": "GeoJSON"
       },
-      "soubor_ke_stažení": "https://datazapad-karp.hub.arcgis.com/datasets/5ef744c53344420e9fcd015555da3766_0.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D",
-      "přístupové_url": "https://datazapad-karp.hub.arcgis.com/datasets/5ef744c53344420e9fcd015555da3766_0.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D",
+      "soubor_ke_stažení": "https://datazapad-karp.hub.arcgis.com/datasets/387d1403bddb48b09ba4e3cd3b7894f8_0.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D",
+      "přístupové_url": "https://datazapad-karp.hub.arcgis.com/datasets/387d1403bddb48b09ba4e3cd3b7894f8_0.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D",
       "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.geo+json",
       "formát": "http://publications.europa.eu/resource/authority/file-type/GEOJSON",
       "podmínky_užití": {
@@ -101,12 +101,12 @@
     },
     {
       "typ": "Distribuce",
-      "iri": "https://datazapad-karp.hub.arcgis.com/datasets/5ef744c53344420e9fcd015555da3766_0.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D",
+      "iri": "https://datazapad-karp.hub.arcgis.com/datasets/387d1403bddb48b09ba4e3cd3b7894f8_0.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D",
       "název": {
         "cs": "Shapefile"
       },
-      "soubor_ke_stažení": "https://datazapad-karp.hub.arcgis.com/datasets/5ef744c53344420e9fcd015555da3766_0.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D",
-      "přístupové_url": "https://datazapad-karp.hub.arcgis.com/datasets/5ef744c53344420e9fcd015555da3766_0.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D",
+      "soubor_ke_stažení": "https://datazapad-karp.hub.arcgis.com/datasets/387d1403bddb48b09ba4e3cd3b7894f8_0.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D",
+      "přístupové_url": "https://datazapad-karp.hub.arcgis.com/datasets/387d1403bddb48b09ba4e3cd3b7894f8_0.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D",
       "typ_média": "http://www.iana.org/assignments/media-types/application/zip",
       "formát": "http://publications.europa.eu/resource/authority/file-type/ZIP",
       "podmínky_užití": {
@@ -119,12 +119,12 @@
     },
     {
       "typ": "Distribuce",
-      "iri": "https://datazapad-karp.hub.arcgis.com/datasets/5ef744c53344420e9fcd015555da3766_0.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D",
+      "iri": "https://datazapad-karp.hub.arcgis.com/datasets/387d1403bddb48b09ba4e3cd3b7894f8_0.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D",
       "název": {
         "cs": "KML"
       },
-      "soubor_ke_stažení": "https://datazapad-karp.hub.arcgis.com/datasets/5ef744c53344420e9fcd015555da3766_0.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D",
-      "přístupové_url": "https://datazapad-karp.hub.arcgis.com/datasets/5ef744c53344420e9fcd015555da3766_0.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D",
+      "soubor_ke_stažení": "https://datazapad-karp.hub.arcgis.com/datasets/387d1403bddb48b09ba4e3cd3b7894f8_0.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D",
+      "přístupové_url": "https://datazapad-karp.hub.arcgis.com/datasets/387d1403bddb48b09ba4e3cd3b7894f8_0.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D",
       "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.google-earth.kml+xml",
       "formát": "http://publications.europa.eu/resource/authority/file-type/KML",
       "podmínky_užití": {
