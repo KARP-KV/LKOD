@@ -271,7 +271,7 @@
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=5ad57de2f5ea4f4483fd123f48beee47&sublayer=0",
       "landingPage": "https://datazapad-karp.hub.arcgis.com/maps/5ad57de2f5ea4f4483fd123f48beee47_0",
-      "title": "Galerie kreativců KVK",
+      "title": "Galerie kreativců Karlovarského kraje",
       "description": "Přehled kreativců publikovaných v Galerii kreativců Karlovarského kraje. Přehled uvádí rovněž kontaktní údaje a zaměření kreativců. Zdrojem dat je Karlovarská agentura rozvoje podnikání, p.o.",
       "keyword": [
         "kreativci",
@@ -280,7 +280,7 @@
         "galerie"
       ],
       "issued": "2023-10-30T10:08:16.000Z",
-      "modified": "2023-10-30T10:08:33.652Z",
+      "modified": "2024-02-05T11:13:57.196Z",
       "publisher": {
         "name": "Karlovarská agentura rozvoje podnikání, p.o."
       },
@@ -365,7 +365,7 @@
         "žadatel"
       ],
       "issued": "2024-01-31T11:32:45.000Z",
-      "modified": "2024-01-31T11:32:51.586Z",
+      "modified": "2024-02-05T10:59:13.310Z",
       "publisher": {
         "name": "Karlovarská agentura rozvoje podnikání, p.o."
       },
@@ -699,7 +699,7 @@
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=f98f8248cdf140ad84649976f2d6f499&sublayer=0",
       "landingPage": "https://datazapad-karp.hub.arcgis.com/maps/f98f8248cdf140ad84649976f2d6f499_0",
-      "title": "Inovační infrastruktury KVK",
+      "title": "Inovační infrastruktury Karlovarského kraje",
       "description": "<p><span style=\"font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif;font-size:16px;\">Datová sada s prostorovou lokalizací inovačních infrastruktur Karlovarského kraje - coworkingová centra, pobočky vysokých škol, podnikatelské inkubátory, vědeckotechnické parky, výzkumné organizace a další významné organizace inovačního prostředí KVK. Zdrojem dat je Karlovarská agentura rozvoje podnikání, p.o.</span></p>",
       "keyword": [
         "inovační infrastruktury",
@@ -708,7 +708,7 @@
         "infrastruktura"
       ],
       "issued": "2023-12-07T07:26:16.000Z",
-      "modified": "2023-12-07T07:26:28.771Z",
+      "modified": "2024-02-05T11:27:43.481Z",
       "publisher": {
         "name": "Karlovarská agentura rozvoje podnikání, p.o."
       },
