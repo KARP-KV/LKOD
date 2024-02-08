@@ -62,28 +62,28 @@
           "title": "CSV",
           "format": "CSV",
           "mediaType": "text/csv",
-          "accessURL": "https://datazapad-karp.hub.arcgis.com/datasets/01fcf68eb2054fb3ab99af6aa34af6e4_0.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/api/download/v1/items/01fcf68eb2054fb3ab99af6aa34af6e4/csv?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "GeoJSON",
           "format": "GeoJSON",
           "mediaType": "application/vnd.geo+json",
-          "accessURL": "https://datazapad-karp.hub.arcgis.com/datasets/01fcf68eb2054fb3ab99af6aa34af6e4_0.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/api/download/v1/items/01fcf68eb2054fb3ab99af6aa34af6e4/geojson?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Shapefile",
           "format": "ZIP",
           "mediaType": "application/zip",
-          "accessURL": "https://datazapad-karp.hub.arcgis.com/datasets/01fcf68eb2054fb3ab99af6aa34af6e4_0.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/api/download/v1/items/01fcf68eb2054fb3ab99af6aa34af6e4/shapefile?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "KML",
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
-          "accessURL": "https://datazapad-karp.hub.arcgis.com/datasets/01fcf68eb2054fb3ab99af6aa34af6e4_0.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/api/download/v1/items/01fcf68eb2054fb3ab99af6aa34af6e4/kml?layers=0"
         }
       ],
       "theme": [
@@ -152,28 +152,28 @@
           "title": "CSV",
           "format": "CSV",
           "mediaType": "text/csv",
-          "accessURL": "https://datazapad-karp.hub.arcgis.com/datasets/11796bcb67ee47bd8d38c0ec271b2787_0.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/api/download/v1/items/11796bcb67ee47bd8d38c0ec271b2787/csv?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "GeoJSON",
           "format": "GeoJSON",
           "mediaType": "application/vnd.geo+json",
-          "accessURL": "https://datazapad-karp.hub.arcgis.com/datasets/11796bcb67ee47bd8d38c0ec271b2787_0.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/api/download/v1/items/11796bcb67ee47bd8d38c0ec271b2787/geojson?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Shapefile",
           "format": "ZIP",
           "mediaType": "application/zip",
-          "accessURL": "https://datazapad-karp.hub.arcgis.com/datasets/11796bcb67ee47bd8d38c0ec271b2787_0.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/api/download/v1/items/11796bcb67ee47bd8d38c0ec271b2787/shapefile?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "KML",
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
-          "accessURL": "https://datazapad-karp.hub.arcgis.com/datasets/11796bcb67ee47bd8d38c0ec271b2787_0.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/api/download/v1/items/11796bcb67ee47bd8d38c0ec271b2787/kml?layers=0"
         }
       ],
       "theme": [
@@ -239,28 +239,28 @@
           "title": "CSV",
           "format": "CSV",
           "mediaType": "text/csv",
-          "accessURL": "https://datazapad-karp.hub.arcgis.com/datasets/387d1403bddb48b09ba4e3cd3b7894f8_0.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/api/download/v1/items/387d1403bddb48b09ba4e3cd3b7894f8/csv?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "GeoJSON",
           "format": "GeoJSON",
           "mediaType": "application/vnd.geo+json",
-          "accessURL": "https://datazapad-karp.hub.arcgis.com/datasets/387d1403bddb48b09ba4e3cd3b7894f8_0.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/api/download/v1/items/387d1403bddb48b09ba4e3cd3b7894f8/geojson?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Shapefile",
           "format": "ZIP",
           "mediaType": "application/zip",
-          "accessURL": "https://datazapad-karp.hub.arcgis.com/datasets/387d1403bddb48b09ba4e3cd3b7894f8_0.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/api/download/v1/items/387d1403bddb48b09ba4e3cd3b7894f8/shapefile?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "KML",
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
-          "accessURL": "https://datazapad-karp.hub.arcgis.com/datasets/387d1403bddb48b09ba4e3cd3b7894f8_0.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/api/download/v1/items/387d1403bddb48b09ba4e3cd3b7894f8/kml?layers=0"
         }
       ],
       "theme": [
@@ -324,28 +324,28 @@
           "title": "CSV",
           "format": "CSV",
           "mediaType": "text/csv",
-          "accessURL": "https://datazapad-karp.hub.arcgis.com/datasets/5ad57de2f5ea4f4483fd123f48beee47_0.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/api/download/v1/items/5ad57de2f5ea4f4483fd123f48beee47/csv?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "GeoJSON",
           "format": "GeoJSON",
           "mediaType": "application/vnd.geo+json",
-          "accessURL": "https://datazapad-karp.hub.arcgis.com/datasets/5ad57de2f5ea4f4483fd123f48beee47_0.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/api/download/v1/items/5ad57de2f5ea4f4483fd123f48beee47/geojson?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Shapefile",
           "format": "ZIP",
           "mediaType": "application/zip",
-          "accessURL": "https://datazapad-karp.hub.arcgis.com/datasets/5ad57de2f5ea4f4483fd123f48beee47_0.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/api/download/v1/items/5ad57de2f5ea4f4483fd123f48beee47/shapefile?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "KML",
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
-          "accessURL": "https://datazapad-karp.hub.arcgis.com/datasets/5ad57de2f5ea4f4483fd123f48beee47_0.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/api/download/v1/items/5ad57de2f5ea4f4483fd123f48beee47/kml?layers=0"
         }
       ],
       "theme": [
@@ -409,28 +409,28 @@
           "title": "CSV",
           "format": "CSV",
           "mediaType": "text/csv",
-          "accessURL": "https://datazapad-karp.hub.arcgis.com/datasets/6cd2b71c45184327aab9375661268f5d_0.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/api/download/v1/items/6cd2b71c45184327aab9375661268f5d/csv?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "GeoJSON",
           "format": "GeoJSON",
           "mediaType": "application/vnd.geo+json",
-          "accessURL": "https://datazapad-karp.hub.arcgis.com/datasets/6cd2b71c45184327aab9375661268f5d_0.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/api/download/v1/items/6cd2b71c45184327aab9375661268f5d/geojson?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Shapefile",
           "format": "ZIP",
           "mediaType": "application/zip",
-          "accessURL": "https://datazapad-karp.hub.arcgis.com/datasets/6cd2b71c45184327aab9375661268f5d_0.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/api/download/v1/items/6cd2b71c45184327aab9375661268f5d/shapefile?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "KML",
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
-          "accessURL": "https://datazapad-karp.hub.arcgis.com/datasets/6cd2b71c45184327aab9375661268f5d_0.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/api/download/v1/items/6cd2b71c45184327aab9375661268f5d/kml?layers=0"
         }
       ],
       "theme": [
@@ -500,28 +500,28 @@
           "title": "CSV",
           "format": "CSV",
           "mediaType": "text/csv",
-          "accessURL": "https://datazapad-karp.hub.arcgis.com/datasets/a80fbe6e01f742a8a0a7b507bfb3998f_0.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/api/download/v1/items/a80fbe6e01f742a8a0a7b507bfb3998f/csv?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "GeoJSON",
           "format": "GeoJSON",
           "mediaType": "application/vnd.geo+json",
-          "accessURL": "https://datazapad-karp.hub.arcgis.com/datasets/a80fbe6e01f742a8a0a7b507bfb3998f_0.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/api/download/v1/items/a80fbe6e01f742a8a0a7b507bfb3998f/geojson?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Shapefile",
           "format": "ZIP",
           "mediaType": "application/zip",
-          "accessURL": "https://datazapad-karp.hub.arcgis.com/datasets/a80fbe6e01f742a8a0a7b507bfb3998f_0.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/api/download/v1/items/a80fbe6e01f742a8a0a7b507bfb3998f/shapefile?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "KML",
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
-          "accessURL": "https://datazapad-karp.hub.arcgis.com/datasets/a80fbe6e01f742a8a0a7b507bfb3998f_0.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/api/download/v1/items/a80fbe6e01f742a8a0a7b507bfb3998f/kml?layers=0"
         }
       ],
       "theme": [
@@ -580,28 +580,28 @@
           "title": "CSV",
           "format": "CSV",
           "mediaType": "text/csv",
-          "accessURL": "https://datazapad-karp.hub.arcgis.com/datasets/b20504884a5f4ab3acc4fa7bc2611be2_0.csv?where=1=1&outSR=%7B%22latestWkid%22%3A4326%2C%22wkid%22%3A4326%7D"
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/api/download/v1/items/b20504884a5f4ab3acc4fa7bc2611be2/csv?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "GeoJSON",
           "format": "GeoJSON",
           "mediaType": "application/vnd.geo+json",
-          "accessURL": "https://datazapad-karp.hub.arcgis.com/datasets/b20504884a5f4ab3acc4fa7bc2611be2_0.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A4326%2C%22wkid%22%3A4326%7D"
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/api/download/v1/items/b20504884a5f4ab3acc4fa7bc2611be2/geojson?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Shapefile",
           "format": "ZIP",
           "mediaType": "application/zip",
-          "accessURL": "https://datazapad-karp.hub.arcgis.com/datasets/b20504884a5f4ab3acc4fa7bc2611be2_0.zip?where=1=1&outSR=%7B%22latestWkid%22%3A4326%2C%22wkid%22%3A4326%7D"
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/api/download/v1/items/b20504884a5f4ab3acc4fa7bc2611be2/shapefile?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "KML",
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
-          "accessURL": "https://datazapad-karp.hub.arcgis.com/datasets/b20504884a5f4ab3acc4fa7bc2611be2_0.kml?where=1=1&outSR=%7B%22latestWkid%22%3A4326%2C%22wkid%22%3A4326%7D"
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/api/download/v1/items/b20504884a5f4ab3acc4fa7bc2611be2/kml?layers=0"
         }
       ],
       "theme": [
@@ -667,28 +667,28 @@
           "title": "CSV",
           "format": "CSV",
           "mediaType": "text/csv",
-          "accessURL": "https://datazapad-karp.hub.arcgis.com/datasets/b59dc439b86147e4aefba8d94fc6aa9e_0.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/api/download/v1/items/b59dc439b86147e4aefba8d94fc6aa9e/csv?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "GeoJSON",
           "format": "GeoJSON",
           "mediaType": "application/vnd.geo+json",
-          "accessURL": "https://datazapad-karp.hub.arcgis.com/datasets/b59dc439b86147e4aefba8d94fc6aa9e_0.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/api/download/v1/items/b59dc439b86147e4aefba8d94fc6aa9e/geojson?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Shapefile",
           "format": "ZIP",
           "mediaType": "application/zip",
-          "accessURL": "https://datazapad-karp.hub.arcgis.com/datasets/b59dc439b86147e4aefba8d94fc6aa9e_0.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/api/download/v1/items/b59dc439b86147e4aefba8d94fc6aa9e/shapefile?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "KML",
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
-          "accessURL": "https://datazapad-karp.hub.arcgis.com/datasets/b59dc439b86147e4aefba8d94fc6aa9e_0.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/api/download/v1/items/b59dc439b86147e4aefba8d94fc6aa9e/kml?layers=0"
         }
       ],
       "theme": [
@@ -752,28 +752,28 @@
           "title": "CSV",
           "format": "CSV",
           "mediaType": "text/csv",
-          "accessURL": "https://datazapad-karp.hub.arcgis.com/datasets/f98f8248cdf140ad84649976f2d6f499_0.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/api/download/v1/items/f98f8248cdf140ad84649976f2d6f499/csv?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "GeoJSON",
           "format": "GeoJSON",
           "mediaType": "application/vnd.geo+json",
-          "accessURL": "https://datazapad-karp.hub.arcgis.com/datasets/f98f8248cdf140ad84649976f2d6f499_0.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/api/download/v1/items/f98f8248cdf140ad84649976f2d6f499/geojson?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Shapefile",
           "format": "ZIP",
           "mediaType": "application/zip",
-          "accessURL": "https://datazapad-karp.hub.arcgis.com/datasets/f98f8248cdf140ad84649976f2d6f499_0.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/api/download/v1/items/f98f8248cdf140ad84649976f2d6f499/shapefile?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "KML",
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
-          "accessURL": "https://datazapad-karp.hub.arcgis.com/datasets/f98f8248cdf140ad84649976f2d6f499_0.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+          "accessURL": "https://datazapad-karp.hub.arcgis.com/api/download/v1/items/f98f8248cdf140ad84649976f2d6f499/kml?layers=0"
         }
       ],
       "theme": [
