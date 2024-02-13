@@ -27,12 +27,12 @@
   "distribuce": [
     {
       "typ": "Distribuce",
-      "iri": "https://datazapad-karp.hub.arcgis.com/maps/f98f8248cdf140ad84649976f2d6f499_0",
+      "iri": "https://www.datazapad.cz/maps/f98f8248cdf140ad84649976f2d6f499_0",
       "název": {
         "cs": "ArcGIS Hub Dataset"
       },
-      "soubor_ke_stažení": "https://datazapad-karp.hub.arcgis.com/maps/f98f8248cdf140ad84649976f2d6f499_0",
-      "přístupové_url": "https://datazapad-karp.hub.arcgis.com/maps/f98f8248cdf140ad84649976f2d6f499_0",
+      "soubor_ke_stažení": "https://www.datazapad.cz/maps/f98f8248cdf140ad84649976f2d6f499_0",
+      "přístupové_url": "https://www.datazapad.cz/maps/f98f8248cdf140ad84649976f2d6f499_0",
       "typ_média": "http://www.iana.org/assignments/media-types/text/html",
       "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
       "podmínky_užití": {
@@ -63,12 +63,12 @@
     },
     {
       "typ": "Distribuce",
-      "iri": "https://datazapad-karp.hub.arcgis.com/api/download/v1/items/f98f8248cdf140ad84649976f2d6f499/csv?layers=0",
+      "iri": "https://www.datazapad.cz/api/download/v1/items/f98f8248cdf140ad84649976f2d6f499/csv?layers=0",
       "název": {
         "cs": "CSV"
       },
-      "soubor_ke_stažení": "https://datazapad-karp.hub.arcgis.com/api/download/v1/items/f98f8248cdf140ad84649976f2d6f499/csv?layers=0",
-      "přístupové_url": "https://datazapad-karp.hub.arcgis.com/api/download/v1/items/f98f8248cdf140ad84649976f2d6f499/csv?layers=0",
+      "soubor_ke_stažení": "https://www.datazapad.cz/api/download/v1/items/f98f8248cdf140ad84649976f2d6f499/csv?layers=0",
+      "přístupové_url": "https://www.datazapad.cz/api/download/v1/items/f98f8248cdf140ad84649976f2d6f499/csv?layers=0",
       "typ_média": "http://www.iana.org/assignments/media-types/text/csv",
       "formát": "http://publications.europa.eu/resource/authority/file-type/CSV",
       "podmínky_užití": {
@@ -81,12 +81,12 @@
     },
     {
       "typ": "Distribuce",
-      "iri": "https://datazapad-karp.hub.arcgis.com/api/download/v1/items/f98f8248cdf140ad84649976f2d6f499/geojson?layers=0",
+      "iri": "https://www.datazapad.cz/api/download/v1/items/f98f8248cdf140ad84649976f2d6f499/geojson?layers=0",
       "název": {
         "cs": "GeoJSON"
       },
-      "soubor_ke_stažení": "https://datazapad-karp.hub.arcgis.com/api/download/v1/items/f98f8248cdf140ad84649976f2d6f499/geojson?layers=0",
-      "přístupové_url": "https://datazapad-karp.hub.arcgis.com/api/download/v1/items/f98f8248cdf140ad84649976f2d6f499/geojson?layers=0",
+      "soubor_ke_stažení": "https://www.datazapad.cz/api/download/v1/items/f98f8248cdf140ad84649976f2d6f499/geojson?layers=0",
+      "přístupové_url": "https://www.datazapad.cz/api/download/v1/items/f98f8248cdf140ad84649976f2d6f499/geojson?layers=0",
       "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.geo+json",
       "formát": "http://publications.europa.eu/resource/authority/file-type/GEOJSON",
       "podmínky_užití": {
@@ -99,12 +99,12 @@
     },
     {
       "typ": "Distribuce",
-      "iri": "https://datazapad-karp.hub.arcgis.com/api/download/v1/items/f98f8248cdf140ad84649976f2d6f499/shapefile?layers=0",
+      "iri": "https://www.datazapad.cz/api/download/v1/items/f98f8248cdf140ad84649976f2d6f499/shapefile?layers=0",
       "název": {
         "cs": "Shapefile"
       },
-      "soubor_ke_stažení": "https://datazapad-karp.hub.arcgis.com/api/download/v1/items/f98f8248cdf140ad84649976f2d6f499/shapefile?layers=0",
-      "přístupové_url": "https://datazapad-karp.hub.arcgis.com/api/download/v1/items/f98f8248cdf140ad84649976f2d6f499/shapefile?layers=0",
+      "soubor_ke_stažení": "https://www.datazapad.cz/api/download/v1/items/f98f8248cdf140ad84649976f2d6f499/shapefile?layers=0",
+      "přístupové_url": "https://www.datazapad.cz/api/download/v1/items/f98f8248cdf140ad84649976f2d6f499/shapefile?layers=0",
       "typ_média": "http://www.iana.org/assignments/media-types/application/zip",
       "formát": "http://publications.europa.eu/resource/authority/file-type/ZIP",
       "podmínky_užití": {
@@ -117,12 +117,12 @@
     },
     {
       "typ": "Distribuce",
-      "iri": "https://datazapad-karp.hub.arcgis.com/api/download/v1/items/f98f8248cdf140ad84649976f2d6f499/kml?layers=0",
+      "iri": "https://www.datazapad.cz/api/download/v1/items/f98f8248cdf140ad84649976f2d6f499/kml?layers=0",
       "název": {
         "cs": "KML"
       },
-      "soubor_ke_stažení": "https://datazapad-karp.hub.arcgis.com/api/download/v1/items/f98f8248cdf140ad84649976f2d6f499/kml?layers=0",
-      "přístupové_url": "https://datazapad-karp.hub.arcgis.com/api/download/v1/items/f98f8248cdf140ad84649976f2d6f499/kml?layers=0",
+      "soubor_ke_stažení": "https://www.datazapad.cz/api/download/v1/items/f98f8248cdf140ad84649976f2d6f499/kml?layers=0",
+      "přístupové_url": "https://www.datazapad.cz/api/download/v1/items/f98f8248cdf140ad84649976f2d6f499/kml?layers=0",
       "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.google-earth.kml+xml",
       "formát": "http://publications.europa.eu/resource/authority/file-type/KML",
       "podmínky_užití": {
