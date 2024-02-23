@@ -528,6 +528,91 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=7974da466d594bdea7953f3542ef5ca9&sublayer=0",
+      "landingPage": "https://www.datazapad.cz/maps/7974da466d594bdea7953f3542ef5ca9_0",
+      "title": "Startovací vouchery v Karlovarském kraji v roce 2023",
+      "description": "<span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'>Datová sada obsahuje rovněž údaje o výši poskytnutých příspěvků, poskytnutí podpory a další podrobnosti o projektech žadatelů. Poskytovatelem dat je Karlovarská agentura rozvoje podnikání, p.o.</span>",
+      "keyword": [
+        "starovací voucher",
+        "voucher",
+        "startovací",
+        "Karlovarský kraj"
+      ],
+      "issued": "2024-02-22T11:28:48.000Z",
+      "modified": "2024-02-22T11:28:54.345Z",
+      "publisher": {
+        "name": "Karlovarská agentura rozvoje podnikání, p.o."
+      },
+      "contactPoint": {
+        "fn": "pavla.brabencova_karp",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": {
+        "coordinates": [
+          [
+            12.1892,
+            49.9515
+          ],
+          [
+            14.4491,
+            50.3302
+          ]
+        ],
+        "type": "envelope"
+      },
+      "license": "http://creativecommons.org/licenses/by/4.0",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datazapad.cz/maps/7974da466d594bdea7953f3542ef5ca9_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Startovac%C3%AD_vouchery_v_Karlovarsk%C3%A9m_kraji_v_r__2023_WFL1/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/7974da466d594bdea7953f3542ef5ca9/csv?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/7974da466d594bdea7953f3542ef5ca9/geojson?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/7974da466d594bdea7953f3542ef5ca9/shapefile?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/7974da466d594bdea7953f3542ef5ca9/kml?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=a80fbe6e01f742a8a0a7b507bfb3998f&sublayer=0",
       "landingPage": "https://www.datazapad.cz/maps/a80fbe6e01f742a8a0a7b507bfb3998f_0",
       "title": "Organizace zřízené Karlovarským krajem",
@@ -702,7 +787,7 @@
       "identifier": "https://www.arcgis.com/home/item.html?id=b59dc439b86147e4aefba8d94fc6aa9e&sublayer=0",
       "landingPage": "https://www.datazapad.cz/maps/b59dc439b86147e4aefba8d94fc6aa9e_0",
       "title": "Inovační vouchery 2020 - 2022",
-      "description": "<span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'>Přehled žadatelů o inovační voucher v Karlovarském kraji v letech 2012 až 2022. Datová sada obsahuje rovněž údaje o výši poskytnutých příspěvků, poskytnutí podpory a další podrobnosti o projektech žadatelů. Poskytovatelem dat je Karlovarská agentura rozvoje podnikání, p.o.</span>",
+      "description": "<span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'>Datová sada obsahuje rovněž údaje o výši poskytnutých příspěvků, poskytnutí podpory a další podrobnosti o projektech žadatelů. Poskytovatelem dat je Karlovarská agentura rozvoje podnikání, p.o.</span>",
       "keyword": [
         "inovační",
         "voucher",
