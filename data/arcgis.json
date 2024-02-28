@@ -871,6 +871,56 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=f5ba6d2a962d4b0eacdc7fb0ef0cfab1",
+      "landingPage": "https://www.datazapad.cz/maps/f5ba6d2a962d4b0eacdc7fb0ef0cfab1",
+      "title": "Startovací vouchery v Karlovarském kraji v r. 2023",
+      "description": "",
+      "keyword": [
+        "starovací voucher",
+        "voucher",
+        "startovací",
+        "Karlovarský kraj"
+      ],
+      "issued": "2024-02-22T11:29:16.000Z",
+      "modified": "2024-02-27T08:23:22.000Z",
+      "publisher": {
+        "name": "pavla.brabencova_karp"
+      },
+      "contactPoint": {
+        "fn": "pavla.brabencova_karp",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": {
+        "coordinates": [
+          [
+            11.7766,
+            49.632
+          ],
+          [
+            14.0041,
+            50.7077
+          ]
+        ],
+        "type": "envelope"
+      },
+      "license": "",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datazapad.cz/maps/f5ba6d2a962d4b0eacdc7fb0ef0cfab1"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=f98f8248cdf140ad84649976f2d6f499&sublayer=0",
       "landingPage": "https://www.datazapad.cz/maps/f98f8248cdf140ad84649976f2d6f499_0",
       "title": "Inovační infrastruktury Karlovarského kraje",
