@@ -4,10 +4,10 @@
   "typ": "Datová sada",
   "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891168",
   "název": {
-    "cs": "Asistenční vouchery 2020 - 2022"
+    "cs": "Asistenční vouchery 2020 - 2022 v Karlovarském kraji"
   },
   "popis": {
-    "cs": "Přehled žadatelů o asistenční voucher v letech 2020 - 2022 v Karlovarském kraji."
+    "cs": "Datová sada obsahuje rovněž údaje o výši poskytnutých příspěvků, poskytnutí podpory a další podrobnosti o projektech žadatelů. Poskytovatel dat je Karlovarská agentura rozvoje podnikání, p.o."
   },
   "klíčové_slovo": {
     "cs": [
@@ -27,12 +27,12 @@
   "distribuce": [
     {
       "typ": "Distribuce",
-      "iri": "https://www.datazapad.cz/maps/6cd2b71c45184327aab9375661268f5d_0",
+      "iri": "https://www.datazapad.cz/maps/6cd2b71c45184327aab9375661268f5d_3",
       "název": {
         "cs": "ArcGIS Hub Dataset"
       },
-      "soubor_ke_stažení": "https://www.datazapad.cz/maps/6cd2b71c45184327aab9375661268f5d_0",
-      "přístupové_url": "https://www.datazapad.cz/maps/6cd2b71c45184327aab9375661268f5d_0",
+      "soubor_ke_stažení": "https://www.datazapad.cz/maps/6cd2b71c45184327aab9375661268f5d_3",
+      "přístupové_url": "https://www.datazapad.cz/maps/6cd2b71c45184327aab9375661268f5d_3",
       "typ_média": "http://www.iana.org/assignments/media-types/text/html",
       "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
       "podmínky_užití": {
@@ -45,12 +45,12 @@
     },
     {
       "typ": "Distribuce",
-      "iri": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Asisten%C4%8Dn%C3%AD_vouchery_2020___2022_WFL1/FeatureServer/0",
+      "iri": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Asisten%C4%8Dn%C3%AD_vouchery_2020___2022_WFL1/FeatureServer/3",
       "název": {
         "cs": "ArcGIS GeoService"
       },
-      "soubor_ke_stažení": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Asisten%C4%8Dn%C3%AD_vouchery_2020___2022_WFL1/FeatureServer/0",
-      "přístupové_url": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Asisten%C4%8Dn%C3%AD_vouchery_2020___2022_WFL1/FeatureServer/0",
+      "soubor_ke_stažení": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Asisten%C4%8Dn%C3%AD_vouchery_2020___2022_WFL1/FeatureServer/3",
+      "přístupové_url": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Asisten%C4%8Dn%C3%AD_vouchery_2020___2022_WFL1/FeatureServer/3",
       "typ_média": "http://www.iana.org/assignments/media-types/application/json",
       "formát": "http://publications.europa.eu/resource/authority/file-type/JSON",
       "podmínky_užití": {
@@ -63,12 +63,12 @@
     },
     {
       "typ": "Distribuce",
-      "iri": "https://www.datazapad.cz/api/download/v1/items/6cd2b71c45184327aab9375661268f5d/csv?layers=0",
+      "iri": "https://www.datazapad.cz/api/download/v1/items/6cd2b71c45184327aab9375661268f5d/csv?layers=3",
       "název": {
         "cs": "CSV"
       },
-      "soubor_ke_stažení": "https://www.datazapad.cz/api/download/v1/items/6cd2b71c45184327aab9375661268f5d/csv?layers=0",
-      "přístupové_url": "https://www.datazapad.cz/api/download/v1/items/6cd2b71c45184327aab9375661268f5d/csv?layers=0",
+      "soubor_ke_stažení": "https://www.datazapad.cz/api/download/v1/items/6cd2b71c45184327aab9375661268f5d/csv?layers=3",
+      "přístupové_url": "https://www.datazapad.cz/api/download/v1/items/6cd2b71c45184327aab9375661268f5d/csv?layers=3",
       "typ_média": "http://www.iana.org/assignments/media-types/text/csv",
       "formát": "http://publications.europa.eu/resource/authority/file-type/CSV",
       "podmínky_užití": {
@@ -81,12 +81,12 @@
     },
     {
       "typ": "Distribuce",
-      "iri": "https://www.datazapad.cz/api/download/v1/items/6cd2b71c45184327aab9375661268f5d/geojson?layers=0",
+      "iri": "https://www.datazapad.cz/api/download/v1/items/6cd2b71c45184327aab9375661268f5d/geojson?layers=3",
       "název": {
         "cs": "GeoJSON"
       },
-      "soubor_ke_stažení": "https://www.datazapad.cz/api/download/v1/items/6cd2b71c45184327aab9375661268f5d/geojson?layers=0",
-      "přístupové_url": "https://www.datazapad.cz/api/download/v1/items/6cd2b71c45184327aab9375661268f5d/geojson?layers=0",
+      "soubor_ke_stažení": "https://www.datazapad.cz/api/download/v1/items/6cd2b71c45184327aab9375661268f5d/geojson?layers=3",
+      "přístupové_url": "https://www.datazapad.cz/api/download/v1/items/6cd2b71c45184327aab9375661268f5d/geojson?layers=3",
       "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.geo+json",
       "formát": "http://publications.europa.eu/resource/authority/file-type/GEOJSON",
       "podmínky_užití": {
@@ -99,12 +99,12 @@
     },
     {
       "typ": "Distribuce",
-      "iri": "https://www.datazapad.cz/api/download/v1/items/6cd2b71c45184327aab9375661268f5d/shapefile?layers=0",
+      "iri": "https://www.datazapad.cz/api/download/v1/items/6cd2b71c45184327aab9375661268f5d/shapefile?layers=3",
       "název": {
         "cs": "Shapefile"
       },
-      "soubor_ke_stažení": "https://www.datazapad.cz/api/download/v1/items/6cd2b71c45184327aab9375661268f5d/shapefile?layers=0",
-      "přístupové_url": "https://www.datazapad.cz/api/download/v1/items/6cd2b71c45184327aab9375661268f5d/shapefile?layers=0",
+      "soubor_ke_stažení": "https://www.datazapad.cz/api/download/v1/items/6cd2b71c45184327aab9375661268f5d/shapefile?layers=3",
+      "přístupové_url": "https://www.datazapad.cz/api/download/v1/items/6cd2b71c45184327aab9375661268f5d/shapefile?layers=3",
       "typ_média": "http://www.iana.org/assignments/media-types/application/zip",
       "formát": "http://publications.europa.eu/resource/authority/file-type/ZIP",
       "podmínky_užití": {
@@ -117,12 +117,12 @@
     },
     {
       "typ": "Distribuce",
-      "iri": "https://www.datazapad.cz/api/download/v1/items/6cd2b71c45184327aab9375661268f5d/kml?layers=0",
+      "iri": "https://www.datazapad.cz/api/download/v1/items/6cd2b71c45184327aab9375661268f5d/kml?layers=3",
       "název": {
         "cs": "KML"
       },
-      "soubor_ke_stažení": "https://www.datazapad.cz/api/download/v1/items/6cd2b71c45184327aab9375661268f5d/kml?layers=0",
-      "přístupové_url": "https://www.datazapad.cz/api/download/v1/items/6cd2b71c45184327aab9375661268f5d/kml?layers=0",
+      "soubor_ke_stažení": "https://www.datazapad.cz/api/download/v1/items/6cd2b71c45184327aab9375661268f5d/kml?layers=3",
+      "přístupové_url": "https://www.datazapad.cz/api/download/v1/items/6cd2b71c45184327aab9375661268f5d/kml?layers=3",
       "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.google-earth.kml+xml",
       "formát": "http://publications.europa.eu/resource/authority/file-type/KML",
       "podmínky_užití": {
