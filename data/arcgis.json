@@ -354,95 +354,10 @@
     },
     {
       "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=6cd2b71c45184327aab9375661268f5d&sublayer=0",
-      "landingPage": "https://www.datazapad.cz/maps/6cd2b71c45184327aab9375661268f5d_0",
-      "title": "Asistenční vouchery 2020 - 2022",
-      "description": "Přehled žadatelů o asistenční voucher v letech 2020 - 2022 v Karlovarském kraji.",
-      "keyword": [
-        "asistenční voucher",
-        "voucher",
-        "Karlovarský kraj",
-        "žadatel"
-      ],
-      "issued": "2024-01-31T11:32:45.000Z",
-      "modified": "2024-02-05T10:59:13.310Z",
-      "publisher": {
-        "name": "Karlovarská agentura rozvoje podnikání, p.o."
-      },
-      "contactPoint": {
-        "fn": "pavla.brabencova_karp",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
-      },
-      "accessLevel": "public",
-      "spatial": {
-        "coordinates": [
-          [
-            12.2847,
-            50.0079
-          ],
-          [
-            14.4353,
-            50.3621
-          ]
-        ],
-        "type": "envelope"
-      },
-      "license": "http://creativecommons.org/licenses/by/4.0",
-      "distribution": [
-        {
-          "@type": "dcat:Distribution",
-          "title": "ArcGIS Hub Dataset",
-          "format": "Web Page",
-          "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/maps/6cd2b71c45184327aab9375661268f5d_0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "ArcGIS GeoService",
-          "format": "ArcGIS GeoServices REST API",
-          "mediaType": "application/json",
-          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Asisten%C4%8Dn%C3%AD_vouchery_2020___2022_WFL1/FeatureServer/0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "CSV",
-          "format": "CSV",
-          "mediaType": "text/csv",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/6cd2b71c45184327aab9375661268f5d/csv?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "GeoJSON",
-          "format": "GeoJSON",
-          "mediaType": "application/vnd.geo+json",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/6cd2b71c45184327aab9375661268f5d/geojson?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "Shapefile",
-          "format": "ZIP",
-          "mediaType": "application/zip",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/6cd2b71c45184327aab9375661268f5d/shapefile?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "KML",
-          "format": "KML",
-          "mediaType": "application/vnd.google-earth.kml+xml",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/6cd2b71c45184327aab9375661268f5d/kml?layers=0"
-        }
-      ],
-      "theme": [
-        "geospatial"
-      ]
-    },
-    {
-      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=6cd2b71c45184327aab9375661268f5d&sublayer=3",
       "landingPage": "https://www.datazapad.cz/maps/6cd2b71c45184327aab9375661268f5d_3",
-      "title": "Asistenční vouchery 2020 - 2022 v Karlovarském kraji",
-      "description": "<span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'>Datová sada obsahuje rovněž údaje o výši poskytnutých příspěvků, poskytnutí podpory a další podrobnosti o projektech žadatelů. Poskytovatel dat je Karlovarská agentura rozvoje podnikání, p.o.</span>",
+      "title": "Asistenční vouchery 2020 - 2022",
+      "description": "Přehled žadatelů o asistenční voucher v letech 2020 - 2022 v Karlovarském kraji.",
       "keyword": [
         "asistenční voucher",
         "voucher",
@@ -795,7 +710,7 @@
       "description": "{{description}}",
       "keyword": [],
       "issued": "2023-10-25T07:04:18.000Z",
-      "modified": "2024-02-29T05:35:42.539Z",
+      "modified": "2024-02-29T05:35:42.570Z",
       "publisher": {
         "name": "jan.sklepek@karp-kv.cz"
       },

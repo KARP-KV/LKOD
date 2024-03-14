@@ -4,10 +4,10 @@
   "typ": "Datová sada",
   "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891168",
   "název": {
-    "cs": "Asistenční vouchery 2020 - 2022 v Karlovarském kraji"
+    "cs": "Asistenční vouchery 2020 - 2022"
   },
   "popis": {
-    "cs": "Datová sada obsahuje rovněž údaje o výši poskytnutých příspěvků, poskytnutí podpory a další podrobnosti o projektech žadatelů. Poskytovatel dat je Karlovarská agentura rozvoje podnikání, p.o."
+    "cs": "Přehled žadatelů o asistenční voucher v letech 2020 - 2022 v Karlovarském kraji."
   },
   "klíčové_slovo": {
     "cs": [
