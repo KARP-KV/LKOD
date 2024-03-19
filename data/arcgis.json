@@ -92,6 +92,90 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=03dbe5719ab64960ae70ee90af4790c6&sublayer=0",
+      "landingPage": "https://www.datazapad.cz/maps/03dbe5719ab64960ae70ee90af4790c6_0",
+      "title": "Nemocnice v Karlovarském kraji",
+      "description": "V seznamu jsou uvedeny kontaktní údaje vč. adres nemocnic v Karlovarském kraji. Uvedeny jsou nemocnice zřízené Karlovarským krajem i nemocnice soukromé. Poskytovatelem dat je Krajský úřad Karlovarského kraje.",
+      "keyword": [
+        "nemocnice",
+        "Karlovarský kraj",
+        "seznam nemocnic"
+      ],
+      "issued": "2024-03-18T11:35:08.000Z",
+      "modified": "2024-03-18T11:35:11.153Z",
+      "publisher": {
+        "name": "Karlovarská agentura rozvoje podnikání, p.o."
+      },
+      "contactPoint": {
+        "fn": "pavla.brabencova_karp",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": {
+        "coordinates": [
+          [
+            12.3669,
+            49.9609
+          ],
+          [
+            12.9638,
+            50.3123
+          ]
+        ],
+        "type": "envelope"
+      },
+      "license": "http://creativecommons.org/publicdomain/zero/1.0",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datazapad.cz/maps/03dbe5719ab64960ae70ee90af4790c6_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Nemocnice_v_Karlovarsk%C3%A9m_kraji_WFL1/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/03dbe5719ab64960ae70ee90af4790c6/csv?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/03dbe5719ab64960ae70ee90af4790c6/geojson?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/03dbe5719ab64960ae70ee90af4790c6/shapefile?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/03dbe5719ab64960ae70ee90af4790c6/kml?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=11796bcb67ee47bd8d38c0ec271b2787&sublayer=0",
       "landingPage": "https://www.datazapad.cz/maps/11796bcb67ee47bd8d38c0ec271b2787_0",
       "title": "Seznam škol a školských zařízení do stupně VOŠ v Karlovarském kraji",
@@ -356,8 +440,8 @@
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=6cd2b71c45184327aab9375661268f5d&sublayer=3",
       "landingPage": "https://www.datazapad.cz/maps/6cd2b71c45184327aab9375661268f5d_3",
-      "title": "Asistenční vouchery 2020 - 2022",
-      "description": "Přehled žadatelů o asistenční voucher v letech 2020 - 2022 v Karlovarském kraji.",
+      "title": "Asistenční vouchery 2020 - 2022 v Karlovarském kraji",
+      "description": "<span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'>Datová sada obsahuje rovněž údaje o výši poskytnutých příspěvků, poskytnutí podpory a další podrobnosti o projektech žadatelů. Poskytovatel dat je Karlovarská agentura rozvoje podnikání, p.o.</span>",
       "keyword": [
         "asistenční voucher",
         "voucher",
