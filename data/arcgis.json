@@ -263,10 +263,100 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=11796bcb67ee47bd8d38c0ec271b2787&sublayer=0",
+      "landingPage": "https://www.datazapad.cz/maps/11796bcb67ee47bd8d38c0ec271b2787_0",
+      "title": "Seznam škol a školských zařízení do stupně VOŠ v Karlovarském kraji",
+      "description": "<div><font face='Avenir Next W01, Avenir Next W00, Avenir Next, Avenir, Helvetica Neue, sans-serif'><span style='font-size:16px;'>Seznam obsahuje kontakty - telefonický, e-mailový, fax a webové stránky školy (pokud jsou školou realizovány). Uveden je samozřejmě typ školy a specifikace vlastnictví.</span></font></div>",
+      "keyword": [
+        "školská zařízení",
+        "školy",
+        "Karlovarský kraj",
+        "mateřská škola",
+        "základní škola",
+        "střední škola",
+        "základní umělecká škola",
+        "vyšší odborná škola",
+        "dům dětí a mládeže"
+      ],
+      "issued": "2024-01-16T10:50:25.000Z",
+      "modified": "2024-04-23T11:12:02.151Z",
+      "publisher": {
+        "name": "Karlovarská agentura rozvoje podnikání, p.o."
+      },
+      "contactPoint": {
+        "fn": "pavla.brabencova_karp",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": {
+        "coordinates": [
+          [
+            12.1723,
+            49.9188
+          ],
+          [
+            13.2552,
+            50.4289
+          ]
+        ],
+        "type": "envelope"
+      },
+      "license": "CCO 1.0",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datazapad.cz/maps/11796bcb67ee47bd8d38c0ec271b2787_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Seznam_%C5%A1kol_a_%C5%A1kolsk%C3%BDch_za%C5%99%C3%ADzen%C3%AD_v_KVK__bez_V%C5%A0__WFL1/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/11796bcb67ee47bd8d38c0ec271b2787/csv?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/11796bcb67ee47bd8d38c0ec271b2787/geojson?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/11796bcb67ee47bd8d38c0ec271b2787/shapefile?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/11796bcb67ee47bd8d38c0ec271b2787/kml?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=11796bcb67ee47bd8d38c0ec271b2787&sublayer=3",
       "landingPage": "https://www.datazapad.cz/maps/11796bcb67ee47bd8d38c0ec271b2787_3",
       "title": "Seznam škol a školských zařízení do stupně VOŠ v Karlovarském kraji",
-      "description": "<div><font face='Avenir Next W01, Avenir Next W00, Avenir Next, Avenir, Helvetica Neue, sans-serif'><span style='font-size:16px;'>Seznam školských zařízení a škol od stupně mateřských škol do stupně vyšších odborných škol v Karlovarském kraji včetně kontaktů na zařízení.  Seznam neobsahuje vysoké školy.</span></font></div>",
+      "description": "<div><font face='Avenir Next W01, Avenir Next W00, Avenir Next, Avenir, Helvetica Neue, sans-serif'><span style='font-size:16px;'>Seznam obsahuje kontakty - telefonický, e-mailový, fax a webové stránky školy (pokud jsou školou realizovány). Uveden je samozřejmě typ školy a specifikace vlastnictví.</span></font></div>",
       "keyword": [
         "školská zařízení",
         "školy",
