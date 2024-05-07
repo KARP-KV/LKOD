@@ -263,6 +263,93 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=0fc741fffbb44c31820304ec60cc2ff0&sublayer=3",
+      "landingPage": "https://www.datazapad.cz/maps/0fc741fffbb44c31820304ec60cc2ff0_3",
+      "title": "Poskytovatelé pobytových sociálních služeb pro seniory v Karlovarském kraji",
+      "description": "Přehled obsahuje včetně názvu a IČ poskytovatele služby také identifikátor a druh pobytové sociální služby a webové stránky poskytovatele.",
+      "keyword": [
+        "poskytovatel",
+        "pobytové služby",
+        "pobytové sociální služby",
+        "senior",
+        "Karlovarský kraj",
+        "sociální služby"
+      ],
+      "issued": "2024-03-27T08:16:22.000Z",
+      "modified": "2024-05-06T09:09:09.373Z",
+      "publisher": {
+        "name": "Karlovarská agentura rozvoje podnikání, p.o."
+      },
+      "contactPoint": {
+        "fn": "pavla.brabencova_karp",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": {
+        "coordinates": [
+          [
+            12.1952,
+            49.9483
+          ],
+          [
+            12.9638,
+            50.3679
+          ]
+        ],
+        "type": "envelope"
+      },
+      "license": "http://creativecommons.org/publicdomain/zero/1.0",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datazapad.cz/maps/0fc741fffbb44c31820304ec60cc2ff0_3"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Poskytovatel%C3%A9_pobytov%C3%BDch_soci%C3%A1ln%C3%ADch_slu%C5%BEeb_v_KVK_WFL1/FeatureServer/3"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/0fc741fffbb44c31820304ec60cc2ff0/csv?layers=3"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/0fc741fffbb44c31820304ec60cc2ff0/geojson?layers=3"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/0fc741fffbb44c31820304ec60cc2ff0/shapefile?layers=3"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/0fc741fffbb44c31820304ec60cc2ff0/kml?layers=3"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=11796bcb67ee47bd8d38c0ec271b2787&sublayer=3",
       "landingPage": "https://www.datazapad.cz/maps/11796bcb67ee47bd8d38c0ec271b2787_3",
       "title": "Seznam škol a školských zařízení do stupně VOŠ v Karlovarském kraji",
@@ -874,8 +961,8 @@
     },
     {
       "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=8a71d71444f14acd8d43023ce9c3fb95&sublayer=0",
-      "landingPage": "https://www.datazapad.cz/maps/8a71d71444f14acd8d43023ce9c3fb95_0",
+      "identifier": "https://www.arcgis.com/home/item.html?id=8a71d71444f14acd8d43023ce9c3fb95&sublayer=3",
+      "landingPage": "https://www.datazapad.cz/maps/8a71d71444f14acd8d43023ce9c3fb95_3",
       "title": "Poskytovatelé sociálních služeb v Karlovarském kraji",
       "description": "Přehled obsahuje včetně názvu a IČ poskytovatele sociální služby rovněž identifikátor sociální služby, druh sociální služby a webové stránky poskytovatele sociální služby.",
       "keyword": [
@@ -887,7 +974,7 @@
         "sociální služba"
       ],
       "issued": "2024-03-27T08:03:50.000Z",
-      "modified": "2024-03-27T08:34:02.300Z",
+      "modified": "2024-05-06T08:46:55.120Z",
       "publisher": {
         "name": "Karlovarská agentura rozvoje podnikání, p.o."
       },
@@ -904,8 +991,8 @@
             49.7363
           ],
           [
-            15.1572,
-            50.7065
+            14.6365,
+            50.676
           ]
         ],
         "type": "envelope"
@@ -917,42 +1004,42 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/maps/8a71d71444f14acd8d43023ce9c3fb95_0"
+          "accessURL": "https://www.datazapad.cz/maps/8a71d71444f14acd8d43023ce9c3fb95_3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "ArcGIS GeoService",
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
-          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Poskytovatel%C3%A9_soci%C3%A1ln%C3%ADch_slu%C5%BEeb_v_Karlovarsk%C3%A9m_kraji_WFL1/FeatureServer/0"
+          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Poskytovatel%C3%A9_soci%C3%A1ln%C3%ADch_slu%C5%BEeb_v_Karlovarsk%C3%A9m_kraji_WFL1/FeatureServer/3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "CSV",
           "format": "CSV",
           "mediaType": "text/csv",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/8a71d71444f14acd8d43023ce9c3fb95/csv?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/8a71d71444f14acd8d43023ce9c3fb95/csv?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "GeoJSON",
           "format": "GeoJSON",
           "mediaType": "application/vnd.geo+json",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/8a71d71444f14acd8d43023ce9c3fb95/geojson?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/8a71d71444f14acd8d43023ce9c3fb95/geojson?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Shapefile",
           "format": "ZIP",
           "mediaType": "application/zip",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/8a71d71444f14acd8d43023ce9c3fb95/shapefile?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/8a71d71444f14acd8d43023ce9c3fb95/shapefile?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "KML",
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/8a71d71444f14acd8d43023ce9c3fb95/kml?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/8a71d71444f14acd8d43023ce9c3fb95/kml?layers=3"
         }
       ],
       "theme": [
