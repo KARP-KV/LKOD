@@ -176,93 +176,6 @@
     },
     {
       "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=0fc741fffbb44c31820304ec60cc2ff0&sublayer=0",
-      "landingPage": "https://www.datazapad.cz/maps/0fc741fffbb44c31820304ec60cc2ff0_0",
-      "title": "Poskytovatelé pobytových sociálních služeb pro seniory v Karlovarském kraji",
-      "description": "Přehled obsahuje včetně názvu a IČ poskytovatele služby také identifikátor a druh pobytové sociální služby a webové stránky poskytovatele.",
-      "keyword": [
-        "poskytovatel",
-        "pobytové služby",
-        "pobytové sociální služby",
-        "senior",
-        "Karlovarský kraj",
-        "sociální služby"
-      ],
-      "issued": "2024-03-27T08:16:22.000Z",
-      "modified": "2024-03-27T08:16:31.090Z",
-      "publisher": {
-        "name": "Karlovarská agentura rozvoje podnikání, p.o."
-      },
-      "contactPoint": {
-        "fn": "pavla.brabencova_karp",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
-      },
-      "accessLevel": "public",
-      "spatial": {
-        "coordinates": [
-          [
-            12.1952,
-            49.9483
-          ],
-          [
-            12.9638,
-            50.3679
-          ]
-        ],
-        "type": "envelope"
-      },
-      "license": "http://creativecommons.org/publicdomain/zero/1.0",
-      "distribution": [
-        {
-          "@type": "dcat:Distribution",
-          "title": "ArcGIS Hub Dataset",
-          "format": "Web Page",
-          "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/maps/0fc741fffbb44c31820304ec60cc2ff0_0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "ArcGIS GeoService",
-          "format": "ArcGIS GeoServices REST API",
-          "mediaType": "application/json",
-          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Poskytovatel%C3%A9_pobytov%C3%BDch_soci%C3%A1ln%C3%ADch_slu%C5%BEeb_v_KVK_WFL1/FeatureServer/0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "CSV",
-          "format": "CSV",
-          "mediaType": "text/csv",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/0fc741fffbb44c31820304ec60cc2ff0/csv?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "GeoJSON",
-          "format": "GeoJSON",
-          "mediaType": "application/vnd.geo+json",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/0fc741fffbb44c31820304ec60cc2ff0/geojson?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "Shapefile",
-          "format": "ZIP",
-          "mediaType": "application/zip",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/0fc741fffbb44c31820304ec60cc2ff0/shapefile?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "KML",
-          "format": "KML",
-          "mediaType": "application/vnd.google-earth.kml+xml",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/0fc741fffbb44c31820304ec60cc2ff0/kml?layers=0"
-        }
-      ],
-      "theme": [
-        "geospatial"
-      ]
-    },
-    {
-      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=0fc741fffbb44c31820304ec60cc2ff0&sublayer=3",
       "landingPage": "https://www.datazapad.cz/maps/0fc741fffbb44c31820304ec60cc2ff0_3",
       "title": "Poskytovatelé pobytových sociálních služeb pro seniory v Karlovarském kraji",
@@ -276,7 +189,7 @@
         "sociální služby"
       ],
       "issued": "2024-03-27T08:16:22.000Z",
-      "modified": "2024-05-06T09:09:09.373Z",
+      "modified": "2024-05-06T08:55:22.153Z",
       "publisher": {
         "name": "Karlovarská agentura rozvoje podnikání, p.o."
       },
@@ -974,7 +887,7 @@
         "sociální služba"
       ],
       "issued": "2024-03-27T08:03:50.000Z",
-      "modified": "2024-05-06T08:46:55.120Z",
+      "modified": "2024-05-06T09:00:37.270Z",
       "publisher": {
         "name": "Karlovarská agentura rozvoje podnikání, p.o."
       },
