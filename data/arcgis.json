@@ -353,6 +353,90 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=2fe4d27ac10341f6bd2b4ea6380a2599&sublayer=0",
+      "landingPage": "https://www.datazapad.cz/maps/2fe4d27ac10341f6bd2b4ea6380a2599_0",
+      "title": "Rozhledny v Karlovarském kraji WFL1",
+      "description": "Seznam rozhleden v Karlovarském kraji",
+      "keyword": [
+        "rozhledna",
+        "vyhlídka",
+        "Karlovarský kraj"
+      ],
+      "issued": "2024-05-13T10:45:39.000Z",
+      "modified": "2024-05-13T10:45:42.820Z",
+      "publisher": {
+        "name": "Karlovarská agentura rozvoje podnikání, p.o."
+      },
+      "contactPoint": {
+        "fn": "pavla.brabencova_karp",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": {
+        "coordinates": [
+          [
+            12.2018,
+            49.9352
+          ],
+          [
+            13.0044,
+            50.4002
+          ]
+        ],
+        "type": "envelope"
+      },
+      "license": "http://creativecommons.org/licenses/by/4.0",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datazapad.cz/maps/2fe4d27ac10341f6bd2b4ea6380a2599_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Rozhledny_v_Karlovarsk%C3%A9m_kraji_WFL1/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/2fe4d27ac10341f6bd2b4ea6380a2599/csv?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/2fe4d27ac10341f6bd2b4ea6380a2599/geojson?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/2fe4d27ac10341f6bd2b4ea6380a2599/shapefile?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/2fe4d27ac10341f6bd2b4ea6380a2599/kml?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=387d1403bddb48b09ba4e3cd3b7894f8&sublayer=0",
       "landingPage": "https://www.datazapad.cz/maps/387d1403bddb48b09ba4e3cd3b7894f8_0",
       "title": "Kreativní vouchery 2020 - 2022",
