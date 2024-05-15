@@ -355,7 +355,7 @@
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=2fe4d27ac10341f6bd2b4ea6380a2599&sublayer=0",
       "landingPage": "https://www.datazapad.cz/maps/2fe4d27ac10341f6bd2b4ea6380a2599_0",
-      "title": "Rozhledny v Karlovarském kraji WFL1",
+      "title": "Rozhledny v Karlovarském kraji",
       "description": "Seznam rozhleden v Karlovarském kraji",
       "keyword": [
         "rozhledna",
@@ -601,6 +601,90 @@
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
           "accessURL": "https://www.datazapad.cz/api/download/v1/items/5ad57de2f5ea4f4483fd123f48beee47/kml?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=5e900a28dedd446aa8ae18d49ac88d70&sublayer=0",
+      "landingPage": "https://www.datazapad.cz/maps/5e900a28dedd446aa8ae18d49ac88d70_0",
+      "title": "Agroturistické destinace v Karlovarském kraji",
+      "description": "Přehled uvádí rovněž kontaktní údaje na agroturistické destinace a webové stránky. Dále uvádí specifikaci agroturistických destinací (zaměření).",
+      "keyword": [
+        "agroturistika",
+        "agroturistická destinace",
+        "Karlovarský kraj"
+      ],
+      "issued": "2024-05-14T09:39:12.000Z",
+      "modified": "2024-05-14T09:39:15.003Z",
+      "publisher": {
+        "name": "Karlovarská agentura rozvoje podnikání, p.o."
+      },
+      "contactPoint": {
+        "fn": "pavla.brabencova_karp",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": {
+        "coordinates": [
+          [
+            12.6735,
+            50.0105
+          ],
+          [
+            13.0162,
+            50.2982
+          ]
+        ],
+        "type": "envelope"
+      },
+      "license": "http://creativecommons.org/licenses/by/4.0",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datazapad.cz/maps/5e900a28dedd446aa8ae18d49ac88d70_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Agroturistick%C3%A9_destinace_v_KVK_WFL1/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/5e900a28dedd446aa8ae18d49ac88d70/csv?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/5e900a28dedd446aa8ae18d49ac88d70/geojson?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/5e900a28dedd446aa8ae18d49ac88d70/shapefile?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/5e900a28dedd446aa8ae18d49ac88d70/kml?layers=0"
         }
       ],
       "theme": [
