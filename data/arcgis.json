@@ -1219,6 +1219,91 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=98d26c1b1c8f4bd49850af82a19a7f58&sublayer=0",
+      "landingPage": "https://www.datazapad.cz/maps/98d26c1b1c8f4bd49850af82a19a7f58_0",
+      "title": "Aquaparky, koupaliště a bazény v Karlovarském kraji",
+      "description": "<p>Datová sada obsahuje rovněž webové stránky zařízení a kontaktní e-mail a telefonní číslo.</p>",
+      "keyword": [
+        "aquapark",
+        "koupaliště",
+        "bazén",
+        "Karlovarský kraj"
+      ],
+      "issued": "2024-05-16T07:06:20.000Z",
+      "modified": "2024-05-16T07:06:25.051Z",
+      "publisher": {
+        "name": "Karlovarská agentura rozvoje podnikání, p.o."
+      },
+      "contactPoint": {
+        "fn": "pavla.brabencova_karp",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": {
+        "coordinates": [
+          [
+            12.195,
+            49.9671
+          ],
+          [
+            12.9601,
+            50.3602
+          ]
+        ],
+        "type": "envelope"
+      },
+      "license": "http://creativecommons.org/licenses/by/4.0",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datazapad.cz/maps/98d26c1b1c8f4bd49850af82a19a7f58_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Aquaparky__koupali%C5%A1t%C4%9B_a_baz%C3%A9ny_v_Karlovarsk%C3%A9m_kraji_WFL1/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/98d26c1b1c8f4bd49850af82a19a7f58/csv?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/98d26c1b1c8f4bd49850af82a19a7f58/geojson?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/98d26c1b1c8f4bd49850af82a19a7f58/shapefile?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/98d26c1b1c8f4bd49850af82a19a7f58/kml?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=a80fbe6e01f742a8a0a7b507bfb3998f&sublayer=3",
       "landingPage": "https://www.datazapad.cz/maps/a80fbe6e01f742a8a0a7b507bfb3998f_3",
       "title": "Organizace zřízené Karlovarským krajem",
