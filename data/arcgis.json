@@ -1646,8 +1646,8 @@
     },
     {
       "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=d51db8b1ac8f40b6adf214e67cbb6f30&sublayer=0",
-      "landingPage": "https://www.datazapad.cz/maps/d51db8b1ac8f40b6adf214e67cbb6f30_0",
+      "identifier": "https://www.arcgis.com/home/item.html?id=d51db8b1ac8f40b6adf214e67cbb6f30&sublayer=3",
+      "landingPage": "https://www.datazapad.cz/maps/d51db8b1ac8f40b6adf214e67cbb6f30_3",
       "title": "Pohřební služby v Karlovarském kraji",
       "description": "<p>Datová sada obsahuje kontaktní údaje pohřebních služeb, webové stránky a umístění poboček pohřebních služeb.</p>",
       "keyword": [
@@ -1657,7 +1657,7 @@
         "pohřeb"
       ],
       "issued": "2024-05-22T09:02:57.000Z",
-      "modified": "2024-05-22T09:03:00.158Z",
+      "modified": "2024-05-27T10:18:52.445Z",
       "publisher": {
         "name": "Karlovarská agentura rozvoje podnikání, p.o."
       },
@@ -1671,10 +1671,10 @@
         "coordinates": [
           [
             12.1896,
-            49.9582
+            49.8723
           ],
           [
-            12.939,
+            12.9869,
             50.3252
           ]
         ],
@@ -1687,42 +1687,42 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/maps/d51db8b1ac8f40b6adf214e67cbb6f30_0"
+          "accessURL": "https://www.datazapad.cz/maps/d51db8b1ac8f40b6adf214e67cbb6f30_3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "ArcGIS GeoService",
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
-          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Poh%C5%99ebn%C3%AD_slu%C5%BEby_v_Karlovarsk%C3%A9m_kraji_WFL1/FeatureServer/0"
+          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Poh%C5%99ebn%C3%AD_slu%C5%BEby_v_Karlovarsk%C3%A9m_kraji_WFL1/FeatureServer/3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "CSV",
           "format": "CSV",
           "mediaType": "text/csv",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/d51db8b1ac8f40b6adf214e67cbb6f30/csv?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/d51db8b1ac8f40b6adf214e67cbb6f30/csv?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "GeoJSON",
           "format": "GeoJSON",
           "mediaType": "application/vnd.geo+json",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/d51db8b1ac8f40b6adf214e67cbb6f30/geojson?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/d51db8b1ac8f40b6adf214e67cbb6f30/geojson?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Shapefile",
           "format": "ZIP",
           "mediaType": "application/zip",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/d51db8b1ac8f40b6adf214e67cbb6f30/shapefile?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/d51db8b1ac8f40b6adf214e67cbb6f30/shapefile?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "KML",
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/d51db8b1ac8f40b6adf214e67cbb6f30/kml?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/d51db8b1ac8f40b6adf214e67cbb6f30/kml?layers=3"
         }
       ],
       "theme": [
@@ -1734,7 +1734,7 @@
       "identifier": "https://www.arcgis.com/home/item.html?id=f98f8248cdf140ad84649976f2d6f499&sublayer=3",
       "landingPage": "https://www.datazapad.cz/maps/f98f8248cdf140ad84649976f2d6f499_3",
       "title": "Inovační infrastruktury Karlovarského kraje",
-      "description": "<p><span style=\"font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif;font-size:16px;\">Datová sada s prostorovou lokalizací inovačních infrastruktur Karlovarského kraje - coworkingová centra, pobočky vysokých škol, podnikatelské inkubátory, vědeckotechnické parky, výzkumné organizace a další významné organizace inovačního prostředí KVK. Zdrojem dat je Karlovarská agentura rozvoje podnikání, p.o.</span></p>",
+      "description": "<p><span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'>Zdrojem dat je Karlovarská agentura rozvoje podnikání, p.o.</span></p>",
       "keyword": [
         "inovační infrastruktury",
         "Karlovarský  kraj",
