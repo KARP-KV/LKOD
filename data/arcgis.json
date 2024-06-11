@@ -693,6 +693,91 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=5b6083d1a59d46c59d26717b31e991d1&sublayer=0",
+      "landingPage": "https://www.datazapad.cz/maps/5b6083d1a59d46c59d26717b31e991d1_0",
+      "title": "Archeologické památky v Karlovarském kraji",
+      "description": "Datová sada obsahuje rovněž webové stránky s informacemi o památce.",
+      "keyword": [
+        "Archeologické památky",
+        "Karlovarský kraj",
+        "památky",
+        "archeologie"
+      ],
+      "issued": "2024-06-10T07:12:59.000Z",
+      "modified": "2024-06-10T07:13:02.550Z",
+      "publisher": {
+        "name": "Karlovarská agentura rozvoje podnikání, p.o."
+      },
+      "contactPoint": {
+        "fn": "pavla.brabencova_karp",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": {
+        "coordinates": [
+          [
+            12.7299,
+            50.0787
+          ],
+          [
+            13.213,
+            50.2115
+          ]
+        ],
+        "type": "envelope"
+      },
+      "license": "http://creativecommons.org/licenses/by/4.0",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datazapad.cz/maps/5b6083d1a59d46c59d26717b31e991d1_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Archeologick%C3%A9_pam%C3%A1tky_v_KVK_WFL1/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/5b6083d1a59d46c59d26717b31e991d1/csv?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/5b6083d1a59d46c59d26717b31e991d1/geojson?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/5b6083d1a59d46c59d26717b31e991d1/shapefile?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/5b6083d1a59d46c59d26717b31e991d1/kml?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=5e900a28dedd446aa8ae18d49ac88d70&sublayer=0",
       "landingPage": "https://www.datazapad.cz/maps/5e900a28dedd446aa8ae18d49ac88d70_0",
       "title": "Agroturistické destinace v Karlovarském kraji",
