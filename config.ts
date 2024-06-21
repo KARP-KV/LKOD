@@ -1,6 +1,6 @@
 import path from "path";
 
-export const ARCGIS_URL = 'https://www.datazapad.cz/data.json';
+export const ARCGIS_URL = 'https://www.datazapad.cz/api/feed/dcat-ap/2.1.1.json';
 export const ARCGIS_FILE = path.resolve(__dirname, 'data/arcgis.json');
 
 export const DTO_FILE = path.resolve(__dirname, 'data/dto.json');
