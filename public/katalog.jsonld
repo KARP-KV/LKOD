@@ -17,5 +17,32 @@
     },
     "e-mail": "mailto:info@datazapad.cz"
   },
-  "datová_sada": []
+  "datová_sada": [
+    "https://open.datazapad.cz/01fcf68eb2054fb3ab99af6aa34af6e4.jsonld",
+    "https://open.datazapad.cz/03dbe5719ab64960ae70ee90af4790c6.jsonld",
+    "https://open.datazapad.cz/0fc741fffbb44c31820304ec60cc2ff0.jsonld",
+    "https://open.datazapad.cz/11796bcb67ee47bd8d38c0ec271b2787.jsonld",
+    "https://open.datazapad.cz/1384c78c4e6846219a9829cd07c81f60.jsonld",
+    "https://open.datazapad.cz/2fe4d27ac10341f6bd2b4ea6380a2599.jsonld",
+    "https://open.datazapad.cz/387d1403bddb48b09ba4e3cd3b7894f8.jsonld",
+    "https://open.datazapad.cz/57a4ac11b4014df7803496c91408ec4e.jsonld",
+    "https://open.datazapad.cz/5ad57de2f5ea4f4483fd123f48beee47.jsonld",
+    "https://open.datazapad.cz/5b6083d1a59d46c59d26717b31e991d1.jsonld",
+    "https://open.datazapad.cz/5e85e517a5be4765bab75d6803665a2c.jsonld",
+    "https://open.datazapad.cz/5e900a28dedd446aa8ae18d49ac88d70.jsonld",
+    "https://open.datazapad.cz/6cd2b71c45184327aab9375661268f5d.jsonld",
+    "https://open.datazapad.cz/6f9302623bcd4a72af2ac674c3b46adf.jsonld",
+    "https://open.datazapad.cz/72aa9de6abc94f949f3959e70e0d241d.jsonld",
+    "https://open.datazapad.cz/7974da466d594bdea7953f3542ef5ca9.jsonld",
+    "https://open.datazapad.cz/8a71d71444f14acd8d43023ce9c3fb95.jsonld",
+    "https://open.datazapad.cz/8ae1f28fc17f4918a0dba74bb11797ff.jsonld",
+    "https://open.datazapad.cz/903168d407624e57a43cb4ab9bc97620.jsonld",
+    "https://open.datazapad.cz/98d26c1b1c8f4bd49850af82a19a7f58.jsonld",
+    "https://open.datazapad.cz/a80fbe6e01f742a8a0a7b507bfb3998f.jsonld",
+    "https://open.datazapad.cz/b20504884a5f4ab3acc4fa7bc2611be2.jsonld",
+    "https://open.datazapad.cz/b59dc439b86147e4aefba8d94fc6aa9e.jsonld",
+    "https://open.datazapad.cz/c3a42c283f0649248326a0bbd7dc5cc3.jsonld",
+    "https://open.datazapad.cz/d51db8b1ac8f40b6adf214e67cbb6f30.jsonld",
+    "https://open.datazapad.cz/f98f8248cdf140ad84649976f2d6f499.jsonld"
+  ]
 }
