@@ -608,6 +608,91 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=4d8d7284782049ee826b794af25cbc05&sublayer=0",
+      "landingPage": "https://www.datazapad.cz/maps/4d8d7284782049ee826b794af25cbc05_0",
+      "title": "Živnostenské úřady v Karlovarském kraji",
+      "description": "<p>Datová sada obsahuje kromě specifikace umístění obecního živnostenského úřadu rovněž webové stránky, telefonní a e-mailové kontaktní údaje úřadu.</p>",
+      "keyword": [
+        "živnostenský úřad",
+        "živnostenské úřady",
+        "Karlovarský kraj",
+        "úřad"
+      ],
+      "issued": "2024-07-03T09:12:51.000Z",
+      "modified": "2024-07-03T09:13:02.575Z",
+      "publisher": {
+        "name": "Karlovarská agentura rozvoje podnikání, p.o."
+      },
+      "contactPoint": {
+        "fn": "pavla.brabencova_karp",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": {
+        "coordinates": [
+          [
+            12.1903,
+            49.9581
+          ],
+          [
+            12.9405,
+            50.3297
+          ]
+        ],
+        "type": "envelope"
+      },
+      "license": "http://creativecommons.org/publicdomain/zero/1.0",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datazapad.cz/maps/4d8d7284782049ee826b794af25cbc05_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/%C5%BDivnostensk%C3%A9_%C3%BA%C5%99ady_v_Karlovarsk%C3%A9m_kraji_WFL1/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/4d8d7284782049ee826b794af25cbc05/csv?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/4d8d7284782049ee826b794af25cbc05/geojson?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/4d8d7284782049ee826b794af25cbc05/shapefile?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/4d8d7284782049ee826b794af25cbc05/kml?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=57a4ac11b4014df7803496c91408ec4e&sublayer=0",
       "landingPage": "https://www.datazapad.cz/maps/57a4ac11b4014df7803496c91408ec4e_0",
       "title": "Stavební úřady v Karlovarském kraji dle katastrálních území",
@@ -2067,6 +2152,91 @@
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
           "accessURL": "https://www.datazapad.cz/api/download/v1/items/c3a42c283f0649248326a0bbd7dc5cc3/kml?layers=3"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=d27fb764c5a642e2bf2f8c134cbdeca2&sublayer=0",
+      "landingPage": "https://www.datazapad.cz/maps/d27fb764c5a642e2bf2f8c134cbdeca2_0",
+      "title": "Živnostenské úřady v Karlovarském kraji dle územní příslušnosti obcí",
+      "description": "Datová sada kromě územní příslušnosti obcí a specifikace umístění příslušného obecního živnostenského úřadu obsahuje také webové stránky a kontaktní údaje (e-mail a telefonní číslo) úřadů.",
+      "keyword": [
+        "živnostenský úřad",
+        "živnostenské úřady",
+        "Karlovarský kraj",
+        "úřad"
+      ],
+      "issued": "2024-07-03T09:23:42.000Z",
+      "modified": "2024-07-03T09:23:45.654Z",
+      "publisher": {
+        "name": "Karlovarská agentura rozvoje podnikání, p.o."
+      },
+      "contactPoint": {
+        "fn": "pavla.brabencova_karp",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": {
+        "coordinates": [
+          [
+            12.1903,
+            49.9581
+          ],
+          [
+            12.9405,
+            50.3297
+          ]
+        ],
+        "type": "envelope"
+      },
+      "license": "http://creativecommons.org/publicdomain/zero/1.0",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datazapad.cz/maps/d27fb764c5a642e2bf2f8c134cbdeca2_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/%C5%BDivnostensk%C3%A9_%C3%BA%C5%99ady_v_Karlovarsk%C3%A9m_kraji_dle_p%C5%99%C3%ADslu%C5%A1nosti_obc%C3%AD_WFL1/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/d27fb764c5a642e2bf2f8c134cbdeca2/csv?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/d27fb764c5a642e2bf2f8c134cbdeca2/geojson?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/d27fb764c5a642e2bf2f8c134cbdeca2/shapefile?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/d27fb764c5a642e2bf2f8c134cbdeca2/kml?layers=0"
         }
       ],
       "theme": [
