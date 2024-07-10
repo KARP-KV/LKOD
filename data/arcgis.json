@@ -176,6 +176,92 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=0fbcd94c27344fef86d2dafde1230761&sublayer=0",
+      "landingPage": "https://www.datazapad.cz/maps/0fbcd94c27344fef86d2dafde1230761_0",
+      "title": "Matriční úřady Karlovarského kraje",
+      "description": "Vrstva matričních úřadů Karlovarského kraje pro účely publikace jako open data. Obsahuje název úřadu, adresu, telefon, úřední dny a úřední hodiny, adresu e-podatelny, kód adresního místa z RÚIAN, a souřadnicové umístění matričního úřadu. ",
+      "keyword": [
+        "opendata",
+        "Karlovarský kraj",
+        "matriční úřady",
+        "matrika",
+        "úřad"
+      ],
+      "issued": "2024-07-09T05:50:23.000Z",
+      "modified": "2024-07-09T06:09:33.000Z",
+      "publisher": {
+        "name": "KK_User2A2"
+      },
+      "contactPoint": {
+        "fn": "KK_User2A2",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": {
+        "coordinates": [
+          [
+            12.1685,
+            49.9185
+          ],
+          [
+            13.1815,
+            50.4008
+          ]
+        ],
+        "type": "envelope"
+      },
+      "license": "http://creativecommons.org/publicdomain/zero/1.0",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datazapad.cz/maps/0fbcd94c27344fef86d2dafde1230761_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://geoportal.kr-karlovarsky.cz/arcgis/rest/services/OpenData/MatricniUrady/MapServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/0fbcd94c27344fef86d2dafde1230761/csv?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/0fbcd94c27344fef86d2dafde1230761/geojson?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/0fbcd94c27344fef86d2dafde1230761/shapefile?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/0fbcd94c27344fef86d2dafde1230761/kml?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=0fc741fffbb44c31820304ec60cc2ff0&sublayer=3",
       "landingPage": "https://www.datazapad.cz/maps/0fc741fffbb44c31820304ec60cc2ff0_3",
       "title": "Poskytovatelé pobytových sociálních služeb pro seniory v Karlovarském kraji",
