@@ -865,6 +865,91 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=58bc30d273d84926bc4e817aabca9321&sublayer=0",
+      "landingPage": "https://www.datazapad.cz/maps/58bc30d273d84926bc4e817aabca9321_0",
+      "title": "Golfová hřiště v Karlovarském kraji",
+      "description": "Datová sada obsahuje včetně specifikace umístění golfového hřiště rovněž kontaktní údaje - webové stránky, kontaktní e-mail a kontaktní telefon.",
+      "keyword": [
+        "golf",
+        "golfové hřiště",
+        "Karlovarský kraj",
+        "golfová hřiště"
+      ],
+      "issued": "2024-07-10T09:09:40.000Z",
+      "modified": "2024-07-10T09:09:50.313Z",
+      "publisher": {
+        "name": "Karlovarská agentura rozvoje podnikání, p.o."
+      },
+      "contactPoint": {
+        "fn": "pavla.brabencova_karp",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": {
+        "coordinates": [
+          [
+            12.276,
+            49.9791
+          ],
+          [
+            12.9292,
+            50.2632
+          ]
+        ],
+        "type": "envelope"
+      },
+      "license": "http://creativecommons.org/licenses/by/4.0",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datazapad.cz/maps/58bc30d273d84926bc4e817aabca9321_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Golfov%C3%A1_h%C5%99i%C5%A1t%C4%9B_v_Karlovarsk%C3%A9m_kraji_WFL1/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/58bc30d273d84926bc4e817aabca9321/csv?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/58bc30d273d84926bc4e817aabca9321/geojson?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/58bc30d273d84926bc4e817aabca9321/shapefile?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/58bc30d273d84926bc4e817aabca9321/kml?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=5ad57de2f5ea4f4483fd123f48beee47&sublayer=3",
       "landingPage": "https://www.datazapad.cz/maps/5ad57de2f5ea4f4483fd123f48beee47_3",
       "title": "Galerie kreativců Karlovarského kraje",
