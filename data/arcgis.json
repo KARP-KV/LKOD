@@ -179,21 +179,20 @@
       "identifier": "https://www.arcgis.com/home/item.html?id=0fbcd94c27344fef86d2dafde1230761&sublayer=0",
       "landingPage": "https://www.datazapad.cz/maps/0fbcd94c27344fef86d2dafde1230761_0",
       "title": "Matriční úřady Karlovarského kraje",
-      "description": "Vrstva matričních úřadů Karlovarského kraje pro účely publikace jako open data. Obsahuje název úřadu, adresu, telefon, úřední dny a úřední hodiny, adresu e-podatelny, kód adresního místa z RÚIAN, a souřadnicové umístění matričního úřadu. ",
+      "description": "Vrstva matričních úřadů Karlovarského kraje pro účely publikace jako open data. Obsahuje název úřadu, adresu, telefon, úřední dny a úřední hodiny, adresu e-podatelny, kód adresního místa z RÚIAN, a souřadnicové umístění matričního úřadu.",
       "keyword": [
-        "opendata",
         "Karlovarský kraj",
-        "matriční úřady",
         "matrika",
+        "matriční úřady",
         "úřad"
       ],
       "issued": "2024-07-09T05:50:23.000Z",
-      "modified": "2024-07-09T06:09:33.000Z",
+      "modified": "2024-07-15T11:20:17.000Z",
       "publisher": {
-        "name": "KK_User2A2"
+        "name": "Krajský úřad Karlovarského kraje"
       },
       "contactPoint": {
-        "fn": "KK_User2A2",
+        "fn": "Karlovarsky.Kraj",
         "hasEmail": "{{orgContactEmail}}",
         "@type": "vcard:Contact"
       },

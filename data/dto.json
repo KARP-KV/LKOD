@@ -333,14 +333,13 @@
         "cs": "Matriční úřady Karlovarského kraje"
       },
       "popis": {
-        "cs": "Vrstva matričních úřadů Karlovarského kraje pro účely publikace jako open data. Obsahuje název úřadu, adresu, telefon, úřední dny a úřední hodiny, adresu e-podatelny, kód adresního místa z RÚIAN, a souřadnicové umístění matričního úřadu. "
+        "cs": "Vrstva matričních úřadů Karlovarského kraje pro účely publikace jako open data. Obsahuje název úřadu, adresu, telefon, úřední dny a úřední hodiny, adresu e-podatelny, kód adresního místa z RÚIAN, a souřadnicové umístění matričního úřadu."
       },
       "klíčové_slovo": {
         "cs": [
-          "opendata",
           "Karlovarský kraj",
-          "matriční úřady",
           "matrika",
+          "matriční úřady",
           "úřad"
         ]
       },
