@@ -608,6 +608,95 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=1e64adf22f8448a693f638c9f1334dc9&sublayer=0",
+      "landingPage": "https://www.datazapad.cz/maps/1e64adf22f8448a693f638c9f1334dc9_0",
+      "title": "Jiné atraktivity v Karlovarském kraji",
+      "description": "<p>Datová sada obsahuje kromě specifikace umístění atraktivity rovněž webové stránky, kontaktní e-mail a telefon příslušné atraktivity.</p>",
+      "keyword": [
+        "atraktivita",
+        "atraktivity",
+        "Karlovarský kraj",
+        "motýlí dům",
+        "věž",
+        "podzemí",
+        "park",
+        "trojstátí"
+      ],
+      "issued": "2024-08-07T09:19:48.000Z",
+      "modified": "2024-08-07T09:20:02.957Z",
+      "publisher": {
+        "name": "Karlovarská agentura rozvoje podnikání, p.o."
+      },
+      "contactPoint": {
+        "fn": "pavla.brabencova_karp",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": {
+        "coordinates": [
+          [
+            12.1011,
+            49.9711
+          ],
+          [
+            13.0002,
+            50.3965
+          ]
+        ],
+        "type": "envelope"
+      },
+      "license": "http://creativecommons.org/licenses/by/4.0",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datazapad.cz/maps/1e64adf22f8448a693f638c9f1334dc9_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Jin%C3%A9_atraktivity_v_Karlovarsk%C3%A9m_kraji_WFL1/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/1e64adf22f8448a693f638c9f1334dc9/csv?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/1e64adf22f8448a693f638c9f1334dc9/geojson?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/1e64adf22f8448a693f638c9f1334dc9/shapefile?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/1e64adf22f8448a693f638c9f1334dc9/kml?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=2fe4d27ac10341f6bd2b4ea6380a2599&sublayer=0",
       "landingPage": "https://www.datazapad.cz/maps/2fe4d27ac10341f6bd2b4ea6380a2599_0",
       "title": "Rozhledny v Karlovarském kraji",
