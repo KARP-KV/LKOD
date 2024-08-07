@@ -1375,6 +1375,92 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=5e92fe0bd817496eb38cd733543e56f8&sublayer=0",
+      "landingPage": "https://www.datazapad.cz/maps/5e92fe0bd817496eb38cd733543e56f8_0",
+      "title": "Odborné organizace v cestovním ruchu a lázeňství působící v Karlovarském kraji",
+      "description": "<p>Datová sada obsahuje kromě adresy organizace rovněž webové stránky, kontaktní e-mail a telefon jednotlivých organizací.</p>",
+      "keyword": [
+        "Karlovarský kraj",
+        "cestovní ruch",
+        "lázeňství",
+        "organizace",
+        "odborné organizace"
+      ],
+      "issued": "2024-08-06T10:56:12.000Z",
+      "modified": "2024-08-06T10:56:21.409Z",
+      "publisher": {
+        "name": "Karlovarská agentura rozvoje podnikání, p.o."
+      },
+      "contactPoint": {
+        "fn": "pavla.brabencova_karp",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": {
+        "coordinates": [
+          [
+            5.8669,
+            50.0731
+          ],
+          [
+            14.427,
+            50.4935
+          ]
+        ],
+        "type": "envelope"
+      },
+      "license": "http://creativecommons.org/publicdomain/zero/1.0",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datazapad.cz/maps/5e92fe0bd817496eb38cd733543e56f8_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Odborn%C3%A9_organizace_v_cestovn%C3%ADm_ruchu_a_l%C3%A1ze%C5%88stv%C3%AD_WFL1/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/5e92fe0bd817496eb38cd733543e56f8/csv?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/5e92fe0bd817496eb38cd733543e56f8/geojson?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/5e92fe0bd817496eb38cd733543e56f8/shapefile?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/5e92fe0bd817496eb38cd733543e56f8/kml?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=5f5a19a727514857a731e29781448dc7&sublayer=0",
       "landingPage": "https://www.datazapad.cz/maps/5f5a19a727514857a731e29781448dc7_0",
       "title": "Městské historické soubory v Karlovarském kraji",
