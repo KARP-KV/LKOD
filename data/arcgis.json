@@ -1127,6 +1127,53 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=538fd813b3c84fcb838ec96023dd0b9e",
+      "landingPage": "https://www.datazapad.cz/pages/538fd813b3c84fcb838ec96023dd0b9e",
+      "title": "Profil regionu - VZOR",
+      "description": "",
+      "keyword": [
+        ""
+      ],
+      "issued": "2024-08-19T12:48:22.000Z",
+      "modified": "2024-08-26T11:55:18.000Z",
+      "publisher": {
+        "name": "jan.sklepek@karp-kv.cz"
+      },
+      "contactPoint": {
+        "fn": "jan.sklepek@karp-kv.cz",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": {
+        "coordinates": [
+          [
+            12.094,
+            48.5525
+          ],
+          [
+            18.8574,
+            51.0581
+          ]
+        ],
+        "type": "envelope"
+      },
+      "license": "",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datazapad.cz/pages/538fd813b3c84fcb838ec96023dd0b9e"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=57a4ac11b4014df7803496c91408ec4e&sublayer=0",
       "landingPage": "https://www.datazapad.cz/maps/57a4ac11b4014df7803496c91408ec4e_0",
       "title": "Stavební úřady v Karlovarském kraji dle katastrálních území",
