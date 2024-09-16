@@ -7,7 +7,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=01fcf68eb2054fb3ab99af6aa34af6e4&sublayer=0",
-      "landingPage": "https://www.datazapad.cz/maps/01fcf68eb2054fb3ab99af6aa34af6e4_0",
+      "landingPage": "https://www.datazapad.cz/datasets/01fcf68eb2054fb3ab99af6aa34af6e4_0",
       "title": "Seznam strategických dokumentů Karlovarského kraje",
       "description": "<span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'>Seznam strategických dokumentů Karlovarského kraje v oblasti regionálního rozvoje, životního prostředí, dopravy, sociální oblasti, kultury, cestovního ruchu, památkové péče, školství a sportu, bezpečnosti a prevence, marketingu a ostatních vč. uvedení odkazů na tyto dokumenty.</span>",
       "keyword": [
@@ -48,7 +48,7 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/maps/01fcf68eb2054fb3ab99af6aa34af6e4_0"
+          "accessURL": "https://www.datazapad.cz/datasets/01fcf68eb2054fb3ab99af6aa34af6e4_0"
         },
         {
           "@type": "dcat:Distribution",
@@ -93,7 +93,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=03dbe5719ab64960ae70ee90af4790c6&sublayer=0",
-      "landingPage": "https://www.datazapad.cz/maps/03dbe5719ab64960ae70ee90af4790c6_0",
+      "landingPage": "https://www.datazapad.cz/datasets/03dbe5719ab64960ae70ee90af4790c6_0",
       "title": "Nemocnice v Karlovarském kraji",
       "description": "V seznamu jsou uvedeny kontaktní údaje vč. adres nemocnic v Karlovarském kraji. Uvedeny jsou nemocnice zřízené Karlovarským krajem i nemocnice soukromé. Poskytovatelem dat je Krajský úřad Karlovarského kraje.",
       "keyword": [
@@ -132,7 +132,7 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/maps/03dbe5719ab64960ae70ee90af4790c6_0"
+          "accessURL": "https://www.datazapad.cz/datasets/03dbe5719ab64960ae70ee90af4790c6_0"
         },
         {
           "@type": "dcat:Distribution",
@@ -177,7 +177,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=0ddb05a36f0c4b319975df6a4b1ed90e&sublayer=0",
-      "landingPage": "https://www.datazapad.cz/maps/0ddb05a36f0c4b319975df6a4b1ed90e_0",
+      "landingPage": "https://www.datazapad.cz/datasets/0ddb05a36f0c4b319975df6a4b1ed90e_0",
       "title": "Pivovarnictví v Karlovarském kraji",
       "description": "<p>Datová sada obsahuje včetně specifikace umístění a typu pivovaru také webovou stránku, kontaktní e-mail a kontaktní telefon pivovaru.</p>",
       "keyword": [
@@ -218,7 +218,7 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/maps/0ddb05a36f0c4b319975df6a4b1ed90e_0"
+          "accessURL": "https://www.datazapad.cz/datasets/0ddb05a36f0c4b319975df6a4b1ed90e_0"
         },
         {
           "@type": "dcat:Distribution",
@@ -263,7 +263,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=0fbcd94c27344fef86d2dafde1230761&sublayer=0",
-      "landingPage": "https://www.datazapad.cz/maps/0fbcd94c27344fef86d2dafde1230761_0",
+      "landingPage": "https://www.datazapad.cz/datasets/0fbcd94c27344fef86d2dafde1230761_0",
       "title": "Matriční úřady Karlovarského kraje",
       "description": "Vrstva matričních úřadů Karlovarského kraje pro účely publikace jako open data. Obsahuje název úřadu, adresu, telefon, úřední dny a úřední hodiny, adresu e-podatelny, kód adresního místa z RÚIAN, a souřadnicové umístění matričního úřadu.",
       "keyword": [
@@ -303,7 +303,7 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/maps/0fbcd94c27344fef86d2dafde1230761_0"
+          "accessURL": "https://www.datazapad.cz/datasets/0fbcd94c27344fef86d2dafde1230761_0"
         },
         {
           "@type": "dcat:Distribution",
@@ -348,7 +348,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=0fc741fffbb44c31820304ec60cc2ff0&sublayer=3",
-      "landingPage": "https://www.datazapad.cz/maps/0fc741fffbb44c31820304ec60cc2ff0_3",
+      "landingPage": "https://www.datazapad.cz/datasets/0fc741fffbb44c31820304ec60cc2ff0_3",
       "title": "Poskytovatelé pobytových sociálních služeb pro seniory v Karlovarském kraji",
       "description": "Přehled obsahuje včetně názvu a IČ poskytovatele služby také identifikátor a druh pobytové sociální služby a webové stránky poskytovatele.",
       "keyword": [
@@ -390,7 +390,7 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/maps/0fc741fffbb44c31820304ec60cc2ff0_3"
+          "accessURL": "https://www.datazapad.cz/datasets/0fc741fffbb44c31820304ec60cc2ff0_3"
         },
         {
           "@type": "dcat:Distribution",
@@ -435,7 +435,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=10bdbfe0cb1341a784f5a1e4ed66b1da&sublayer=0",
-      "landingPage": "https://www.datazapad.cz/maps/10bdbfe0cb1341a784f5a1e4ed66b1da_0",
+      "landingPage": "https://www.datazapad.cz/datasets/10bdbfe0cb1341a784f5a1e4ed66b1da_0",
       "title": "Orgány a organizace státní památkové péče v Karlovarském kraji",
       "description": "<p>Datová sada obsahuje kromě přesného umístění orgánu státní památkové péče rovněž webové stránky.</p>",
       "keyword": [
@@ -476,7 +476,7 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/maps/10bdbfe0cb1341a784f5a1e4ed66b1da_0"
+          "accessURL": "https://www.datazapad.cz/datasets/10bdbfe0cb1341a784f5a1e4ed66b1da_0"
         },
         {
           "@type": "dcat:Distribution",
@@ -521,7 +521,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=11796bcb67ee47bd8d38c0ec271b2787&sublayer=3",
-      "landingPage": "https://www.datazapad.cz/maps/11796bcb67ee47bd8d38c0ec271b2787_3",
+      "landingPage": "https://www.datazapad.cz/datasets/11796bcb67ee47bd8d38c0ec271b2787_3",
       "title": "Seznam škol a školských zařízení do stupně VOŠ v Karlovarském kraji",
       "description": "<div><font face='Avenir Next W01, Avenir Next W00, Avenir Next, Avenir, Helvetica Neue, sans-serif'><span style='font-size:16px;'>Seznam obsahuje kontakty - telefonický, e-mailový, fax a webové stránky školy (pokud jsou školou realizovány). Uveden je samozřejmě typ školy a specifikace vlastnictví.</span></font></div>",
       "keyword": [
@@ -566,7 +566,7 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/maps/11796bcb67ee47bd8d38c0ec271b2787_3"
+          "accessURL": "https://www.datazapad.cz/datasets/11796bcb67ee47bd8d38c0ec271b2787_3"
         },
         {
           "@type": "dcat:Distribution",
@@ -611,7 +611,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=1384c78c4e6846219a9829cd07c81f60&sublayer=3",
-      "landingPage": "https://www.datazapad.cz/maps/1384c78c4e6846219a9829cd07c81f60_3",
+      "landingPage": "https://www.datazapad.cz/datasets/1384c78c4e6846219a9829cd07c81f60_3",
       "title": "Pohřebiště v Karlovarském kraji",
       "description": "<p>Přehled pohřebišť v Karlovarském kraji obsahuje kromě přehledu pohřebišť rovněž jejich umístění na pozemcích parcelních čísel a katastrálních území a dále také specifikaci Správce pohřebiště.</p>",
       "keyword": [
@@ -650,7 +650,7 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/maps/1384c78c4e6846219a9829cd07c81f60_3"
+          "accessURL": "https://www.datazapad.cz/datasets/1384c78c4e6846219a9829cd07c81f60_3"
         },
         {
           "@type": "dcat:Distribution",
@@ -695,7 +695,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=17a673b7147d45ba8744904cae6afdbb&sublayer=0",
-      "landingPage": "https://www.datazapad.cz/maps/17a673b7147d45ba8744904cae6afdbb_0",
+      "landingPage": "https://www.datazapad.cz/datasets/17a673b7147d45ba8744904cae6afdbb_0",
       "title": "Seznam obcí Karlovarského kraje",
       "description": "Polygonová vrstva obcí Karlovarského kraje publikovaná pro účely open dat. Polygony jsou vymezeny hranicemi obcí. Data obsahují o<div><ul><li>názvu úřadu</li><li>adresu úřadu (ulice a číslo popisné, PSČ, kód adresního místa RÚIAN, příslušnou poštu)</li><li>telefon, mail, webové stránky a datovou schránku obce</li><li>IČO</li><li>příslušné ORP, okres</li><li>další údaje z RÚIAN (status obce, ID transakce v RÚIAN apod.)</li></ul><div>Sloupec PointGeometry (alias WKT (S-JTSK)) obsahuje WKT souřadnice obecního (resp. městského) úřadu v systému JTSK. </div></div>",
       "keyword": [
@@ -735,7 +735,7 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/maps/17a673b7147d45ba8744904cae6afdbb_0"
+          "accessURL": "https://www.datazapad.cz/datasets/17a673b7147d45ba8744904cae6afdbb_0"
         },
         {
           "@type": "dcat:Distribution",
@@ -780,7 +780,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=1e64adf22f8448a693f638c9f1334dc9&sublayer=0",
-      "landingPage": "https://www.datazapad.cz/maps/1e64adf22f8448a693f638c9f1334dc9_0",
+      "landingPage": "https://www.datazapad.cz/datasets/1e64adf22f8448a693f638c9f1334dc9_0",
       "title": "Jiné atraktivity v Karlovarském kraji",
       "description": "<p>Datová sada obsahuje kromě specifikace umístění atraktivity rovněž webové stránky, kontaktní e-mail a telefon příslušné atraktivity.</p>",
       "keyword": [
@@ -824,7 +824,7 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/maps/1e64adf22f8448a693f638c9f1334dc9_0"
+          "accessURL": "https://www.datazapad.cz/datasets/1e64adf22f8448a693f638c9f1334dc9_0"
         },
         {
           "@type": "dcat:Distribution",
@@ -869,7 +869,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=2fe4d27ac10341f6bd2b4ea6380a2599&sublayer=0",
-      "landingPage": "https://www.datazapad.cz/maps/2fe4d27ac10341f6bd2b4ea6380a2599_0",
+      "landingPage": "https://www.datazapad.cz/datasets/2fe4d27ac10341f6bd2b4ea6380a2599_0",
       "title": "Rozhledny v Karlovarském kraji",
       "description": "Seznam rozhleden v Karlovarském kraji",
       "keyword": [
@@ -908,7 +908,7 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/maps/2fe4d27ac10341f6bd2b4ea6380a2599_0"
+          "accessURL": "https://www.datazapad.cz/datasets/2fe4d27ac10341f6bd2b4ea6380a2599_0"
         },
         {
           "@type": "dcat:Distribution",
@@ -953,7 +953,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=387d1403bddb48b09ba4e3cd3b7894f8&sublayer=0",
-      "landingPage": "https://www.datazapad.cz/maps/387d1403bddb48b09ba4e3cd3b7894f8_0",
+      "landingPage": "https://www.datazapad.cz/datasets/387d1403bddb48b09ba4e3cd3b7894f8_0",
       "title": "Kreativní vouchery 2020 - 2022",
       "description": "<span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'>Přehled žadatelů o kreativní voucher v Karlovarském kraji v letech 2020 až 2022. Datová sada obsahuje rovněž údaje o výši poskytnutých příspěvků, poskytnutí podpory a další podrobnosti o projektech žadatelů. Poskytovatel dat je Karlovarská agentura rozvoje podnikání, p.o.</span>",
       "keyword": [
@@ -995,7 +995,7 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/maps/387d1403bddb48b09ba4e3cd3b7894f8_0"
+          "accessURL": "https://www.datazapad.cz/datasets/387d1403bddb48b09ba4e3cd3b7894f8_0"
         },
         {
           "@type": "dcat:Distribution",
@@ -1040,7 +1040,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=464108d64a93430083119bfb0845af3c&sublayer=0",
-      "landingPage": "https://www.datazapad.cz/maps/464108d64a93430083119bfb0845af3c_0",
+      "landingPage": "https://www.datazapad.cz/datasets/464108d64a93430083119bfb0845af3c_0",
       "title": "Zámky v Karlovarském kraji",
       "description": "<p>Datová sada obsahuje kromě specifikace umístění a adresy rovněž webové stránky, kontaktní e-mail a telefonní kontakt, pokud jsou k dispozici.</p>",
       "keyword": [
@@ -1079,7 +1079,7 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/maps/464108d64a93430083119bfb0845af3c_0"
+          "accessURL": "https://www.datazapad.cz/datasets/464108d64a93430083119bfb0845af3c_0"
         },
         {
           "@type": "dcat:Distribution",
@@ -1124,7 +1124,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=4d8d7284782049ee826b794af25cbc05&sublayer=0",
-      "landingPage": "https://www.datazapad.cz/maps/4d8d7284782049ee826b794af25cbc05_0",
+      "landingPage": "https://www.datazapad.cz/datasets/4d8d7284782049ee826b794af25cbc05_0",
       "title": "Živnostenské úřady v Karlovarském kraji",
       "description": "<p>Datová sada obsahuje kromě specifikace umístění obecního živnostenského úřadu rovněž webové stránky, telefonní a e-mailové kontaktní údaje úřadu.</p>",
       "keyword": [
@@ -1164,7 +1164,7 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/maps/4d8d7284782049ee826b794af25cbc05_0"
+          "accessURL": "https://www.datazapad.cz/datasets/4d8d7284782049ee826b794af25cbc05_0"
         },
         {
           "@type": "dcat:Distribution",
@@ -1209,7 +1209,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=52658b60dacf474f80cf5bb7c8004cc6&sublayer=0",
-      "landingPage": "https://www.datazapad.cz/maps/52658b60dacf474f80cf5bb7c8004cc6_0",
+      "landingPage": "https://www.datazapad.cz/datasets/52658b60dacf474f80cf5bb7c8004cc6_0",
       "title": "ZOO a zooparky v Karlovarském kraji",
       "description": "<p>Datová sada obsahuje rovněž webovou stránku a kontaktní e-mail, pokud jsou k zooparku dostupné.</p>",
       "keyword": [
@@ -1252,7 +1252,7 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/maps/52658b60dacf474f80cf5bb7c8004cc6_0"
+          "accessURL": "https://www.datazapad.cz/datasets/52658b60dacf474f80cf5bb7c8004cc6_0"
         },
         {
           "@type": "dcat:Distribution",
@@ -1297,7 +1297,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=57a4ac11b4014df7803496c91408ec4e&sublayer=0",
-      "landingPage": "https://www.datazapad.cz/maps/57a4ac11b4014df7803496c91408ec4e_0",
+      "landingPage": "https://www.datazapad.cz/datasets/57a4ac11b4014df7803496c91408ec4e_0",
       "title": "Stavební úřady v Karlovarském kraji dle katastrálních území",
       "description": "<p>Datová sada obsahuje, kromě přehledu stavebních úřadů pro příslušná katastrální území, rovněž webové stránky příslušného stavebního úřadu a specifikaci umístění stavebního úřadu.</p>",
       "keyword": [
@@ -1338,7 +1338,7 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/maps/57a4ac11b4014df7803496c91408ec4e_0"
+          "accessURL": "https://www.datazapad.cz/datasets/57a4ac11b4014df7803496c91408ec4e_0"
         },
         {
           "@type": "dcat:Distribution",
@@ -1383,7 +1383,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=58bc30d273d84926bc4e817aabca9321&sublayer=0",
-      "landingPage": "https://www.datazapad.cz/maps/58bc30d273d84926bc4e817aabca9321_0",
+      "landingPage": "https://www.datazapad.cz/datasets/58bc30d273d84926bc4e817aabca9321_0",
       "title": "Golfová hřiště v Karlovarském kraji",
       "description": "Datová sada obsahuje včetně specifikace umístění golfového hřiště rovněž kontaktní údaje - webové stránky, kontaktní e-mail a kontaktní telefon.",
       "keyword": [
@@ -1423,7 +1423,7 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/maps/58bc30d273d84926bc4e817aabca9321_0"
+          "accessURL": "https://www.datazapad.cz/datasets/58bc30d273d84926bc4e817aabca9321_0"
         },
         {
           "@type": "dcat:Distribution",
@@ -1468,7 +1468,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=5ad57de2f5ea4f4483fd123f48beee47&sublayer=3",
-      "landingPage": "https://www.datazapad.cz/maps/5ad57de2f5ea4f4483fd123f48beee47_3",
+      "landingPage": "https://www.datazapad.cz/datasets/5ad57de2f5ea4f4483fd123f48beee47_3",
       "title": "Galerie kreativců Karlovarského kraje",
       "description": "Přehled uvádí rovněž kontaktní údaje a zaměření kreativců. Zdrojem dat je Karlovarská agentura rozvoje podnikání, p.o.",
       "keyword": [
@@ -1508,7 +1508,7 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/maps/5ad57de2f5ea4f4483fd123f48beee47_3"
+          "accessURL": "https://www.datazapad.cz/datasets/5ad57de2f5ea4f4483fd123f48beee47_3"
         },
         {
           "@type": "dcat:Distribution",
@@ -1553,7 +1553,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=5b6083d1a59d46c59d26717b31e991d1&sublayer=0",
-      "landingPage": "https://www.datazapad.cz/maps/5b6083d1a59d46c59d26717b31e991d1_0",
+      "landingPage": "https://www.datazapad.cz/datasets/5b6083d1a59d46c59d26717b31e991d1_0",
       "title": "Archeologické památky v Karlovarském kraji",
       "description": "Datová sada obsahuje rovněž webové stránky s informacemi o památce.",
       "keyword": [
@@ -1593,7 +1593,7 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/maps/5b6083d1a59d46c59d26717b31e991d1_0"
+          "accessURL": "https://www.datazapad.cz/datasets/5b6083d1a59d46c59d26717b31e991d1_0"
         },
         {
           "@type": "dcat:Distribution",
@@ -1638,7 +1638,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=5e85e517a5be4765bab75d6803665a2c&sublayer=0",
-      "landingPage": "https://www.datazapad.cz/maps/5e85e517a5be4765bab75d6803665a2c_0",
+      "landingPage": "https://www.datazapad.cz/datasets/5e85e517a5be4765bab75d6803665a2c_0",
       "title": "Stavební úřady v Karlovarském kraji dle okresů",
       "description": "<p>Datová sada obsahuje, kromě přehledu všech stavebních úřadů v Karlovarském kraji, rovněž odkaz na webové stránky příslušného stavebního úřadu a specifikaci umístění stavebního úřadu.</p>",
       "keyword": [
@@ -1679,7 +1679,7 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/maps/5e85e517a5be4765bab75d6803665a2c_0"
+          "accessURL": "https://www.datazapad.cz/datasets/5e85e517a5be4765bab75d6803665a2c_0"
         },
         {
           "@type": "dcat:Distribution",
@@ -1724,7 +1724,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=5e900a28dedd446aa8ae18d49ac88d70&sublayer=0",
-      "landingPage": "https://www.datazapad.cz/maps/5e900a28dedd446aa8ae18d49ac88d70_0",
+      "landingPage": "https://www.datazapad.cz/datasets/5e900a28dedd446aa8ae18d49ac88d70_0",
       "title": "Agroturistické destinace v Karlovarském kraji",
       "description": "Přehled uvádí rovněž kontaktní údaje na agroturistické destinace a webové stránky. Dále uvádí specifikaci agroturistických destinací (zaměření).",
       "keyword": [
@@ -1763,7 +1763,7 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/maps/5e900a28dedd446aa8ae18d49ac88d70_0"
+          "accessURL": "https://www.datazapad.cz/datasets/5e900a28dedd446aa8ae18d49ac88d70_0"
         },
         {
           "@type": "dcat:Distribution",
@@ -1808,7 +1808,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=5e92fe0bd817496eb38cd733543e56f8&sublayer=0",
-      "landingPage": "https://www.datazapad.cz/maps/5e92fe0bd817496eb38cd733543e56f8_0",
+      "landingPage": "https://www.datazapad.cz/datasets/5e92fe0bd817496eb38cd733543e56f8_0",
       "title": "Odborné organizace v cestovním ruchu a lázeňství působící v Karlovarském kraji",
       "description": "<p>Datová sada obsahuje kromě adresy organizace rovněž webové stránky, kontaktní e-mail a telefon jednotlivých organizací.</p>",
       "keyword": [
@@ -1849,7 +1849,7 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/maps/5e92fe0bd817496eb38cd733543e56f8_0"
+          "accessURL": "https://www.datazapad.cz/datasets/5e92fe0bd817496eb38cd733543e56f8_0"
         },
         {
           "@type": "dcat:Distribution",
@@ -1894,7 +1894,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=5f5a19a727514857a731e29781448dc7&sublayer=0",
-      "landingPage": "https://www.datazapad.cz/maps/5f5a19a727514857a731e29781448dc7_0",
+      "landingPage": "https://www.datazapad.cz/datasets/5f5a19a727514857a731e29781448dc7_0",
       "title": "Městské historické soubory v Karlovarském kraji",
       "description": "<p>Datová sada obsahuje rovněž informace o katastrálních území, která spadají do příslušného městského historického souboru.</p>",
       "keyword": [
@@ -1935,7 +1935,7 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/maps/5f5a19a727514857a731e29781448dc7_0"
+          "accessURL": "https://www.datazapad.cz/datasets/5f5a19a727514857a731e29781448dc7_0"
         },
         {
           "@type": "dcat:Distribution",
@@ -1980,7 +1980,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=6be3423787fd4c1fa19a70b025e2eb64&sublayer=0",
-      "landingPage": "https://www.datazapad.cz/maps/6be3423787fd4c1fa19a70b025e2eb64_0",
+      "landingPage": "https://www.datazapad.cz/datasets/6be3423787fd4c1fa19a70b025e2eb64_0",
       "title": "Muzea v přírodě a skanzeny v Karlovarském kraji",
       "description": "<p>Datová sada obsahuje kromě přesné specifikace umístění také webové stránka, kontaktní e-mail a telefon muzea v přírodě či skanzenu.</p>",
       "keyword": [
@@ -2021,7 +2021,7 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/maps/6be3423787fd4c1fa19a70b025e2eb64_0"
+          "accessURL": "https://www.datazapad.cz/datasets/6be3423787fd4c1fa19a70b025e2eb64_0"
         },
         {
           "@type": "dcat:Distribution",
@@ -2066,7 +2066,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=6cd2b71c45184327aab9375661268f5d&sublayer=3",
-      "landingPage": "https://www.datazapad.cz/maps/6cd2b71c45184327aab9375661268f5d_3",
+      "landingPage": "https://www.datazapad.cz/datasets/6cd2b71c45184327aab9375661268f5d_3",
       "title": "Asistenční vouchery 2020 - 2022 v Karlovarském kraji",
       "description": "<span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'>Datová sada obsahuje rovněž údaje o výši poskytnutých příspěvků, poskytnutí podpory a další podrobnosti o projektech žadatelů. Poskytovatel dat je Karlovarská agentura rozvoje podnikání, p.o.</span>",
       "keyword": [
@@ -2106,7 +2106,7 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/maps/6cd2b71c45184327aab9375661268f5d_3"
+          "accessURL": "https://www.datazapad.cz/datasets/6cd2b71c45184327aab9375661268f5d_3"
         },
         {
           "@type": "dcat:Distribution",
@@ -2151,7 +2151,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=6f9302623bcd4a72af2ac674c3b46adf&sublayer=0",
-      "landingPage": "https://www.datazapad.cz/maps/6f9302623bcd4a72af2ac674c3b46adf_0",
+      "landingPage": "https://www.datazapad.cz/datasets/6f9302623bcd4a72af2ac674c3b46adf_0",
       "title": "Záměr počtu přijímaných uchazečů pro školní rok 2024/2025 v Karlovarském kraji",
       "description": "<p>Datová sada obsahuje informace typu délka, druh a forma vzdělávání, záměr počtu přijímaných uchazečů, dále rovněž kontaktní údaje na školu - telefonní kontakt, e-mailový kontakt a webové stránky školy.</p>",
       "keyword": [
@@ -2196,7 +2196,7 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/maps/6f9302623bcd4a72af2ac674c3b46adf_0"
+          "accessURL": "https://www.datazapad.cz/datasets/6f9302623bcd4a72af2ac674c3b46adf_0"
         },
         {
           "@type": "dcat:Distribution",
@@ -2241,7 +2241,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=72aa9de6abc94f949f3959e70e0d241d&sublayer=0",
-      "landingPage": "https://www.datazapad.cz/maps/72aa9de6abc94f949f3959e70e0d241d_0",
+      "landingPage": "https://www.datazapad.cz/datasets/72aa9de6abc94f949f3959e70e0d241d_0",
       "title": "Lékařská a lékárenská pohotovostní služba v Karlovarském kraji v r. 2024",
       "description": "<span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'>Datová sada obsahuje časovou a místní specifikaci lékařské pohotovosti pro děti, dospělé, zubní a chirurgickou pohotovost a lékárenskou pohotovost.</span>",
       "keyword": [
@@ -2285,7 +2285,7 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/maps/72aa9de6abc94f949f3959e70e0d241d_0"
+          "accessURL": "https://www.datazapad.cz/datasets/72aa9de6abc94f949f3959e70e0d241d_0"
         },
         {
           "@type": "dcat:Distribution",
@@ -2330,7 +2330,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=785fbd982147426ca275496791930eb8&sublayer=0",
-      "landingPage": "https://www.datazapad.cz/maps/785fbd982147426ca275496791930eb8_0",
+      "landingPage": "https://www.datazapad.cz/datasets/785fbd982147426ca275496791930eb8_0",
       "title": "Turistická informační centra v Karlovarském kraji",
       "description": "<p>Datová sada obsahuje rovněž informace o webových stránkách turistických informačních center, kontaktní e-mail a telefon. Obsahuje i informaci o zapojení centra do asociace turistických informačních center České republiky.</p>",
       "keyword": [
@@ -2372,7 +2372,7 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/maps/785fbd982147426ca275496791930eb8_0"
+          "accessURL": "https://www.datazapad.cz/datasets/785fbd982147426ca275496791930eb8_0"
         },
         {
           "@type": "dcat:Distribution",
@@ -2417,7 +2417,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=7974da466d594bdea7953f3542ef5ca9&sublayer=0",
-      "landingPage": "https://www.datazapad.cz/maps/7974da466d594bdea7953f3542ef5ca9_0",
+      "landingPage": "https://www.datazapad.cz/datasets/7974da466d594bdea7953f3542ef5ca9_0",
       "title": "Startovací vouchery v Karlovarském kraji v roce 2023",
       "description": "<span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'>Datová sada obsahuje rovněž údaje o výši poskytnutých příspěvků, poskytnutí podpory a další podrobnosti o projektech žadatelů. Poskytovatelem dat je Karlovarská agentura rozvoje podnikání, p.o.</span>",
       "keyword": [
@@ -2457,7 +2457,7 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/maps/7974da466d594bdea7953f3542ef5ca9_0"
+          "accessURL": "https://www.datazapad.cz/datasets/7974da466d594bdea7953f3542ef5ca9_0"
         },
         {
           "@type": "dcat:Distribution",
@@ -2502,7 +2502,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=8a71d71444f14acd8d43023ce9c3fb95&sublayer=3",
-      "landingPage": "https://www.datazapad.cz/maps/8a71d71444f14acd8d43023ce9c3fb95_3",
+      "landingPage": "https://www.datazapad.cz/datasets/8a71d71444f14acd8d43023ce9c3fb95_3",
       "title": "Poskytovatelé sociálních služeb v Karlovarském kraji",
       "description": "Přehled obsahuje včetně názvu a IČ poskytovatele sociální služby rovněž identifikátor sociální služby, druh sociální služby a webové stránky poskytovatele sociální služby.",
       "keyword": [
@@ -2544,7 +2544,7 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/maps/8a71d71444f14acd8d43023ce9c3fb95_3"
+          "accessURL": "https://www.datazapad.cz/datasets/8a71d71444f14acd8d43023ce9c3fb95_3"
         },
         {
           "@type": "dcat:Distribution",
@@ -2589,7 +2589,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=8ae1f28fc17f4918a0dba74bb11797ff&sublayer=0",
-      "landingPage": "https://www.datazapad.cz/maps/8ae1f28fc17f4918a0dba74bb11797ff_0",
+      "landingPage": "https://www.datazapad.cz/datasets/8ae1f28fc17f4918a0dba74bb11797ff_0",
       "title": "Botanické zahrady a arboreta v Karlovarském kraji",
       "description": "<p>Datová sada obsahuje rovněž webové stránky s informacemi o zahradách a arboretech.</p>",
       "keyword": [
@@ -2629,7 +2629,7 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/maps/8ae1f28fc17f4918a0dba74bb11797ff_0"
+          "accessURL": "https://www.datazapad.cz/datasets/8ae1f28fc17f4918a0dba74bb11797ff_0"
         },
         {
           "@type": "dcat:Distribution",
@@ -2674,7 +2674,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=903168d407624e57a43cb4ab9bc97620&sublayer=0",
-      "landingPage": "https://www.datazapad.cz/maps/903168d407624e57a43cb4ab9bc97620_0",
+      "landingPage": "https://www.datazapad.cz/datasets/903168d407624e57a43cb4ab9bc97620_0",
       "title": "Seznam provozovatelů školících středisek v Karlovarském kraji",
       "description": "Seznam obsahuje provozovatele s akreditací pro skupiny C, C+E, D, D+E, C1 a C1+E a dále provozovny, ve kterých působí.",
       "keyword": [
@@ -2719,7 +2719,7 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/maps/903168d407624e57a43cb4ab9bc97620_0"
+          "accessURL": "https://www.datazapad.cz/datasets/903168d407624e57a43cb4ab9bc97620_0"
         },
         {
           "@type": "dcat:Distribution",
@@ -2764,7 +2764,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=90441fa783444e1ead5ad71464504d6a&sublayer=0",
-      "landingPage": "https://www.datazapad.cz/maps/90441fa783444e1ead5ad71464504d6a_0",
+      "landingPage": "https://www.datazapad.cz/datasets/90441fa783444e1ead5ad71464504d6a_0",
       "title": "Lanová a zábavní centra v Karlovarském kraji",
       "description": "<p>Datová sada obsahuje rovněž webové stránky a v případě existence rovněž kontaktní údaje center (kontaktní telefon a kontaktní e-mail).</p>",
       "keyword": [
@@ -2805,7 +2805,7 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/maps/90441fa783444e1ead5ad71464504d6a_0"
+          "accessURL": "https://www.datazapad.cz/datasets/90441fa783444e1ead5ad71464504d6a_0"
         },
         {
           "@type": "dcat:Distribution",
@@ -2850,7 +2850,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=98d26c1b1c8f4bd49850af82a19a7f58&sublayer=0",
-      "landingPage": "https://www.datazapad.cz/maps/98d26c1b1c8f4bd49850af82a19a7f58_0",
+      "landingPage": "https://www.datazapad.cz/datasets/98d26c1b1c8f4bd49850af82a19a7f58_0",
       "title": "Aquaparky, koupaliště a bazény v Karlovarském kraji",
       "description": "<p>Datová sada obsahuje rovněž webové stránky zařízení a kontaktní e-mail a telefonní číslo.</p>",
       "keyword": [
@@ -2890,7 +2890,7 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/maps/98d26c1b1c8f4bd49850af82a19a7f58_0"
+          "accessURL": "https://www.datazapad.cz/datasets/98d26c1b1c8f4bd49850af82a19a7f58_0"
         },
         {
           "@type": "dcat:Distribution",
@@ -2935,7 +2935,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=a193c3092bef4fa8b514761b421d9ee1&sublayer=0",
-      "landingPage": "https://www.datazapad.cz/maps/a193c3092bef4fa8b514761b421d9ee1_0",
+      "landingPage": "https://www.datazapad.cz/datasets/a193c3092bef4fa8b514761b421d9ee1_0",
       "title": "Lázeňská místa v Karlovarském kraji",
       "description": "<p>Datová sada specifikuje umístění lázeňských zón v Karlovarském kraji.</p>",
       "keyword": [
@@ -2975,7 +2975,7 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/maps/a193c3092bef4fa8b514761b421d9ee1_0"
+          "accessURL": "https://www.datazapad.cz/datasets/a193c3092bef4fa8b514761b421d9ee1_0"
         },
         {
           "@type": "dcat:Distribution",
@@ -3020,7 +3020,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=a80fbe6e01f742a8a0a7b507bfb3998f&sublayer=3",
-      "landingPage": "https://www.datazapad.cz/maps/a80fbe6e01f742a8a0a7b507bfb3998f_3",
+      "landingPage": "https://www.datazapad.cz/datasets/a80fbe6e01f742a8a0a7b507bfb3998f_3",
       "title": "Organizace zřízené Karlovarským krajem",
       "description": "<span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'>Datová sada obsahuje formální informace o organizacích vč. kontaktních údajů. Poskytovatelem dat je Krajský úřad Karlovarského kraje.</span>",
       "keyword": [
@@ -3066,7 +3066,7 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/maps/a80fbe6e01f742a8a0a7b507bfb3998f_3"
+          "accessURL": "https://www.datazapad.cz/datasets/a80fbe6e01f742a8a0a7b507bfb3998f_3"
         },
         {
           "@type": "dcat:Distribution",
@@ -3111,7 +3111,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=b20504884a5f4ab3acc4fa7bc2611be2&sublayer=0",
-      "landingPage": "https://www.datazapad.cz/maps/b20504884a5f4ab3acc4fa7bc2611be2_0",
+      "landingPage": "https://www.datazapad.cz/datasets/b20504884a5f4ab3acc4fa7bc2611be2_0",
       "title": "Vstupy Zpětná vazba (systémový soubor)",
       "description": "{{description}}",
       "keyword": [],
@@ -3146,7 +3146,7 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/maps/b20504884a5f4ab3acc4fa7bc2611be2_0"
+          "accessURL": "https://www.datazapad.cz/datasets/b20504884a5f4ab3acc4fa7bc2611be2_0"
         },
         {
           "@type": "dcat:Distribution",
@@ -3191,7 +3191,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=b59dc439b86147e4aefba8d94fc6aa9e&sublayer=3",
-      "landingPage": "https://www.datazapad.cz/maps/b59dc439b86147e4aefba8d94fc6aa9e_3",
+      "landingPage": "https://www.datazapad.cz/datasets/b59dc439b86147e4aefba8d94fc6aa9e_3",
       "title": "Inovační vouchery 2020 - 2022",
       "description": "<span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'>Datová sada obsahuje rovněž údaje o výši poskytnutých příspěvků, poskytnutí podpory a další podrobnosti o projektech žadatelů. Poskytovatelem dat je Karlovarská agentura rozvoje podnikání, p.o.</span>",
       "keyword": [
@@ -3233,7 +3233,7 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/maps/b59dc439b86147e4aefba8d94fc6aa9e_3"
+          "accessURL": "https://www.datazapad.cz/datasets/b59dc439b86147e4aefba8d94fc6aa9e_3"
         },
         {
           "@type": "dcat:Distribution",
@@ -3278,7 +3278,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=c3a31017e7ac4e8d8d75c6a1ed49bc03&sublayer=0",
-      "landingPage": "https://www.datazapad.cz/maps/c3a31017e7ac4e8d8d75c6a1ed49bc03_0",
+      "landingPage": "https://www.datazapad.cz/datasets/c3a31017e7ac4e8d8d75c6a1ed49bc03_0",
       "title": "Historické vesnické soubory v Karlovarském kraji",
       "description": "<p>Datová sada obsahuje rovněž upřesnění místa historického vesnického souboru dle katastrálního území.</p>",
       "keyword": [
@@ -3318,7 +3318,7 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/maps/c3a31017e7ac4e8d8d75c6a1ed49bc03_0"
+          "accessURL": "https://www.datazapad.cz/datasets/c3a31017e7ac4e8d8d75c6a1ed49bc03_0"
         },
         {
           "@type": "dcat:Distribution",
@@ -3363,7 +3363,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=c3a42c283f0649248326a0bbd7dc5cc3&sublayer=3",
-      "landingPage": "https://www.datazapad.cz/maps/c3a42c283f0649248326a0bbd7dc5cc3_3",
+      "landingPage": "https://www.datazapad.cz/datasets/c3a42c283f0649248326a0bbd7dc5cc3_3",
       "title": "Hrady, tvrze a zříceniny v Karlovarském kraji",
       "description": "<p>Datová sada rovněž obsahuje odkaz na webové stránky památky.</p>",
       "keyword": [
@@ -3405,7 +3405,7 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/maps/c3a42c283f0649248326a0bbd7dc5cc3_3"
+          "accessURL": "https://www.datazapad.cz/datasets/c3a42c283f0649248326a0bbd7dc5cc3_3"
         },
         {
           "@type": "dcat:Distribution",
@@ -3450,7 +3450,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=d27fb764c5a642e2bf2f8c134cbdeca2&sublayer=0",
-      "landingPage": "https://www.datazapad.cz/maps/d27fb764c5a642e2bf2f8c134cbdeca2_0",
+      "landingPage": "https://www.datazapad.cz/datasets/d27fb764c5a642e2bf2f8c134cbdeca2_0",
       "title": "Živnostenské úřady v Karlovarském kraji dle územní příslušnosti obcí",
       "description": "Datová sada kromě územní příslušnosti obcí a specifikace umístění příslušného obecního živnostenského úřadu obsahuje také webové stránky a kontaktní údaje (e-mail a telefonní číslo) úřadů.",
       "keyword": [
@@ -3490,7 +3490,7 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/maps/d27fb764c5a642e2bf2f8c134cbdeca2_0"
+          "accessURL": "https://www.datazapad.cz/datasets/d27fb764c5a642e2bf2f8c134cbdeca2_0"
         },
         {
           "@type": "dcat:Distribution",
@@ -3535,7 +3535,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=d51db8b1ac8f40b6adf214e67cbb6f30&sublayer=3",
-      "landingPage": "https://www.datazapad.cz/maps/d51db8b1ac8f40b6adf214e67cbb6f30_3",
+      "landingPage": "https://www.datazapad.cz/datasets/d51db8b1ac8f40b6adf214e67cbb6f30_3",
       "title": "Pohřební služby v Karlovarském kraji",
       "description": "<p>Datová sada obsahuje kontaktní údaje pohřebních služeb, webové stránky a umístění poboček pohřebních služeb.</p>",
       "keyword": [
@@ -3575,7 +3575,7 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/maps/d51db8b1ac8f40b6adf214e67cbb6f30_3"
+          "accessURL": "https://www.datazapad.cz/datasets/d51db8b1ac8f40b6adf214e67cbb6f30_3"
         },
         {
           "@type": "dcat:Distribution",
@@ -3620,7 +3620,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=f98f8248cdf140ad84649976f2d6f499&sublayer=3",
-      "landingPage": "https://www.datazapad.cz/maps/f98f8248cdf140ad84649976f2d6f499_3",
+      "landingPage": "https://www.datazapad.cz/datasets/f98f8248cdf140ad84649976f2d6f499_3",
       "title": "Inovační infrastruktury Karlovarského kraje",
       "description": "<p><span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'>Zdrojem dat je Karlovarská agentura rozvoje podnikání, p.o.</span></p>",
       "keyword": [
@@ -3660,7 +3660,7 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/maps/f98f8248cdf140ad84649976f2d6f499_3"
+          "accessURL": "https://www.datazapad.cz/datasets/f98f8248cdf140ad84649976f2d6f499_3"
         },
         {
           "@type": "dcat:Distribution",

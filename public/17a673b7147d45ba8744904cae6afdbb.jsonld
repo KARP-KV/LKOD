@@ -27,12 +27,12 @@
   "distribuce": [
     {
       "typ": "Distribuce",
-      "iri": "https://www.datazapad.cz/maps/17a673b7147d45ba8744904cae6afdbb_0",
+      "iri": "https://www.datazapad.cz/datasets/17a673b7147d45ba8744904cae6afdbb_0",
       "název": {
         "cs": "ArcGIS Hub Dataset"
       },
-      "soubor_ke_stažení": "https://www.datazapad.cz/maps/17a673b7147d45ba8744904cae6afdbb_0",
-      "přístupové_url": "https://www.datazapad.cz/maps/17a673b7147d45ba8744904cae6afdbb_0",
+      "soubor_ke_stažení": "https://www.datazapad.cz/datasets/17a673b7147d45ba8744904cae6afdbb_0",
+      "přístupové_url": "https://www.datazapad.cz/datasets/17a673b7147d45ba8744904cae6afdbb_0",
       "typ_média": "http://www.iana.org/assignments/media-types/text/html",
       "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
       "podmínky_užití": {

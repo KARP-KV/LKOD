@@ -93,12 +93,12 @@
       "distribuce": [
         {
           "typ": "Distribuce",
-          "iri": "https://www.datazapad.cz/maps/01fcf68eb2054fb3ab99af6aa34af6e4_0",
+          "iri": "https://www.datazapad.cz/datasets/01fcf68eb2054fb3ab99af6aa34af6e4_0",
           "název": {
             "cs": "ArcGIS Hub Dataset"
           },
-          "soubor_ke_stažení": "https://www.datazapad.cz/maps/01fcf68eb2054fb3ab99af6aa34af6e4_0",
-          "přístupové_url": "https://www.datazapad.cz/maps/01fcf68eb2054fb3ab99af6aa34af6e4_0",
+          "soubor_ke_stažení": "https://www.datazapad.cz/datasets/01fcf68eb2054fb3ab99af6aa34af6e4_0",
+          "přístupové_url": "https://www.datazapad.cz/datasets/01fcf68eb2054fb3ab99af6aa34af6e4_0",
           "typ_média": "http://www.iana.org/assignments/media-types/text/html",
           "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
           "podmínky_užití": {
@@ -229,12 +229,12 @@
       "distribuce": [
         {
           "typ": "Distribuce",
-          "iri": "https://www.datazapad.cz/maps/03dbe5719ab64960ae70ee90af4790c6_0",
+          "iri": "https://www.datazapad.cz/datasets/03dbe5719ab64960ae70ee90af4790c6_0",
           "název": {
             "cs": "ArcGIS Hub Dataset"
           },
-          "soubor_ke_stažení": "https://www.datazapad.cz/maps/03dbe5719ab64960ae70ee90af4790c6_0",
-          "přístupové_url": "https://www.datazapad.cz/maps/03dbe5719ab64960ae70ee90af4790c6_0",
+          "soubor_ke_stažení": "https://www.datazapad.cz/datasets/03dbe5719ab64960ae70ee90af4790c6_0",
+          "přístupové_url": "https://www.datazapad.cz/datasets/03dbe5719ab64960ae70ee90af4790c6_0",
           "typ_média": "http://www.iana.org/assignments/media-types/text/html",
           "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
           "podmínky_užití": {
@@ -367,12 +367,12 @@
       "distribuce": [
         {
           "typ": "Distribuce",
-          "iri": "https://www.datazapad.cz/maps/0ddb05a36f0c4b319975df6a4b1ed90e_0",
+          "iri": "https://www.datazapad.cz/datasets/0ddb05a36f0c4b319975df6a4b1ed90e_0",
           "název": {
             "cs": "ArcGIS Hub Dataset"
           },
-          "soubor_ke_stažení": "https://www.datazapad.cz/maps/0ddb05a36f0c4b319975df6a4b1ed90e_0",
-          "přístupové_url": "https://www.datazapad.cz/maps/0ddb05a36f0c4b319975df6a4b1ed90e_0",
+          "soubor_ke_stažení": "https://www.datazapad.cz/datasets/0ddb05a36f0c4b319975df6a4b1ed90e_0",
+          "přístupové_url": "https://www.datazapad.cz/datasets/0ddb05a36f0c4b319975df6a4b1ed90e_0",
           "typ_média": "http://www.iana.org/assignments/media-types/text/html",
           "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
           "podmínky_užití": {
@@ -504,12 +504,12 @@
       "distribuce": [
         {
           "typ": "Distribuce",
-          "iri": "https://www.datazapad.cz/maps/0fbcd94c27344fef86d2dafde1230761_0",
+          "iri": "https://www.datazapad.cz/datasets/0fbcd94c27344fef86d2dafde1230761_0",
           "název": {
             "cs": "ArcGIS Hub Dataset"
           },
-          "soubor_ke_stažení": "https://www.datazapad.cz/maps/0fbcd94c27344fef86d2dafde1230761_0",
-          "přístupové_url": "https://www.datazapad.cz/maps/0fbcd94c27344fef86d2dafde1230761_0",
+          "soubor_ke_stažení": "https://www.datazapad.cz/datasets/0fbcd94c27344fef86d2dafde1230761_0",
+          "přístupové_url": "https://www.datazapad.cz/datasets/0fbcd94c27344fef86d2dafde1230761_0",
           "typ_média": "http://www.iana.org/assignments/media-types/text/html",
           "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
           "podmínky_užití": {
@@ -643,12 +643,12 @@
       "distribuce": [
         {
           "typ": "Distribuce",
-          "iri": "https://www.datazapad.cz/maps/0fc741fffbb44c31820304ec60cc2ff0_3",
+          "iri": "https://www.datazapad.cz/datasets/0fc741fffbb44c31820304ec60cc2ff0_3",
           "název": {
             "cs": "ArcGIS Hub Dataset"
           },
-          "soubor_ke_stažení": "https://www.datazapad.cz/maps/0fc741fffbb44c31820304ec60cc2ff0_3",
-          "přístupové_url": "https://www.datazapad.cz/maps/0fc741fffbb44c31820304ec60cc2ff0_3",
+          "soubor_ke_stažení": "https://www.datazapad.cz/datasets/0fc741fffbb44c31820304ec60cc2ff0_3",
+          "přístupové_url": "https://www.datazapad.cz/datasets/0fc741fffbb44c31820304ec60cc2ff0_3",
           "typ_média": "http://www.iana.org/assignments/media-types/text/html",
           "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
           "podmínky_užití": {
@@ -781,12 +781,12 @@
       "distribuce": [
         {
           "typ": "Distribuce",
-          "iri": "https://www.datazapad.cz/maps/10bdbfe0cb1341a784f5a1e4ed66b1da_0",
+          "iri": "https://www.datazapad.cz/datasets/10bdbfe0cb1341a784f5a1e4ed66b1da_0",
           "název": {
             "cs": "ArcGIS Hub Dataset"
           },
-          "soubor_ke_stažení": "https://www.datazapad.cz/maps/10bdbfe0cb1341a784f5a1e4ed66b1da_0",
-          "přístupové_url": "https://www.datazapad.cz/maps/10bdbfe0cb1341a784f5a1e4ed66b1da_0",
+          "soubor_ke_stažení": "https://www.datazapad.cz/datasets/10bdbfe0cb1341a784f5a1e4ed66b1da_0",
+          "přístupové_url": "https://www.datazapad.cz/datasets/10bdbfe0cb1341a784f5a1e4ed66b1da_0",
           "typ_média": "http://www.iana.org/assignments/media-types/text/html",
           "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
           "podmínky_užití": {
@@ -923,12 +923,12 @@
       "distribuce": [
         {
           "typ": "Distribuce",
-          "iri": "https://www.datazapad.cz/maps/11796bcb67ee47bd8d38c0ec271b2787_3",
+          "iri": "https://www.datazapad.cz/datasets/11796bcb67ee47bd8d38c0ec271b2787_3",
           "název": {
             "cs": "ArcGIS Hub Dataset"
           },
-          "soubor_ke_stažení": "https://www.datazapad.cz/maps/11796bcb67ee47bd8d38c0ec271b2787_3",
-          "přístupové_url": "https://www.datazapad.cz/maps/11796bcb67ee47bd8d38c0ec271b2787_3",
+          "soubor_ke_stažení": "https://www.datazapad.cz/datasets/11796bcb67ee47bd8d38c0ec271b2787_3",
+          "přístupové_url": "https://www.datazapad.cz/datasets/11796bcb67ee47bd8d38c0ec271b2787_3",
           "typ_média": "http://www.iana.org/assignments/media-types/text/html",
           "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
           "podmínky_užití": {
@@ -1059,12 +1059,12 @@
       "distribuce": [
         {
           "typ": "Distribuce",
-          "iri": "https://www.datazapad.cz/maps/1384c78c4e6846219a9829cd07c81f60_3",
+          "iri": "https://www.datazapad.cz/datasets/1384c78c4e6846219a9829cd07c81f60_3",
           "název": {
             "cs": "ArcGIS Hub Dataset"
           },
-          "soubor_ke_stažení": "https://www.datazapad.cz/maps/1384c78c4e6846219a9829cd07c81f60_3",
-          "přístupové_url": "https://www.datazapad.cz/maps/1384c78c4e6846219a9829cd07c81f60_3",
+          "soubor_ke_stažení": "https://www.datazapad.cz/datasets/1384c78c4e6846219a9829cd07c81f60_3",
+          "přístupové_url": "https://www.datazapad.cz/datasets/1384c78c4e6846219a9829cd07c81f60_3",
           "typ_média": "http://www.iana.org/assignments/media-types/text/html",
           "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
           "podmínky_užití": {
@@ -1196,12 +1196,12 @@
       "distribuce": [
         {
           "typ": "Distribuce",
-          "iri": "https://www.datazapad.cz/maps/17a673b7147d45ba8744904cae6afdbb_0",
+          "iri": "https://www.datazapad.cz/datasets/17a673b7147d45ba8744904cae6afdbb_0",
           "název": {
             "cs": "ArcGIS Hub Dataset"
           },
-          "soubor_ke_stažení": "https://www.datazapad.cz/maps/17a673b7147d45ba8744904cae6afdbb_0",
-          "přístupové_url": "https://www.datazapad.cz/maps/17a673b7147d45ba8744904cae6afdbb_0",
+          "soubor_ke_stažení": "https://www.datazapad.cz/datasets/17a673b7147d45ba8744904cae6afdbb_0",
+          "přístupové_url": "https://www.datazapad.cz/datasets/17a673b7147d45ba8744904cae6afdbb_0",
           "typ_média": "http://www.iana.org/assignments/media-types/text/html",
           "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
           "podmínky_užití": {
@@ -1337,12 +1337,12 @@
       "distribuce": [
         {
           "typ": "Distribuce",
-          "iri": "https://www.datazapad.cz/maps/1e64adf22f8448a693f638c9f1334dc9_0",
+          "iri": "https://www.datazapad.cz/datasets/1e64adf22f8448a693f638c9f1334dc9_0",
           "název": {
             "cs": "ArcGIS Hub Dataset"
           },
-          "soubor_ke_stažení": "https://www.datazapad.cz/maps/1e64adf22f8448a693f638c9f1334dc9_0",
-          "přístupové_url": "https://www.datazapad.cz/maps/1e64adf22f8448a693f638c9f1334dc9_0",
+          "soubor_ke_stažení": "https://www.datazapad.cz/datasets/1e64adf22f8448a693f638c9f1334dc9_0",
+          "přístupové_url": "https://www.datazapad.cz/datasets/1e64adf22f8448a693f638c9f1334dc9_0",
           "typ_média": "http://www.iana.org/assignments/media-types/text/html",
           "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
           "podmínky_užití": {
@@ -1473,12 +1473,12 @@
       "distribuce": [
         {
           "typ": "Distribuce",
-          "iri": "https://www.datazapad.cz/maps/2fe4d27ac10341f6bd2b4ea6380a2599_0",
+          "iri": "https://www.datazapad.cz/datasets/2fe4d27ac10341f6bd2b4ea6380a2599_0",
           "název": {
             "cs": "ArcGIS Hub Dataset"
           },
-          "soubor_ke_stažení": "https://www.datazapad.cz/maps/2fe4d27ac10341f6bd2b4ea6380a2599_0",
-          "přístupové_url": "https://www.datazapad.cz/maps/2fe4d27ac10341f6bd2b4ea6380a2599_0",
+          "soubor_ke_stažení": "https://www.datazapad.cz/datasets/2fe4d27ac10341f6bd2b4ea6380a2599_0",
+          "přístupové_url": "https://www.datazapad.cz/datasets/2fe4d27ac10341f6bd2b4ea6380a2599_0",
           "typ_média": "http://www.iana.org/assignments/media-types/text/html",
           "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
           "podmínky_užití": {
@@ -1612,12 +1612,12 @@
       "distribuce": [
         {
           "typ": "Distribuce",
-          "iri": "https://www.datazapad.cz/maps/387d1403bddb48b09ba4e3cd3b7894f8_0",
+          "iri": "https://www.datazapad.cz/datasets/387d1403bddb48b09ba4e3cd3b7894f8_0",
           "název": {
             "cs": "ArcGIS Hub Dataset"
           },
-          "soubor_ke_stažení": "https://www.datazapad.cz/maps/387d1403bddb48b09ba4e3cd3b7894f8_0",
-          "přístupové_url": "https://www.datazapad.cz/maps/387d1403bddb48b09ba4e3cd3b7894f8_0",
+          "soubor_ke_stažení": "https://www.datazapad.cz/datasets/387d1403bddb48b09ba4e3cd3b7894f8_0",
+          "přístupové_url": "https://www.datazapad.cz/datasets/387d1403bddb48b09ba4e3cd3b7894f8_0",
           "typ_média": "http://www.iana.org/assignments/media-types/text/html",
           "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
           "podmínky_užití": {
@@ -1748,12 +1748,12 @@
       "distribuce": [
         {
           "typ": "Distribuce",
-          "iri": "https://www.datazapad.cz/maps/464108d64a93430083119bfb0845af3c_0",
+          "iri": "https://www.datazapad.cz/datasets/464108d64a93430083119bfb0845af3c_0",
           "název": {
             "cs": "ArcGIS Hub Dataset"
           },
-          "soubor_ke_stažení": "https://www.datazapad.cz/maps/464108d64a93430083119bfb0845af3c_0",
-          "přístupové_url": "https://www.datazapad.cz/maps/464108d64a93430083119bfb0845af3c_0",
+          "soubor_ke_stažení": "https://www.datazapad.cz/datasets/464108d64a93430083119bfb0845af3c_0",
+          "přístupové_url": "https://www.datazapad.cz/datasets/464108d64a93430083119bfb0845af3c_0",
           "typ_média": "http://www.iana.org/assignments/media-types/text/html",
           "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
           "podmínky_užití": {
@@ -1885,12 +1885,12 @@
       "distribuce": [
         {
           "typ": "Distribuce",
-          "iri": "https://www.datazapad.cz/maps/4d8d7284782049ee826b794af25cbc05_0",
+          "iri": "https://www.datazapad.cz/datasets/4d8d7284782049ee826b794af25cbc05_0",
           "název": {
             "cs": "ArcGIS Hub Dataset"
           },
-          "soubor_ke_stažení": "https://www.datazapad.cz/maps/4d8d7284782049ee826b794af25cbc05_0",
-          "přístupové_url": "https://www.datazapad.cz/maps/4d8d7284782049ee826b794af25cbc05_0",
+          "soubor_ke_stažení": "https://www.datazapad.cz/datasets/4d8d7284782049ee826b794af25cbc05_0",
+          "přístupové_url": "https://www.datazapad.cz/datasets/4d8d7284782049ee826b794af25cbc05_0",
           "typ_média": "http://www.iana.org/assignments/media-types/text/html",
           "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
           "podmínky_užití": {
@@ -2025,12 +2025,12 @@
       "distribuce": [
         {
           "typ": "Distribuce",
-          "iri": "https://www.datazapad.cz/maps/52658b60dacf474f80cf5bb7c8004cc6_0",
+          "iri": "https://www.datazapad.cz/datasets/52658b60dacf474f80cf5bb7c8004cc6_0",
           "název": {
             "cs": "ArcGIS Hub Dataset"
           },
-          "soubor_ke_stažení": "https://www.datazapad.cz/maps/52658b60dacf474f80cf5bb7c8004cc6_0",
-          "přístupové_url": "https://www.datazapad.cz/maps/52658b60dacf474f80cf5bb7c8004cc6_0",
+          "soubor_ke_stažení": "https://www.datazapad.cz/datasets/52658b60dacf474f80cf5bb7c8004cc6_0",
+          "přístupové_url": "https://www.datazapad.cz/datasets/52658b60dacf474f80cf5bb7c8004cc6_0",
           "typ_média": "http://www.iana.org/assignments/media-types/text/html",
           "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
           "podmínky_užití": {
@@ -2163,12 +2163,12 @@
       "distribuce": [
         {
           "typ": "Distribuce",
-          "iri": "https://www.datazapad.cz/maps/57a4ac11b4014df7803496c91408ec4e_0",
+          "iri": "https://www.datazapad.cz/datasets/57a4ac11b4014df7803496c91408ec4e_0",
           "název": {
             "cs": "ArcGIS Hub Dataset"
           },
-          "soubor_ke_stažení": "https://www.datazapad.cz/maps/57a4ac11b4014df7803496c91408ec4e_0",
-          "přístupové_url": "https://www.datazapad.cz/maps/57a4ac11b4014df7803496c91408ec4e_0",
+          "soubor_ke_stažení": "https://www.datazapad.cz/datasets/57a4ac11b4014df7803496c91408ec4e_0",
+          "přístupové_url": "https://www.datazapad.cz/datasets/57a4ac11b4014df7803496c91408ec4e_0",
           "typ_média": "http://www.iana.org/assignments/media-types/text/html",
           "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
           "podmínky_užití": {
@@ -2300,12 +2300,12 @@
       "distribuce": [
         {
           "typ": "Distribuce",
-          "iri": "https://www.datazapad.cz/maps/58bc30d273d84926bc4e817aabca9321_0",
+          "iri": "https://www.datazapad.cz/datasets/58bc30d273d84926bc4e817aabca9321_0",
           "název": {
             "cs": "ArcGIS Hub Dataset"
           },
-          "soubor_ke_stažení": "https://www.datazapad.cz/maps/58bc30d273d84926bc4e817aabca9321_0",
-          "přístupové_url": "https://www.datazapad.cz/maps/58bc30d273d84926bc4e817aabca9321_0",
+          "soubor_ke_stažení": "https://www.datazapad.cz/datasets/58bc30d273d84926bc4e817aabca9321_0",
+          "přístupové_url": "https://www.datazapad.cz/datasets/58bc30d273d84926bc4e817aabca9321_0",
           "typ_média": "http://www.iana.org/assignments/media-types/text/html",
           "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
           "podmínky_užití": {
@@ -2437,12 +2437,12 @@
       "distribuce": [
         {
           "typ": "Distribuce",
-          "iri": "https://www.datazapad.cz/maps/5ad57de2f5ea4f4483fd123f48beee47_3",
+          "iri": "https://www.datazapad.cz/datasets/5ad57de2f5ea4f4483fd123f48beee47_3",
           "název": {
             "cs": "ArcGIS Hub Dataset"
           },
-          "soubor_ke_stažení": "https://www.datazapad.cz/maps/5ad57de2f5ea4f4483fd123f48beee47_3",
-          "přístupové_url": "https://www.datazapad.cz/maps/5ad57de2f5ea4f4483fd123f48beee47_3",
+          "soubor_ke_stažení": "https://www.datazapad.cz/datasets/5ad57de2f5ea4f4483fd123f48beee47_3",
+          "přístupové_url": "https://www.datazapad.cz/datasets/5ad57de2f5ea4f4483fd123f48beee47_3",
           "typ_média": "http://www.iana.org/assignments/media-types/text/html",
           "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
           "podmínky_užití": {
@@ -2574,12 +2574,12 @@
       "distribuce": [
         {
           "typ": "Distribuce",
-          "iri": "https://www.datazapad.cz/maps/5b6083d1a59d46c59d26717b31e991d1_0",
+          "iri": "https://www.datazapad.cz/datasets/5b6083d1a59d46c59d26717b31e991d1_0",
           "název": {
             "cs": "ArcGIS Hub Dataset"
           },
-          "soubor_ke_stažení": "https://www.datazapad.cz/maps/5b6083d1a59d46c59d26717b31e991d1_0",
-          "přístupové_url": "https://www.datazapad.cz/maps/5b6083d1a59d46c59d26717b31e991d1_0",
+          "soubor_ke_stažení": "https://www.datazapad.cz/datasets/5b6083d1a59d46c59d26717b31e991d1_0",
+          "přístupové_url": "https://www.datazapad.cz/datasets/5b6083d1a59d46c59d26717b31e991d1_0",
           "typ_média": "http://www.iana.org/assignments/media-types/text/html",
           "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
           "podmínky_užití": {
@@ -2712,12 +2712,12 @@
       "distribuce": [
         {
           "typ": "Distribuce",
-          "iri": "https://www.datazapad.cz/maps/5e85e517a5be4765bab75d6803665a2c_0",
+          "iri": "https://www.datazapad.cz/datasets/5e85e517a5be4765bab75d6803665a2c_0",
           "název": {
             "cs": "ArcGIS Hub Dataset"
           },
-          "soubor_ke_stažení": "https://www.datazapad.cz/maps/5e85e517a5be4765bab75d6803665a2c_0",
-          "přístupové_url": "https://www.datazapad.cz/maps/5e85e517a5be4765bab75d6803665a2c_0",
+          "soubor_ke_stažení": "https://www.datazapad.cz/datasets/5e85e517a5be4765bab75d6803665a2c_0",
+          "přístupové_url": "https://www.datazapad.cz/datasets/5e85e517a5be4765bab75d6803665a2c_0",
           "typ_média": "http://www.iana.org/assignments/media-types/text/html",
           "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
           "podmínky_užití": {
@@ -2848,12 +2848,12 @@
       "distribuce": [
         {
           "typ": "Distribuce",
-          "iri": "https://www.datazapad.cz/maps/5e900a28dedd446aa8ae18d49ac88d70_0",
+          "iri": "https://www.datazapad.cz/datasets/5e900a28dedd446aa8ae18d49ac88d70_0",
           "název": {
             "cs": "ArcGIS Hub Dataset"
           },
-          "soubor_ke_stažení": "https://www.datazapad.cz/maps/5e900a28dedd446aa8ae18d49ac88d70_0",
-          "přístupové_url": "https://www.datazapad.cz/maps/5e900a28dedd446aa8ae18d49ac88d70_0",
+          "soubor_ke_stažení": "https://www.datazapad.cz/datasets/5e900a28dedd446aa8ae18d49ac88d70_0",
+          "přístupové_url": "https://www.datazapad.cz/datasets/5e900a28dedd446aa8ae18d49ac88d70_0",
           "typ_média": "http://www.iana.org/assignments/media-types/text/html",
           "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
           "podmínky_užití": {
@@ -2986,12 +2986,12 @@
       "distribuce": [
         {
           "typ": "Distribuce",
-          "iri": "https://www.datazapad.cz/maps/5e92fe0bd817496eb38cd733543e56f8_0",
+          "iri": "https://www.datazapad.cz/datasets/5e92fe0bd817496eb38cd733543e56f8_0",
           "název": {
             "cs": "ArcGIS Hub Dataset"
           },
-          "soubor_ke_stažení": "https://www.datazapad.cz/maps/5e92fe0bd817496eb38cd733543e56f8_0",
-          "přístupové_url": "https://www.datazapad.cz/maps/5e92fe0bd817496eb38cd733543e56f8_0",
+          "soubor_ke_stažení": "https://www.datazapad.cz/datasets/5e92fe0bd817496eb38cd733543e56f8_0",
+          "přístupové_url": "https://www.datazapad.cz/datasets/5e92fe0bd817496eb38cd733543e56f8_0",
           "typ_média": "http://www.iana.org/assignments/media-types/text/html",
           "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
           "podmínky_užití": {
@@ -3124,12 +3124,12 @@
       "distribuce": [
         {
           "typ": "Distribuce",
-          "iri": "https://www.datazapad.cz/maps/5f5a19a727514857a731e29781448dc7_0",
+          "iri": "https://www.datazapad.cz/datasets/5f5a19a727514857a731e29781448dc7_0",
           "název": {
             "cs": "ArcGIS Hub Dataset"
           },
-          "soubor_ke_stažení": "https://www.datazapad.cz/maps/5f5a19a727514857a731e29781448dc7_0",
-          "přístupové_url": "https://www.datazapad.cz/maps/5f5a19a727514857a731e29781448dc7_0",
+          "soubor_ke_stažení": "https://www.datazapad.cz/datasets/5f5a19a727514857a731e29781448dc7_0",
+          "přístupové_url": "https://www.datazapad.cz/datasets/5f5a19a727514857a731e29781448dc7_0",
           "typ_média": "http://www.iana.org/assignments/media-types/text/html",
           "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
           "podmínky_užití": {
@@ -3262,12 +3262,12 @@
       "distribuce": [
         {
           "typ": "Distribuce",
-          "iri": "https://www.datazapad.cz/maps/6be3423787fd4c1fa19a70b025e2eb64_0",
+          "iri": "https://www.datazapad.cz/datasets/6be3423787fd4c1fa19a70b025e2eb64_0",
           "název": {
             "cs": "ArcGIS Hub Dataset"
           },
-          "soubor_ke_stažení": "https://www.datazapad.cz/maps/6be3423787fd4c1fa19a70b025e2eb64_0",
-          "přístupové_url": "https://www.datazapad.cz/maps/6be3423787fd4c1fa19a70b025e2eb64_0",
+          "soubor_ke_stažení": "https://www.datazapad.cz/datasets/6be3423787fd4c1fa19a70b025e2eb64_0",
+          "přístupové_url": "https://www.datazapad.cz/datasets/6be3423787fd4c1fa19a70b025e2eb64_0",
           "typ_média": "http://www.iana.org/assignments/media-types/text/html",
           "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
           "podmínky_užití": {
@@ -3399,12 +3399,12 @@
       "distribuce": [
         {
           "typ": "Distribuce",
-          "iri": "https://www.datazapad.cz/maps/6cd2b71c45184327aab9375661268f5d_3",
+          "iri": "https://www.datazapad.cz/datasets/6cd2b71c45184327aab9375661268f5d_3",
           "název": {
             "cs": "ArcGIS Hub Dataset"
           },
-          "soubor_ke_stažení": "https://www.datazapad.cz/maps/6cd2b71c45184327aab9375661268f5d_3",
-          "přístupové_url": "https://www.datazapad.cz/maps/6cd2b71c45184327aab9375661268f5d_3",
+          "soubor_ke_stažení": "https://www.datazapad.cz/datasets/6cd2b71c45184327aab9375661268f5d_3",
+          "přístupové_url": "https://www.datazapad.cz/datasets/6cd2b71c45184327aab9375661268f5d_3",
           "typ_média": "http://www.iana.org/assignments/media-types/text/html",
           "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
           "podmínky_užití": {
@@ -3541,12 +3541,12 @@
       "distribuce": [
         {
           "typ": "Distribuce",
-          "iri": "https://www.datazapad.cz/maps/6f9302623bcd4a72af2ac674c3b46adf_0",
+          "iri": "https://www.datazapad.cz/datasets/6f9302623bcd4a72af2ac674c3b46adf_0",
           "název": {
             "cs": "ArcGIS Hub Dataset"
           },
-          "soubor_ke_stažení": "https://www.datazapad.cz/maps/6f9302623bcd4a72af2ac674c3b46adf_0",
-          "přístupové_url": "https://www.datazapad.cz/maps/6f9302623bcd4a72af2ac674c3b46adf_0",
+          "soubor_ke_stažení": "https://www.datazapad.cz/datasets/6f9302623bcd4a72af2ac674c3b46adf_0",
+          "přístupové_url": "https://www.datazapad.cz/datasets/6f9302623bcd4a72af2ac674c3b46adf_0",
           "typ_média": "http://www.iana.org/assignments/media-types/text/html",
           "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
           "podmínky_užití": {
@@ -3682,12 +3682,12 @@
       "distribuce": [
         {
           "typ": "Distribuce",
-          "iri": "https://www.datazapad.cz/maps/72aa9de6abc94f949f3959e70e0d241d_0",
+          "iri": "https://www.datazapad.cz/datasets/72aa9de6abc94f949f3959e70e0d241d_0",
           "název": {
             "cs": "ArcGIS Hub Dataset"
           },
-          "soubor_ke_stažení": "https://www.datazapad.cz/maps/72aa9de6abc94f949f3959e70e0d241d_0",
-          "přístupové_url": "https://www.datazapad.cz/maps/72aa9de6abc94f949f3959e70e0d241d_0",
+          "soubor_ke_stažení": "https://www.datazapad.cz/datasets/72aa9de6abc94f949f3959e70e0d241d_0",
+          "přístupové_url": "https://www.datazapad.cz/datasets/72aa9de6abc94f949f3959e70e0d241d_0",
           "typ_média": "http://www.iana.org/assignments/media-types/text/html",
           "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
           "podmínky_užití": {
@@ -3821,12 +3821,12 @@
       "distribuce": [
         {
           "typ": "Distribuce",
-          "iri": "https://www.datazapad.cz/maps/785fbd982147426ca275496791930eb8_0",
+          "iri": "https://www.datazapad.cz/datasets/785fbd982147426ca275496791930eb8_0",
           "název": {
             "cs": "ArcGIS Hub Dataset"
           },
-          "soubor_ke_stažení": "https://www.datazapad.cz/maps/785fbd982147426ca275496791930eb8_0",
-          "přístupové_url": "https://www.datazapad.cz/maps/785fbd982147426ca275496791930eb8_0",
+          "soubor_ke_stažení": "https://www.datazapad.cz/datasets/785fbd982147426ca275496791930eb8_0",
+          "přístupové_url": "https://www.datazapad.cz/datasets/785fbd982147426ca275496791930eb8_0",
           "typ_média": "http://www.iana.org/assignments/media-types/text/html",
           "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
           "podmínky_užití": {
@@ -3958,12 +3958,12 @@
       "distribuce": [
         {
           "typ": "Distribuce",
-          "iri": "https://www.datazapad.cz/maps/7974da466d594bdea7953f3542ef5ca9_0",
+          "iri": "https://www.datazapad.cz/datasets/7974da466d594bdea7953f3542ef5ca9_0",
           "název": {
             "cs": "ArcGIS Hub Dataset"
           },
-          "soubor_ke_stažení": "https://www.datazapad.cz/maps/7974da466d594bdea7953f3542ef5ca9_0",
-          "přístupové_url": "https://www.datazapad.cz/maps/7974da466d594bdea7953f3542ef5ca9_0",
+          "soubor_ke_stažení": "https://www.datazapad.cz/datasets/7974da466d594bdea7953f3542ef5ca9_0",
+          "přístupové_url": "https://www.datazapad.cz/datasets/7974da466d594bdea7953f3542ef5ca9_0",
           "typ_média": "http://www.iana.org/assignments/media-types/text/html",
           "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
           "podmínky_užití": {
@@ -4097,12 +4097,12 @@
       "distribuce": [
         {
           "typ": "Distribuce",
-          "iri": "https://www.datazapad.cz/maps/8a71d71444f14acd8d43023ce9c3fb95_3",
+          "iri": "https://www.datazapad.cz/datasets/8a71d71444f14acd8d43023ce9c3fb95_3",
           "název": {
             "cs": "ArcGIS Hub Dataset"
           },
-          "soubor_ke_stažení": "https://www.datazapad.cz/maps/8a71d71444f14acd8d43023ce9c3fb95_3",
-          "přístupové_url": "https://www.datazapad.cz/maps/8a71d71444f14acd8d43023ce9c3fb95_3",
+          "soubor_ke_stažení": "https://www.datazapad.cz/datasets/8a71d71444f14acd8d43023ce9c3fb95_3",
+          "přístupové_url": "https://www.datazapad.cz/datasets/8a71d71444f14acd8d43023ce9c3fb95_3",
           "typ_média": "http://www.iana.org/assignments/media-types/text/html",
           "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
           "podmínky_užití": {
@@ -4234,12 +4234,12 @@
       "distribuce": [
         {
           "typ": "Distribuce",
-          "iri": "https://www.datazapad.cz/maps/8ae1f28fc17f4918a0dba74bb11797ff_0",
+          "iri": "https://www.datazapad.cz/datasets/8ae1f28fc17f4918a0dba74bb11797ff_0",
           "název": {
             "cs": "ArcGIS Hub Dataset"
           },
-          "soubor_ke_stažení": "https://www.datazapad.cz/maps/8ae1f28fc17f4918a0dba74bb11797ff_0",
-          "přístupové_url": "https://www.datazapad.cz/maps/8ae1f28fc17f4918a0dba74bb11797ff_0",
+          "soubor_ke_stažení": "https://www.datazapad.cz/datasets/8ae1f28fc17f4918a0dba74bb11797ff_0",
+          "přístupové_url": "https://www.datazapad.cz/datasets/8ae1f28fc17f4918a0dba74bb11797ff_0",
           "typ_média": "http://www.iana.org/assignments/media-types/text/html",
           "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
           "podmínky_užití": {
@@ -4376,12 +4376,12 @@
       "distribuce": [
         {
           "typ": "Distribuce",
-          "iri": "https://www.datazapad.cz/maps/903168d407624e57a43cb4ab9bc97620_0",
+          "iri": "https://www.datazapad.cz/datasets/903168d407624e57a43cb4ab9bc97620_0",
           "název": {
             "cs": "ArcGIS Hub Dataset"
           },
-          "soubor_ke_stažení": "https://www.datazapad.cz/maps/903168d407624e57a43cb4ab9bc97620_0",
-          "přístupové_url": "https://www.datazapad.cz/maps/903168d407624e57a43cb4ab9bc97620_0",
+          "soubor_ke_stažení": "https://www.datazapad.cz/datasets/903168d407624e57a43cb4ab9bc97620_0",
+          "přístupové_url": "https://www.datazapad.cz/datasets/903168d407624e57a43cb4ab9bc97620_0",
           "typ_média": "http://www.iana.org/assignments/media-types/text/html",
           "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
           "podmínky_užití": {
@@ -4514,12 +4514,12 @@
       "distribuce": [
         {
           "typ": "Distribuce",
-          "iri": "https://www.datazapad.cz/maps/90441fa783444e1ead5ad71464504d6a_0",
+          "iri": "https://www.datazapad.cz/datasets/90441fa783444e1ead5ad71464504d6a_0",
           "název": {
             "cs": "ArcGIS Hub Dataset"
           },
-          "soubor_ke_stažení": "https://www.datazapad.cz/maps/90441fa783444e1ead5ad71464504d6a_0",
-          "přístupové_url": "https://www.datazapad.cz/maps/90441fa783444e1ead5ad71464504d6a_0",
+          "soubor_ke_stažení": "https://www.datazapad.cz/datasets/90441fa783444e1ead5ad71464504d6a_0",
+          "přístupové_url": "https://www.datazapad.cz/datasets/90441fa783444e1ead5ad71464504d6a_0",
           "typ_média": "http://www.iana.org/assignments/media-types/text/html",
           "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
           "podmínky_užití": {
@@ -4651,12 +4651,12 @@
       "distribuce": [
         {
           "typ": "Distribuce",
-          "iri": "https://www.datazapad.cz/maps/98d26c1b1c8f4bd49850af82a19a7f58_0",
+          "iri": "https://www.datazapad.cz/datasets/98d26c1b1c8f4bd49850af82a19a7f58_0",
           "název": {
             "cs": "ArcGIS Hub Dataset"
           },
-          "soubor_ke_stažení": "https://www.datazapad.cz/maps/98d26c1b1c8f4bd49850af82a19a7f58_0",
-          "přístupové_url": "https://www.datazapad.cz/maps/98d26c1b1c8f4bd49850af82a19a7f58_0",
+          "soubor_ke_stažení": "https://www.datazapad.cz/datasets/98d26c1b1c8f4bd49850af82a19a7f58_0",
+          "přístupové_url": "https://www.datazapad.cz/datasets/98d26c1b1c8f4bd49850af82a19a7f58_0",
           "typ_média": "http://www.iana.org/assignments/media-types/text/html",
           "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
           "podmínky_užití": {
@@ -4788,12 +4788,12 @@
       "distribuce": [
         {
           "typ": "Distribuce",
-          "iri": "https://www.datazapad.cz/maps/a193c3092bef4fa8b514761b421d9ee1_0",
+          "iri": "https://www.datazapad.cz/datasets/a193c3092bef4fa8b514761b421d9ee1_0",
           "název": {
             "cs": "ArcGIS Hub Dataset"
           },
-          "soubor_ke_stažení": "https://www.datazapad.cz/maps/a193c3092bef4fa8b514761b421d9ee1_0",
-          "přístupové_url": "https://www.datazapad.cz/maps/a193c3092bef4fa8b514761b421d9ee1_0",
+          "soubor_ke_stažení": "https://www.datazapad.cz/datasets/a193c3092bef4fa8b514761b421d9ee1_0",
+          "přístupové_url": "https://www.datazapad.cz/datasets/a193c3092bef4fa8b514761b421d9ee1_0",
           "typ_média": "http://www.iana.org/assignments/media-types/text/html",
           "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
           "podmínky_užití": {
@@ -4931,12 +4931,12 @@
       "distribuce": [
         {
           "typ": "Distribuce",
-          "iri": "https://www.datazapad.cz/maps/a80fbe6e01f742a8a0a7b507bfb3998f_3",
+          "iri": "https://www.datazapad.cz/datasets/a80fbe6e01f742a8a0a7b507bfb3998f_3",
           "název": {
             "cs": "ArcGIS Hub Dataset"
           },
-          "soubor_ke_stažení": "https://www.datazapad.cz/maps/a80fbe6e01f742a8a0a7b507bfb3998f_3",
-          "přístupové_url": "https://www.datazapad.cz/maps/a80fbe6e01f742a8a0a7b507bfb3998f_3",
+          "soubor_ke_stažení": "https://www.datazapad.cz/datasets/a80fbe6e01f742a8a0a7b507bfb3998f_3",
+          "přístupové_url": "https://www.datazapad.cz/datasets/a80fbe6e01f742a8a0a7b507bfb3998f_3",
           "typ_média": "http://www.iana.org/assignments/media-types/text/html",
           "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
           "podmínky_užití": {
@@ -5063,12 +5063,12 @@
       "distribuce": [
         {
           "typ": "Distribuce",
-          "iri": "https://www.datazapad.cz/maps/b20504884a5f4ab3acc4fa7bc2611be2_0",
+          "iri": "https://www.datazapad.cz/datasets/b20504884a5f4ab3acc4fa7bc2611be2_0",
           "název": {
             "cs": "ArcGIS Hub Dataset"
           },
-          "soubor_ke_stažení": "https://www.datazapad.cz/maps/b20504884a5f4ab3acc4fa7bc2611be2_0",
-          "přístupové_url": "https://www.datazapad.cz/maps/b20504884a5f4ab3acc4fa7bc2611be2_0",
+          "soubor_ke_stažení": "https://www.datazapad.cz/datasets/b20504884a5f4ab3acc4fa7bc2611be2_0",
+          "přístupové_url": "https://www.datazapad.cz/datasets/b20504884a5f4ab3acc4fa7bc2611be2_0",
           "typ_média": "http://www.iana.org/assignments/media-types/text/html",
           "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
           "podmínky_užití": {
@@ -5202,12 +5202,12 @@
       "distribuce": [
         {
           "typ": "Distribuce",
-          "iri": "https://www.datazapad.cz/maps/b59dc439b86147e4aefba8d94fc6aa9e_3",
+          "iri": "https://www.datazapad.cz/datasets/b59dc439b86147e4aefba8d94fc6aa9e_3",
           "název": {
             "cs": "ArcGIS Hub Dataset"
           },
-          "soubor_ke_stažení": "https://www.datazapad.cz/maps/b59dc439b86147e4aefba8d94fc6aa9e_3",
-          "přístupové_url": "https://www.datazapad.cz/maps/b59dc439b86147e4aefba8d94fc6aa9e_3",
+          "soubor_ke_stažení": "https://www.datazapad.cz/datasets/b59dc439b86147e4aefba8d94fc6aa9e_3",
+          "přístupové_url": "https://www.datazapad.cz/datasets/b59dc439b86147e4aefba8d94fc6aa9e_3",
           "typ_média": "http://www.iana.org/assignments/media-types/text/html",
           "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
           "podmínky_užití": {
@@ -5339,12 +5339,12 @@
       "distribuce": [
         {
           "typ": "Distribuce",
-          "iri": "https://www.datazapad.cz/maps/c3a31017e7ac4e8d8d75c6a1ed49bc03_0",
+          "iri": "https://www.datazapad.cz/datasets/c3a31017e7ac4e8d8d75c6a1ed49bc03_0",
           "název": {
             "cs": "ArcGIS Hub Dataset"
           },
-          "soubor_ke_stažení": "https://www.datazapad.cz/maps/c3a31017e7ac4e8d8d75c6a1ed49bc03_0",
-          "přístupové_url": "https://www.datazapad.cz/maps/c3a31017e7ac4e8d8d75c6a1ed49bc03_0",
+          "soubor_ke_stažení": "https://www.datazapad.cz/datasets/c3a31017e7ac4e8d8d75c6a1ed49bc03_0",
+          "přístupové_url": "https://www.datazapad.cz/datasets/c3a31017e7ac4e8d8d75c6a1ed49bc03_0",
           "typ_média": "http://www.iana.org/assignments/media-types/text/html",
           "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
           "podmínky_užití": {
@@ -5478,12 +5478,12 @@
       "distribuce": [
         {
           "typ": "Distribuce",
-          "iri": "https://www.datazapad.cz/maps/c3a42c283f0649248326a0bbd7dc5cc3_3",
+          "iri": "https://www.datazapad.cz/datasets/c3a42c283f0649248326a0bbd7dc5cc3_3",
           "název": {
             "cs": "ArcGIS Hub Dataset"
           },
-          "soubor_ke_stažení": "https://www.datazapad.cz/maps/c3a42c283f0649248326a0bbd7dc5cc3_3",
-          "přístupové_url": "https://www.datazapad.cz/maps/c3a42c283f0649248326a0bbd7dc5cc3_3",
+          "soubor_ke_stažení": "https://www.datazapad.cz/datasets/c3a42c283f0649248326a0bbd7dc5cc3_3",
+          "přístupové_url": "https://www.datazapad.cz/datasets/c3a42c283f0649248326a0bbd7dc5cc3_3",
           "typ_média": "http://www.iana.org/assignments/media-types/text/html",
           "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
           "podmínky_užití": {
@@ -5615,12 +5615,12 @@
       "distribuce": [
         {
           "typ": "Distribuce",
-          "iri": "https://www.datazapad.cz/maps/d27fb764c5a642e2bf2f8c134cbdeca2_0",
+          "iri": "https://www.datazapad.cz/datasets/d27fb764c5a642e2bf2f8c134cbdeca2_0",
           "název": {
             "cs": "ArcGIS Hub Dataset"
           },
-          "soubor_ke_stažení": "https://www.datazapad.cz/maps/d27fb764c5a642e2bf2f8c134cbdeca2_0",
-          "přístupové_url": "https://www.datazapad.cz/maps/d27fb764c5a642e2bf2f8c134cbdeca2_0",
+          "soubor_ke_stažení": "https://www.datazapad.cz/datasets/d27fb764c5a642e2bf2f8c134cbdeca2_0",
+          "přístupové_url": "https://www.datazapad.cz/datasets/d27fb764c5a642e2bf2f8c134cbdeca2_0",
           "typ_média": "http://www.iana.org/assignments/media-types/text/html",
           "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
           "podmínky_užití": {
@@ -5752,12 +5752,12 @@
       "distribuce": [
         {
           "typ": "Distribuce",
-          "iri": "https://www.datazapad.cz/maps/d51db8b1ac8f40b6adf214e67cbb6f30_3",
+          "iri": "https://www.datazapad.cz/datasets/d51db8b1ac8f40b6adf214e67cbb6f30_3",
           "název": {
             "cs": "ArcGIS Hub Dataset"
           },
-          "soubor_ke_stažení": "https://www.datazapad.cz/maps/d51db8b1ac8f40b6adf214e67cbb6f30_3",
-          "přístupové_url": "https://www.datazapad.cz/maps/d51db8b1ac8f40b6adf214e67cbb6f30_3",
+          "soubor_ke_stažení": "https://www.datazapad.cz/datasets/d51db8b1ac8f40b6adf214e67cbb6f30_3",
+          "přístupové_url": "https://www.datazapad.cz/datasets/d51db8b1ac8f40b6adf214e67cbb6f30_3",
           "typ_média": "http://www.iana.org/assignments/media-types/text/html",
           "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
           "podmínky_užití": {
@@ -5889,12 +5889,12 @@
       "distribuce": [
         {
           "typ": "Distribuce",
-          "iri": "https://www.datazapad.cz/maps/f98f8248cdf140ad84649976f2d6f499_3",
+          "iri": "https://www.datazapad.cz/datasets/f98f8248cdf140ad84649976f2d6f499_3",
           "název": {
             "cs": "ArcGIS Hub Dataset"
           },
-          "soubor_ke_stažení": "https://www.datazapad.cz/maps/f98f8248cdf140ad84649976f2d6f499_3",
-          "přístupové_url": "https://www.datazapad.cz/maps/f98f8248cdf140ad84649976f2d6f499_3",
+          "soubor_ke_stažení": "https://www.datazapad.cz/datasets/f98f8248cdf140ad84649976f2d6f499_3",
+          "přístupové_url": "https://www.datazapad.cz/datasets/f98f8248cdf140ad84649976f2d6f499_3",
           "typ_média": "http://www.iana.org/assignments/media-types/text/html",
           "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
           "podmínky_užití": {
