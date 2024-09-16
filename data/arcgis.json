@@ -694,6 +694,91 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=17a673b7147d45ba8744904cae6afdbb&sublayer=0",
+      "landingPage": "https://www.datazapad.cz/maps/17a673b7147d45ba8744904cae6afdbb_0",
+      "title": "Seznam obcí Karlovarského kraje",
+      "description": "Polygonová vrstva obcí Karlovarského kraje publikovaná pro účely open dat. Polygony jsou vymezeny hranicemi obcí. Data obsahují o<div><ul><li>názvu úřadu</li><li>adresu úřadu (ulice a číslo popisné, PSČ, kód adresního místa RÚIAN, příslušnou poštu)</li><li>telefon, mail, webové stránky a datovou schránku obce</li><li>IČO</li><li>příslušné ORP, okres</li><li>další údaje z RÚIAN (status obce, ID transakce v RÚIAN apod.)</li></ul><div>Sloupec PointGeometry (alias WKT (S-JTSK)) obsahuje WKT souřadnice obecního (resp. městského) úřadu v systému JTSK. </div></div>",
+      "keyword": [
+        "Obce a města",
+        "Karlovarský kraj",
+        "úřad",
+        "obecní úřad"
+      ],
+      "issued": "2024-09-16T06:49:43.000Z",
+      "modified": "2024-09-16T11:02:19.000Z",
+      "publisher": {
+        "name": "Krajský úřad Karlovarského kraje"
+      },
+      "contactPoint": {
+        "fn": "Karlovarsky.Kraj",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": {
+        "coordinates": [
+          [
+            12.1989,
+            49.8397
+          ],
+          [
+            13.2077,
+            50.4993
+          ]
+        ],
+        "type": "envelope"
+      },
+      "license": "http://creativecommons.org/publicdomain/zero/1.0",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datazapad.cz/maps/17a673b7147d45ba8744904cae6afdbb_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://geoportal.kr-karlovarsky.cz/arcgis/rest/services/OpenData/Seznam_obc%C3%AD_Karlovarsk%C3%A9ho_kraje/MapServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/17a673b7147d45ba8744904cae6afdbb/csv?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/17a673b7147d45ba8744904cae6afdbb/geojson?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/17a673b7147d45ba8744904cae6afdbb/shapefile?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/17a673b7147d45ba8744904cae6afdbb/kml?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=1e64adf22f8448a693f638c9f1334dc9&sublayer=0",
       "landingPage": "https://www.datazapad.cz/maps/1e64adf22f8448a693f638c9f1334dc9_0",
       "title": "Jiné atraktivity v Karlovarském kraji",
