@@ -45,12 +45,12 @@
     },
     {
       "typ": "Distribuce",
-      "iri": "https://geoportal.kr-karlovarsky.cz/arcgis/rest/services/OpenData/Seznam_obc%C3%AD_Karlovarsk%C3%A9ho_kraje/MapServer/0",
+      "iri": "https://geoportal.kr-karlovarsky.cz/arcgis/rest/services/OpenData/Seznam_obci_Karlovarskeho_kraje/MapServer/0",
       "název": {
         "cs": "ArcGIS GeoService"
       },
-      "soubor_ke_stažení": "https://geoportal.kr-karlovarsky.cz/arcgis/rest/services/OpenData/Seznam_obc%C3%AD_Karlovarsk%C3%A9ho_kraje/MapServer/0",
-      "přístupové_url": "https://geoportal.kr-karlovarsky.cz/arcgis/rest/services/OpenData/Seznam_obc%C3%AD_Karlovarsk%C3%A9ho_kraje/MapServer/0",
+      "soubor_ke_stažení": "https://geoportal.kr-karlovarsky.cz/arcgis/rest/services/OpenData/Seznam_obci_Karlovarskeho_kraje/MapServer/0",
+      "přístupové_url": "https://geoportal.kr-karlovarsky.cz/arcgis/rest/services/OpenData/Seznam_obci_Karlovarskeho_kraje/MapServer/0",
       "typ_média": "http://www.iana.org/assignments/media-types/application/json",
       "formát": "http://publications.europa.eu/resource/authority/file-type/JSON",
       "podmínky_užití": {

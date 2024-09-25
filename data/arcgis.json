@@ -705,7 +705,7 @@
         "obecní úřad"
       ],
       "issued": "2024-09-16T06:49:43.000Z",
-      "modified": "2024-09-16T11:02:19.000Z",
+      "modified": "2024-09-25T07:51:46.000Z",
       "publisher": {
         "name": "Krajský úřad Karlovarského kraje"
       },
@@ -742,7 +742,7 @@
           "title": "ArcGIS GeoService",
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
-          "accessURL": "https://geoportal.kr-karlovarsky.cz/arcgis/rest/services/OpenData/Seznam_obc%C3%AD_Karlovarsk%C3%A9ho_kraje/MapServer/0"
+          "accessURL": "https://geoportal.kr-karlovarsky.cz/arcgis/rest/services/OpenData/Seznam_obci_Karlovarskeho_kraje/MapServer/0"
         },
         {
           "@type": "dcat:Distribution",
