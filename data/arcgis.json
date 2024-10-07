@@ -1467,6 +1467,91 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=5aa3b9fe8da6474786ff2b9c81b006cb&sublayer=0",
+      "landingPage": "https://www.datazapad.cz/datasets/5aa3b9fe8da6474786ff2b9c81b006cb_0",
+      "title": "Muzea a galerie v Karlovarském kraji",
+      "description": "<p>Datová sada obsahuje, kromě umístění muzeí a galerií v Karlovarském kraji, také webové stránky, kontaktní telefon a e-mail na muzeum či galerii.</p>",
+      "keyword": [
+        "muzeum",
+        "galerie",
+        "Karlovarský kraj",
+        "muzea a galerie"
+      ],
+      "issued": "2024-10-07T07:37:43.000Z",
+      "modified": "2024-10-07T07:37:50.470Z",
+      "publisher": {
+        "name": "Karlovarské inovační centrum, p.o."
+      },
+      "contactPoint": {
+        "fn": "pavla.brabencova_karp",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": {
+        "coordinates": [
+          [
+            12.1888,
+            49.9772
+          ],
+          [
+            13.1622,
+            50.4107
+          ]
+        ],
+        "type": "envelope"
+      },
+      "license": "http://creativecommons.org/licenses/by/4.0",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datazapad.cz/datasets/5aa3b9fe8da6474786ff2b9c81b006cb_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Muzea_a_galerie_v_KVK_WFL1/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/5aa3b9fe8da6474786ff2b9c81b006cb/csv?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/5aa3b9fe8da6474786ff2b9c81b006cb/geojson?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/5aa3b9fe8da6474786ff2b9c81b006cb/shapefile?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/5aa3b9fe8da6474786ff2b9c81b006cb/kml?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=5ad57de2f5ea4f4483fd123f48beee47&sublayer=3",
       "landingPage": "https://www.datazapad.cz/datasets/5ad57de2f5ea4f4483fd123f48beee47_3",
       "title": "Galerie kreativců Karlovarského kraje",
@@ -3441,6 +3526,91 @@
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
           "accessURL": "https://www.datazapad.cz/api/download/v1/items/c3a42c283f0649248326a0bbd7dc5cc3/kml?layers=3"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=d130e2d3a13d4ca39b16761d2131619b&sublayer=0",
+      "landingPage": "https://www.datazapad.cz/datasets/d130e2d3a13d4ca39b16761d2131619b_0",
+      "title": "Lyžařské vleky v Karlovarském kraji",
+      "description": "<p>Datová sada obsahuje rovněž informace o počtu vleků a lanovek v lyžařském centru. Dále obsahuje webové stránky, kontaktní telefon a e-mail na lyžařská střediska.</p>",
+      "keyword": [
+        "lyžařský vlek",
+        "lanovka",
+        "Karlovarský kraj",
+        "lyžařské středisko"
+      ],
+      "issued": "2024-10-07T07:21:43.000Z",
+      "modified": "2024-10-07T07:21:57.597Z",
+      "publisher": {
+        "name": "Karlovarské inovační centrum, p.o."
+      },
+      "contactPoint": {
+        "fn": "pavla.brabencova_karp",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": {
+        "coordinates": [
+          [
+            12.2077,
+            49.9732
+          ],
+          [
+            12.9688,
+            50.4185
+          ]
+        ],
+        "type": "envelope"
+      },
+      "license": "http://creativecommons.org/licenses/by/4.0",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datazapad.cz/datasets/d130e2d3a13d4ca39b16761d2131619b_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Ly%C5%BEa%C5%99sk%C3%A9_vleky_v_Karlovarsk%C3%A9m_kraji_WFL1/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/d130e2d3a13d4ca39b16761d2131619b/csv?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/d130e2d3a13d4ca39b16761d2131619b/geojson?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/d130e2d3a13d4ca39b16761d2131619b/shapefile?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/d130e2d3a13d4ca39b16761d2131619b/kml?layers=0"
         }
       ],
       "theme": [
