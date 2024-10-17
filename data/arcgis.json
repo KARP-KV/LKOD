@@ -95,7 +95,7 @@
       "identifier": "https://www.arcgis.com/home/item.html?id=037f7b55d2d34fa88fd63bf2d2903839&sublayer=0",
       "landingPage": "https://www.datazapad.cz/datasets/037f7b55d2d34fa88fd63bf2d2903839_0",
       "title": "Přírodní pozoruhodnosti v Karlovarském kraji",
-      "description": "<p>Datová sada obsahuje, kromě umístění přírodní pozoruhodnosti v Karlovarském kraji, rovněž uvedení typu přírodní pozoruhodnosti.</p>",
+      "description": "<p>Datová sada obsahuje, kromě umístění přírodní pozoruhodnosti v Karlovarském kraji, rovněž uvedení typu přírodní pozoruhodnosti.</p><p>Poskytovatelem vstupních dat pro datovou sadu je <span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif;'>Živý kraj - Destinační agentura pro Karlovarský kraj, z.s.</span><br /></p>",
       "keyword": [
         "Příroda",
         "Přírodní pozoruhodnosti",
@@ -699,7 +699,7 @@
       "identifier": "https://www.arcgis.com/home/item.html?id=135900efd11e4df1865987b57428eb9f&sublayer=0",
       "landingPage": "https://www.datazapad.cz/datasets/135900efd11e4df1865987b57428eb9f_0",
       "title": "UNESCO památky v Karlovarském kraji",
-      "description": "Datová sada obsahuje, kromě umístění památky UNESCO v Karlovarském kraji, rovněž webovou stránku o památce UNESCO.",
+      "description": "Datová sada obsahuje, kromě umístění památky UNESCO v Karlovarském kraji, rovněž webovou stránku o památce UNESCO.<div>Poskytovatelem vstupních dat pro datovou sadu je <span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif;'>Živý kraj - Destinační agentura pro Karlovarský kraj, z.s.</span><br /></div>",
       "keyword": [
         "UNESCO",
         "památka",
@@ -868,7 +868,7 @@
       "identifier": "https://www.arcgis.com/home/item.html?id=142875a7b4ba49769393c8a3b80cca6d&sublayer=0",
       "landingPage": "https://www.datazapad.cz/datasets/142875a7b4ba49769393c8a3b80cca6d_0",
       "title": "Vojenské a pietní památky v Karlovarském kraji",
-      "description": "Datová sada obsahuje, kromě specifikace umístění památky v Karlovarském kraji, rovněž upřesnění typu památky a webové stránky o památce.",
+      "description": "Datová sada obsahuje, kromě specifikace umístění památky v Karlovarském kraji, rovněž upřesnění typu památky a webové stránky o památce.<div>Poskytovatelem vstupních dat pro datovou sadu je <span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif;'>Živý kraj - Destinační agentura pro Karlovarský kraj, z.s.</span><br /></div>",
       "keyword": [
         "památky",
         "památka",
@@ -1129,7 +1129,7 @@
       "identifier": "https://www.arcgis.com/home/item.html?id=2c9bd5558c4a495c8424a84bc6b370e2&sublayer=0",
       "landingPage": "https://www.datazapad.cz/datasets/2c9bd5558c4a495c8424a84bc6b370e2_0",
       "title": "Náboženské památky v Karlovarském kraji",
-      "description": "<p>Datová sada obsahuje, kromě umístění náboženských památek v Karlovarském kraji, rovněž webové stránky a kontaktní údaje památky (v případě jejich dostupnosti).</p>",
+      "description": "<p>Datová sada obsahuje, kromě umístění náboženských památek v Karlovarském kraji, rovněž webové stránky a kontaktní údaje památky (v případě jejich dostupnosti).</p><p>Poskytovatelem vstupních dat pro datovou sadu je <span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif;'>Živý kraj - Destinační agentura pro Karlovarský kraj, z.s.</span><br /></p>",
       "keyword": [
         "náboženství",
         "náboženská památka",
@@ -1299,7 +1299,7 @@
       "identifier": "https://www.arcgis.com/home/item.html?id=3727aefc159e47fd8cb9d70432ab7397&sublayer=0",
       "landingPage": "https://www.datazapad.cz/datasets/3727aefc159e47fd8cb9d70432ab7397_0",
       "title": "Technické památky v Karlovarském kraji",
-      "description": "<p>Datová sada obsahuje, kromě umístění technické památky v Karlovarském kraji, rovněž uvedení typu památky.</p>",
+      "description": "<p>Datová sada obsahuje, kromě umístění technické památky v Karlovarském kraji, rovněž uvedení typu památky.</p><p>Poskytovatelem vstupních dat pro datovou sadu je <span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif;'>Živý kraj - Destinační agentura pro Karlovarský kraj, z.s.</span><br /></p>",
       "keyword": [
         "Památka",
         "Technická památka",
@@ -1900,7 +1900,7 @@
       "identifier": "https://www.arcgis.com/home/item.html?id=5aa3b9fe8da6474786ff2b9c81b006cb&sublayer=0",
       "landingPage": "https://www.datazapad.cz/datasets/5aa3b9fe8da6474786ff2b9c81b006cb_0",
       "title": "Muzea a galerie v Karlovarském kraji",
-      "description": "<p>Datová sada obsahuje, kromě umístění muzeí a galerií v Karlovarském kraji, také webové stránky, kontaktní telefon a e-mail na muzeum či galerii.</p>",
+      "description": "<p>Datová sada obsahuje, kromě umístění muzeí a galerií v Karlovarském kraji, také webové stránky, kontaktní telefon a e-mail na muzeum či galerii.</p><p>Poskytovatelem vstupních dat pro datovou sadu je <span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif;'>Živý kraj - Destinační agentura pro Karlovarský kraj, z.s.</span><br /></p>",
       "keyword": [
         "muzeum",
         "galerie",
@@ -3967,7 +3967,7 @@
       "identifier": "https://www.arcgis.com/home/item.html?id=d130e2d3a13d4ca39b16761d2131619b&sublayer=0",
       "landingPage": "https://www.datazapad.cz/datasets/d130e2d3a13d4ca39b16761d2131619b_0",
       "title": "Lyžařské vleky a lanovky v Karlovarském kraji",
-      "description": "<p>Datová sada obsahuje rovněž informace o počtu vleků a lanovek v lyžařském centru v Karlovarském kraji. Dále obsahuje webové stránky, kontaktní telefon a e-mail na lyžařská střediska.</p>",
+      "description": "<p>Datová sada obsahuje rovněž informace o počtu vleků a lanovek v lyžařském centru v Karlovarském kraji. Dále obsahuje webové stránky, kontaktní telefon a e-mail na lyžařská střediska. </p><p>Poskytovatelem vstupních dat pro datovou sadu je <span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif;'>Živý kraj - Destinační agentura pro Karlovarský kraj, z.s.</span></p>",
       "keyword": [
         "Karlovarský kraj",
         "lanovka",
