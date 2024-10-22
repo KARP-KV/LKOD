@@ -1726,6 +1726,94 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=54223e92a9b04a0ba27e9800f41c4f1f&sublayer=0",
+      "landingPage": "https://www.datazapad.cz/datasets/54223e92a9b04a0ba27e9800f41c4f1f_0",
+      "title": "Památkově chráněná území v Karlovarském kraji",
+      "description": "<p>Datová sada obsahuje seznam památkově chráněných území v Karlovarském kraji, uvádí přesný typ památkově chráněného území. Jednotlivá chráněná území jsou blíže specifikována rovněž výpisem katastrálních území.</p><div>Poskytovatelem vstupních dat je Krajský úřad Karlovarského kraje.</div>",
+      "keyword": [
+        "Památkově chráněná území",
+        "památková zóna",
+        "památková rezervace",
+        "památkové rezervace",
+        "Karlovarský kraj",
+        "památkové zóny",
+        "chráněná území"
+      ],
+      "issued": "2024-10-18T10:53:51.000Z",
+      "modified": "2024-10-18T10:53:54.130Z",
+      "publisher": {
+        "name": "Karlovarská agentura rozvoje podnikání, p.o."
+      },
+      "contactPoint": {
+        "fn": "pavla.brabencova_karp",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": {
+        "coordinates": [
+          [
+            12.3489,
+            49.974
+          ],
+          [
+            13.2668,
+            50.4117
+          ]
+        ],
+        "type": "envelope"
+      },
+      "license": "http://creativecommons.org/publicdomain/zero/1.0",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datazapad.cz/datasets/54223e92a9b04a0ba27e9800f41c4f1f_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Pam%C3%A1tkov%C4%9B_chr%C3%A1n%C4%9Bn%C3%A1_%C3%BAzem%C3%AD_WFL1/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/54223e92a9b04a0ba27e9800f41c4f1f/csv?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/54223e92a9b04a0ba27e9800f41c4f1f/geojson?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/54223e92a9b04a0ba27e9800f41c4f1f/shapefile?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/54223e92a9b04a0ba27e9800f41c4f1f/kml?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=57a4ac11b4014df7803496c91408ec4e&sublayer=0",
       "landingPage": "https://www.datazapad.cz/datasets/57a4ac11b4014df7803496c91408ec4e_0",
       "title": "Stavební úřady v Karlovarském kraji dle katastrálních území",
