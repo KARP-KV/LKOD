@@ -3880,6 +3880,94 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=c0ae279455b34b5fb4a929ef98675a5b&sublayer=0",
+      "landingPage": "https://www.datazapad.cz/datasets/c0ae279455b34b5fb4a929ef98675a5b_0",
+      "title": "Národní kulturní památky v Karlovarském kraji",
+      "description": "<p>Datová sada obsahuje, kromě umístění národní kulturní památky, také webové stránky s informacemi o památce a kontaktní telefon a e-mail.</p><div>Poskytovatelem podkladových dat je Krajský úřad Karlovarského kraje.</div>",
+      "keyword": [
+        "kulturní památka",
+        "národní kulturní památka",
+        "kulturní památky",
+        "národní kulturní památky",
+        "památky",
+        "památka",
+        "Karlovarský kraj"
+      ],
+      "issued": "2024-10-25T07:24:07.000Z",
+      "modified": "2024-10-25T07:24:16.139Z",
+      "publisher": {
+        "name": "Karlovarská agentura rozvoje podnikání, p.o."
+      },
+      "contactPoint": {
+        "fn": "pavla.brabencova_karp",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": {
+        "coordinates": [
+          [
+            12.3663,
+            49.9664
+          ],
+          [
+            12.9534,
+            50.4127
+          ]
+        ],
+        "type": "envelope"
+      },
+      "license": "http://creativecommons.org/publicdomain/zero/1.0",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datazapad.cz/datasets/c0ae279455b34b5fb4a929ef98675a5b_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/N%C3%A1rodn%C3%AD_kulturn%C3%AD_pam%C3%A1tky_v_KVK_WFL1/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/c0ae279455b34b5fb4a929ef98675a5b/csv?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/c0ae279455b34b5fb4a929ef98675a5b/geojson?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/c0ae279455b34b5fb4a929ef98675a5b/shapefile?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/c0ae279455b34b5fb4a929ef98675a5b/kml?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=c3a31017e7ac4e8d8d75c6a1ed49bc03&sublayer=0",
       "landingPage": "https://www.datazapad.cz/datasets/c3a31017e7ac4e8d8d75c6a1ed49bc03_0",
       "title": "Historické vesnické soubory v Karlovarském kraji",
