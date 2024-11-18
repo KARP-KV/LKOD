@@ -4400,7 +4400,7 @@
       "identifier": "https://www.arcgis.com/home/item.html?id=dbe7041a35494dbe8e01fd86694faed8&sublayer=0",
       "landingPage": "https://www.datazapad.cz/datasets/dbe7041a35494dbe8e01fd86694faed8_0",
       "title": "Seznam svazků obcí v Karlovarském kraji",
-      "description": "<p>Svazky obcí jsou formou spolupráce mezi obcemis různým zaměřením a specifickými cíli (např. technická infrastruktura, nakládání s odpady, vodní hospodářství, zemědělství, obnova venkova, životní prostředí a příroda). Datová sada obsahuje seznam svazků obcí registrovaných v Karlovarském kraji vč. uvedení účelu svazku obcí, sídla svazku a v případě zajištění také uvedení webové stránky svazku obce.</p><p>Zdroj dat poskytl Krajský úřad Karlovarského kraje.</p>",
+      "description": "<p>Svazky obcí jsou formou spolupráce mezi obcemi s různým zaměřením a specifickými cíli (např. technická infrastruktura, nakládání s odpady, vodní hospodářství, zemědělství, obnova venkova, životní prostředí a příroda). Datová sada obsahuje seznam svazků obcí registrovaných v Karlovarském kraji vč. uvedení účelu svazku obcí, sídla svazku a v případě zajištění také uvedení webové stránky svazku obce.</p><p>Zdroj dat poskytl Krajský úřad Karlovarského kraje.</p>",
       "keyword": [
         "svazek obcí",
         "svazky obcí",
@@ -4411,7 +4411,7 @@
         "obec"
       ],
       "issued": "2024-11-04T10:08:40.000Z",
-      "modified": "2024-11-04T10:20:04.238Z",
+      "modified": "2024-11-18T08:58:44.886Z",
       "publisher": {
         "name": "Karlovarská agentura rozvoje podnikání, p.o."
       },
