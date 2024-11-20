@@ -82,14 +82,14 @@
     },
     {
       "typ": "Distribuce",
-      "iri": "https://www.datazapad.cz/api/download/v1/items/90441fa783444e1ead5ad71464504d6a/geojson?layers=0",
+      "iri": "https://www.datazapad.cz/api/download/v1/items/90441fa783444e1ead5ad71464504d6a/shapefile?layers=0",
       "název": {
-        "cs": "GeoJSON"
+        "cs": "Shapefile"
       },
-      "soubor_ke_stažení": "https://www.datazapad.cz/api/download/v1/items/90441fa783444e1ead5ad71464504d6a/geojson?layers=0",
-      "přístupové_url": "https://www.datazapad.cz/api/download/v1/items/90441fa783444e1ead5ad71464504d6a/geojson?layers=0",
-      "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.geo+json",
-      "formát": "http://publications.europa.eu/resource/authority/file-type/GEOJSON",
+      "soubor_ke_stažení": "https://www.datazapad.cz/api/download/v1/items/90441fa783444e1ead5ad71464504d6a/shapefile?layers=0",
+      "přístupové_url": "https://www.datazapad.cz/api/download/v1/items/90441fa783444e1ead5ad71464504d6a/shapefile?layers=0",
+      "typ_média": "http://www.iana.org/assignments/media-types/application/zip",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/ZIP",
       "podmínky_užití": {
         "typ": "Specifikace podmínek užití",
         "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
@@ -100,14 +100,14 @@
     },
     {
       "typ": "Distribuce",
-      "iri": "https://www.datazapad.cz/api/download/v1/items/90441fa783444e1ead5ad71464504d6a/shapefile?layers=0",
+      "iri": "https://www.datazapad.cz/api/download/v1/items/90441fa783444e1ead5ad71464504d6a/geojson?layers=0",
       "název": {
-        "cs": "Shapefile"
+        "cs": "GeoJSON"
       },
-      "soubor_ke_stažení": "https://www.datazapad.cz/api/download/v1/items/90441fa783444e1ead5ad71464504d6a/shapefile?layers=0",
-      "přístupové_url": "https://www.datazapad.cz/api/download/v1/items/90441fa783444e1ead5ad71464504d6a/shapefile?layers=0",
-      "typ_média": "http://www.iana.org/assignments/media-types/application/zip",
-      "formát": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+      "soubor_ke_stažení": "https://www.datazapad.cz/api/download/v1/items/90441fa783444e1ead5ad71464504d6a/geojson?layers=0",
+      "přístupové_url": "https://www.datazapad.cz/api/download/v1/items/90441fa783444e1ead5ad71464504d6a/geojson?layers=0",
+      "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.geo+json",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/GEOJSON",
       "podmínky_užití": {
         "typ": "Specifikace podmínek užití",
         "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
