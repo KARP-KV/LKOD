@@ -1469,6 +1469,94 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=3f9c9a95272e40d1a24e2711515e3d4d&sublayer=0",
+      "landingPage": "https://www.datazapad.cz/datasets/3f9c9a95272e40d1a24e2711515e3d4d_0",
+      "title": "Projekty Karlovarského kraje v oblasti rozvoje regionu a územního plánování",
+      "description": "Datová sada obsahuje typ projektu, operační program, registrační číslo projektu, žadatele a příjemce podpory a rovněž webové stránky projektu.<div>Poskytovatelem dat je Krajský úřad Karlovarského kraje.</div>",
+      "keyword": [
+        "projekt",
+        "projekty",
+        "Karlovarský kraj",
+        "investiční",
+        "neinvestiční",
+        "strategický",
+        "strategické"
+      ],
+      "issued": "2024-11-25T10:54:09.000Z",
+      "modified": "2024-11-25T10:54:47.508Z",
+      "publisher": {
+        "name": "Karlovarská agentura rozvoje podnikání, p.o."
+      },
+      "contactPoint": {
+        "fn": "pavla.brabencova_karp",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": {
+        "coordinates": [
+          [
+            12.8239,
+            50.2186
+          ],
+          [
+            12.8239,
+            50.2186
+          ]
+        ],
+        "type": "envelope"
+      },
+      "license": "http://creativecommons.org/publicdomain/zero/1.0",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datazapad.cz/datasets/3f9c9a95272e40d1a24e2711515e3d4d_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Projekty_Karlovarsk%C3%A9ho_kraje_v_oblasti_rozvoje_regionu_a_%C3%BAzemn%C3%ADho_pl%C3%A1nov%C3%A1n%C3%AD_WFL1/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/3f9c9a95272e40d1a24e2711515e3d4d/csv?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/3f9c9a95272e40d1a24e2711515e3d4d/shapefile?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/3f9c9a95272e40d1a24e2711515e3d4d/geojson?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/3f9c9a95272e40d1a24e2711515e3d4d/kml?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=464108d64a93430083119bfb0845af3c&sublayer=0",
       "landingPage": "https://www.datazapad.cz/datasets/464108d64a93430083119bfb0845af3c_0",
       "title": "Zámky v Karlovarském kraji",
