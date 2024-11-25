@@ -23,9 +23,9 @@
         "name": "Karlovarská agentura rozvoje podnikání, p.o."
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "pavla.brabencova_karp",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": {
@@ -109,9 +109,9 @@
         "name": "Karlovarská agentura rozvoje podnikání, p.o."
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "pavla.brabencova_karp",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": {
@@ -193,9 +193,9 @@
         "name": "Karlovarská agentura rozvoje podnikání, p.o."
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "pavla.brabencova_karp",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": {
@@ -279,9 +279,9 @@
         "name": "Karlovarská agentura rozvoje podnikání, p.o."
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "pavla.brabencova_karp",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": {
@@ -364,9 +364,9 @@
         "name": "Krajský úřad Karlovarského kraje"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "Karlovarsky.Kraj",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": {
@@ -451,9 +451,9 @@
         "name": "Karlovarská agentura rozvoje podnikání, p.o."
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "pavla.brabencova_karp",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": {
@@ -537,9 +537,9 @@
         "name": "Karlovarská agentura rozvoje podnikání, p.o."
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "pavla.brabencova_karp",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": {
@@ -627,9 +627,9 @@
         "name": "Karlovarská agentura rozvoje podnikání, p.o."
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "pavla.brabencova_karp",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": {
@@ -712,9 +712,9 @@
         "name": "Karlovarská agentura rozvoje podnikání, p.o."
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "pavla.brabencova_karp",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": {
@@ -796,9 +796,9 @@
         "name": "Karlovarská agentura rozvoje podnikání, p.o."
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "pavla.brabencova_karp",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": {
@@ -883,9 +883,9 @@
         "name": "Karlovarská agentura rozvoje podnikání, p.o."
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "pavla.brabencova_karp",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": {
@@ -968,9 +968,9 @@
         "name": "Krajský úřad Karlovarského kraje"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "Karlovarsky.Kraj",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": {
@@ -1057,9 +1057,9 @@
         "name": "Karlovarská agentura rozvoje podnikání, p.o."
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "pavla.brabencova_karp",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": {
@@ -1143,9 +1143,9 @@
         "name": "Karlovarská agentura rozvoje podnikání, p.o."
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "pavla.brabencova_karp",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": {
@@ -1227,9 +1227,9 @@
         "name": "Karlovarská agentura rozvoje podnikání, p.o."
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "pavla.brabencova_karp",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": {
@@ -1313,9 +1313,9 @@
         "name": "Karlovarská agentura rozvoje podnikání, p.o."
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "pavla.brabencova_karp",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": {
@@ -1400,9 +1400,9 @@
         "name": "Karlovarská agentura rozvoje podnikání, p.o."
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "pavla.brabencova_karp",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": {
@@ -1488,9 +1488,9 @@
         "name": "Karlovarská agentura rozvoje podnikání, p.o."
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "pavla.brabencova_karp",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": {
@@ -1572,9 +1572,9 @@
         "name": "Karlovarská agentura rozvoje podnikání, p.o."
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "pavla.brabencova_karp",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": {
@@ -1657,9 +1657,9 @@
         "name": "Karlovarská agentura rozvoje podnikání, p.o."
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "pavla.brabencova_karp",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": {
@@ -1745,9 +1745,9 @@
         "name": "Karlovarská agentura rozvoje podnikání, p.o."
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "pavla.brabencova_karp",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": {
@@ -1833,9 +1833,9 @@
         "name": "Karlovarská agentura rozvoje podnikání, p.o."
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "pavla.brabencova_karp",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": {
@@ -1919,9 +1919,9 @@
         "name": "Karlovarská agentura rozvoje podnikání, p.o."
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "pavla.brabencova_karp",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": {
@@ -2004,9 +2004,9 @@
         "name": "Karlovarská agentura rozvoje podnikání, p.o."
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "pavla.brabencova_karp",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": {
@@ -2089,9 +2089,9 @@
         "name": "Karlovarská agentura rozvoje podnikání, p.o."
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "pavla.brabencova_karp",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": {
@@ -2174,9 +2174,9 @@
         "name": "Karlovarská agentura rozvoje podnikání, p.o."
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "pavla.brabencova_karp",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": {
@@ -2259,9 +2259,9 @@
         "name": "Karlovarská agentura rozvoje podnikání, p.o."
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "pavla.brabencova_karp",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": {
@@ -2345,9 +2345,9 @@
         "name": "Karlovarská agentura rozvoje podnikání, p.o."
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "pavla.brabencova_karp",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": {
@@ -2429,9 +2429,9 @@
         "name": "Karlovarská agentura rozvoje podnikání, p.o."
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "pavla.brabencova_karp",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": {
@@ -2515,9 +2515,9 @@
         "name": "Karlovarská agentura rozvoje podnikání, p.o."
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "pavla.brabencova_karp",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": {
@@ -2601,9 +2601,9 @@
         "name": "Karlovarská agentura rozvoje podnikání, p.o."
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "pavla.brabencova_karp",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": {
@@ -2687,9 +2687,9 @@
         "name": "Karlovarská agentura rozvoje podnikání, p.o."
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "pavla.brabencova_karp",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": {
@@ -2772,9 +2772,9 @@
         "name": "Karlovarská agentura rozvoje podnikání, p.o."
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "pavla.brabencova_karp",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": {
@@ -2862,9 +2862,9 @@
         "name": "Karlovarská agentura rozvoje podnikání, p.o."
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "pavla.brabencova_karp",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": {
@@ -2951,9 +2951,9 @@
         "name": "Karlovarská agentura rozvoje podnikání, p.o."
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "pavla.brabencova_karp",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": {
@@ -3038,9 +3038,9 @@
         "name": "Karlovarská agentura rozvoje podnikání, p.o."
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "pavla.brabencova_karp",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": {
@@ -3123,9 +3123,9 @@
         "name": "Karlovarská agentura rozvoje podnikání, p.o."
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "pavla.brabencova_karp",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": {
@@ -3210,9 +3210,9 @@
         "name": "Karlovarská agentura rozvoje podnikání, p.o."
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "pavla.brabencova_karp",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": {
@@ -3295,9 +3295,9 @@
         "name": "Karlovarská agentura rozvoje podnikání, p.o."
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "pavla.brabencova_karp",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": {
@@ -3385,9 +3385,9 @@
         "name": "Karlovarská agentura rozvoje podnikání, p.o."
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "pavla.brabencova_karp",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": {
@@ -3471,9 +3471,9 @@
         "name": "Karlovarská agentura rozvoje podnikání, p.o."
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "pavla.brabencova_karp",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": {
@@ -3556,9 +3556,9 @@
         "name": "Karlovarská agentura rozvoje podnikání, p.o."
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "pavla.brabencova_karp",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": {
@@ -3641,9 +3641,9 @@
         "name": "Karlovarská agentura rozvoje podnikání, p.o."
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "pavla.brabencova_karp",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": {
@@ -3732,9 +3732,9 @@
         "name": "Karlovarská agentura rozvoje podnikání, p.o."
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "pavla.brabencova_karp",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": {
@@ -3812,9 +3812,9 @@
         "name": "jan.sklepek@karp-kv.cz"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "jan.sklepek@karp-kv.cz",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": {
@@ -3871,9 +3871,9 @@
         "name": "Karlovarská agentura rozvoje podnikání, p.o."
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "pavla.brabencova_karp",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": {
@@ -3959,9 +3959,9 @@
         "name": "Karlovarská agentura rozvoje podnikání, p.o."
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "pavla.brabencova_karp",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": {
@@ -4044,9 +4044,9 @@
         "name": "Karlovarská agentura rozvoje podnikání, p.o."
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "pavla.brabencova_karp",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": {
@@ -4131,9 +4131,9 @@
         "name": "Karlovarská agentura rozvoje podnikání, p.o."
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "pavla.brabencova_karp",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": {
@@ -4218,9 +4218,9 @@
         "name": "Karlovarská agentura rozvoje podnikání, p.o."
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "pavla.brabencova_karp",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": {
@@ -4303,9 +4303,9 @@
         "name": "Karlovarská agentura rozvoje podnikání, p.o."
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "pavla.brabencova_karp",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": {
@@ -4388,9 +4388,9 @@
         "name": "Karlovarská agentura rozvoje podnikání, p.o."
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "pavla.brabencova_karp",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": {
@@ -4476,9 +4476,9 @@
         "name": "Karlovarská agentura rozvoje podnikání, p.o."
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "pavla.brabencova_karp",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": {
@@ -4561,9 +4561,9 @@
         "name": "Karlovarská agentura rozvoje podnikání, p.o."
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "pavla.brabencova_karp",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": {
