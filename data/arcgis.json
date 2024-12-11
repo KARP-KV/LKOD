@@ -41,7 +41,7 @@
         ],
         "type": "envelope"
       },
-      "license": "http://creativecommons.org/licenses/by/4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0",
       "distribution": [
         {
           "@type": "dcat:Distribution",
@@ -127,7 +127,7 @@
         ],
         "type": "envelope"
       },
-      "license": "http://creativecommons.org/licenses/by/4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0",
       "distribution": [
         {
           "@type": "dcat:Distribution",
@@ -211,7 +211,7 @@
         ],
         "type": "envelope"
       },
-      "license": "http://creativecommons.org/publicdomain/zero/1.0",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0",
       "distribution": [
         {
           "@type": "dcat:Distribution",
@@ -555,7 +555,7 @@
         ],
         "type": "envelope"
       },
-      "license": "http://creativecommons.org/publicdomain/zero/1.0",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0",
       "distribution": [
         {
           "@type": "dcat:Distribution",
@@ -4236,7 +4236,7 @@
         ],
         "type": "envelope"
       },
-      "license": "http://creativecommons.org/licenses/by/4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0",
       "distribution": [
         {
           "@type": "dcat:Distribution",
@@ -4321,7 +4321,7 @@
         ],
         "type": "envelope"
       },
-      "license": "http://creativecommons.org/publicdomain/zero/1.0",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0",
       "distribution": [
         {
           "@type": "dcat:Distribution",
@@ -4406,7 +4406,7 @@
         ],
         "type": "envelope"
       },
-      "license": "http://creativecommons.org/publicdomain/zero/1.0",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0",
       "distribution": [
         {
           "@type": "dcat:Distribution",
@@ -4494,7 +4494,7 @@
         ],
         "type": "envelope"
       },
-      "license": "http://creativecommons.org/publicdomain/zero/1.0",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0",
       "distribution": [
         {
           "@type": "dcat:Distribution",
@@ -4579,7 +4579,7 @@
         ],
         "type": "envelope"
       },
-      "license": "http://creativecommons.org/licenses/by/4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0",
       "distribution": [
         {
           "@type": "dcat:Distribution",
