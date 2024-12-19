@@ -1471,16 +1471,17 @@
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=3f9c9a95272e40d1a24e2711515e3d4d&sublayer=0",
       "landingPage": "https://www.datazapad.cz/datasets/3f9c9a95272e40d1a24e2711515e3d4d_0",
-      "title": "Projekty Karlovarského kraje v oblasti rozvoje regionu a územního plánování",
+      "title": "Aktuální projekty Karlovarského kraje v oblasti rozvoje regionu a územního plánování",
       "description": "Datová sada obsahuje typ projektu, operační program, registrační číslo projektu, žadatele a příjemce podpory a rovněž webové stránky projektu.<div>Poskytovatelem dat je Krajský úřad Karlovarského kraje.</div>",
       "keyword": [
+        "investiční",
+        "Karlovarský kraj",
+        "neinvestiční",
         "projekt",
         "projekty",
-        "Karlovarský kraj",
-        "investiční",
-        "neinvestiční",
+        "strategické",
         "strategický",
-        "strategické"
+        "aktuální"
       ],
       "issued": "2024-11-25T10:54:09.000Z",
       "modified": "2024-11-25T10:54:47.508Z",
@@ -2065,6 +2066,93 @@
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
           "accessURL": "https://www.datazapad.cz/api/download/v1/items/58bc30d273d84926bc4e817aabca9321/kml?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=59e913758bea4217b37caaf525459eeb&sublayer=0",
+      "landingPage": "https://www.datazapad.cz/datasets/59e913758bea4217b37caaf525459eeb_0",
+      "title": "Ukončené projekty Karlovarského kraje v oblasti rozvoje regionu a územního plánování",
+      "description": "<p>Datová sada obsahuje informace o projektech, ve kterých byl Karlovarský kraj zainteresován (buď jako příjemce dotace a žadatel o dotaci nebo jako partner projektu). Informace jsou vedeny o termínu zahájení a ukončení projektu, roli Karlovarského kraje, registrační číslo projektu, spolufinancování EU a operačním programu.</p>",
+      "keyword": [
+        "projekty",
+        "projekty Karlovarského kraje",
+        "Karlovarský kraj",
+        "ukončené projekty",
+        "regionální rozvoj",
+        "územní plánování"
+      ],
+      "issued": "2024-12-19T10:06:20.000Z",
+      "modified": "2024-12-19T10:06:23.814Z",
+      "publisher": {
+        "name": "Krajský úřad Karlovarského kraje"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "pavla.brabencova_karp",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": {
+        "coordinates": [
+          [
+            12.8239,
+            50.2186
+          ],
+          [
+            12.8239,
+            50.2186
+          ]
+        ],
+        "type": "envelope"
+      },
+      "license": "https://creativecommons.org/publicdomain/zero/1.0",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datazapad.cz/datasets/59e913758bea4217b37caaf525459eeb_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Ukon%C4%8Den%C3%A9_projekty_KVK_v_oblasti_RR_WFL1/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/59e913758bea4217b37caaf525459eeb/csv?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/59e913758bea4217b37caaf525459eeb/shapefile?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/59e913758bea4217b37caaf525459eeb/geojson?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/59e913758bea4217b37caaf525459eeb/kml?layers=0"
         }
       ],
       "theme": [
