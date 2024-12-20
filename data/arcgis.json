@@ -3019,24 +3019,23 @@
     },
     {
       "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=72aa9de6abc94f949f3959e70e0d241d&sublayer=0",
-      "landingPage": "https://www.datazapad.cz/datasets/72aa9de6abc94f949f3959e70e0d241d_0",
-      "title": "Lékařská a lékárenská pohotovostní služba v Karlovarském kraji v r. 2024",
-      "description": "<span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'>Datová sada obsahuje časovou a místní specifikaci lékařské pohotovosti pro děti, dospělé, zubní a chirurgickou pohotovost a lékárenskou pohotovost.</span>",
+      "identifier": "https://www.arcgis.com/home/item.html?id=72aa9de6abc94f949f3959e70e0d241d&sublayer=3",
+      "landingPage": "https://www.datazapad.cz/datasets/72aa9de6abc94f949f3959e70e0d241d_3",
+      "title": "Lékařská a lékárenská pohotovostní služba v Karlovarském kraji",
+      "description": "<p><span style=\"font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif;font-size:16px;\">Datová sada obsahuje časovou a místní specifikaci lékařské pohotovosti pro děti, dospělé, chirurgickou pohotovost (pouze v Mariánských Lázních) a lékárenskou pohotovost pro Karlovarský kraj. Stomatologická lékařská pohotovost není obsahem této datové sady.</span><span style=\"color:rgb(59,59,59);font-family:Roboto, sans-serif;font-size:16px;\"><span style=\"letter-spacing:0.2px;\">Zdrojem dat je Krajský úřad Karlovarského kraje.</span></span></p>",
       "keyword": [
         "Karlovarský kraj",
         "pohotovost",
         "lékařská",
         "lékárenská",
-        "zubní",
         "chirurgická pohotovost",
         "dětská pohotovost",
         "pohotovost pro dospělé"
       ],
       "issued": "2024-02-15T08:55:43.000Z",
-      "modified": "2024-02-15T09:56:23.526Z",
+      "modified": "2024-12-20T08:52:22.094Z",
       "publisher": {
-        "name": "Karlovarská agentura rozvoje podnikání, p.o."
+        "name": "Krajský úřad Karlovarského kraje"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -3047,12 +3046,12 @@
       "spatial": {
         "coordinates": [
           [
-            12.1907,
-            49.9497
+            12.1998,
+            49.9609
           ],
           [
-            12.9413,
-            50.3022
+            12.877,
+            50.2331
           ]
         ],
         "type": "envelope"
@@ -3064,42 +3063,42 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/datasets/72aa9de6abc94f949f3959e70e0d241d_0"
+          "accessURL": "https://www.datazapad.cz/datasets/72aa9de6abc94f949f3959e70e0d241d_3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "ArcGIS GeoService",
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
-          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/L%C3%A9ka%C5%99sk%C3%A1_a_l%C3%A9k%C3%A1rensk%C3%A1_pohotovostn%C3%AD_slu%C5%BEba_v_KVK_v_r__2024_WFL1/FeatureServer/0"
+          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/L%C3%A9ka%C5%99sk%C3%A1_a_l%C3%A9k%C3%A1rensk%C3%A1_pohotovostn%C3%AD_slu%C5%BEba_v_KVK_v_r__2024_WFL1/FeatureServer/3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "CSV",
           "format": "CSV",
           "mediaType": "text/csv",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/72aa9de6abc94f949f3959e70e0d241d/csv?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/72aa9de6abc94f949f3959e70e0d241d/csv?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Shapefile",
           "format": "ZIP",
           "mediaType": "application/zip",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/72aa9de6abc94f949f3959e70e0d241d/shapefile?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/72aa9de6abc94f949f3959e70e0d241d/shapefile?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "GeoJSON",
           "format": "GeoJSON",
           "mediaType": "application/vnd.geo+json",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/72aa9de6abc94f949f3959e70e0d241d/geojson?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/72aa9de6abc94f949f3959e70e0d241d/geojson?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "KML",
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/72aa9de6abc94f949f3959e70e0d241d/kml?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/72aa9de6abc94f949f3959e70e0d241d/kml?layers=3"
         }
       ],
       "theme": [
@@ -3881,58 +3880,6 @@
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
           "accessURL": "https://www.datazapad.cz/api/download/v1/items/a80fbe6e01f742a8a0a7b507bfb3998f/kml?layers=3"
-        }
-      ],
-      "theme": [
-        "geospatial"
-      ]
-    },
-    {
-      "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=b20504884a5f4ab3acc4fa7bc2611be2&sublayer=0",
-      "landingPage": "https://www.datazapad.cz/datasets/b20504884a5f4ab3acc4fa7bc2611be2_0",
-      "title": "Vstupy Zpětná vazba (systémový soubor)",
-      "description": "{{description}}",
-      "keyword": [],
-      "issued": "2023-10-25T07:04:18.000Z",
-      "modified": "2024-08-09T12:44:12.794Z",
-      "publisher": {
-        "name": "jan.sklepek@karp-kv.cz"
-      },
-      "contactPoint": {
-        "@type": "vcard:Contact",
-        "fn": "jan.sklepek@karp-kv.cz",
-        "hasEmail": "{{orgContactEmail}}"
-      },
-      "accessLevel": "public",
-      "spatial": {
-        "coordinates": [
-          [
-            -180,
-            -90
-          ],
-          [
-            180,
-            90
-          ]
-        ],
-        "type": "envelope"
-      },
-      "license": "",
-      "distribution": [
-        {
-          "@type": "dcat:Distribution",
-          "title": "ArcGIS Hub Dataset",
-          "format": "Web Page",
-          "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/datasets/b20504884a5f4ab3acc4fa7bc2611be2_0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "ArcGIS GeoService",
-          "format": "ArcGIS GeoServices REST API",
-          "mediaType": "application/json",
-          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/survey123_073609297206497ea346594382ad0729_form/FeatureServer/0"
         }
       ],
       "theme": [
