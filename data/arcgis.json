@@ -3798,10 +3798,10 @@
     },
     {
       "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=a80fbe6e01f742a8a0a7b507bfb3998f&sublayer=3",
-      "landingPage": "https://www.datazapad.cz/datasets/a80fbe6e01f742a8a0a7b507bfb3998f_3",
+      "identifier": "https://www.arcgis.com/home/item.html?id=a80fbe6e01f742a8a0a7b507bfb3998f&sublayer=0",
+      "landingPage": "https://www.datazapad.cz/datasets/a80fbe6e01f742a8a0a7b507bfb3998f_0",
       "title": "Organizace zřízené Karlovarským krajem",
-      "description": "<span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'>Datová sada obsahuje formální informace o organizacích vč. kontaktních údajů. Poskytovatelem dat je Krajský úřad Karlovarského kraje.</span>",
+      "description": "<p><span style=\"font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif;font-size:16px;\">Datová sada obsahuje formální informace o organizacích vč. kontaktních údajů a webových stránkách organizací. Poskytovatelem dat je Krajský úřad Karlovarského kraje.</span></p>",
       "keyword": [
         "organizace",
         "Karlovarský kraj",
@@ -3815,7 +3815,7 @@
         "životní"
       ],
       "issued": "2024-01-24T09:26:55.000Z",
-      "modified": "2024-03-21T10:31:26.864Z",
+      "modified": "2025-01-16T09:47:24.262Z",
       "publisher": {
         "name": "Karlovarská agentura rozvoje podnikání, p.o."
       },
@@ -3845,42 +3845,42 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/datasets/a80fbe6e01f742a8a0a7b507bfb3998f_3"
+          "accessURL": "https://www.datazapad.cz/datasets/a80fbe6e01f742a8a0a7b507bfb3998f_0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "ArcGIS GeoService",
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
-          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Organizace_z%C5%99%C3%ADzen%C3%A9_Karlovarsk%C3%BDm_krajem_WFL1/FeatureServer/3"
+          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Organizace_z%C5%99%C3%ADzen%C3%A9_Karlovarsk%C3%BDm_krajem_WFL1/FeatureServer/0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "CSV",
           "format": "CSV",
           "mediaType": "text/csv",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/a80fbe6e01f742a8a0a7b507bfb3998f/csv?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/a80fbe6e01f742a8a0a7b507bfb3998f/csv?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Shapefile",
           "format": "ZIP",
           "mediaType": "application/zip",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/a80fbe6e01f742a8a0a7b507bfb3998f/shapefile?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/a80fbe6e01f742a8a0a7b507bfb3998f/shapefile?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "GeoJSON",
           "format": "GeoJSON",
           "mediaType": "application/vnd.geo+json",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/a80fbe6e01f742a8a0a7b507bfb3998f/geojson?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/a80fbe6e01f742a8a0a7b507bfb3998f/geojson?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "KML",
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/a80fbe6e01f742a8a0a7b507bfb3998f/kml?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/a80fbe6e01f742a8a0a7b507bfb3998f/kml?layers=0"
         }
       ],
       "theme": [
