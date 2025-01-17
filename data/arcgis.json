@@ -3976,6 +3976,94 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=b69266abf22c4baa9fabeb437449c1e8&sublayer=0",
+      "landingPage": "https://www.datazapad.cz/datasets/b69266abf22c4baa9fabeb437449c1e8_0",
+      "title": "Záměr počtu přijímaných uchazečů pro školní rok 2025/2026",
+      "description": "<p>Datová sada obsahuje informace o škole, oboru a počtu přijímaných uchazečů školami v Karlovarském kraji (střední školy, Gymnázia a vyšší odborné školy). Poskytovatelem dat je Krajský úřad Karlovarského kraje.</p>",
+      "keyword": [
+        "záměr počtu",
+        "Karlovarský kraj",
+        "počet přijímaných uchazečů",
+        "přijímací řízení",
+        "školy",
+        "obory",
+        "počet uchazečů"
+      ],
+      "issued": "2025-01-17T09:37:50.000Z",
+      "modified": "2025-01-17T09:39:46.550Z",
+      "publisher": {
+        "name": "Krajský úřad Karlovarského kraje"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "pavla.brabencova_karp",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": {
+        "coordinates": [
+          [
+            12.1942,
+            49.9622
+          ],
+          [
+            13.1601,
+            50.3048
+          ]
+        ],
+        "type": "envelope"
+      },
+      "license": "https://creativecommons.org/publicdomain/zero/1.0",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datazapad.cz/datasets/b69266abf22c4baa9fabeb437449c1e8_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Z%C3%A1m%C4%9Br_po%C4%8Dtu_p%C5%99ij%C3%ADman%C3%BDch_uchaze%C4%8D%C5%AF_WFL1/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/b69266abf22c4baa9fabeb437449c1e8/csv?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/b69266abf22c4baa9fabeb437449c1e8/shapefile?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/b69266abf22c4baa9fabeb437449c1e8/geojson?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/b69266abf22c4baa9fabeb437449c1e8/kml?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=c0ae279455b34b5fb4a929ef98675a5b&sublayer=0",
       "landingPage": "https://www.datazapad.cz/datasets/c0ae279455b34b5fb4a929ef98675a5b_0",
       "title": "Národní kulturní památky v Karlovarském kraji",
