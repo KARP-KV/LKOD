@@ -1126,6 +1126,93 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=25589e2554f54259b200f4adb547db54&sublayer=0",
+      "landingPage": "https://www.datazapad.cz/datasets/25589e2554f54259b200f4adb547db54_0",
+      "title": "Seznam vysokých škol působících v Karlovarském kraji",
+      "description": "Datová sada obsahuje přehled vysokých škol působících v Karlovarském kraji prostřednictvím poboček či středisek. Uvedeny jsou adresy poboček, kontaktní údaje (telefon, e-mail) a lokalizace poboček. <div>Poskytovatelem podkladů datové sady je Krajský úřad Karlovarského kraje.</div>",
+      "keyword": [
+        "vysoká škola",
+        "vysoké školy",
+        "škola",
+        "školy",
+        "Karlovarský kraj",
+        "univerzita"
+      ],
+      "issued": "2025-01-28T10:49:09.000Z",
+      "modified": "2025-01-28T10:49:17.268Z",
+      "publisher": {
+        "name": "Krajský úřad Karlovarského kraje"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "pavla.brabencova_karp",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": {
+        "coordinates": [
+          [
+            12.364,
+            50.0762
+          ],
+          [
+            12.8733,
+            50.2291
+          ]
+        ],
+        "type": "envelope"
+      },
+      "license": "https://creativecommons.org/publicdomain/zero/1.0",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datazapad.cz/datasets/25589e2554f54259b200f4adb547db54_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Seznam_vysok%C3%BDch_%C5%A1kol_p%C5%AFsob%C3%ADc%C3%ADch_v_Karlovarsk%C3%A9m_kraji_WFL1/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/25589e2554f54259b200f4adb547db54/csv?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/25589e2554f54259b200f4adb547db54/shapefile?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/25589e2554f54259b200f4adb547db54/geojson?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/25589e2554f54259b200f4adb547db54/kml?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=2c9bd5558c4a495c8424a84bc6b370e2&sublayer=0",
       "landingPage": "https://www.datazapad.cz/datasets/2c9bd5558c4a495c8424a84bc6b370e2_0",
       "title": "Náboženské památky v Karlovarském kraji",
@@ -4584,7 +4671,7 @@
       "identifier": "https://www.arcgis.com/home/item.html?id=dbe7041a35494dbe8e01fd86694faed8&sublayer=0",
       "landingPage": "https://www.datazapad.cz/datasets/dbe7041a35494dbe8e01fd86694faed8_0",
       "title": "Seznam svazků obcí v Karlovarském kraji",
-      "description": "<p>Svazky obcí jsou formou spolupráce mezi obcemi s různým zaměřením a specifickými cíli (např. technická infrastruktura, nakládání s odpady, vodní hospodářství, zemědělství, obnova venkova, životní prostředí a příroda). Datová sada obsahuje seznam svazků obcí registrovaných v Karlovarském kraji vč. uvedení účelu svazku obcí, sídla svazku a v případě zajištění také uvedení webové stránky svazku obce.</p><p>Zdroj dat poskytl Krajský úřad Karlovarského kraje.</p>",
+      "description": "<p>Dobrovolné svazky obcí jsou formou spolupráce mezi obcemi s různým zaměřením a specifickými cíli (např. technická infrastruktura, nakládání s odpady, vodní hospodářství, zemědělství, obnova venkova, životní prostředí a příroda). Datová sada obsahuje seznam svazků obcí registrovaných v Karlovarském kraji vč. uvedení účelu svazku obcí, sídla svazku a v případě zajištění také uvedení webové stránky svazku obce.</p><p>Zdroj dat poskytl Krajský úřad Karlovarského kraje.</p>",
       "keyword": [
         "svazek obcí",
         "svazky obcí",
@@ -4592,10 +4679,11 @@
         "mikroregiony",
         "Karlovarský kraj",
         "obce",
-        "obec"
+        "obec",
+        "dobrovolné svazky obcí"
       ],
       "issued": "2024-11-04T10:08:40.000Z",
-      "modified": "2024-12-17T09:39:36.701Z",
+      "modified": "2025-01-28T09:40:16.797Z",
       "publisher": {
         "name": "Krajský úřad Karlovarského kraje"
       },
@@ -4608,12 +4696,12 @@
       "spatial": {
         "coordinates": [
           [
-            12.1695,
-            49.9198
+            12.1903,
+            49.9631
           ],
           [
-            13.1811,
-            50.3971
+            13.1623,
+            50.366
           ]
         ],
         "type": "envelope"

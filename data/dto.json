@@ -31,6 +31,7 @@
     "https://open.datazapad.cz/142875a7b4ba49769393c8a3b80cca6d.jsonld",
     "https://open.datazapad.cz/17a673b7147d45ba8744904cae6afdbb.jsonld",
     "https://open.datazapad.cz/1e64adf22f8448a693f638c9f1334dc9.jsonld",
+    "https://open.datazapad.cz/25589e2554f54259b200f4adb547db54.jsonld",
     "https://open.datazapad.cz/2c9bd5558c4a495c8424a84bc6b370e2.jsonld",
     "https://open.datazapad.cz/2fe4d27ac10341f6bd2b4ea6380a2599.jsonld",
     "https://open.datazapad.cz/3727aefc159e47fd8cb9d70432ab7397.jsonld",
@@ -1859,6 +1860,145 @@
           },
           "soubor_ke_stažení": "https://www.datazapad.cz/api/download/v1/items/1e64adf22f8448a693f638c9f1334dc9/kml?layers=0",
           "přístupové_url": "https://www.datazapad.cz/api/download/v1/items/1e64adf22f8448a693f638c9f1334dc9/kml?layers=0",
+          "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.google-earth.kml+xml",
+          "formát": "http://publications.europa.eu/resource/authority/file-type/KML",
+          "podmínky_užití": {
+            "typ": "Specifikace podmínek užití",
+            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+          }
+        }
+      ]
+    },
+    {
+      "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+      "iri": "https://open.datazapad.cz/25589e2554f54259b200f4adb547db54.jsonld",
+      "typ": "Datová sada",
+      "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891168",
+      "název": {
+        "cs": "Seznam vysokých škol působících v Karlovarském kraji"
+      },
+      "popis": {
+        "cs": "Datová sada obsahuje přehled vysokých škol působících v Karlovarském kraji prostřednictvím poboček či středisek. Uvedeny jsou adresy poboček, kontaktní údaje (telefon, e-mail) a lokalizace poboček. Poskytovatelem podkladů datové sady je Krajský úřad Karlovarského kraje."
+      },
+      "klíčové_slovo": {
+        "cs": [
+          "vysoká škola",
+          "vysoké školy",
+          "škola",
+          "školy",
+          "Karlovarský kraj",
+          "univerzita"
+        ]
+      },
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "prvek_rúian": [
+        "https://linked.cuzk.cz/resource/ruian/vusc/51"
+      ],
+      "distribuce": [
+        {
+          "typ": "Distribuce",
+          "iri": "https://www.datazapad.cz/datasets/25589e2554f54259b200f4adb547db54_0",
+          "název": {
+            "cs": "ArcGIS Hub Dataset"
+          },
+          "soubor_ke_stažení": "https://www.datazapad.cz/datasets/25589e2554f54259b200f4adb547db54_0",
+          "přístupové_url": "https://www.datazapad.cz/datasets/25589e2554f54259b200f4adb547db54_0",
+          "typ_média": "http://www.iana.org/assignments/media-types/text/html",
+          "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
+          "podmínky_užití": {
+            "typ": "Specifikace podmínek užití",
+            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+          }
+        },
+        {
+          "typ": "Distribuce",
+          "iri": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Seznam_vysok%C3%BDch_%C5%A1kol_p%C5%AFsob%C3%ADc%C3%ADch_v_Karlovarsk%C3%A9m_kraji_WFL1/FeatureServer/0",
+          "název": {
+            "cs": "ArcGIS GeoService"
+          },
+          "soubor_ke_stažení": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Seznam_vysok%C3%BDch_%C5%A1kol_p%C5%AFsob%C3%ADc%C3%ADch_v_Karlovarsk%C3%A9m_kraji_WFL1/FeatureServer/0",
+          "přístupové_url": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Seznam_vysok%C3%BDch_%C5%A1kol_p%C5%AFsob%C3%ADc%C3%ADch_v_Karlovarsk%C3%A9m_kraji_WFL1/FeatureServer/0",
+          "typ_média": "http://www.iana.org/assignments/media-types/application/json",
+          "formát": "http://publications.europa.eu/resource/authority/file-type/JSON",
+          "podmínky_užití": {
+            "typ": "Specifikace podmínek užití",
+            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+          }
+        },
+        {
+          "typ": "Distribuce",
+          "iri": "https://www.datazapad.cz/api/download/v1/items/25589e2554f54259b200f4adb547db54/csv?layers=0",
+          "název": {
+            "cs": "CSV"
+          },
+          "soubor_ke_stažení": "https://www.datazapad.cz/api/download/v1/items/25589e2554f54259b200f4adb547db54/csv?layers=0",
+          "přístupové_url": "https://www.datazapad.cz/api/download/v1/items/25589e2554f54259b200f4adb547db54/csv?layers=0",
+          "typ_média": "http://www.iana.org/assignments/media-types/text/csv",
+          "formát": "http://publications.europa.eu/resource/authority/file-type/CSV",
+          "podmínky_užití": {
+            "typ": "Specifikace podmínek užití",
+            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+          }
+        },
+        {
+          "typ": "Distribuce",
+          "iri": "https://www.datazapad.cz/api/download/v1/items/25589e2554f54259b200f4adb547db54/shapefile?layers=0",
+          "název": {
+            "cs": "Shapefile"
+          },
+          "soubor_ke_stažení": "https://www.datazapad.cz/api/download/v1/items/25589e2554f54259b200f4adb547db54/shapefile?layers=0",
+          "přístupové_url": "https://www.datazapad.cz/api/download/v1/items/25589e2554f54259b200f4adb547db54/shapefile?layers=0",
+          "typ_média": "http://www.iana.org/assignments/media-types/application/zip",
+          "formát": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+          "podmínky_užití": {
+            "typ": "Specifikace podmínek užití",
+            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+          }
+        },
+        {
+          "typ": "Distribuce",
+          "iri": "https://www.datazapad.cz/api/download/v1/items/25589e2554f54259b200f4adb547db54/geojson?layers=0",
+          "název": {
+            "cs": "GeoJSON"
+          },
+          "soubor_ke_stažení": "https://www.datazapad.cz/api/download/v1/items/25589e2554f54259b200f4adb547db54/geojson?layers=0",
+          "přístupové_url": "https://www.datazapad.cz/api/download/v1/items/25589e2554f54259b200f4adb547db54/geojson?layers=0",
+          "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.geo+json",
+          "formát": "http://publications.europa.eu/resource/authority/file-type/GEOJSON",
+          "podmínky_užití": {
+            "typ": "Specifikace podmínek užití",
+            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+          }
+        },
+        {
+          "typ": "Distribuce",
+          "iri": "https://www.datazapad.cz/api/download/v1/items/25589e2554f54259b200f4adb547db54/kml?layers=0",
+          "název": {
+            "cs": "KML"
+          },
+          "soubor_ke_stažení": "https://www.datazapad.cz/api/download/v1/items/25589e2554f54259b200f4adb547db54/kml?layers=0",
+          "přístupové_url": "https://www.datazapad.cz/api/download/v1/items/25589e2554f54259b200f4adb547db54/kml?layers=0",
           "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.google-earth.kml+xml",
           "formát": "http://publications.europa.eu/resource/authority/file-type/KML",
           "podmínky_užití": {
@@ -7415,7 +7555,7 @@
         "cs": "Seznam svazků obcí v Karlovarském kraji"
       },
       "popis": {
-        "cs": "Svazky obcí jsou formou spolupráce mezi obcemi s různým zaměřením a specifickými cíli (např. technická infrastruktura, nakládání s odpady, vodní hospodářství, zemědělství, obnova venkova, životní prostředí a příroda). Datová sada obsahuje seznam svazků obcí registrovaných v Karlovarském kraji vč. uvedení účelu svazku obcí, sídla svazku a v případě zajištění také uvedení webové stránky svazku obce.Zdroj dat poskytl Krajský úřad Karlovarského kraje."
+        "cs": "Dobrovolné svazky obcí jsou formou spolupráce mezi obcemi s různým zaměřením a specifickými cíli (např. technická infrastruktura, nakládání s odpady, vodní hospodářství, zemědělství, obnova venkova, životní prostředí a příroda). Datová sada obsahuje seznam svazků obcí registrovaných v Karlovarském kraji vč. uvedení účelu svazku obcí, sídla svazku a v případě zajištění také uvedení webové stránky svazku obce.Zdroj dat poskytl Krajský úřad Karlovarského kraje."
       },
       "klíčové_slovo": {
         "cs": [
@@ -7425,7 +7565,8 @@
           "mikroregiony",
           "Karlovarský kraj",
           "obce",
-          "obec"
+          "obec",
+          "dobrovolné svazky obcí"
         ]
       },
       "téma": [
