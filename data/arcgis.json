@@ -28,19 +28,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": {
-        "coordinates": [
-          [
-            12.8239,
-            50.2186
-          ],
-          [
-            12.8239,
-            50.2186
-          ]
-        ],
-        "type": "envelope"
-      },
+      "spatial": "12.8239,50.2186,12.8239,50.2186",
       "license": "https://creativecommons.org/licenses/by/4.0",
       "distribution": [
         {
@@ -114,19 +102,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": {
-        "coordinates": [
-          [
-            12.2512,
-            49.9484
-          ],
-          [
-            13.0668,
-            50.4024
-          ]
-        ],
-        "type": "envelope"
-      },
+      "spatial": "12.2512,49.9484,13.0668,50.4024",
       "license": "https://creativecommons.org/licenses/by/4.0",
       "distribution": [
         {
@@ -198,19 +174,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": {
-        "coordinates": [
-          [
-            12.3669,
-            49.9609
-          ],
-          [
-            12.9638,
-            50.3123
-          ]
-        ],
-        "type": "envelope"
-      },
+      "spatial": "12.3669,49.9609,12.9638,50.3123",
       "license": "https://creativecommons.org/publicdomain/zero/1.0",
       "distribution": [
         {
@@ -284,19 +248,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": {
-        "coordinates": [
-          [
-            12.3716,
-            49.958
-          ],
-          [
-            13.2476,
-            50.4093
-          ]
-        ],
-        "type": "envelope"
-      },
+      "spatial": "12.3716,49.9580,13.2476,50.4093",
       "license": "https://creativecommons.org/licenses/by/4.0",
       "distribution": [
         {
@@ -369,19 +321,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": {
-        "coordinates": [
-          [
-            12.1754,
-            49.9607
-          ],
-          [
-            13.1624,
-            50.3715
-          ]
-        ],
-        "type": "envelope"
-      },
+      "spatial": "12.1754,49.9607,13.1624,50.3715",
       "license": "https://creativecommons.org/publicdomain/zero/1.0",
       "distribution": [
         {
@@ -456,19 +396,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": {
-        "coordinates": [
-          [
-            12.1952,
-            49.9483
-          ],
-          [
-            12.9638,
-            50.3679
-          ]
-        ],
-        "type": "envelope"
-      },
+      "spatial": "12.1952,49.9483,12.9638,50.3679",
       "license": "https://creativecommons.org/publicdomain/zero/1.0",
       "distribution": [
         {
@@ -542,19 +470,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": {
-        "coordinates": [
-          [
-            12.1903,
-            49.9581
-          ],
-          [
-            12.9405,
-            50.3297
-          ]
-        ],
-        "type": "envelope"
-      },
+      "spatial": "12.1903,49.9581,12.9405,50.3297",
       "license": "https://creativecommons.org/publicdomain/zero/1.0",
       "distribution": [
         {
@@ -632,19 +548,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": {
-        "coordinates": [
-          [
-            12.1723,
-            49.9188
-          ],
-          [
-            13.2552,
-            50.4289
-          ]
-        ],
-        "type": "envelope"
-      },
+      "spatial": "12.1723,49.9188,13.2552,50.4289",
       "license": "CCO 1.0",
       "distribution": [
         {
@@ -717,19 +621,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": {
-        "coordinates": [
-          [
-            12.3517,
-            49.9646
-          ],
-          [
-            12.9349,
-            50.3596
-          ]
-        ],
-        "type": "envelope"
-      },
+      "spatial": "12.3517,49.9646,12.9349,50.3596",
       "license": "https://creativecommons.org/licenses/by/4.0",
       "distribution": [
         {
@@ -801,19 +693,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": {
-        "coordinates": [
-          [
-            12.1779,
-            49.9156
-          ],
-          [
-            13.2596,
-            50.4271
-          ]
-        ],
-        "type": "envelope"
-      },
+      "spatial": "12.1779,49.9156,13.2596,50.4271",
       "license": "https://creativecommons.org/publicdomain/zero/1.0",
       "distribution": [
         {
@@ -888,19 +768,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": {
-        "coordinates": [
-          [
-            12.3448,
-            50.0437
-          ],
-          [
-            13.0865,
-            50.1855
-          ]
-        ],
-        "type": "envelope"
-      },
+      "spatial": "12.3448,50.0437,13.0865,50.1855",
       "license": "https://creativecommons.org/licenses/by/4.0",
       "distribution": [
         {
@@ -973,19 +841,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": {
-        "coordinates": [
-          [
-            12.1989,
-            49.8397
-          ],
-          [
-            13.2077,
-            50.4993
-          ]
-        ],
-        "type": "envelope"
-      },
+      "spatial": "12.1989,49.8397,13.2077,50.4993",
       "license": "https://creativecommons.org/publicdomain/zero/1.0",
       "distribution": [
         {
@@ -1062,19 +918,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": {
-        "coordinates": [
-          [
-            12.1011,
-            49.9711
-          ],
-          [
-            13.0002,
-            50.3965
-          ]
-        ],
-        "type": "envelope"
-      },
+      "spatial": "12.1011,49.9711,13.0002,50.3965",
       "license": "https://creativecommons.org/licenses/by/4.0",
       "distribution": [
         {
@@ -1149,19 +993,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": {
-        "coordinates": [
-          [
-            12.364,
-            50.0762
-          ],
-          [
-            12.8733,
-            50.2291
-          ]
-        ],
-        "type": "envelope"
-      },
+      "spatial": "12.3640,50.0762,12.8733,50.2291",
       "license": "https://creativecommons.org/publicdomain/zero/1.0",
       "distribution": [
         {
@@ -1235,19 +1067,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": {
-        "coordinates": [
-          [
-            12.2044,
-            49.9664
-          ],
-          [
-            13.2567,
-            50.4096
-          ]
-        ],
-        "type": "envelope"
-      },
+      "spatial": "12.2044,49.9664,13.2567,50.4096",
       "license": "https://creativecommons.org/licenses/by/4.0",
       "distribution": [
         {
@@ -1319,19 +1139,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": {
-        "coordinates": [
-          [
-            12.2018,
-            49.9352
-          ],
-          [
-            13.0044,
-            50.4002
-          ]
-        ],
-        "type": "envelope"
-      },
+      "spatial": "12.2018,49.9352,13.0044,50.4002",
       "license": "https://creativecommons.org/licenses/by/4.0",
       "distribution": [
         {
@@ -1405,19 +1213,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": {
-        "coordinates": [
-          [
-            12.3701,
-            49.9766
-          ],
-          [
-            12.9948,
-            50.433
-          ]
-        ],
-        "type": "envelope"
-      },
+      "spatial": "12.3701,49.9766,12.9948,50.4330",
       "license": "https://creativecommons.org/licenses/by/4.0",
       "distribution": [
         {
@@ -1492,19 +1288,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": {
-        "coordinates": [
-          [
-            12.1892,
-            49.9415
-          ],
-          [
-            14.449,
-            50.3695
-          ]
-        ],
-        "type": "envelope"
-      },
+      "spatial": "12.1892,49.9415,14.4490,50.3695",
       "license": "https://creativecommons.org/licenses/by/4.0",
       "distribution": [
         {
@@ -1581,19 +1365,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": {
-        "coordinates": [
-          [
-            12.8239,
-            50.2186
-          ],
-          [
-            12.8239,
-            50.2186
-          ]
-        ],
-        "type": "envelope"
-      },
+      "spatial": "12.8239,50.2186,12.8239,50.2186",
       "license": "https://creativecommons.org/publicdomain/zero/1.0",
       "distribution": [
         {
@@ -1665,19 +1437,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": {
-        "coordinates": [
-          [
-            12.2338,
-            50.0045
-          ],
-          [
-            13.252,
-            50.3029
-          ]
-        ],
-        "type": "envelope"
-      },
+      "spatial": "12.2338,50.0045,13.2520,50.3029",
       "license": "https://creativecommons.org/licenses/by/4.0",
       "distribution": [
         {
@@ -1750,19 +1510,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": {
-        "coordinates": [
-          [
-            12.1903,
-            49.9581
-          ],
-          [
-            12.9405,
-            50.3297
-          ]
-        ],
-        "type": "envelope"
-      },
+      "spatial": "12.1903,49.9581,12.9405,50.3297",
       "license": "https://creativecommons.org/publicdomain/zero/1.0",
       "distribution": [
         {
@@ -1838,19 +1586,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": {
-        "coordinates": [
-          [
-            12.3335,
-            49.969
-          ],
-          [
-            12.9355,
-            50.3057
-          ]
-        ],
-        "type": "envelope"
-      },
+      "spatial": "12.3335,49.9690,12.9355,50.3057",
       "license": "https://creativecommons.org/licenses/by/4.0",
       "distribution": [
         {
@@ -1926,19 +1662,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": {
-        "coordinates": [
-          [
-            12.3489,
-            49.974
-          ],
-          [
-            13.2668,
-            50.4117
-          ]
-        ],
-        "type": "envelope"
-      },
+      "spatial": "12.3489,49.9740,13.2668,50.4117",
       "license": "https://creativecommons.org/publicdomain/zero/1.0",
       "distribution": [
         {
@@ -2012,19 +1736,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": {
-        "coordinates": [
-          [
-            12.1903,
-            49.9581
-          ],
-          [
-            13.1623,
-            50.3714
-          ]
-        ],
-        "type": "envelope"
-      },
+      "spatial": "12.1903,49.9581,13.1623,50.3714",
       "license": "https://creativecommons.org/publicdomain/zero/1.0",
       "distribution": [
         {
@@ -2097,19 +1809,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": {
-        "coordinates": [
-          [
-            12.276,
-            49.9791
-          ],
-          [
-            12.9292,
-            50.2632
-          ]
-        ],
-        "type": "envelope"
-      },
+      "spatial": "12.2760,49.9791,12.9292,50.2632",
       "license": "https://creativecommons.org/licenses/by/4.0",
       "distribution": [
         {
@@ -2184,19 +1884,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": {
-        "coordinates": [
-          [
-            12.8239,
-            50.2186
-          ],
-          [
-            12.8239,
-            50.2186
-          ]
-        ],
-        "type": "envelope"
-      },
+      "spatial": "12.8239,50.2186,12.8239,50.2186",
       "license": "https://creativecommons.org/publicdomain/zero/1.0",
       "distribution": [
         {
@@ -2269,19 +1957,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": {
-        "coordinates": [
-          [
-            12.1888,
-            49.9772
-          ],
-          [
-            13.1622,
-            50.4107
-          ]
-        ],
-        "type": "envelope"
-      },
+      "spatial": "12.1888,49.9772,13.1622,50.4107",
       "license": "https://creativecommons.org/licenses/by/4.0",
       "distribution": [
         {
@@ -2354,19 +2030,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": {
-        "coordinates": [
-          [
-            12.1878,
-            49.2275
-          ],
-          [
-            14.475,
-            50.4097
-          ]
-        ],
-        "type": "envelope"
-      },
+      "spatial": "12.1878,49.2275,14.4750,50.4097",
       "license": "https://creativecommons.org/licenses/by/4.0",
       "distribution": [
         {
@@ -2439,19 +2103,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": {
-        "coordinates": [
-          [
-            12.7299,
-            50.0787
-          ],
-          [
-            13.213,
-            50.2115
-          ]
-        ],
-        "type": "envelope"
-      },
+      "spatial": "12.7299,50.0787,13.2130,50.2115",
       "license": "https://creativecommons.org/licenses/by/4.0",
       "distribution": [
         {
@@ -2525,19 +2177,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": {
-        "coordinates": [
-          [
-            12.1903,
-            49.9581
-          ],
-          [
-            13.1623,
-            50.3714
-          ]
-        ],
-        "type": "envelope"
-      },
+      "spatial": "12.1903,49.9581,13.1623,50.3714",
       "license": "https://creativecommons.org/publicdomain/zero/1.0",
       "distribution": [
         {
@@ -2609,19 +2249,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": {
-        "coordinates": [
-          [
-            12.6735,
-            50.0105
-          ],
-          [
-            13.0162,
-            50.2982
-          ]
-        ],
-        "type": "envelope"
-      },
+      "spatial": "12.6735,50.0105,13.0162,50.2982",
       "license": "https://creativecommons.org/licenses/by/4.0",
       "distribution": [
         {
@@ -2695,19 +2323,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": {
-        "coordinates": [
-          [
-            5.8669,
-            50.0731
-          ],
-          [
-            14.427,
-            50.4935
-          ]
-        ],
-        "type": "envelope"
-      },
+      "spatial": "5.8669,50.0731,14.4270,50.4935",
       "license": "https://creativecommons.org/publicdomain/zero/1.0",
       "distribution": [
         {
@@ -2781,19 +2397,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": {
-        "coordinates": [
-          [
-            12.3489,
-            49.974
-          ],
-          [
-            13.2546,
-            50.3903
-          ]
-        ],
-        "type": "envelope"
-      },
+      "spatial": "12.3489,49.9740,13.2546,50.3903",
       "license": "https://creativecommons.org/licenses/by/4.0",
       "distribution": [
         {
@@ -2867,19 +2471,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": {
-        "coordinates": [
-          [
-            12.4522,
-            50.02
-          ],
-          [
-            12.8279,
-            50.1339
-          ]
-        ],
-        "type": "envelope"
-      },
+      "spatial": "12.4522,50.0200,12.8279,50.1339",
       "license": "https://creativecommons.org/licenses/by/4.0",
       "distribution": [
         {
@@ -2952,19 +2544,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": {
-        "coordinates": [
-          [
-            12.2847,
-            50.0079
-          ],
-          [
-            14.4353,
-            50.3621
-          ]
-        ],
-        "type": "envelope"
-      },
+      "spatial": "12.2847,50.0079,14.4353,50.3621",
       "license": "https://creativecommons.org/licenses/by/4.0",
       "distribution": [
         {
@@ -3042,19 +2622,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": {
-        "coordinates": [
-          [
-            12.1942,
-            49.9622
-          ],
-          [
-            13.1601,
-            50.3048
-          ]
-        ],
-        "type": "envelope"
-      },
+      "spatial": "12.1942,49.9622,13.1601,50.3048",
       "license": "https://creativecommons.org/publicdomain/zero/1.0",
       "distribution": [
         {
@@ -3131,19 +2699,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": {
-        "coordinates": [
-          [
-            12.1998,
-            49.9609
-          ],
-          [
-            12.9413,
-            50.3022
-          ]
-        ],
-        "type": "envelope"
-      },
+      "spatial": "12.1998,49.9609,12.9413,50.3022",
       "license": "https://creativecommons.org/publicdomain/zero/1.0",
       "distribution": [
         {
@@ -3218,19 +2774,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": {
-        "coordinates": [
-          [
-            12.1873,
-            49.9753
-          ],
-          [
-            13.1619,
-            50.4282
-          ]
-        ],
-        "type": "envelope"
-      },
+      "spatial": "12.1873,49.9753,13.1619,50.4282",
       "license": "https://creativecommons.org/licenses/by/4.0",
       "distribution": [
         {
@@ -3303,19 +2847,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": {
-        "coordinates": [
-          [
-            12.1892,
-            49.9515
-          ],
-          [
-            14.4491,
-            50.3302
-          ]
-        ],
-        "type": "envelope"
-      },
+      "spatial": "12.1892,49.9515,14.4491,50.3302",
       "license": "https://creativecommons.org/licenses/by/4.0",
       "distribution": [
         {
@@ -3390,19 +2922,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": {
-        "coordinates": [
-          [
-            12.1903,
-            49.7363
-          ],
-          [
-            14.6365,
-            50.676
-          ]
-        ],
-        "type": "envelope"
-      },
+      "spatial": "12.1903,49.7363,14.6365,50.6760",
       "license": "https://creativecommons.org/publicdomain/zero/1.0",
       "distribution": [
         {
@@ -3475,19 +2995,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": {
-        "coordinates": [
-          [
-            12.629,
-            50.0814
-          ],
-          [
-            13.0186,
-            50.3462
-          ]
-        ],
-        "type": "envelope"
-      },
+      "spatial": "12.6290,50.0814,13.0186,50.3462",
       "license": "https://creativecommons.org/licenses/by/4.0",
       "distribution": [
         {
@@ -3565,19 +3073,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": {
-        "coordinates": [
-          [
-            12.1946,
-            49.9476
-          ],
-          [
-            13.1619,
-            50.3639
-          ]
-        ],
-        "type": "envelope"
-      },
+      "spatial": "12.1946,49.9476,13.1619,50.3639",
       "license": "https://creativecommons.org/publicdomain/zero/1.0",
       "distribution": [
         {
@@ -3651,19 +3147,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": {
-        "coordinates": [
-          [
-            12.1819,
-            49.9588
-          ],
-          [
-            12.9674,
-            50.3945
-          ]
-        ],
-        "type": "envelope"
-      },
+      "spatial": "12.1819,49.9588,12.9674,50.3945",
       "license": "https://creativecommons.org/licenses/by/4.0",
       "distribution": [
         {
@@ -3736,19 +3220,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": {
-        "coordinates": [
-          [
-            12.195,
-            49.9671
-          ],
-          [
-            12.9601,
-            50.3602
-          ]
-        ],
-        "type": "envelope"
-      },
+      "spatial": "12.1950,49.9671,12.9601,50.3602",
       "license": "https://creativecommons.org/licenses/by/4.0",
       "distribution": [
         {
@@ -3821,19 +3293,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": {
-        "coordinates": [
-          [
-            12.3489,
-            49.974
-          ],
-          [
-            12.9331,
-            50.3616
-          ]
-        ],
-        "type": "envelope"
-      },
+      "spatial": "12.3489,49.9740,12.9331,50.3616",
       "license": "https://creativecommons.org/licenses/by/4.0",
       "distribution": [
         {
@@ -3912,19 +3372,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": {
-        "coordinates": [
-          [
-            12.1942,
-            49.953
-          ],
-          [
-            13.1601,
-            50.5111
-          ]
-        ],
-        "type": "envelope"
-      },
+      "spatial": "12.1942,49.9530,13.1601,50.5111",
       "license": "https://creativecommons.org/publicdomain/zero/1.0",
       "distribution": [
         {
@@ -3999,19 +3447,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": {
-        "coordinates": [
-          [
-            12.2006,
-            49.7469
-          ],
-          [
-            14.6019,
-            50.4097
-          ]
-        ],
-        "type": "envelope"
-      },
+      "spatial": "12.2006,49.7469,14.6019,50.4097",
       "license": "https://creativecommons.org/licenses/by/4.0",
       "distribution": [
         {
@@ -4087,19 +3523,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": {
-        "coordinates": [
-          [
-            12.1942,
-            49.9622
-          ],
-          [
-            13.1601,
-            50.3048
-          ]
-        ],
-        "type": "envelope"
-      },
+      "spatial": "12.1942,49.9622,13.1601,50.3048",
       "license": "https://creativecommons.org/publicdomain/zero/1.0",
       "distribution": [
         {
@@ -4175,19 +3599,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": {
-        "coordinates": [
-          [
-            12.3663,
-            49.9664
-          ],
-          [
-            12.9534,
-            50.4127
-          ]
-        ],
-        "type": "envelope"
-      },
+      "spatial": "12.3663,49.9664,12.9534,50.4127",
       "license": "https://creativecommons.org/publicdomain/zero/1.0",
       "distribution": [
         {
@@ -4260,19 +3672,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": {
-        "coordinates": [
-          [
-            12.3918,
-            50.0005
-          ],
-          [
-            13.0068,
-            50.1938
-          ]
-        ],
-        "type": "envelope"
-      },
+      "spatial": "12.3918,50.0005,13.0068,50.1938",
       "license": "https://creativecommons.org/licenses/by/4.0",
       "distribution": [
         {
@@ -4347,19 +3747,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": {
-        "coordinates": [
-          [
-            12.2068,
-            50.0153
-          ],
-          [
-            13.0453,
-            50.3695
-          ]
-        ],
-        "type": "envelope"
-      },
+      "spatial": "12.2068,50.0153,13.0453,50.3695",
       "license": "https://creativecommons.org/licenses/by/4.0",
       "distribution": [
         {
@@ -4434,19 +3822,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": {
-        "coordinates": [
-          [
-            12.2077,
-            49.9732
-          ],
-          [
-            12.9688,
-            50.4185
-          ]
-        ],
-        "type": "envelope"
-      },
+      "spatial": "12.2077,49.9732,12.9688,50.4185",
       "license": "https://creativecommons.org/licenses/by/4.0",
       "distribution": [
         {
@@ -4519,19 +3895,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": {
-        "coordinates": [
-          [
-            12.1903,
-            49.9581
-          ],
-          [
-            12.9405,
-            50.3297
-          ]
-        ],
-        "type": "envelope"
-      },
+      "spatial": "12.1903,49.9581,12.9405,50.3297",
       "license": "https://creativecommons.org/publicdomain/zero/1.0",
       "distribution": [
         {
@@ -4604,19 +3968,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": {
-        "coordinates": [
-          [
-            12.1896,
-            49.8723
-          ],
-          [
-            12.9869,
-            50.3252
-          ]
-        ],
-        "type": "envelope"
-      },
+      "spatial": "12.1896,49.8723,12.9869,50.3252",
       "license": "https://creativecommons.org/publicdomain/zero/1.0",
       "distribution": [
         {
@@ -4693,19 +4045,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": {
-        "coordinates": [
-          [
-            12.1903,
-            49.9631
-          ],
-          [
-            13.1623,
-            50.366
-          ]
-        ],
-        "type": "envelope"
-      },
+      "spatial": "12.1903,49.9631,13.1623,50.3660",
       "license": "https://creativecommons.org/publicdomain/zero/1.0",
       "distribution": [
         {
@@ -4778,19 +4118,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": {
-        "coordinates": [
-          [
-            12.364,
-            50.0762
-          ],
-          [
-            12.9472,
-            50.296
-          ]
-        ],
-        "type": "envelope"
-      },
+      "spatial": "12.3640,50.0762,12.9472,50.2960",
       "license": "https://creativecommons.org/licenses/by/4.0",
       "distribution": [
         {
