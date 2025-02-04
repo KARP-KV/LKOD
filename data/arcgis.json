@@ -970,6 +970,83 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=2293df931dc548668292c933ab7d4a6d&sublayer=0",
+      "landingPage": "https://www.datazapad.cz/datasets/2293df931dc548668292c933ab7d4a6d_0",
+      "title": "Seznam MAS v Karlovarském kraji",
+      "description": "<p>Datová sada obsahuje data o místních akčních skupinách (MAS) působících v Karlovarském kraji - identifikační číslo, sídlo, číslo datové schránky, kontaktní telefon a e-mail, adresní bod a lokaci kontaktního místa MAS. Datová sada obsahuje rovněž výpis členských obcí a jejich počet.</p><div>Poskytovatelem dat je Karlovarská agentura rozvoje podnikání, p.o.</div>",
+      "keyword": [
+        "MAS",
+        "místní akční skupina",
+        "místní akční skupiny",
+        "Karlovarský kraj",
+        "obce",
+        "místní skupina",
+        "místní skupiny",
+        "akční skupiny"
+      ],
+      "issued": "2025-02-04T09:12:07.000Z",
+      "modified": "2025-02-04T09:12:15.304Z",
+      "publisher": {
+        "name": "Karlovarská agentura rozvoje podnikání, p.o."
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "pavla.brabencova_karp",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "12.3720,49.9822,13.4079,50.3067",
+      "license": "https://creativecommons.org/licenses/by/4.0",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datazapad.cz/datasets/2293df931dc548668292c933ab7d4a6d_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Seznam_MAS_v_Karlovarsk%C3%A9m_kraji_WFL1/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/2293df931dc548668292c933ab7d4a6d/csv?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/2293df931dc548668292c933ab7d4a6d/shapefile?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/2293df931dc548668292c933ab7d4a6d/geojson?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/2293df931dc548668292c933ab7d4a6d/kml?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=25589e2554f54259b200f4adb547db54&sublayer=0",
       "landingPage": "https://www.datazapad.cz/datasets/25589e2554f54259b200f4adb547db54_0",
       "title": "Seznam vysokých škol působících v Karlovarském kraji",
