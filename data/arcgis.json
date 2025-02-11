@@ -1047,20 +1047,21 @@
     },
     {
       "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=25589e2554f54259b200f4adb547db54&sublayer=0",
-      "landingPage": "https://www.datazapad.cz/datasets/25589e2554f54259b200f4adb547db54_0",
+      "identifier": "https://www.arcgis.com/home/item.html?id=25589e2554f54259b200f4adb547db54&sublayer=3",
+      "landingPage": "https://www.datazapad.cz/datasets/25589e2554f54259b200f4adb547db54_3",
       "title": "Seznam vysokých škol působících v Karlovarském kraji",
       "description": "Datová sada obsahuje přehled vysokých škol působících v Karlovarském kraji prostřednictvím poboček či středisek. Uvedeny jsou adresy poboček, kontaktní údaje (telefon, e-mail) a lokalizace poboček. <div>Poskytovatelem podkladů datové sady je Krajský úřad Karlovarského kraje.</div>",
       "keyword": [
+        "Karlovarský kraj",
+        "pobočka vysoké školy",
+        "univerzita",
         "vysoká škola",
         "vysoké školy",
         "škola",
-        "školy",
-        "Karlovarský kraj",
-        "univerzita"
+        "školy"
       ],
       "issued": "2025-01-28T10:49:09.000Z",
-      "modified": "2025-01-28T10:49:17.268Z",
+      "modified": "2025-02-11T09:33:34.134Z",
       "publisher": {
         "name": "Krajský úřad Karlovarského kraje"
       },
@@ -1070,7 +1071,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "12.3640,50.0762,12.8733,50.2291",
+      "spatial": "12.3640,50.0762,12.8735,50.2310",
       "license": "https://creativecommons.org/publicdomain/zero/1.0",
       "distribution": [
         {
@@ -1078,42 +1079,42 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/datasets/25589e2554f54259b200f4adb547db54_0"
+          "accessURL": "https://www.datazapad.cz/datasets/25589e2554f54259b200f4adb547db54_3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "ArcGIS GeoService",
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
-          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Seznam_vysok%C3%BDch_%C5%A1kol_p%C5%AFsob%C3%ADc%C3%ADch_v_Karlovarsk%C3%A9m_kraji_WFL1/FeatureServer/0"
+          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Seznam_vysok%C3%BDch_%C5%A1kol_p%C5%AFsob%C3%ADc%C3%ADch_v_Karlovarsk%C3%A9m_kraji_WFL1/FeatureServer/3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "CSV",
           "format": "CSV",
           "mediaType": "text/csv",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/25589e2554f54259b200f4adb547db54/csv?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/25589e2554f54259b200f4adb547db54/csv?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Shapefile",
           "format": "ZIP",
           "mediaType": "application/zip",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/25589e2554f54259b200f4adb547db54/shapefile?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/25589e2554f54259b200f4adb547db54/shapefile?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "GeoJSON",
           "format": "GeoJSON",
           "mediaType": "application/vnd.geo+json",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/25589e2554f54259b200f4adb547db54/geojson?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/25589e2554f54259b200f4adb547db54/geojson?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "KML",
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/25589e2554f54259b200f4adb547db54/kml?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/25589e2554f54259b200f4adb547db54/kml?layers=3"
         }
       ],
       "theme": [
