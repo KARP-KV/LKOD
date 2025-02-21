@@ -98,9 +98,15 @@
         ]
       },
       "téma": [
-        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
+        "http://publications.europa.eu/resource/authority/data-theme/HEAL",
+        "http://publications.europa.eu/resource/authority/data-theme/JUST",
+        "http://publications.europa.eu/resource/authority/data-theme/SOCI",
+        "http://publications.europa.eu/resource/authority/data-theme/TRAN",
+        "http://publications.europa.eu/resource/authority/data-theme/EDUC",
+        "http://publications.europa.eu/resource/authority/data-theme/TECH",
+        "http://publications.europa.eu/resource/authority/data-theme/EDUC"
       ],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/OTHER",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/51"
       ],
@@ -236,9 +242,9 @@
         ]
       },
       "téma": [
-        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
+        "http://publications.europa.eu/resource/authority/data-theme/EDUC"
       ],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/OTHER",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/51"
       ],
@@ -372,9 +378,9 @@
         ]
       },
       "téma": [
-        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
+        "http://publications.europa.eu/resource/authority/data-theme/HEAL"
       ],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/OTHER",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/51"
       ],
@@ -510,9 +516,9 @@
         ]
       },
       "téma": [
-        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
+        "http://publications.europa.eu/resource/authority/data-theme/EDUC"
       ],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/OTHER",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/51"
       ],
@@ -647,9 +653,10 @@
         ]
       },
       "téma": [
-        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
+        "http://publications.europa.eu/resource/authority/data-theme/REGI",
+        "http://publications.europa.eu/resource/authority/data-theme/GOVE"
       ],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/OTHER",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/51"
       ],
@@ -786,7 +793,7 @@
         ]
       },
       "téma": [
-        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
+        "http://publications.europa.eu/resource/authority/data-theme/SOCI"
       ],
       "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
       "prvek_rúian": [
@@ -924,9 +931,9 @@
         ]
       },
       "téma": [
-        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
+        "http://publications.europa.eu/resource/authority/data-theme/EDUC"
       ],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/OTHER",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/51"
       ],
@@ -1066,9 +1073,10 @@
         ]
       },
       "téma": [
-        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
+        "http://publications.europa.eu/resource/authority/data-theme/EDUC",
+        "http://publications.europa.eu/resource/authority/data-theme/TECH"
       ],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/OTHER",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/51"
       ],
@@ -1203,9 +1211,9 @@
         ]
       },
       "téma": [
-        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
+        "http://publications.europa.eu/resource/authority/data-theme/EDUC"
       ],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/OTHER",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/51"
       ],
@@ -1339,9 +1347,9 @@
         ]
       },
       "téma": [
-        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
+        "http://publications.europa.eu/resource/authority/data-theme/SOCI"
       ],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/OTHER",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/51"
       ],
@@ -1478,9 +1486,9 @@
         ]
       },
       "téma": [
-        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
+        "http://publications.europa.eu/resource/authority/data-theme/EDUC"
       ],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/OTHER",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/51"
       ],
@@ -1615,7 +1623,8 @@
         ]
       },
       "téma": [
-        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
+        "http://publications.europa.eu/resource/authority/data-theme/REGI",
+        "http://publications.europa.eu/resource/authority/data-theme/GOVE"
       ],
       "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
       "prvek_rúian": [
@@ -1756,9 +1765,9 @@
         ]
       },
       "téma": [
-        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
+        "http://publications.europa.eu/resource/authority/data-theme/EDUC"
       ],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/OTHER",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/51"
       ],
@@ -1897,9 +1906,10 @@
         ]
       },
       "téma": [
-        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
+        "http://publications.europa.eu/resource/authority/data-theme/REGI",
+        "http://publications.europa.eu/resource/authority/data-theme/GOVE"
       ],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/OTHER",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/51"
       ],
@@ -2037,9 +2047,10 @@
         ]
       },
       "téma": [
-        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
+        "http://publications.europa.eu/resource/authority/data-theme/EDUC",
+        "http://publications.europa.eu/resource/authority/data-theme/TECH"
       ],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/OTHER",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/51"
       ],
@@ -2175,9 +2186,9 @@
         ]
       },
       "téma": [
-        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
+        "http://publications.europa.eu/resource/authority/data-theme/EDUC"
       ],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/OTHER",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/51"
       ],
@@ -2311,9 +2322,9 @@
         ]
       },
       "téma": [
-        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
+        "http://publications.europa.eu/resource/authority/data-theme/EDUC"
       ],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/OTHER",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/51"
       ],
@@ -2449,9 +2460,9 @@
         ]
       },
       "téma": [
-        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
+        "http://publications.europa.eu/resource/authority/data-theme/EDUC"
       ],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/OTHER",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/51"
       ],
@@ -2588,7 +2599,8 @@
         ]
       },
       "téma": [
-        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
+        "http://publications.europa.eu/resource/authority/data-theme/REGI",
+        "http://publications.europa.eu/resource/authority/data-theme/GOVE"
       ],
       "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
       "prvek_rúian": [
@@ -2729,9 +2741,10 @@
         ]
       },
       "téma": [
-        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
+        "http://publications.europa.eu/resource/authority/data-theme/REGI",
+        "http://publications.europa.eu/resource/authority/data-theme/GOVE"
       ],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/OTHER",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/51"
       ],
@@ -2865,9 +2878,9 @@
         ]
       },
       "téma": [
-        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
+        "http://publications.europa.eu/resource/authority/data-theme/EDUC"
       ],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/OTHER",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/51"
       ],
@@ -3002,9 +3015,10 @@
         ]
       },
       "téma": [
-        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
+        "http://publications.europa.eu/resource/authority/data-theme/REGI",
+        "http://publications.europa.eu/resource/authority/data-theme/GOVE"
       ],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/OTHER",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/51"
       ],
@@ -3142,9 +3156,9 @@
         ]
       },
       "téma": [
-        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
+        "http://publications.europa.eu/resource/authority/data-theme/EDUC"
       ],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/OTHER",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/51"
       ],
@@ -3282,9 +3296,9 @@
         ]
       },
       "téma": [
-        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
+        "http://publications.europa.eu/resource/authority/data-theme/EDUC"
       ],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/OTHER",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/51"
       ],
@@ -3420,7 +3434,8 @@
         ]
       },
       "téma": [
-        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
+        "http://publications.europa.eu/resource/authority/data-theme/REGI",
+        "http://publications.europa.eu/resource/authority/data-theme/GOVE"
       ],
       "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
       "prvek_rúian": [
@@ -3557,9 +3572,9 @@
         ]
       },
       "téma": [
-        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
+        "http://publications.europa.eu/resource/authority/data-theme/EDUC"
       ],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/OTHER",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/51"
       ],
@@ -3696,9 +3711,10 @@
         ]
       },
       "téma": [
-        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
+        "http://publications.europa.eu/resource/authority/data-theme/REGI",
+        "http://publications.europa.eu/resource/authority/data-theme/GOVE"
       ],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/51"
       ],
@@ -3833,9 +3849,9 @@
         ]
       },
       "téma": [
-        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
+        "http://publications.europa.eu/resource/authority/data-theme/EDUC"
       ],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/OTHER",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/51"
       ],
@@ -3970,9 +3986,10 @@
         ]
       },
       "téma": [
-        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
+        "http://publications.europa.eu/resource/authority/data-theme/ECON",
+        "http://publications.europa.eu/resource/authority/data-theme/EDUC"
       ],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/OTHER",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/51"
       ],
@@ -4107,9 +4124,9 @@
         ]
       },
       "téma": [
-        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
+        "http://publications.europa.eu/resource/authority/data-theme/EDUC"
       ],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/OTHER",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/51"
       ],
@@ -4245,9 +4262,10 @@
         ]
       },
       "téma": [
-        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
+        "http://publications.europa.eu/resource/authority/data-theme/REGI",
+        "http://publications.europa.eu/resource/authority/data-theme/GOVE"
       ],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/OTHER",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/51"
       ],
@@ -4381,9 +4399,9 @@
         ]
       },
       "téma": [
-        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
+        "http://publications.europa.eu/resource/authority/data-theme/EDUC"
       ],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/51"
       ],
@@ -4519,9 +4537,9 @@
         ]
       },
       "téma": [
-        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
+        "http://publications.europa.eu/resource/authority/data-theme/EDUC"
       ],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/OTHER",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/51"
       ],
@@ -4657,9 +4675,9 @@
         ]
       },
       "téma": [
-        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
+        "http://publications.europa.eu/resource/authority/data-theme/EDUC"
       ],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/OTHER",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/51"
       ],
@@ -4795,9 +4813,9 @@
         ]
       },
       "téma": [
-        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
+        "http://publications.europa.eu/resource/authority/data-theme/EDUC"
       ],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/OTHER",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/51"
       ],
@@ -4932,7 +4950,8 @@
         ]
       },
       "téma": [
-        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
+        "http://publications.europa.eu/resource/authority/data-theme/REGI",
+        "http://publications.europa.eu/resource/authority/data-theme/GOVE"
       ],
       "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
       "prvek_rúian": [
@@ -5074,7 +5093,8 @@
         ]
       },
       "téma": [
-        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
+        "http://publications.europa.eu/resource/authority/data-theme/EDUC",
+        "http://publications.europa.eu/resource/authority/data-theme/TECH"
       ],
       "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
       "prvek_rúian": [
@@ -5215,9 +5235,9 @@
         ]
       },
       "téma": [
-        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
+        "http://publications.europa.eu/resource/authority/data-theme/HEAL"
       ],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/OTHER",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/51"
       ],
@@ -5354,9 +5374,9 @@
         ]
       },
       "téma": [
-        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
+        "http://publications.europa.eu/resource/authority/data-theme/EDUC"
       ],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/OTHER",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/51"
       ],
@@ -5491,7 +5511,8 @@
         ]
       },
       "téma": [
-        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
+        "http://publications.europa.eu/resource/authority/data-theme/REGI",
+        "http://publications.europa.eu/resource/authority/data-theme/GOVE"
       ],
       "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
       "prvek_rúian": [
@@ -5630,7 +5651,7 @@
         ]
       },
       "téma": [
-        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
+        "http://publications.europa.eu/resource/authority/data-theme/SOCI"
       ],
       "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
       "prvek_rúian": [
@@ -5767,9 +5788,9 @@
         ]
       },
       "téma": [
-        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
+        "http://publications.europa.eu/resource/authority/data-theme/EDUC"
       ],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/OTHER",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/51"
       ],
@@ -5909,9 +5930,9 @@
         ]
       },
       "téma": [
-        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
+        "http://publications.europa.eu/resource/authority/data-theme/TRAN"
       ],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/OTHER",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/51"
       ],
@@ -6047,9 +6068,9 @@
         ]
       },
       "téma": [
-        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
+        "http://publications.europa.eu/resource/authority/data-theme/EDUC"
       ],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/OTHER",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/51"
       ],
@@ -6184,9 +6205,9 @@
         ]
       },
       "téma": [
-        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
+        "http://publications.europa.eu/resource/authority/data-theme/EDUC"
       ],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/OTHER",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/51"
       ],
@@ -6321,9 +6342,9 @@
         ]
       },
       "téma": [
-        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
+        "http://publications.europa.eu/resource/authority/data-theme/EDUC"
       ],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/OTHER",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/51"
       ],
@@ -6464,9 +6485,14 @@
         ]
       },
       "téma": [
-        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
+        "http://publications.europa.eu/resource/authority/data-theme/HEAL",
+        "http://publications.europa.eu/resource/authority/data-theme/SOCI",
+        "http://publications.europa.eu/resource/authority/data-theme/TRAN",
+        "http://publications.europa.eu/resource/authority/data-theme/EDUC",
+        "http://publications.europa.eu/resource/authority/data-theme/TECH",
+        "http://publications.europa.eu/resource/authority/data-theme/EDUC"
       ],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/OTHER",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/51"
       ],
@@ -6603,9 +6629,10 @@
         ]
       },
       "téma": [
-        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
+        "http://publications.europa.eu/resource/authority/data-theme/REGI",
+        "http://publications.europa.eu/resource/authority/data-theme/GOVE"
       ],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/OTHER",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/51"
       ],
@@ -6743,9 +6770,10 @@
         ]
       },
       "téma": [
-        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
+        "http://publications.europa.eu/resource/authority/data-theme/EDUC",
+        "http://publications.europa.eu/resource/authority/data-theme/TECH"
       ],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/51"
       ],
@@ -6883,9 +6911,9 @@
         ]
       },
       "téma": [
-        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
+        "http://publications.europa.eu/resource/authority/data-theme/EDUC"
       ],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/OTHER",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/51"
       ],
@@ -7020,9 +7048,9 @@
         ]
       },
       "téma": [
-        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
+        "http://publications.europa.eu/resource/authority/data-theme/EDUC"
       ],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/OTHER",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/51"
       ],
@@ -7159,7 +7187,7 @@
         ]
       },
       "téma": [
-        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
+        "http://publications.europa.eu/resource/authority/data-theme/EDUC"
       ],
       "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
       "prvek_rúian": [
@@ -7298,9 +7326,9 @@
         ]
       },
       "téma": [
-        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
+        "http://publications.europa.eu/resource/authority/data-theme/EDUC"
       ],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/OTHER",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/51"
       ],
@@ -7435,9 +7463,10 @@
         ]
       },
       "téma": [
-        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
+        "http://publications.europa.eu/resource/authority/data-theme/REGI",
+        "http://publications.europa.eu/resource/authority/data-theme/GOVE"
       ],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/OTHER",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/51"
       ],
@@ -7572,7 +7601,7 @@
         ]
       },
       "téma": [
-        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
+        "http://publications.europa.eu/resource/authority/data-theme/SOCI"
       ],
       "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
       "prvek_rúian": [
@@ -7713,9 +7742,10 @@
         ]
       },
       "téma": [
-        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
+        "http://publications.europa.eu/resource/authority/data-theme/REGI",
+        "http://publications.europa.eu/resource/authority/data-theme/GOVE"
       ],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/OTHER",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/51"
       ],
@@ -7850,9 +7880,11 @@
         ]
       },
       "téma": [
-        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
+        "http://publications.europa.eu/resource/authority/data-theme/ECON",
+        "http://publications.europa.eu/resource/authority/data-theme/EDUC",
+        "http://publications.europa.eu/resource/authority/data-theme/TECH"
       ],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/OTHER",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/51"
       ],
