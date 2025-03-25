@@ -568,19 +568,19 @@
     },
     {
       "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=03dbe5719ab64960ae70ee90af4790c6&sublayer=0",
-      "landingPage": "https://www.datazapad.cz/datasets/03dbe5719ab64960ae70ee90af4790c6_0",
+      "identifier": "https://www.arcgis.com/home/item.html?id=03dbe5719ab64960ae70ee90af4790c6&sublayer=3",
+      "landingPage": "https://www.datazapad.cz/datasets/03dbe5719ab64960ae70ee90af4790c6_3",
       "title": "Nemocnice v Karlovarském kraji",
-      "description": "V seznamu jsou uvedeny kontaktní údaje vč. adres nemocnic v Karlovarském kraji. Uvedeny jsou nemocnice zřízené Karlovarským krajem i nemocnice soukromé. Poskytovatelem dat je Krajský úřad Karlovarského kraje.",
+      "description": "<p>Datová sada obsahuje kromě souřadnic umístění nemocnice rovněž IČO, právní forma, sídlo nemocnice, kód adresního místa, kontaktní údaje (číslo datové schránky, e-mail, telefon) vč. adres nemocnic v Karlovarském kraji. Uvedeny jsou nemocnice zřízené Karlovarským krajem i nemocnice soukromé.</p><div>Poskytovatelem zdroje dat je Krajský úřad Karlovarského kraje.</div>",
       "keyword": [
         "nemocnice",
         "Karlovarský kraj",
         "seznam nemocnic"
       ],
       "issued": "2024-03-18T11:35:08.000Z",
-      "modified": "2024-03-18T11:35:11.153Z",
+      "modified": "2025-03-25T11:23:08.000Z",
       "publisher": {
-        "name": "Karlovarská agentura rozvoje podnikání, p.o."
+        "name": "Krajský úřad Karlovarského kraje"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -605,28 +605,28 @@
               "eMailAdd": "pavla.brabencova@karp-kv.cz"
             }
           },
-          "rpOrgName": "Karlovarská agentura rozvoje podnikání, p.o.",
-          "role": {
-            "RoleCd": {
-              "@_value": "007"
-            }
-          }
+          "rpOrgName": "Karlovarská agentura rozvoje podnikání, p.o."
         },
-        "mdDateSt": "2024-03-18",
+        "mdDateSt": "2025-03-25",
         "Esri": {
           "ArcGISFormat": 1,
-          "CreaTime": 12172800,
+          "CreaTime": 12112900,
           "ArcGISProfile": "INSPIRE",
-          "ArcGISstyle": "INSPIRE Metadata Directive",
-          "ModDate": 20250213,
           "CreaDate": 20240318,
-          "ModTime": 12035518,
-          "SyncOnce": "TRUE",
-          "MapLyrSync": false,
-          "PublishStatus": "editor:esri.dijit.metadata.editor"
+          "SyncOnce": "TRUE"
         },
-        "mdTimeSt": "12:44:33.32",
+        "mdTimeSt": "11:25:41",
         "dqInfo": {
+          "dataLineage": {
+            "statement": "Data Krajského úřad Karlovarského kraje"
+          },
+          "dqScope": {
+            "scpLvl": {
+              "ScopeCd": {
+                "@_value": "005"
+              }
+            }
+          },
           "report": {
             "measResult": {
               "ConResult": {
@@ -646,39 +646,20 @@
           }
         },
         "dataIdInfo": {
-          "idAbs": "V seznamu jsou uvedeny kontaktní údaje vč. adres nemocnic v Karlovarském kraji. Uvedeny jsou nemocnice zřízené Karlovarským krajem i nemocnice soukromé. Poskytovatelem dat je Krajský úřad Karlovarského kraje.",
+          "idAbs": "<p>Datová sada obsahuje kromě souřadnic umístění nemocnice rovněž IČO, právní forma, sídlo nemocnice, kód adresního místa, kontaktní údaje (číslo datové schránky, e-mail, telefon) vč. adres nemocnic v Karlovarském kraji. Uvedeny jsou nemocnice zřízené Karlovarským krajem i nemocnice soukromé.</p><div>Poskytovatelem zdroje dat je Krajský úřad Karlovarského kraje.</div>",
           "idCredit": "Krajský úřad Karlovarského kraje",
-          "dataLang": {
-            "countryCode": {
-              "@_value": "CZ"
-            },
-            "languageCode": {
-              "@_value": "cze"
-            }
-          },
-          "idPurp": "Seznam nemocnic v Karlovarském kraji.",
-          "tpCat": {
-            "TopicCatCd": {
-              "@_value": "009"
-            }
-          },
-          "dataExt": {
-            "geoEle": {
-              "GeoBndBox": {
-                "eastBL": 12.992669,
-                "southBL": 49.928161,
-                "northBL": 50.33156,
-                "westBL": 12.331179
-              }
-            }
-          },
           "idCitation": {
             "date": {
-              "pubDate": "2024-03-18T12:45:28.609+01:00"
+              "reviseDate": "2025-03-25T11:23:08"
             },
             "resTitle": "Nemocnice v Karlovarském kraji",
             "citId": {
               "identCode": "publication"
+            }
+          },
+          "dataLang": {
+            "languageCode": {
+              "@_value": "cze"
             }
           },
           "themeKeys": {
@@ -688,27 +669,22 @@
               },
               "resTitle": "GEMET - INSPIRE themes, version 1.0"
             },
-            "keyword": [
-              "Nemocnice",
-              "Karlovarský kraj",
-              "Seznam nemocnic"
-            ]
+            "keyword": "nemocnice"
           },
-          "resMaint": {
-            "maintScp": {
-              "ScopeCd": {
-                "@_value": "001"
-              }
-            },
-            "maintFreq": {
-              "MaintFreqCd": {
-                "@_value": "009"
-              }
+          "idPurp": "Přehled nemocnic v Karlovarském kraji.",
+          "spatRpType": {
+            "SpatRepTypCd": {
+              "@_value": "003"
             }
           },
           "dataChar": {
             "CharSetCd": {
               "@_value": "004"
+            }
+          },
+          "tpCat": {
+            "TopicCatCd": {
+              "@_value": "009"
             }
           },
           "searchKeys": {
@@ -724,22 +700,11 @@
                 "eMailAdd": "pavla.brabencova@karp-kv.cz"
               }
             },
-            "rpOrgName": "Karlovarská agentura rozvoje podnikání, p.o.",
-            "role": {
-              "RoleCd": {
-                "@_value": "007"
-              }
-            }
+            "rpOrgName": "Krajský úřad Karlovarského kraje"
           },
           "resConst": [
             {
               "LegConsts": {
-                "useConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
-                "othConsts": "Jiná omezení",
                 "inspireAccessUseConditions": {
                   "ConditionsAccUseCd": {
                     "@_value": "001"
@@ -749,12 +714,6 @@
             },
             {
               "LegConsts": {
-                "othConsts": "Jiná omezení",
-                "accessConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
                 "inspirePublicAccessLimits": {
                   "PublicAccessCd": {
                     "@_value": "001"
@@ -773,7 +732,7 @@
           "RefSystem": {
             "refSysID": {
               "identCode": {
-                "@_code": "WGS84"
+                "@_code": "GCS_WGS_1984"
               }
             }
           }
@@ -783,7 +742,6 @@
             "@_value": "004"
           }
         },
-        "mdFileID": "1710762273580r9154481747931427",
         "distInfo": {
           "distTranOps": {
             "onLineSrc": {
@@ -806,42 +764,42 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/datasets/03dbe5719ab64960ae70ee90af4790c6_0"
+          "accessURL": "https://www.datazapad.cz/datasets/03dbe5719ab64960ae70ee90af4790c6_3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "ArcGIS GeoService",
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
-          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Nemocnice_v_Karlovarsk%C3%A9m_kraji_WFL1/FeatureServer/0"
+          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Nemocnice_v_Karlovarsk%C3%A9m_kraji_WFL1/FeatureServer/3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "CSV",
           "format": "CSV",
           "mediaType": "text/csv",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/03dbe5719ab64960ae70ee90af4790c6/csv?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/03dbe5719ab64960ae70ee90af4790c6/csv?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Shapefile",
           "format": "ZIP",
           "mediaType": "application/zip",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/03dbe5719ab64960ae70ee90af4790c6/shapefile?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/03dbe5719ab64960ae70ee90af4790c6/shapefile?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "GeoJSON",
           "format": "GeoJSON",
           "mediaType": "application/vnd.geo+json",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/03dbe5719ab64960ae70ee90af4790c6/geojson?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/03dbe5719ab64960ae70ee90af4790c6/geojson?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "KML",
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/03dbe5719ab64960ae70ee90af4790c6/kml?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/03dbe5719ab64960ae70ee90af4790c6/kml?layers=3"
         }
       ],
       "theme": [
@@ -3679,11 +3637,11 @@
         "Esri": {
           "ArcGISFormat": 1,
           "CreaTime": 9512500,
-          "ArcGISstyle": "INSPIRE Metadata Directive",
           "ArcGISProfile": "INSPIRE",
-          "ModDate": "2025-02-13",
-          "CreaDate": "2025-02-04",
-          "ModTime": "11:56:19.21",
+          "ArcGISstyle": "INSPIRE Metadata Directive",
+          "ModDate": 20250213,
+          "CreaDate": 20250204,
+          "ModTime": 11561921,
           "SyncOnce": "TRUE",
           "MapLyrSync": false,
           "PublishStatus": "editor:esri.dijit.metadata.editor"
@@ -3697,10 +3655,7 @@
                   "date": {
                     "pubDate": "2010-12-08T00:00:00"
                   },
-                  "resTitle": [
-                    "NAŘÍZENÍ KOMISE (EU) č. 1089/2010 ze dne 23. listopadu 2010, kterým se provádí směrnice Evropského parlamentu a Rady 2007/2/ES, pokud jde o interoperabilitu sad prostorových dat a služeb prostorových dat",
-                    "NAŘÍZENÍ KOMISE (EU) č. 1089/2010 ze dne 23. listopadu 2010, kterým se provádí směrnice Evropského parlamentu a Rady 2007/2/ES, pokud jde o interoperabilitu sad prostorových dat a služeb prostorových dat"
-                  ]
+                  "resTitle": "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
                 }
               }
             }
@@ -3766,10 +3721,20 @@
             ]
           },
           "resMaint": {
+            "maintScp": {
+              "ScopeCd": {
+                "@_value": "001"
+              }
+            },
             "maintFreq": {
               "MaintFreqCd": {
                 "@_value": "009"
               }
+            }
+          },
+          "spatRpType": {
+            "SpatRepTypCd": {
+              "@_value": "003"
             }
           },
           "dataChar": {
@@ -3804,8 +3769,18 @@
           },
           "resConst": [
             {
-              "Consts": {
-                "useLimit": "<p>CC BY 4.0</p>"
+              "LegConsts": {
+                "useConsts": {
+                  "RestrictCd": {
+                    "@_value": "008"
+                  }
+                },
+                "othConsts": "Jiná omezení",
+                "inspireAccessUseConditions": {
+                  "ConditionsAccUseCd": {
+                    "@_value": "001"
+                  }
+                }
               }
             },
             {
@@ -3824,18 +3799,8 @@
               }
             },
             {
-              "LegConsts": {
-                "useConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
-                "othConsts": "Jiná omezení",
-                "inspireAccessUseConditions": {
-                  "ConditionsAccUseCd": {
-                    "@_value": "001"
-                  }
-                }
+              "Consts": {
+                "useLimit": "<p>CC BY 4.0</p>"
               }
             }
           ]
@@ -3844,7 +3809,7 @@
           "RefSystem": {
             "refSysID": {
               "identCode": {
-                "@_code": "WGS84"
+                "@_code": "GCS_WGS_1984"
               }
             }
           }
@@ -3855,17 +3820,17 @@
           }
         },
         "mdFileID": "1738661087949r3334781894836545",
-        "mdMaint": {
-          "maintFreq": {
-            "MaintFreqCd": {
-              "@_value": "009"
-            }
-          }
-        },
         "distInfo": {
           "distTranOps": {
             "onLineSrc": {
               "linkage": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Seznam_MAS_v_Karlovarsk%C3%A9m_kraji_WFL1/FeatureServer"
+            }
+          }
+        },
+        "mdMaint": {
+          "maintFreq": {
+            "MaintFreqCd": {
+              "@_value": "009"
             }
           }
         },
@@ -13054,6 +13019,275 @@
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
           "accessURL": "https://www.datazapad.cz/api/download/v1/items/a80fbe6e01f742a8a0a7b507bfb3998f/kml?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=b073abb685724bb88e1b560fe774edcd&sublayer=0",
+      "landingPage": "https://www.datazapad.cz/datasets/b073abb685724bb88e1b560fe774edcd_0",
+      "title": "Zájmová sdružení právnických osob (s obcemi) v Karlovarském kraji",
+      "description": "<p>Datová sada obsahuje přehled zájmových sdružení právnických osob registrovaných na území Karlovarského kraje, v nichž jsou členy také obce (neobsahuje zájmová sdružení právnických osob, které jsou založeny pouze právnickými osobami bez účasti obcí). Datová sada uvádí kromě specifikace umístění sdružení, rovněž údaje typu název, kontaktní údaje, webové stránky, vznik sdružení a členové sdružení.</p><div>Poskytovatelem dat je Karlovarská agentura rozvoje podnikání, p.o.</div>",
+      "keyword": [
+        "Zájmová sdružení",
+        "Karlovarský kraj",
+        "sdružení obcí",
+        "sdružení právnických osob",
+        "obce"
+      ],
+      "issued": "2025-03-25T07:31:17.000Z",
+      "modified": "2025-03-25T07:31:27.470Z",
+      "publisher": {
+        "name": "Karlovarská agentura rozvoje podnikání, p.o."
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "pavla.brabencova_karp",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "12.5219,50.0838,13.2511,50.4280",
+      "license": "https://creativecommons.org/licenses/by/4.0",
+      "category": [
+        "Kraj a dotace"
+      ],
+      "metadata": {
+        "mdLang": {
+          "languageCode": {
+            "@_value": "cze"
+          }
+        },
+        "mdContact": {
+          "rpCntInfo": {
+            "cntAddress": {
+              "eMailAdd": "pavla.brabencova@karp-kv.cz"
+            }
+          },
+          "rpOrgName": "Karlovarská agentura rozvoje podnikání, p.o."
+        },
+        "mdDateSt": "2025-03-25",
+        "Esri": {
+          "ArcGISFormat": 1,
+          "CreaTime": 8113100,
+          "ArcGISProfile": "INSPIRE",
+          "DataProperties": {
+            "itemProps": {
+              "imsContentType": 2
+            }
+          },
+          "CreaDate": 20250325,
+          "SyncOnce": "TRUE"
+        },
+        "mdTimeSt": "11:29:33",
+        "dqInfo": {
+          "dqScope": {
+            "scpLvl": {
+              "ScopeCd": {
+                "@_value": "005"
+              }
+            }
+          },
+          "report": {
+            "measResult": {
+              "ConResult": {
+                "conSpec": {
+                  "date": {
+                    "pubDate": "2010-12-08T00:00:00"
+                  },
+                  "resTitle": "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                }
+              }
+            }
+          }
+        },
+        "mdHrLv": {
+          "ScopeCd": {
+            "@_value": "005"
+          }
+        },
+        "dataIdInfo": {
+          "idAbs": "<p>Datová sada obsahuje přehled zájmových sdružení právnických osob registrovaných na území Karlovarského kraje, v nichž jsou členy také obce (neobsahuje zájmová sdružení právnických osob, které jsou založeny pouze právnickými osobami bez účasti obcí). Datová sada uvádí kromě specifikace umístění sdružení, rovněž údaje typu název, kontaktní údaje, webové stránky, vznik sdružení a členové sdružení.</p><div>Poskytovatelem dat je Karlovarská agentura rozvoje podnikání, p.o.</div>",
+          "idCredit": "Karlovarská agentura rozvoje podnikání, p.o.",
+          "dataLang": {
+            "countryCode": {
+              "@_value": "CZ"
+            },
+            "languageCode": {
+              "@_value": "cze"
+            }
+          },
+          "idPurp": "Seznam zájmových sdružení právnických osob registrovaných na území Karlovarského kraje, v nichž jsou členy také obce.",
+          "tpCat": {
+            "TopicCatCd": {
+              "@_value": "016"
+            }
+          },
+          "dataExt": {
+            "geoEle": {
+              "GeoBndBox": {
+                "eastBL": 13.297832,
+                "southBL": 50.059109,
+                "northBL": 50.455969,
+                "westBL": 12.48345
+              }
+            }
+          },
+          "idCitation": {
+            "date": {
+              "pubDate": "2025-03-25T08:54:43"
+            },
+            "resTitle": "Zájmová sdružení právnických osob v Karlovarském kraji",
+            "citId": {
+              "identCode": "publication"
+            }
+          },
+          "themeKeys": {
+            "thesaName": {
+              "date": {
+                "pubDate": "2008-06-01T00:00:00"
+              },
+              "resTitle": "GEMET - INSPIRE themes, version 1.0"
+            },
+            "keyword": [
+              "zájmová sdružení",
+              "Karlovarský  kraj",
+              "sdružení právnických osob",
+              "obce"
+            ]
+          },
+          "spatRpType": {
+            "SpatRepTypCd": {
+              "@_value": "003"
+            }
+          },
+          "dataChar": {
+            "CharSetCd": {
+              "@_value": "004"
+            }
+          },
+          "searchKeys": {
+            "keyword": [
+              "Zájmová sdružení",
+              "Karlovarský kraj",
+              "sdružení obcí",
+              "sdružení právnických osob",
+              "obce"
+            ]
+          },
+          "idPoC": {
+            "rpCntInfo": {
+              "cntAddress": {
+                "eMailAdd": "pavla.brabencova@karp-kv.cz"
+              }
+            },
+            "rpOrgName": "Karlovarská agentura rozvoje podnikání, p.o."
+          },
+          "resConst": [
+            {
+              "LegConsts": {
+                "inspireAccessUseConditions": {
+                  "ConditionsAccUseCd": {
+                    "@_value": "001"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "inspirePublicAccessLimits": {
+                  "PublicAccessCd": {
+                    "@_value": "001"
+                  }
+                }
+              }
+            },
+            {
+              "Consts": {
+                "useLimit": "<p>CC BY 4.0</p>"
+              }
+            }
+          ]
+        },
+        "refSysInfo": {
+          "RefSystem": {
+            "refSysID": {
+              "identCode": {
+                "@_code": "GCS_WGS_1984"
+              }
+            }
+          }
+        },
+        "mdChar": {
+          "CharSetCd": {
+            "@_value": "004"
+          }
+        },
+        "distInfo": {
+          "distTranOps": {
+            "onLineSrc": {
+              "linkage": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Z%C3%A1jmov%C3%A1_sdru%C5%BEen%C3%AD_p_o__KVK_WFL1/FeatureServer"
+            }
+          }
+        },
+        "mdMaint": {
+          "maintScp": {
+            "ScopeCd": {
+              "@_value": "001"
+            }
+          },
+          "maintFreq": {
+            "MaintFreqCd": {
+              "@_value": "009"
+            }
+          }
+        },
+        "@_xml:lang": "cs"
+      },
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datazapad.cz/datasets/b073abb685724bb88e1b560fe774edcd_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Z%C3%A1jmov%C3%A1_sdru%C5%BEen%C3%AD_p_o__KVK_WFL1/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/b073abb685724bb88e1b560fe774edcd/csv?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/b073abb685724bb88e1b560fe774edcd/shapefile?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/b073abb685724bb88e1b560fe774edcd/geojson?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/b073abb685724bb88e1b560fe774edcd/kml?layers=0"
         }
       ],
       "theme": [
