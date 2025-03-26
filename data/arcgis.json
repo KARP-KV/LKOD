@@ -6394,6 +6394,166 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=52b5d92f7aff4e6282d6838ff338c76b&sublayer=0",
+      "landingPage": "https://www.datazapad.cz/datasets/52b5d92f7aff4e6282d6838ff338c76b_0",
+      "title": "ORP Karlovarského kraje",
+      "description": "<div style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'><div style='margin-bottom:3rem;'><div><div style='overflow:auto; max-width:100%; display:inherit;'>Datová sada obsahuje tyto údaje: název ORP, kód ORP, výčet obcí v daném ORP (ve formátu CSV), počet obcí v ORP, adresní bod úřadu a souřadnice adresního místa úřadu v systémech S-JTSK a WGS84 ve formátu WKT. </div><div><br /></div></div></div></div><div style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'></div><div style='margin-bottom:3rem; display:inherit; font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'><div style='margin-bottom:3rem; display:inherit;'></div></div>",
+      "keyword": [
+        "Karlovarský kraj",
+        "ORP"
+      ],
+      "issued": "2025-03-26T12:18:36.000Z",
+      "modified": "2025-03-26T12:34:43.000Z",
+      "publisher": {
+        "name": "Karlovarsky.Kraj"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Karlovarsky.Kraj",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "12.0907,49.8905,13.3018,50.4604",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0",
+      "category": [
+        "Kategorie",
+        "Kraj a dotace",
+        "Administrativní jednotky"
+      ],
+      "metadata": {
+        "mdFileID": "52b5d92f7aff4e6282d6838ff338c76b",
+        "distInfo": {
+          "distTranOps": {
+            "onLineSrc": {
+              "linkage": "https://geo-ags.kr-karlovarsky.cz/arcgis/rest/services/Hosted/ObceDleORP/FeatureServer"
+            }
+          }
+        },
+        "Esri": {
+          "ArcGISFormat": 1,
+          "ArcGISProfile": "INSPIRE"
+        },
+        "dqInfo": {
+          "report": {
+            "measResult": {
+              "ConResult": {
+                "conSpec": {
+                  "date": {
+                    "pubDate": "2010-12-08T00:00:00"
+                  },
+                  "resTitle": "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                }
+              }
+            }
+          }
+        },
+        "@_xml:lang": "en",
+        "mdHrLv": {
+          "ScopeCd": {
+            "@_value": "005"
+          }
+        },
+        "dataIdInfo": {
+          "idAbs": "<div style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'><div style='margin-bottom:3rem;'><div><div style='overflow:auto; max-width:100%; display:inherit;'>Datová sada obsahuje tyto údaje: název ORP, kód ORP, výčet obcí v daném ORP (ve formátu CSV), počet obcí v ORP, adresní bod úřadu a souřadnice adresního místa úřadu v systémech S-JTSK a WGS84 ve formátu WKT. </div><div><br /></div></div></div></div><div style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'></div><div style='margin-bottom:3rem; display:inherit; font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'><div style='margin-bottom:3rem; display:inherit;'></div></div>",
+          "idCredit": "Krajský úřad Karlovarského kraje",
+          "dataExt": {
+            "geoEle": {
+              "GeoBndBox": {
+                "eastBL": 13.3018,
+                "southBL": 49.8905,
+                "northBL": 50.4604,
+                "westBL": 12.0907
+              }
+            }
+          },
+          "idCitation": {
+            "resTitle": "ObceDleORP",
+            "citId": {
+              "identCode": "publication"
+            }
+          },
+          "themeKeys": {
+            "thesaName": {
+              "date": {
+                "pubDate": "2008-06-01T00:00:00"
+              },
+              "resTitle": "GEMET - INSPIRE themes, version 1.0"
+            }
+          },
+          "idPurp": "Seznam obcí s rozšířenou působností (ORP) v Karlovarském kraji.",
+          "dataChar": {
+            "CharSetCd": {
+              "@_value": "004"
+            }
+          },
+          "searchKeys": {
+            "keyword": [
+              "Karlovarský kraj",
+              "ORP"
+            ]
+          },
+          "resConst": {
+            "Consts": {
+              "useLimit": "CC0 1.0"
+            }
+          }
+        },
+        "mdChar": {
+          "CharSetCd": {
+            "@_value": "004"
+          }
+        }
+      },
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datazapad.cz/datasets/52b5d92f7aff4e6282d6838ff338c76b_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://geo-ags.kr-karlovarsky.cz/arcgis/rest/services/Hosted/ObceDleORP/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/52b5d92f7aff4e6282d6838ff338c76b/csv?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/52b5d92f7aff4e6282d6838ff338c76b/shapefile?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/52b5d92f7aff4e6282d6838ff338c76b/geojson?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/52b5d92f7aff4e6282d6838ff338c76b/kml?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=54223e92a9b04a0ba27e9800f41c4f1f&sublayer=0",
       "landingPage": "https://www.datazapad.cz/datasets/54223e92a9b04a0ba27e9800f41c4f1f_0",
       "title": "Památkově chráněná území v Karlovarském kraji",
