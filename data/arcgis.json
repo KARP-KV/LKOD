@@ -1089,7 +1089,7 @@
         "úřad"
       ],
       "issued": "2024-07-09T05:50:23.000Z",
-      "modified": "2024-07-26T06:28:09.000Z",
+      "modified": "2025-03-26T17:55:52.783Z",
       "publisher": {
         "name": "Krajský úřad Karlovarského kraje"
       },
@@ -1338,7 +1338,7 @@
           "title": "ArcGIS GeoService",
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
-          "accessURL": "https://geoportal.kr-karlovarsky.cz/arcgis/rest/services/OpenData/MatricniUrady/MapServer/0"
+          "accessURL": "https://geo-ags.kr-karlovarsky.cz/arcgis/rest/services/Hosted/Matricn%C3%ADUrady/FeatureServer/0"
         },
         {
           "@type": "dcat:Distribution",
@@ -1367,6 +1367,13 @@
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
           "accessURL": "https://www.datazapad.cz/api/download/v1/items/0fbcd94c27344fef86d2dafde1230761/kml?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "File Geodatabase",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/0fbcd94c27344fef86d2dafde1230761/filegdb?layers=0"
         }
       ],
       "theme": [
@@ -3049,7 +3056,7 @@
         "obecní úřad"
       ],
       "issued": "2024-09-16T06:49:43.000Z",
-      "modified": "2024-09-25T07:51:46.000Z",
+      "modified": "2025-03-26T18:07:32.933Z",
       "publisher": {
         "name": "Krajský úřad Karlovarského kraje"
       },
@@ -3059,7 +3066,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "12.1989,49.8397,13.2077,50.4993",
+      "spatial": "12.0906,49.8904,13.3018,50.4603",
       "license": "https://creativecommons.org/publicdomain/zero/1.0",
       "category": [
         "Kategorie",
@@ -3269,7 +3276,7 @@
           "title": "ArcGIS GeoService",
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
-          "accessURL": "https://geoportal.kr-karlovarsky.cz/arcgis/rest/services/OpenData/Seznam_obci_Karlovarskeho_kraje/MapServer/0"
+          "accessURL": "https://geo-ags.kr-karlovarsky.cz/arcgis/rest/services/Hosted/SeznamObci/FeatureServer/0"
         },
         {
           "@type": "dcat:Distribution",
@@ -3298,6 +3305,13 @@
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
           "accessURL": "https://www.datazapad.cz/api/download/v1/items/17a673b7147d45ba8744904cae6afdbb/kml?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "File Geodatabase",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/17a673b7147d45ba8744904cae6afdbb/filegdb?layers=0"
         }
       ],
       "theme": [
@@ -6396,16 +6410,16 @@
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=52b5d92f7aff4e6282d6838ff338c76b&sublayer=0",
       "landingPage": "https://www.datazapad.cz/datasets/52b5d92f7aff4e6282d6838ff338c76b_0",
-      "title": "ORP Karlovarského kraje",
-      "description": "<div style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'><div style='margin-bottom:3rem;'><div><div style='overflow:auto; max-width:100%; display:inherit;'>Datová sada obsahuje tyto údaje: název ORP, kód ORP, výčet obcí v daném ORP (ve formátu CSV), počet obcí v ORP, adresní bod úřadu a souřadnice adresního místa úřadu v systémech S-JTSK a WGS84 ve formátu WKT. </div><div><br /></div></div></div></div><div style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'></div><div style='margin-bottom:3rem; display:inherit; font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'><div style='margin-bottom:3rem; display:inherit;'></div></div>",
+      "title": "Obce s rozšířenou působností Karlovarského kraje",
+      "description": "<div style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'><div style='margin-bottom:3rem;'><div style='overflow:auto; max-width:100%; display:inherit;'>Datová sada obsahuje tyto údaje: název ORP, kód ORP, výčet obcí v daném ORP (ve formátu CSV), počet obcí v ORP, adresní bod úřadu a souřadnice adresního místa úřadu v systémech S-JTSK a WGS84 ve formátu WKT. </div><div>Vrstva je polygonová, v souřadnicovém systému WGS84. </div></div></div><div style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'></div><div style='margin-bottom:3rem; display:inherit; font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'><div style='margin-bottom:3rem; display:inherit;'></div></div>",
       "keyword": [
         "Karlovarský kraj",
         "ORP"
       ],
       "issued": "2025-03-26T12:18:36.000Z",
-      "modified": "2025-03-26T12:34:43.000Z",
+      "modified": "2025-03-26T14:23:09.000Z",
       "publisher": {
-        "name": "Karlovarsky.Kraj"
+        "name": "Krajský úřad Karlovarského kraje"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -6421,6 +6435,11 @@
         "Administrativní jednotky"
       ],
       "metadata": {
+        "mdLang": {
+          "languageCode": {
+            "@_value": "cze"
+          }
+        },
         "mdFileID": "52b5d92f7aff4e6282d6838ff338c76b",
         "distInfo": {
           "distTranOps": {
@@ -6429,9 +6448,15 @@
             }
           }
         },
+        "mdDateSt": "2025-03-26",
         "Esri": {
           "ArcGISFormat": 1,
-          "ArcGISProfile": "INSPIRE"
+          "ArcGISProfile": "INSPIRE",
+          "DataProperties": {
+            "itemProps": {
+              "imsContentType": 1
+            }
+          }
         },
         "dqInfo": {
           "report": {
@@ -6447,15 +6472,36 @@
             }
           }
         },
-        "@_xml:lang": "en",
+        "@_xml:lang": "cs",
         "mdHrLv": {
           "ScopeCd": {
             "@_value": "005"
           }
         },
         "dataIdInfo": {
-          "idAbs": "<div style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'><div style='margin-bottom:3rem;'><div><div style='overflow:auto; max-width:100%; display:inherit;'>Datová sada obsahuje tyto údaje: název ORP, kód ORP, výčet obcí v daném ORP (ve formátu CSV), počet obcí v ORP, adresní bod úřadu a souřadnice adresního místa úřadu v systémech S-JTSK a WGS84 ve formátu WKT. </div><div><br /></div></div></div></div><div style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'></div><div style='margin-bottom:3rem; display:inherit; font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'><div style='margin-bottom:3rem; display:inherit;'></div></div>",
+          "idAbs": "<div style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'><div style='margin-bottom:3rem;'><div style='overflow:auto; max-width:100%; display:inherit;'>Datová sada obsahuje tyto údaje: název ORP, kód ORP, výčet obcí v daném ORP (ve formátu CSV), počet obcí v ORP, adresní bod úřadu a souřadnice adresního místa úřadu v systémech S-JTSK a WGS84 ve formátu WKT. </div><div>Vrstva je polygonová, v souřadnicovém systému WGS84. </div></div></div><div style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'></div><div style='margin-bottom:3rem; display:inherit; font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'><div style='margin-bottom:3rem; display:inherit;'></div></div>",
           "idCredit": "Krajský úřad Karlovarského kraje",
+          "dataLang": {
+            "countryCode": {
+              "@_value": "CZ"
+            },
+            "languageCode": {
+              "@_value": "cze"
+            }
+          },
+          "idPurp": "Seznam obcí s rozšířenou působností (ORP) v Karlovarském kraji.",
+          "tpCat": [
+            {
+              "TopicCatCd": {
+                "@_value": "003"
+              }
+            },
+            {
+              "TopicCatCd": {
+                "@_value": "013"
+              }
+            }
+          ],
           "dataExt": {
             "geoEle": {
               "GeoBndBox": {
@@ -6467,7 +6513,7 @@
             }
           },
           "idCitation": {
-            "resTitle": "ObceDleORP",
+            "resTitle": "Obce s rozšířenou působností Karlovarského kraje",
             "citId": {
               "identCode": "publication"
             }
@@ -6478,9 +6524,14 @@
                 "pubDate": "2008-06-01T00:00:00"
               },
               "resTitle": "GEMET - INSPIRE themes, version 1.0"
+            },
+            "keyword": "Správní jednotky"
+          },
+          "spatRpType": {
+            "SpatRepTypCd": {
+              "@_value": "001"
             }
           },
-          "idPurp": "Seznam obcí s rozšířenou působností (ORP) v Karlovarském kraji.",
           "dataChar": {
             "CharSetCd": {
               "@_value": "004"
@@ -6492,9 +6543,51 @@
               "ORP"
             ]
           },
-          "resConst": {
-            "Consts": {
-              "useLimit": "CC0 1.0"
+          "idPoC": {
+            "rpCntInfo": {
+              "cntAddress": {
+                "eMailAdd": "tereza.marzova@kr-karlovarsky.cz"
+              }
+            },
+            "role": {
+              "RoleCd": {
+                "@_value": "007"
+              }
+            },
+            "rpOrgName": "Krajský úřad Karlovarského kraje"
+          },
+          "resConst": [
+            {
+              "LegConsts": {
+                "inspireAccessUseConditions": {
+                  "ConditionsAccUseCd": {
+                    "@_value": "001"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "inspirePublicAccessLimits": {
+                  "PublicAccessCd": {
+                    "@_value": "001"
+                  }
+                }
+              }
+            },
+            {
+              "Consts": {
+                "useLimit": "CC0 1.0"
+              }
+            }
+          ]
+        },
+        "refSysInfo": {
+          "RefSystem": {
+            "refSysID": {
+              "identCode": {
+                "@_code": "3857"
+              }
             }
           }
         },

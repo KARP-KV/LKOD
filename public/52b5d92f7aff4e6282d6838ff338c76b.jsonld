@@ -4,10 +4,10 @@
   "typ": "Datová sada",
   "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891168",
   "název": {
-    "cs": "ORP Karlovarského kraje"
+    "cs": "Obce s rozšířenou působností Karlovarského kraje"
   },
   "popis": {
-    "cs": "Datová sada obsahuje tyto údaje: název ORP, kód ORP, výčet obcí v daném ORP (ve formátu CSV), počet obcí v ORP, adresní bod úřadu a souřadnice adresního místa úřadu v systémech S-JTSK a WGS84 ve formátu WKT. "
+    "cs": "Datová sada obsahuje tyto údaje: název ORP, kód ORP, výčet obcí v daném ORP (ve formátu CSV), počet obcí v ORP, adresní bod úřadu a souřadnice adresního místa úřadu v systémech S-JTSK a WGS84 ve formátu WKT. Vrstva je polygonová, v souřadnicovém systému WGS84. "
   },
   "klíčové_slovo": {
     "cs": [
