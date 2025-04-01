@@ -6,10 +6,10 @@
   "dataset": [
     {
       "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=01fcf68eb2054fb3ab99af6aa34af6e4&sublayer=0",
-      "landingPage": "https://www.datazapad.cz/datasets/01fcf68eb2054fb3ab99af6aa34af6e4_0",
+      "identifier": "https://www.arcgis.com/home/item.html?id=01fcf68eb2054fb3ab99af6aa34af6e4&sublayer=3",
+      "landingPage": "https://www.datazapad.cz/datasets/01fcf68eb2054fb3ab99af6aa34af6e4_3",
       "title": "Seznam strategických dokumentů Karlovarského kraje",
-      "description": "<span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'>Seznam strategických dokumentů Karlovarského kraje v oblasti regionálního rozvoje, životního prostředí, dopravy, sociální oblasti, kultury, cestovního ruchu, památkové péče, školství a sportu, bezpečnosti a prevence, marketingu a ostatních vč. uvedení odkazů na tyto dokumenty.</span>",
+      "description": "<p><span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif;font-size:16px;'>Datová sada obsahuje uvedení platnosti dokumentů, oblasti působení, zákonného podkladu zpracování dokumentu a webový odkaz na dokument.</span></p><div><span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif;font-size:16px;'>Poskytovatelem dat je Karlovarská agentura rozvoje podnikání, p.o.</span></div>",
       "keyword": [
         "strategie",
         "strategický dokument",
@@ -18,7 +18,7 @@
         "Karlovarský kraj"
       ],
       "issued": "2024-01-29T10:05:13.000Z",
-      "modified": "2024-02-06T09:29:47.308Z",
+      "modified": "2025-04-01T09:59:18.000Z",
       "publisher": {
         "name": "Karlovarská agentura rozvoje podnikání, p.o."
       },
@@ -53,24 +53,19 @@
           "rpOrgName": "Karlovarská agentura rozvoje podnikání, p.o.",
           "role": {
             "RoleCd": {
-              "@_value": "007"
+              "@_value": "009"
             }
           }
         },
-        "mdDateSt": "2024-01-29",
+        "mdDateSt": "2025-04-01",
         "Esri": {
           "ArcGISFormat": 1,
-          "CreaTime": 10575500,
+          "CreaTime": 11030300,
           "ArcGISProfile": "INSPIRE",
-          "ArcGISstyle": "INSPIRE Metadata Directive",
-          "ModDate": 20240429,
           "CreaDate": 20240129,
-          "ModTime": 10183850,
-          "SyncOnce": "TRUE",
-          "MapLyrSync": false,
-          "PublishStatus": "editor:esri.dijit.metadata.editor"
+          "SyncOnce": "TRUE"
         },
-        "mdTimeSt": "11:17:46.58",
+        "mdTimeSt": "10:06:34",
         "dqInfo": {
           "dqScope": {
             "scpLvl": {
@@ -98,59 +93,33 @@
           }
         },
         "dataIdInfo": {
-          "idAbs": "<span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'>Seznam strategických dokumentů Karlovarského kraje v oblasti regionálního rozvoje, životního prostředí, dopravy, sociální oblasti, kultury, cestovního ruchu, památkové péče, školství a sportu, bezpečnosti a prevence, marketingu a ostatních vč. uvedení odkazů na tyto dokumenty.</span>",
+          "idAbs": "<p><span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif;font-size:16px;'>Datová sada obsahuje uvedení platnosti dokumentů, oblasti působení, zákonného podkladu zpracování dokumentu a webový odkaz na dokument.</span></p><div><span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif;font-size:16px;'>Poskytovatelem dat je Karlovarská agentura rozvoje podnikání, p.o.</span></div>",
           "idCredit": "Karlovarská agentura rozvoje podnikání, p.o.",
-          "dataExt": {
-            "geoEle": {
-              "GeoBndBox": {
-                "eastBL": 13.130793,
-                "southBL": 49.890663,
-                "northBL": 50.322104,
-                "westBL": 12.322003
-              }
-            }
-          },
-          "idCitation": {
-            "date": {
-              "pubDate": "2024-01-29T11:19:03.987+01:00"
-            },
-            "resTitle": "Seznam strategických dokumentů Karlovarského kraje",
-            "citId": {
-              "identCode": "publication"
-            }
-          },
           "dataLang": {
-            "countryCode": {
-              "@_value": "CZ"
-            },
             "languageCode": {
               "@_value": "cze"
             }
           },
-          "themeKeys": {
-            "thesaName": {
-              "date": {
-                "pubDate": "2008-06-01T00:00:00"
-              },
-              "resTitle": "GEMET - INSPIRE themes, version 1.0"
-            },
-            "keyword": [
-              "strategie",
-              "strategický dokument",
-              "dokument",
-              "Karlovarský kraj"
-            ]
-          },
           "idPurp": "Seznam strategických dokumentů Karlovarského kraje v oblasti regionálního rozvoje, životního prostředí, dopravy, sociální oblasti, kultury, cestovního ruchu, památkové péče, školství a sportu, bezpečnosti a prevence, marketingu a ostatních vč. uvedení odkazů na tyto dokumenty.",
-          "dataChar": {
-            "CharSetCd": {
-              "@_value": "004"
-            }
-          },
           "tpCat": [
             {
               "TopicCatCd": {
-                "@_value": "007"
+                "@_value": "016"
+              }
+            },
+            {
+              "TopicCatCd": {
+                "@_value": "019"
+              }
+            },
+            {
+              "TopicCatCd": {
+                "@_value": "018"
+              }
+            },
+            {
+              "TopicCatCd": {
+                "@_value": "017"
               }
             },
             {
@@ -160,15 +129,52 @@
             },
             {
               "TopicCatCd": {
-                "@_value": "015"
+                "@_value": "007"
               }
             },
             {
               "TopicCatCd": {
-                "@_value": "018"
+                "@_value": "005"
               }
             }
           ],
+          "dataExt": {
+            "geoEle": {
+              "GeoBndBox": {
+                "eastBL": 13.291742,
+                "southBL": 49.879592,
+                "northBL": 50.485036,
+                "westBL": 12.020074
+              }
+            }
+          },
+          "idCitation": {
+            "date": {
+              "reviseDate": "2025-04-01T09:59:18"
+            },
+            "resTitle": "Seznam strategických dokumentů Karlovarského kraje",
+            "citId": {
+              "identCode": "publication"
+            }
+          },
+          "themeKeys": {
+            "thesaName": {
+              "date": {
+                "pubDate": "2008-06-01T00:00:00"
+              },
+              "resTitle": "GEMET - INSPIRE themes, version 1.0"
+            }
+          },
+          "spatRpType": {
+            "SpatRepTypCd": {
+              "@_value": "003"
+            }
+          },
+          "dataChar": {
+            "CharSetCd": {
+              "@_value": "004"
+            }
+          },
           "searchKeys": {
             "keyword": [
               "strategie",
@@ -184,22 +190,11 @@
                 "eMailAdd": "pavla.brabencova@karp-kv.cz"
               }
             },
-            "rpOrgName": "Karlovarská agentura rozvoje podnikání, p.o.",
-            "role": {
-              "RoleCd": {
-                "@_value": "007"
-              }
-            }
+            "rpOrgName": "Karlovarská agentura rozvoje podnikání, p.o."
           },
           "resConst": [
             {
               "LegConsts": {
-                "useConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
-                "othConsts": "Jiná omezení",
                 "inspireAccessUseConditions": {
                   "ConditionsAccUseCd": {
                     "@_value": "001"
@@ -209,12 +204,6 @@
             },
             {
               "LegConsts": {
-                "othConsts": "Jiná omezení",
-                "accessConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
                 "inspirePublicAccessLimits": {
                   "PublicAccessCd": {
                     "@_value": "001"
@@ -229,12 +218,20 @@
             }
           ]
         },
+        "refSysInfo": {
+          "RefSystem": {
+            "refSysID": {
+              "identCode": {
+                "@_code": "GCS_WGS_1984"
+              }
+            }
+          }
+        },
         "mdChar": {
           "CharSetCd": {
             "@_value": "004"
           }
         },
-        "mdFileID": "1706523466828r19009348041308383",
         "distInfo": {
           "distTranOps": {
             "onLineSrc": {
@@ -243,9 +240,14 @@
           }
         },
         "mdMaint": {
+          "maintScp": {
+            "ScopeCd": {
+              "@_value": "001"
+            }
+          },
           "maintFreq": {
             "MaintFreqCd": {
-              "@_value": "009"
+              "@_value": "008"
             }
           }
         },
@@ -257,42 +259,77 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/datasets/01fcf68eb2054fb3ab99af6aa34af6e4_0"
+          "accessURL": "https://www.datazapad.cz/datasets/01fcf68eb2054fb3ab99af6aa34af6e4_3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "ArcGIS GeoService",
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
-          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Seznam_strategick%C3%BDch_dokument%C5%AF_KVK_WFL1/FeatureServer/0"
+          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Seznam_strategick%C3%BDch_dokument%C5%AF_KVK_WFL1/FeatureServer/3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "CSV",
           "format": "CSV",
           "mediaType": "text/csv",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/01fcf68eb2054fb3ab99af6aa34af6e4/csv?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/01fcf68eb2054fb3ab99af6aa34af6e4/csv?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Shapefile",
           "format": "ZIP",
           "mediaType": "application/zip",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/01fcf68eb2054fb3ab99af6aa34af6e4/shapefile?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/01fcf68eb2054fb3ab99af6aa34af6e4/shapefile?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "GeoJSON",
           "format": "GeoJSON",
           "mediaType": "application/vnd.geo+json",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/01fcf68eb2054fb3ab99af6aa34af6e4/geojson?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/01fcf68eb2054fb3ab99af6aa34af6e4/geojson?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "KML",
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/01fcf68eb2054fb3ab99af6aa34af6e4/kml?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/01fcf68eb2054fb3ab99af6aa34af6e4/kml?layers=3"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "File Geodatabase",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/01fcf68eb2054fb3ab99af6aa34af6e4/filegdb?layers=3"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Feature Collection",
+          "format": "TXT",
+          "mediaType": "text/plain",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/01fcf68eb2054fb3ab99af6aa34af6e4/featureCollection?layers=3"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Excel",
+          "format": "XLSX",
+          "mediaType": "application/vnd.ms-excel",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/01fcf68eb2054fb3ab99af6aa34af6e4/excel?layers=3"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoPackage",
+          "format": "GPKG",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/01fcf68eb2054fb3ab99af6aa34af6e4/geoPackage?layers=3"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "SQLite Geodatabase",
+          "format": "GDB",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/01fcf68eb2054fb3ab99af6aa34af6e4/sqlite?layers=3"
         }
       ],
       "theme": [
@@ -304,7 +341,7 @@
       "identifier": "https://www.arcgis.com/home/item.html?id=037f7b55d2d34fa88fd63bf2d2903839&sublayer=0",
       "landingPage": "https://www.datazapad.cz/datasets/037f7b55d2d34fa88fd63bf2d2903839_0",
       "title": "Přírodní pozoruhodnosti v Karlovarském kraji",
-      "description": "<p><span style=\"font-size:medium;\">Datová sada obsahuje, kromě umístění přírodní pozoruhodnosti v Karlovarském kraji, rovněž uvedení typu přírodní pozoruhodnosti.</span></p><p><span style=\"font-size:medium;\">Poskytovatelem vstupních dat pro datovou sadu je Živý kraj - Destinační agentura pro Karlovarský kraj, z.s.</span><br></p>",
+      "description": "<p><span style='font-size:medium;'>Datová sada obsahuje, kromě umístění přírodní pozoruhodnosti v Karlovarském kraji, rovněž uvedení typu přírodní pozoruhodnosti.</span></p><p><span style='font-size:medium;'>Poskytovatelem vstupních dat pro datovou sadu je Živý kraj - Destinační agentura pro Karlovarský kraj, z.s.</span><br /></p>",
       "keyword": [
         "Příroda",
         "Přírodní pozoruhodnosti",
@@ -313,7 +350,7 @@
         "Karlovarský kraj"
       ],
       "issued": "2024-10-08T06:57:05.000Z",
-      "modified": "2024-10-08T06:57:17.383Z",
+      "modified": "2025-04-01T11:18:09.756Z",
       "publisher": {
         "name": "Karlovarská agentura rozvoje podnikání, p.o."
       },
@@ -381,7 +418,7 @@
           }
         },
         "dataIdInfo": {
-          "idAbs": "<p><span style=\"font-size:medium;\">Datová sada obsahuje, kromě umístění přírodní pozoruhodnosti v Karlovarském kraji, rovněž uvedení typu přírodní pozoruhodnosti.</span></p><p><span style=\"font-size:medium;\">Poskytovatelem vstupních dat pro datovou sadu je Živý kraj - Destinační agentura pro Karlovarský kraj, z.s.</span><br></p>",
+          "idAbs": "<p><span style='font-size:medium;'>Datová sada obsahuje, kromě umístění přírodní pozoruhodnosti v Karlovarském kraji, rovněž uvedení typu přírodní pozoruhodnosti.</span></p><p><span style='font-size:medium;'>Poskytovatelem vstupních dat pro datovou sadu je Živý kraj - Destinační agentura pro Karlovarský kraj, z.s.</span><br /></p>",
           "idCredit": "Živý kraj - Destinační agentura pro Karlovarský kraj, z.s.",
           "dataExt": {
             "geoEle": {
@@ -560,6 +597,41 @@
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
           "accessURL": "https://www.datazapad.cz/api/download/v1/items/037f7b55d2d34fa88fd63bf2d2903839/kml?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "File Geodatabase",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/037f7b55d2d34fa88fd63bf2d2903839/filegdb?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Feature Collection",
+          "format": "TXT",
+          "mediaType": "text/plain",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/037f7b55d2d34fa88fd63bf2d2903839/featureCollection?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Excel",
+          "format": "XLSX",
+          "mediaType": "application/vnd.ms-excel",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/037f7b55d2d34fa88fd63bf2d2903839/excel?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoPackage",
+          "format": "GPKG",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/037f7b55d2d34fa88fd63bf2d2903839/geoPackage?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "SQLite Geodatabase",
+          "format": "GDB",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/037f7b55d2d34fa88fd63bf2d2903839/sqlite?layers=0"
         }
       ],
       "theme": [
@@ -820,7 +892,7 @@
         "minipivovar"
       ],
       "issued": "2024-08-08T08:16:33.000Z",
-      "modified": "2024-08-08T08:16:36.220Z",
+      "modified": "2025-04-01T11:26:34.911Z",
       "publisher": {
         "name": "Karlovarská agentura rozvoje podnikání, p.o."
       },
@@ -1070,6 +1142,41 @@
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
           "accessURL": "https://www.datazapad.cz/api/download/v1/items/0ddb05a36f0c4b319975df6a4b1ed90e/kml?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "File Geodatabase",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/0ddb05a36f0c4b319975df6a4b1ed90e/filegdb?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Feature Collection",
+          "format": "TXT",
+          "mediaType": "text/plain",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/0ddb05a36f0c4b319975df6a4b1ed90e/featureCollection?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Excel",
+          "format": "XLSX",
+          "mediaType": "application/vnd.ms-excel",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/0ddb05a36f0c4b319975df6a4b1ed90e/excel?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoPackage",
+          "format": "GPKG",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/0ddb05a36f0c4b319975df6a4b1ed90e/geoPackage?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "SQLite Geodatabase",
+          "format": "GDB",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/0ddb05a36f0c4b319975df6a4b1ed90e/sqlite?layers=0"
         }
       ],
       "theme": [
@@ -1937,7 +2044,7 @@
       "identifier": "https://www.arcgis.com/home/item.html?id=11796bcb67ee47bd8d38c0ec271b2787&sublayer=0",
       "landingPage": "https://www.datazapad.cz/datasets/11796bcb67ee47bd8d38c0ec271b2787_0",
       "title": "Seznam škol a školských zařízení do stupně VOŠ v Karlovarském kraji",
-      "description": "<div><span style=\"font-family:Avenir Next W01, Avenir Next W00, Avenir Next, Avenir, Helvetica Neue, sans-serif;font-size:16px;\">Seznam obsahuje kontakty - telefonický, e-mailový a webové stránky školy (pokud jsou školou realizovány). Uveden je samozřejmě typ školy a specifikace vlastnictví.Poskytovatelem dat je Krajský úřad Karlovarského kraje.</span></div>",
+      "description": "<div><span style='font-family:Avenir Next W01, Avenir Next W00, Avenir Next, Avenir, Helvetica Neue, sans-serif;font-size:16px;'>Seznam obsahuje kontakty - telefonický, e-mailový a webové stránky školy (pokud jsou školou realizovány). Uveden je samozřejmě typ školy a specifikace vlastnictví.Poskytovatelem dat je Krajský úřad Karlovarského kraje.</span></div>",
       "keyword": [
         "školská zařízení",
         "školy",
@@ -2018,7 +2125,7 @@
           }
         },
         "dataIdInfo": {
-          "idAbs": "<div><span style=\"font-family:Avenir Next W01, Avenir Next W00, Avenir Next, Avenir, Helvetica Neue, sans-serif;font-size:16px;\">Seznam obsahuje kontakty - telefonický, e-mailový a webové stránky školy (pokud jsou školou realizovány). Uveden je samozřejmě typ školy a specifikace vlastnictví.Poskytovatelem dat je Krajský úřad Karlovarského kraje.</span></div>",
+          "idAbs": "<div><span style='font-family:Avenir Next W01, Avenir Next W00, Avenir Next, Avenir, Helvetica Neue, sans-serif;font-size:16px;'>Seznam obsahuje kontakty - telefonický, e-mailový a webové stránky školy (pokud jsou školou realizovány). Uveden je samozřejmě typ školy a specifikace vlastnictví.Poskytovatelem dat je Krajský úřad Karlovarského kraje.</span></div>",
           "idCredit": "Krajský úřad Karlovarského kraje",
           "dataLang": {
             "countryCode": {
@@ -2239,7 +2346,7 @@
       "identifier": "https://www.arcgis.com/home/item.html?id=135900efd11e4df1865987b57428eb9f&sublayer=0",
       "landingPage": "https://www.datazapad.cz/datasets/135900efd11e4df1865987b57428eb9f_0",
       "title": "UNESCO památky v Karlovarském kraji",
-      "description": "<p><span style=\"font-size:medium;\">Datová sada obsahuje, kromě umístění památky UNESCO v Karlovarském kraji, rovněž webovou stránku o památce UNESCO.</span></p><div><span style=\"font-size:medium;\">Poskytovatelem vstupních dat pro datovou sadu je Živý kraj - Destinační agentura pro Karlovarský kraj, z.s.</span><br></div>",
+      "description": "<p><span style='font-size:medium;'>Datová sada obsahuje, kromě umístění památky UNESCO v Karlovarském kraji, rovněž webovou stránku o památce UNESCO.</span></p><div><span style='font-size:medium;'>Poskytovatelem vstupních dat pro datovou sadu je Živý kraj - Destinační agentura pro Karlovarský kraj, z.s.</span><br /></div>",
       "keyword": [
         "UNESCO",
         "památka",
@@ -2315,7 +2422,7 @@
           }
         },
         "dataIdInfo": {
-          "idAbs": "<p><span style=\"font-size:medium;\">Datová sada obsahuje, kromě umístění památky UNESCO v Karlovarském kraji, rovněž webovou stránku o památce UNESCO.</span></p><div><span style=\"font-size:medium;\">Poskytovatelem vstupních dat pro datovou sadu je Živý kraj - Destinační agentura pro Karlovarský kraj, z.s.</span><br></div>",
+          "idAbs": "<p><span style='font-size:medium;'>Datová sada obsahuje, kromě umístění památky UNESCO v Karlovarském kraji, rovněž webovou stránku o památce UNESCO.</span></p><div><span style='font-size:medium;'>Poskytovatelem vstupních dat pro datovou sadu je Živý kraj - Destinační agentura pro Karlovarský kraj, z.s.</span><br /></div>",
           "idCredit": "Živý kraj - Destinační agentura pro Karlovarský kraj, z.s.",
           "dataExt": {
             "geoEle": {
@@ -2772,7 +2879,7 @@
       "identifier": "https://www.arcgis.com/home/item.html?id=142875a7b4ba49769393c8a3b80cca6d&sublayer=0",
       "landingPage": "https://www.datazapad.cz/datasets/142875a7b4ba49769393c8a3b80cca6d_0",
       "title": "Vojenské a pietní památky v Karlovarském kraji",
-      "description": "<p><span style=\"font-size:medium;\">Datová sada obsahuje, kromě specifikace umístění památky v Karlovarském kraji, rovněž upřesnění typu památky a webové stránky o památce.</span></p><div><span style=\"font-size:medium;\">Poskytovatelem vstupních dat pro datovou sadu je Živý kraj - Destinační agentura pro Karlovarský kraj, z.s.</span><br></div>",
+      "description": "<p><span style='font-size:medium;'>Datová sada obsahuje, kromě specifikace umístění památky v Karlovarském kraji, rovněž upřesnění typu památky a webové stránky o památce.</span></p><div><span style='font-size:medium;'>Poskytovatelem vstupních dat pro datovou sadu je Živý kraj - Destinační agentura pro Karlovarský kraj, z.s.</span><br /></div>",
       "keyword": [
         "památky",
         "památka",
@@ -2850,7 +2957,7 @@
           }
         },
         "dataIdInfo": {
-          "idAbs": "<p><span style=\"font-size:medium;\">Datová sada obsahuje, kromě specifikace umístění památky v Karlovarském kraji, rovněž upřesnění typu památky a webové stránky o památce.</span></p><div><span style=\"font-size:medium;\">Poskytovatelem vstupních dat pro datovou sadu je Živý kraj - Destinační agentura pro Karlovarský kraj, z.s.</span><br></div>",
+          "idAbs": "<p><span style='font-size:medium;'>Datová sada obsahuje, kromě specifikace umístění památky v Karlovarském kraji, rovněž upřesnění typu památky a webové stránky o památce.</span></p><div><span style='font-size:medium;'>Poskytovatelem vstupních dat pro datovou sadu je Živý kraj - Destinační agentura pro Karlovarský kraj, z.s.</span><br /></div>",
           "idCredit": "Živý kraj - Destinační agentura pro Karlovarský kraj, z.s.",
           "dataExt": {
             "geoEle": {
@@ -3613,7 +3720,7 @@
         "akční skupiny"
       ],
       "issued": "2025-02-04T09:12:07.000Z",
-      "modified": "2025-02-04T09:12:15.304Z",
+      "modified": "2025-04-01T11:31:43.369Z",
       "publisher": {
         "name": "Karlovarská agentura rozvoje podnikání, p.o."
       },
@@ -3892,6 +3999,41 @@
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
           "accessURL": "https://www.datazapad.cz/api/download/v1/items/2293df931dc548668292c933ab7d4a6d/kml?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "File Geodatabase",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/2293df931dc548668292c933ab7d4a6d/filegdb?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Feature Collection",
+          "format": "TXT",
+          "mediaType": "text/plain",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/2293df931dc548668292c933ab7d4a6d/featureCollection?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Excel",
+          "format": "XLSX",
+          "mediaType": "application/vnd.ms-excel",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/2293df931dc548668292c933ab7d4a6d/excel?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoPackage",
+          "format": "GPKG",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/2293df931dc548668292c933ab7d4a6d/geoPackage?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "SQLite Geodatabase",
+          "format": "GDB",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/2293df931dc548668292c933ab7d4a6d/sqlite?layers=0"
         }
       ],
       "theme": [
@@ -4186,6 +4328,41 @@
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
           "accessURL": "https://www.datazapad.cz/api/download/v1/items/25589e2554f54259b200f4adb547db54/kml?layers=3"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "File Geodatabase",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/25589e2554f54259b200f4adb547db54/filegdb?layers=3"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Feature Collection",
+          "format": "TXT",
+          "mediaType": "text/plain",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/25589e2554f54259b200f4adb547db54/featureCollection?layers=3"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Excel",
+          "format": "XLSX",
+          "mediaType": "application/vnd.ms-excel",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/25589e2554f54259b200f4adb547db54/excel?layers=3"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoPackage",
+          "format": "GPKG",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/25589e2554f54259b200f4adb547db54/geoPackage?layers=3"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "SQLite Geodatabase",
+          "format": "GDB",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/25589e2554f54259b200f4adb547db54/sqlite?layers=3"
         }
       ],
       "theme": [
@@ -4197,7 +4374,7 @@
       "identifier": "https://www.arcgis.com/home/item.html?id=2c9bd5558c4a495c8424a84bc6b370e2&sublayer=0",
       "landingPage": "https://www.datazapad.cz/datasets/2c9bd5558c4a495c8424a84bc6b370e2_0",
       "title": "Náboženské památky v Karlovarském kraji",
-      "description": "<p><span style=\"font-size:medium;\">Datová sada obsahuje, kromě umístění náboženských památek v Karlovarském kraji, rovněž webové stránky a kontaktní údaje památky (v případě jejich dostupnosti).</span></p><p><span style=\"font-size:medium;\">Poskytovatelem vstupních dat pro datovou sadu je Živý kraj - Destinační agentura pro Karlovarský kraj, z.s.</span><br></p>",
+      "description": "<p><span style='font-size:medium;'>Datová sada obsahuje, kromě umístění náboženských památek v Karlovarském kraji, rovněž webové stránky a kontaktní údaje památky (v případě jejich dostupnosti).</span></p><p><span style='font-size:medium;'>Poskytovatelem vstupních dat pro datovou sadu je Živý kraj - Destinační agentura pro Karlovarský kraj, z.s.</span><br /></p>",
       "keyword": [
         "náboženství",
         "náboženská památka",
@@ -4206,7 +4383,7 @@
         "Karlovarský kraj"
       ],
       "issued": "2024-10-08T06:48:10.000Z",
-      "modified": "2024-10-08T06:48:13.786Z",
+      "modified": "2025-04-01T11:09:45.269Z",
       "publisher": {
         "name": "Karlovarská agentura rozvoje podnikání, p.o."
       },
@@ -4274,7 +4451,7 @@
           }
         },
         "dataIdInfo": {
-          "idAbs": "<p><span style=\"font-size:medium;\">Datová sada obsahuje, kromě umístění náboženských památek v Karlovarském kraji, rovněž webové stránky a kontaktní údaje památky (v případě jejich dostupnosti).</span></p><p><span style=\"font-size:medium;\">Poskytovatelem vstupních dat pro datovou sadu je Živý kraj - Destinační agentura pro Karlovarský kraj, z.s.</span><br></p>",
+          "idAbs": "<p><span style='font-size:medium;'>Datová sada obsahuje, kromě umístění náboženských památek v Karlovarském kraji, rovněž webové stránky a kontaktní údaje památky (v případě jejich dostupnosti).</span></p><p><span style='font-size:medium;'>Poskytovatelem vstupních dat pro datovou sadu je Živý kraj - Destinační agentura pro Karlovarský kraj, z.s.</span><br /></p>",
           "idCredit": "Živý kraj - Destinační agentura pro Karlovarský kraj, z.s.",
           "dataExt": {
             "geoEle": {
@@ -4461,6 +4638,41 @@
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
           "accessURL": "https://www.datazapad.cz/api/download/v1/items/2c9bd5558c4a495c8424a84bc6b370e2/kml?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "File Geodatabase",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/2c9bd5558c4a495c8424a84bc6b370e2/filegdb?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Feature Collection",
+          "format": "TXT",
+          "mediaType": "text/plain",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/2c9bd5558c4a495c8424a84bc6b370e2/featureCollection?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Excel",
+          "format": "XLSX",
+          "mediaType": "application/vnd.ms-excel",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/2c9bd5558c4a495c8424a84bc6b370e2/excel?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoPackage",
+          "format": "GPKG",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/2c9bd5558c4a495c8424a84bc6b370e2/geoPackage?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "SQLite Geodatabase",
+          "format": "GDB",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/2c9bd5558c4a495c8424a84bc6b370e2/sqlite?layers=0"
         }
       ],
       "theme": [
@@ -4479,7 +4691,7 @@
         "Karlovarský kraj"
       ],
       "issued": "2024-05-13T10:45:39.000Z",
-      "modified": "2024-05-13T10:45:42.820Z",
+      "modified": "2025-04-01T11:27:20.811Z",
       "publisher": {
         "name": "Karlovarská agentura rozvoje podnikání, p.o."
       },
@@ -4724,6 +4936,41 @@
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
           "accessURL": "https://www.datazapad.cz/api/download/v1/items/2fe4d27ac10341f6bd2b4ea6380a2599/kml?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "File Geodatabase",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/2fe4d27ac10341f6bd2b4ea6380a2599/filegdb?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Feature Collection",
+          "format": "TXT",
+          "mediaType": "text/plain",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/2fe4d27ac10341f6bd2b4ea6380a2599/featureCollection?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Excel",
+          "format": "XLSX",
+          "mediaType": "application/vnd.ms-excel",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/2fe4d27ac10341f6bd2b4ea6380a2599/excel?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoPackage",
+          "format": "GPKG",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/2fe4d27ac10341f6bd2b4ea6380a2599/geoPackage?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "SQLite Geodatabase",
+          "format": "GDB",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/2fe4d27ac10341f6bd2b4ea6380a2599/sqlite?layers=0"
         }
       ],
       "theme": [
@@ -4735,7 +4982,7 @@
       "identifier": "https://www.arcgis.com/home/item.html?id=3727aefc159e47fd8cb9d70432ab7397&sublayer=0",
       "landingPage": "https://www.datazapad.cz/datasets/3727aefc159e47fd8cb9d70432ab7397_0",
       "title": "Technické památky v Karlovarském kraji",
-      "description": "<p><span style=\"font-size:medium;\">Datová sada obsahuje, kromě umístění technické památky v Karlovarském kraji, rovněž uvedení typu památky.</span></p><p><span style=\"font-size:medium;\">Poskytovatelem vstupních dat pro datovou sadu je Živý kraj - Destinační agentura pro Karlovarský kraj, z.s.</span><br></p>",
+      "description": "<p><span style='font-size:medium;'>Datová sada obsahuje, kromě umístění technické památky v Karlovarském kraji, rovněž uvedení typu památky.</span></p><p><span style='font-size:medium;'>Poskytovatelem vstupních dat pro datovou sadu je Živý kraj - Destinační agentura pro Karlovarský kraj, z.s.</span><br /></p>",
       "keyword": [
         "Památka",
         "Technická památka",
@@ -4744,7 +4991,7 @@
         "památky"
       ],
       "issued": "2024-10-08T07:04:11.000Z",
-      "modified": "2024-10-08T07:04:32.430Z",
+      "modified": "2025-04-01T11:30:44.231Z",
       "publisher": {
         "name": "Karlovarská agentura rozvoje podnikání, p.o."
       },
@@ -4812,7 +5059,7 @@
           }
         },
         "dataIdInfo": {
-          "idAbs": "<p><span style=\"font-size:medium;\">Datová sada obsahuje, kromě umístění technické památky v Karlovarském kraji, rovněž uvedení typu památky.</span></p><p><span style=\"font-size:medium;\">Poskytovatelem vstupních dat pro datovou sadu je Živý kraj - Destinační agentura pro Karlovarský kraj, z.s.</span><br></p>",
+          "idAbs": "<p><span style='font-size:medium;'>Datová sada obsahuje, kromě umístění technické památky v Karlovarském kraji, rovněž uvedení typu památky.</span></p><p><span style='font-size:medium;'>Poskytovatelem vstupních dat pro datovou sadu je Živý kraj - Destinační agentura pro Karlovarský kraj, z.s.</span><br /></p>",
           "idCredit": "Živý kraj - Destinační agentura pro Karlovarský kraj, z.s.",
           "dataExt": {
             "geoEle": {
@@ -4998,6 +5245,41 @@
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
           "accessURL": "https://www.datazapad.cz/api/download/v1/items/3727aefc159e47fd8cb9d70432ab7397/kml?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "File Geodatabase",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/3727aefc159e47fd8cb9d70432ab7397/filegdb?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Feature Collection",
+          "format": "TXT",
+          "mediaType": "text/plain",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/3727aefc159e47fd8cb9d70432ab7397/featureCollection?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Excel",
+          "format": "XLSX",
+          "mediaType": "application/vnd.ms-excel",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/3727aefc159e47fd8cb9d70432ab7397/excel?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoPackage",
+          "format": "GPKG",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/3727aefc159e47fd8cb9d70432ab7397/geoPackage?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "SQLite Geodatabase",
+          "format": "GDB",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/3727aefc159e47fd8cb9d70432ab7397/sqlite?layers=0"
         }
       ],
       "theme": [
@@ -5269,6 +5551,41 @@
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
           "accessURL": "https://www.datazapad.cz/api/download/v1/items/387d1403bddb48b09ba4e3cd3b7894f8/kml?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "File Geodatabase",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/387d1403bddb48b09ba4e3cd3b7894f8/filegdb?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Feature Collection",
+          "format": "TXT",
+          "mediaType": "text/plain",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/387d1403bddb48b09ba4e3cd3b7894f8/featureCollection?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Excel",
+          "format": "XLSX",
+          "mediaType": "application/vnd.ms-excel",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/387d1403bddb48b09ba4e3cd3b7894f8/excel?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoPackage",
+          "format": "GPKG",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/387d1403bddb48b09ba4e3cd3b7894f8/geoPackage?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "SQLite Geodatabase",
+          "format": "GDB",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/387d1403bddb48b09ba4e3cd3b7894f8/sqlite?layers=0"
         }
       ],
       "theme": [
@@ -5601,7 +5918,7 @@
         "Karlovarský kraj"
       ],
       "issued": "2024-08-28T07:33:16.000Z",
-      "modified": "2024-08-28T07:33:22.712Z",
+      "modified": "2025-04-01T08:59:00.296Z",
       "publisher": {
         "name": "Karlovarská agentura rozvoje podnikání, p.o."
       },
@@ -5844,6 +6161,41 @@
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
           "accessURL": "https://www.datazapad.cz/api/download/v1/items/464108d64a93430083119bfb0845af3c/kml?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "File Geodatabase",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/464108d64a93430083119bfb0845af3c/filegdb?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Feature Collection",
+          "format": "TXT",
+          "mediaType": "text/plain",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/464108d64a93430083119bfb0845af3c/featureCollection?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Excel",
+          "format": "XLSX",
+          "mediaType": "application/vnd.ms-excel",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/464108d64a93430083119bfb0845af3c/excel?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoPackage",
+          "format": "GPKG",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/464108d64a93430083119bfb0845af3c/geoPackage?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "SQLite Geodatabase",
+          "format": "GDB",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/464108d64a93430083119bfb0845af3c/sqlite?layers=0"
         }
       ],
       "theme": [
@@ -6930,7 +7282,7 @@
         "katastrální území"
       ],
       "issued": "2024-06-27T07:25:36.000Z",
-      "modified": "2024-06-27T07:25:47.765Z",
+      "modified": "2025-04-01T11:06:04.209Z",
       "publisher": {
         "name": "Karlovarská agentura rozvoje podnikání, p.o."
       },
@@ -7117,7 +7469,7 @@
             },
             {
               "Consts": {
-                "useLimit": "<div style=\"text-align:left;\">CC0 1.0</div>"
+                "useLimit": "<div style='text-align:left;'>CC0 1.0</div>"
               }
             }
           ]
@@ -7170,6 +7522,41 @@
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
           "accessURL": "https://www.datazapad.cz/api/download/v1/items/57a4ac11b4014df7803496c91408ec4e/kml?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "File Geodatabase",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/57a4ac11b4014df7803496c91408ec4e/filegdb?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Feature Collection",
+          "format": "TXT",
+          "mediaType": "text/plain",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/57a4ac11b4014df7803496c91408ec4e/featureCollection?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Excel",
+          "format": "XLSX",
+          "mediaType": "application/vnd.ms-excel",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/57a4ac11b4014df7803496c91408ec4e/excel?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoPackage",
+          "format": "GPKG",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/57a4ac11b4014df7803496c91408ec4e/geoPackage?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "SQLite Geodatabase",
+          "format": "GDB",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/57a4ac11b4014df7803496c91408ec4e/sqlite?layers=0"
         }
       ],
       "theme": [
@@ -7189,7 +7576,7 @@
         "golfová hřiště"
       ],
       "issued": "2024-07-10T09:09:40.000Z",
-      "modified": "2024-07-10T09:09:50.313Z",
+      "modified": "2025-04-01T11:24:53.500Z",
       "publisher": {
         "name": "Karlovarská agentura rozvoje podnikání, p.o."
       },
@@ -7437,6 +7824,41 @@
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
           "accessURL": "https://www.datazapad.cz/api/download/v1/items/58bc30d273d84926bc4e817aabca9321/kml?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "File Geodatabase",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/58bc30d273d84926bc4e817aabca9321/filegdb?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Feature Collection",
+          "format": "TXT",
+          "mediaType": "text/plain",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/58bc30d273d84926bc4e817aabca9321/featureCollection?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Excel",
+          "format": "XLSX",
+          "mediaType": "application/vnd.ms-excel",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/58bc30d273d84926bc4e817aabca9321/excel?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoPackage",
+          "format": "GPKG",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/58bc30d273d84926bc4e817aabca9321/geoPackage?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "SQLite Geodatabase",
+          "format": "GDB",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/58bc30d273d84926bc4e817aabca9321/sqlite?layers=0"
         }
       ],
       "theme": [
@@ -7753,7 +8175,7 @@
       "identifier": "https://www.arcgis.com/home/item.html?id=5aa3b9fe8da6474786ff2b9c81b006cb&sublayer=0",
       "landingPage": "https://www.datazapad.cz/datasets/5aa3b9fe8da6474786ff2b9c81b006cb_0",
       "title": "Muzea a galerie v Karlovarském kraji",
-      "description": "<p><span style=\"background-color:rgb(255,255,255);font-size:medium;\">Datová sada obsahuje, kromě umístění muzeí a galerií v Karlovarském kraji, také webové stránky, kontaktní telefon a e-mail na muzeum či galerii.</span></p><p><span style=\"background-color:rgb(255,255,255);font-size:medium;\">Poskytovatelem vstupních dat pro datovou sadu je Živý kraj - Destinační agentura pro Karlovarský kraj, z.s.</span><br></p>",
+      "description": "<p><span style='background-color:rgb(255,255,255);font-size:medium;'>Datová sada obsahuje, kromě umístění muzeí a galerií v Karlovarském kraji, také webové stránky, kontaktní telefon a e-mail na muzeum či galerii.</span></p><p><span style='background-color:rgb(255,255,255);font-size:medium;'>Poskytovatelem vstupních dat pro datovou sadu je Živý kraj - Destinační agentura pro Karlovarský kraj, z.s.</span><br /></p>",
       "keyword": [
         "muzeum",
         "galerie",
@@ -7761,7 +8183,7 @@
         "muzea a galerie"
       ],
       "issued": "2024-10-07T07:37:43.000Z",
-      "modified": "2024-10-07T07:37:50.470Z",
+      "modified": "2025-04-01T11:09:05.843Z",
       "publisher": {
         "name": "Karlovarská agentura rozvoje podnikání, p.o."
       },
@@ -7829,7 +8251,7 @@
           }
         },
         "dataIdInfo": {
-          "idAbs": "<p><span style=\"background-color:rgb(255,255,255);font-size:medium;\">Datová sada obsahuje, kromě umístění muzeí a galerií v Karlovarském kraji, také webové stránky, kontaktní telefon a e-mail na muzeum či galerii.</span></p><p><span style=\"background-color:rgb(255,255,255);font-size:medium;\">Poskytovatelem vstupních dat pro datovou sadu je Živý kraj - Destinační agentura pro Karlovarský kraj, z.s.</span><br></p>",
+          "idAbs": "<p><span style='background-color:rgb(255,255,255);font-size:medium;'>Datová sada obsahuje, kromě umístění muzeí a galerií v Karlovarském kraji, také webové stránky, kontaktní telefon a e-mail na muzeum či galerii.</span></p><p><span style='background-color:rgb(255,255,255);font-size:medium;'>Poskytovatelem vstupních dat pro datovou sadu je Živý kraj - Destinační agentura pro Karlovarský kraj, z.s.</span><br /></p>",
           "idCredit": "Živý kraj - Destinační agentura pro Karlovarský kraj, z.s.",
           "dataExt": {
             "geoEle": {
@@ -8013,6 +8435,41 @@
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
           "accessURL": "https://www.datazapad.cz/api/download/v1/items/5aa3b9fe8da6474786ff2b9c81b006cb/kml?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "File Geodatabase",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/5aa3b9fe8da6474786ff2b9c81b006cb/filegdb?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Feature Collection",
+          "format": "TXT",
+          "mediaType": "text/plain",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/5aa3b9fe8da6474786ff2b9c81b006cb/featureCollection?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Excel",
+          "format": "XLSX",
+          "mediaType": "application/vnd.ms-excel",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/5aa3b9fe8da6474786ff2b9c81b006cb/excel?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoPackage",
+          "format": "GPKG",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/5aa3b9fe8da6474786ff2b9c81b006cb/geoPackage?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "SQLite Geodatabase",
+          "format": "GDB",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/5aa3b9fe8da6474786ff2b9c81b006cb/sqlite?layers=0"
         }
       ],
       "theme": [
@@ -8032,7 +8489,7 @@
         "galerie"
       ],
       "issued": "2023-10-30T10:08:16.000Z",
-      "modified": "2024-07-02T08:50:30.973Z",
+      "modified": "2025-04-01T11:16:37.739Z",
       "publisher": {
         "name": "Karlovarská agentura rozvoje podnikání, p.o."
       },
@@ -8060,35 +8517,36 @@
               "eMailAdd": "pavla.brabencova@karp-kv.cz"
             }
           },
-          "rpOrgName": "Karlovarská agentura rozvoje podnikání, p.o.",
+          "rpOrgName": "Karlovarská agentura rozvoje podnikání, p. o.",
           "role": {
             "RoleCd": {
               "@_value": "007"
             }
           }
         },
-        "mdDateSt": "2024-03-11",
+        "mdFileID": "1719910393091r8874125487479438",
+        "distInfo": {
+          "distTranOps": {
+            "onLineSrc": {
+              "linkage": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Galerie_kreativc%C5%AF_WFL1/FeatureServer"
+            }
+          }
+        },
+        "mdDateSt": "2024-07-02",
         "Esri": {
           "ArcGISFormat": 1,
           "CreaTime": 11070200,
           "ArcGISProfile": "INSPIRE",
           "ArcGISstyle": "INSPIRE Metadata Directive",
-          "ModDate": 20240429,
+          "ModDate": 20240702,
           "CreaDate": 20231030,
-          "ModTime": 10124968,
+          "ModTime": 10562251,
           "SyncOnce": "TRUE",
           "MapLyrSync": false,
           "PublishStatus": "editor:esri.dijit.metadata.editor"
         },
-        "mdTimeSt": "12:29:53.44",
+        "mdTimeSt": "10:53:12.90",
         "dqInfo": {
-          "dqScope": {
-            "scpLvl": {
-              "ScopeCd": {
-                "@_value": "005"
-              }
-            }
-          },
           "report": {
             "measResult": {
               "ConResult": {
@@ -8096,12 +8554,13 @@
                   "date": {
                     "pubDate": "2010-12-08T00:00:00"
                   },
-                  "resTitle": "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                  "resTitle": "NAŘÍZENÍ KOMISE (EU) č. 1089/2010 ze dne 23. listopadu 2010, kterým se provádí směrnice Evropského parlamentu a Rady 2007/2/ES, pokud jde o interoperabilitu sad prostorových dat a služeb prostorových dat"
                 }
               }
             }
           }
         },
+        "@_xml:lang": "cs",
         "mdHrLv": {
           "ScopeCd": {
             "@_value": "005"
@@ -8113,17 +8572,16 @@
           "dataExt": {
             "geoEle": {
               "GeoBndBox": {
-                "eastBL": 14.777154,
-                "southBL": 49.116144,
-                "northBL": 50.580906,
-                "westBL": 11.86921
+                "eastBL": 14.606866,
+                "southBL": 49.130524,
+                "northBL": 50.511092,
+                "westBL": 12.039499
               }
             }
           },
           "idCitation": {
             "date": {
-              "pubDate": "2024-10-30T12:31:22.735+01:00",
-              "createDate": "2024-10-30T12:31:22.735+01:00"
+              "pubDate": "2023-10-26T12:05:00"
             },
             "resTitle": "Galerie kreativců Karlovarského kraje",
             "citId": {
@@ -8146,10 +8604,11 @@
               "resTitle": "GEMET - INSPIRE themes, version 1.0"
             },
             "keyword": [
+              "galerie",
               "galerie kreativců",
               "Karlovarský kraj",
-              "kreativec",
-              "galerie"
+              "kreativci",
+              "kreativec"
             ]
           },
           "idPurp": "Přehled kreativců publikovaných v Galerii kreativců Karlovarského kraje.",
@@ -8226,23 +8685,7 @@
           "CharSetCd": {
             "@_value": "004"
           }
-        },
-        "mdFileID": "1710156593709r9043129532899319",
-        "distInfo": {
-          "distTranOps": {
-            "onLineSrc": {
-              "linkage": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Galerie_kreativc%C5%AF_WFL1/FeatureServer"
-            }
-          }
-        },
-        "mdMaint": {
-          "maintFreq": {
-            "MaintFreqCd": {
-              "@_value": "009"
-            }
-          }
-        },
-        "@_xml:lang": "cs"
+        }
       },
       "distribution": [
         {
@@ -8286,6 +8729,41 @@
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
           "accessURL": "https://www.datazapad.cz/api/download/v1/items/5ad57de2f5ea4f4483fd123f48beee47/kml?layers=3"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "File Geodatabase",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/5ad57de2f5ea4f4483fd123f48beee47/filegdb?layers=3"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Feature Collection",
+          "format": "TXT",
+          "mediaType": "text/plain",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/5ad57de2f5ea4f4483fd123f48beee47/featureCollection?layers=3"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Excel",
+          "format": "XLSX",
+          "mediaType": "application/vnd.ms-excel",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/5ad57de2f5ea4f4483fd123f48beee47/excel?layers=3"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoPackage",
+          "format": "GPKG",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/5ad57de2f5ea4f4483fd123f48beee47/geoPackage?layers=3"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "SQLite Geodatabase",
+          "format": "GDB",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/5ad57de2f5ea4f4483fd123f48beee47/sqlite?layers=3"
         }
       ],
       "theme": [
@@ -8305,7 +8783,7 @@
         "archeologie"
       ],
       "issued": "2024-06-10T07:12:59.000Z",
-      "modified": "2024-06-10T07:13:02.550Z",
+      "modified": "2025-04-01T09:02:15.118Z",
       "publisher": {
         "name": "Karlovarská agentura rozvoje podnikání, p.o."
       },
@@ -8554,6 +9032,41 @@
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
           "accessURL": "https://www.datazapad.cz/api/download/v1/items/5b6083d1a59d46c59d26717b31e991d1/kml?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "File Geodatabase",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/5b6083d1a59d46c59d26717b31e991d1/filegdb?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Feature Collection",
+          "format": "TXT",
+          "mediaType": "text/plain",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/5b6083d1a59d46c59d26717b31e991d1/featureCollection?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Excel",
+          "format": "XLSX",
+          "mediaType": "application/vnd.ms-excel",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/5b6083d1a59d46c59d26717b31e991d1/excel?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoPackage",
+          "format": "GPKG",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/5b6083d1a59d46c59d26717b31e991d1/geoPackage?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "SQLite Geodatabase",
+          "format": "GDB",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/5b6083d1a59d46c59d26717b31e991d1/sqlite?layers=0"
         }
       ],
       "theme": [
@@ -10209,7 +10722,7 @@
         "školní rok 2024/2025"
       ],
       "issued": "2024-04-16T07:07:08.000Z",
-      "modified": "2024-04-16T07:07:12.919Z",
+      "modified": "2025-04-01T11:33:33.994Z",
       "publisher": {
         "name": "Karlovarská agentura rozvoje podnikání, p.o."
       },
@@ -10469,6 +10982,41 @@
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
           "accessURL": "https://www.datazapad.cz/api/download/v1/items/6f9302623bcd4a72af2ac674c3b46adf/kml?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "File Geodatabase",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/6f9302623bcd4a72af2ac674c3b46adf/filegdb?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Feature Collection",
+          "format": "TXT",
+          "mediaType": "text/plain",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/6f9302623bcd4a72af2ac674c3b46adf/featureCollection?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Excel",
+          "format": "XLSX",
+          "mediaType": "application/vnd.ms-excel",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/6f9302623bcd4a72af2ac674c3b46adf/excel?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoPackage",
+          "format": "GPKG",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/6f9302623bcd4a72af2ac674c3b46adf/geoPackage?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "SQLite Geodatabase",
+          "format": "GDB",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/6f9302623bcd4a72af2ac674c3b46adf/sqlite?layers=0"
         }
       ],
       "theme": [
@@ -10813,7 +11361,7 @@
         "centra"
       ],
       "issued": "2024-07-23T07:20:03.000Z",
-      "modified": "2024-07-23T07:20:29.427Z",
+      "modified": "2025-04-01T11:08:30.875Z",
       "publisher": {
         "name": "Karlovarská agentura rozvoje podnikání, p.o."
       },
@@ -11064,6 +11612,41 @@
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
           "accessURL": "https://www.datazapad.cz/api/download/v1/items/785fbd982147426ca275496791930eb8/kml?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "File Geodatabase",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/785fbd982147426ca275496791930eb8/filegdb?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Feature Collection",
+          "format": "TXT",
+          "mediaType": "text/plain",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/785fbd982147426ca275496791930eb8/featureCollection?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Excel",
+          "format": "XLSX",
+          "mediaType": "application/vnd.ms-excel",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/785fbd982147426ca275496791930eb8/excel?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoPackage",
+          "format": "GPKG",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/785fbd982147426ca275496791930eb8/geoPackage?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "SQLite Geodatabase",
+          "format": "GDB",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/785fbd982147426ca275496791930eb8/sqlite?layers=0"
         }
       ],
       "theme": [
@@ -11593,6 +12176,41 @@
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
           "accessURL": "https://www.datazapad.cz/api/download/v1/items/8a71d71444f14acd8d43023ce9c3fb95/kml?layers=3"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "File Geodatabase",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/8a71d71444f14acd8d43023ce9c3fb95/filegdb?layers=3"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Feature Collection",
+          "format": "TXT",
+          "mediaType": "text/plain",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/8a71d71444f14acd8d43023ce9c3fb95/featureCollection?layers=3"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Excel",
+          "format": "XLSX",
+          "mediaType": "application/vnd.ms-excel",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/8a71d71444f14acd8d43023ce9c3fb95/excel?layers=3"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoPackage",
+          "format": "GPKG",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/8a71d71444f14acd8d43023ce9c3fb95/geoPackage?layers=3"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "SQLite Geodatabase",
+          "format": "GDB",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/8a71d71444f14acd8d43023ce9c3fb95/sqlite?layers=3"
         }
       ],
       "theme": [
@@ -11612,7 +12230,7 @@
         "zahrady"
       ],
       "issued": "2024-06-06T10:05:02.000Z",
-      "modified": "2024-06-06T10:05:16.009Z",
+      "modified": "2025-04-01T11:28:09.466Z",
       "publisher": {
         "name": "Karlovarská agentura rozvoje podnikání, p.o."
       },
@@ -11859,6 +12477,41 @@
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
           "accessURL": "https://www.datazapad.cz/api/download/v1/items/8ae1f28fc17f4918a0dba74bb11797ff/kml?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "File Geodatabase",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/8ae1f28fc17f4918a0dba74bb11797ff/filegdb?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Feature Collection",
+          "format": "TXT",
+          "mediaType": "text/plain",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/8ae1f28fc17f4918a0dba74bb11797ff/featureCollection?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Excel",
+          "format": "XLSX",
+          "mediaType": "application/vnd.ms-excel",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/8ae1f28fc17f4918a0dba74bb11797ff/excel?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoPackage",
+          "format": "GPKG",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/8ae1f28fc17f4918a0dba74bb11797ff/geoPackage?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "SQLite Geodatabase",
+          "format": "GDB",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/8ae1f28fc17f4918a0dba74bb11797ff/sqlite?layers=0"
         }
       ],
       "theme": [
@@ -11883,7 +12536,7 @@
         "skupina E"
       ],
       "issued": "2024-04-23T08:25:28.000Z",
-      "modified": "2024-04-23T08:25:38.546Z",
+      "modified": "2025-04-01T11:03:07.446Z",
       "publisher": {
         "name": "Karlovarská agentura rozvoje podnikání, p.o."
       },
@@ -12159,6 +12812,41 @@
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
           "accessURL": "https://www.datazapad.cz/api/download/v1/items/903168d407624e57a43cb4ab9bc97620/kml?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "File Geodatabase",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/903168d407624e57a43cb4ab9bc97620/filegdb?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Feature Collection",
+          "format": "TXT",
+          "mediaType": "text/plain",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/903168d407624e57a43cb4ab9bc97620/featureCollection?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Excel",
+          "format": "XLSX",
+          "mediaType": "application/vnd.ms-excel",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/903168d407624e57a43cb4ab9bc97620/excel?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoPackage",
+          "format": "GPKG",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/903168d407624e57a43cb4ab9bc97620/geoPackage?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "SQLite Geodatabase",
+          "format": "GDB",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/903168d407624e57a43cb4ab9bc97620/sqlite?layers=0"
         }
       ],
       "theme": [
@@ -12179,7 +12867,7 @@
         "centrum"
       ],
       "issued": "2024-07-25T10:52:42.000Z",
-      "modified": "2024-07-25T10:53:00.475Z",
+      "modified": "2025-04-01T11:24:10.489Z",
       "publisher": {
         "name": "Karlovarská agentura rozvoje podnikání, p.o."
       },
@@ -12431,6 +13119,41 @@
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
           "accessURL": "https://www.datazapad.cz/api/download/v1/items/90441fa783444e1ead5ad71464504d6a/kml?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "File Geodatabase",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/90441fa783444e1ead5ad71464504d6a/filegdb?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Feature Collection",
+          "format": "TXT",
+          "mediaType": "text/plain",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/90441fa783444e1ead5ad71464504d6a/featureCollection?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Excel",
+          "format": "XLSX",
+          "mediaType": "application/vnd.ms-excel",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/90441fa783444e1ead5ad71464504d6a/excel?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoPackage",
+          "format": "GPKG",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/90441fa783444e1ead5ad71464504d6a/geoPackage?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "SQLite Geodatabase",
+          "format": "GDB",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/90441fa783444e1ead5ad71464504d6a/sqlite?layers=0"
         }
       ],
       "theme": [
@@ -12450,7 +13173,7 @@
         "Karlovarský kraj"
       ],
       "issued": "2024-05-16T07:06:20.000Z",
-      "modified": "2024-05-16T07:06:25.051Z",
+      "modified": "2025-04-01T11:25:43.004Z",
       "publisher": {
         "name": "Karlovarská agentura rozvoje podnikání, p.o."
       },
@@ -12696,6 +13419,41 @@
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
           "accessURL": "https://www.datazapad.cz/api/download/v1/items/98d26c1b1c8f4bd49850af82a19a7f58/kml?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "File Geodatabase",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/98d26c1b1c8f4bd49850af82a19a7f58/filegdb?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Feature Collection",
+          "format": "TXT",
+          "mediaType": "text/plain",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/98d26c1b1c8f4bd49850af82a19a7f58/featureCollection?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Excel",
+          "format": "XLSX",
+          "mediaType": "application/vnd.ms-excel",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/98d26c1b1c8f4bd49850af82a19a7f58/excel?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoPackage",
+          "format": "GPKG",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/98d26c1b1c8f4bd49850af82a19a7f58/geoPackage?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "SQLite Geodatabase",
+          "format": "GDB",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/98d26c1b1c8f4bd49850af82a19a7f58/sqlite?layers=0"
         }
       ],
       "theme": [
@@ -12715,7 +13473,7 @@
         "lázeňské místo"
       ],
       "issued": "2024-08-28T07:25:55.000Z",
-      "modified": "2024-08-28T07:26:06.274Z",
+      "modified": "2025-04-01T11:21:23.099Z",
       "publisher": {
         "name": "Karlovarská agentura rozvoje podnikání, p.o."
       },
@@ -12967,6 +13725,41 @@
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
           "accessURL": "https://www.datazapad.cz/api/download/v1/items/a193c3092bef4fa8b514761b421d9ee1/kml?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "File Geodatabase",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/a193c3092bef4fa8b514761b421d9ee1/filegdb?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Feature Collection",
+          "format": "TXT",
+          "mediaType": "text/plain",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/a193c3092bef4fa8b514761b421d9ee1/featureCollection?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Excel",
+          "format": "XLSX",
+          "mediaType": "application/vnd.ms-excel",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/a193c3092bef4fa8b514761b421d9ee1/excel?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoPackage",
+          "format": "GPKG",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/a193c3092bef4fa8b514761b421d9ee1/geoPackage?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "SQLite Geodatabase",
+          "format": "GDB",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/a193c3092bef4fa8b514761b421d9ee1/sqlite?layers=0"
         }
       ],
       "theme": [
@@ -12978,7 +13771,7 @@
       "identifier": "https://www.arcgis.com/home/item.html?id=a80fbe6e01f742a8a0a7b507bfb3998f&sublayer=0",
       "landingPage": "https://www.datazapad.cz/datasets/a80fbe6e01f742a8a0a7b507bfb3998f_0",
       "title": "Organizace zřízené Karlovarským krajem",
-      "description": "<p><span style=\"font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif;font-size:16px;\">Datová sada obsahuje formální informace o organizacích vč. kontaktních údajů a webových stránkách organizací. Poskytovatelem dat je Krajský úřad Karlovarského kraje.</span></p>",
+      "description": "<p><span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif;font-size:16px;'>Datová sada obsahuje formální informace o organizacích vč. kontaktních údajů a webových stránkách organizací. Poskytovatelem dat je Krajský úřad Karlovarského kraje.</span></p>",
       "keyword": [
         "organizace",
         "Karlovarský kraj",
@@ -13064,7 +13857,7 @@
           }
         },
         "dataIdInfo": {
-          "idAbs": "<p><span style=\"font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif;font-size:16px;\">Datová sada obsahuje formální informace o organizacích vč. kontaktních údajů a webových stránkách organizací. Poskytovatelem dat je Krajský úřad Karlovarského kraje.</span></p>",
+          "idAbs": "<p><span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif;font-size:16px;'>Datová sada obsahuje formální informace o organizacích vč. kontaktních údajů a webových stránkách organizací. Poskytovatelem dat je Krajský úřad Karlovarského kraje.</span></p>",
           "idCredit": "Krajský úřad Karlovarského kraje",
           "dataLang": {
             "countryCode": {
@@ -13272,6 +14065,41 @@
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
           "accessURL": "https://www.datazapad.cz/api/download/v1/items/a80fbe6e01f742a8a0a7b507bfb3998f/kml?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "File Geodatabase",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/a80fbe6e01f742a8a0a7b507bfb3998f/filegdb?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Feature Collection",
+          "format": "TXT",
+          "mediaType": "text/plain",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/a80fbe6e01f742a8a0a7b507bfb3998f/featureCollection?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Excel",
+          "format": "XLSX",
+          "mediaType": "application/vnd.ms-excel",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/a80fbe6e01f742a8a0a7b507bfb3998f/excel?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoPackage",
+          "format": "GPKG",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/a80fbe6e01f742a8a0a7b507bfb3998f/geoPackage?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "SQLite Geodatabase",
+          "format": "GDB",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/a80fbe6e01f742a8a0a7b507bfb3998f/sqlite?layers=0"
         }
       ],
       "theme": [
@@ -13292,7 +14120,7 @@
         "obce"
       ],
       "issued": "2025-03-25T07:31:17.000Z",
-      "modified": "2025-03-25T07:31:27.470Z",
+      "modified": "2025-04-01T11:15:41.549Z",
       "publisher": {
         "name": "Karlovarská agentura rozvoje podnikání, p.o."
       },
@@ -13541,6 +14369,41 @@
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
           "accessURL": "https://www.datazapad.cz/api/download/v1/items/b073abb685724bb88e1b560fe774edcd/kml?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "File Geodatabase",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/b073abb685724bb88e1b560fe774edcd/filegdb?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Feature Collection",
+          "format": "TXT",
+          "mediaType": "text/plain",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/b073abb685724bb88e1b560fe774edcd/featureCollection?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Excel",
+          "format": "XLSX",
+          "mediaType": "application/vnd.ms-excel",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/b073abb685724bb88e1b560fe774edcd/excel?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoPackage",
+          "format": "GPKG",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/b073abb685724bb88e1b560fe774edcd/geoPackage?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "SQLite Geodatabase",
+          "format": "GDB",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/b073abb685724bb88e1b560fe774edcd/sqlite?layers=0"
         }
       ],
       "theme": [
@@ -13836,7 +14699,7 @@
         "počet uchazečů"
       ],
       "issued": "2025-01-17T09:37:50.000Z",
-      "modified": "2025-01-17T09:39:46.550Z",
+      "modified": "2025-04-01T08:53:31.906Z",
       "publisher": {
         "name": "Krajský úřad Karlovarského kraje"
       },
@@ -14414,7 +15277,7 @@
         "historické vesnice"
       ],
       "issued": "2024-07-23T09:34:20.000Z",
-      "modified": "2024-07-23T09:35:01.507Z",
+      "modified": "2025-04-01T11:22:02.310Z",
       "publisher": {
         "name": "Karlovarská agentura rozvoje podnikání, p.o."
       },
@@ -14671,6 +15534,41 @@
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
           "accessURL": "https://www.datazapad.cz/api/download/v1/items/c3a31017e7ac4e8d8d75c6a1ed49bc03/kml?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "File Geodatabase",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/c3a31017e7ac4e8d8d75c6a1ed49bc03/filegdb?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Feature Collection",
+          "format": "TXT",
+          "mediaType": "text/plain",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/c3a31017e7ac4e8d8d75c6a1ed49bc03/featureCollection?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Excel",
+          "format": "XLSX",
+          "mediaType": "application/vnd.ms-excel",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/c3a31017e7ac4e8d8d75c6a1ed49bc03/excel?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoPackage",
+          "format": "GPKG",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/c3a31017e7ac4e8d8d75c6a1ed49bc03/geoPackage?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "SQLite Geodatabase",
+          "format": "GDB",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/c3a31017e7ac4e8d8d75c6a1ed49bc03/sqlite?layers=0"
         }
       ],
       "theme": [
@@ -14692,7 +15590,7 @@
         "Karlovarský kraj"
       ],
       "issued": "2024-06-06T07:19:39.000Z",
-      "modified": "2024-06-06T07:53:07.346Z",
+      "modified": "2025-04-01T11:32:33.455Z",
       "publisher": {
         "name": "Karlovarská agentura rozvoje podnikání, p.o."
       },
@@ -16060,6 +16958,41 @@
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
           "accessURL": "https://www.datazapad.cz/api/download/v1/items/dbe7041a35494dbe8e01fd86694faed8/kml?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "File Geodatabase",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/dbe7041a35494dbe8e01fd86694faed8/filegdb?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Feature Collection",
+          "format": "TXT",
+          "mediaType": "text/plain",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/dbe7041a35494dbe8e01fd86694faed8/featureCollection?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Excel",
+          "format": "XLSX",
+          "mediaType": "application/vnd.ms-excel",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/dbe7041a35494dbe8e01fd86694faed8/excel?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoPackage",
+          "format": "GPKG",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/dbe7041a35494dbe8e01fd86694faed8/geoPackage?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "SQLite Geodatabase",
+          "format": "GDB",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/dbe7041a35494dbe8e01fd86694faed8/sqlite?layers=0"
         }
       ],
       "theme": [
