@@ -2973,6 +2973,41 @@
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
           "accessURL": "https://www.datazapad.cz/api/download/v1/items/1384c78c4e6846219a9829cd07c81f60/kml?layers=3"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "File Geodatabase",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/1384c78c4e6846219a9829cd07c81f60/filegdb?layers=3"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Feature Collection",
+          "format": "TXT",
+          "mediaType": "text/plain",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/1384c78c4e6846219a9829cd07c81f60/featureCollection?layers=3"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Excel",
+          "format": "XLSX",
+          "mediaType": "application/vnd.ms-excel",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/1384c78c4e6846219a9829cd07c81f60/excel?layers=3"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoPackage",
+          "format": "GPKG",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/1384c78c4e6846219a9829cd07c81f60/geoPackage?layers=3"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "SQLite Geodatabase",
+          "format": "GDB",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/1384c78c4e6846219a9829cd07c81f60/sqlite?layers=3"
         }
       ],
       "theme": [
