@@ -1786,7 +1786,7 @@
         "státní památková péče"
       ],
       "issued": "2024-08-05T10:24:34.000Z",
-      "modified": "2024-08-05T10:24:37.181Z",
+      "modified": "2025-04-01T08:59:58.361Z",
       "publisher": {
         "name": "Karlovarská agentura rozvoje podnikání, p.o."
       },
@@ -15013,6 +15013,41 @@
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
           "accessURL": "https://www.datazapad.cz/api/download/v1/items/b69266abf22c4baa9fabeb437449c1e8/kml?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "File Geodatabase",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/b69266abf22c4baa9fabeb437449c1e8/filegdb?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Feature Collection",
+          "format": "TXT",
+          "mediaType": "text/plain",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/b69266abf22c4baa9fabeb437449c1e8/featureCollection?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Excel",
+          "format": "XLSX",
+          "mediaType": "application/vnd.ms-excel",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/b69266abf22c4baa9fabeb437449c1e8/excel?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoPackage",
+          "format": "GPKG",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/b69266abf22c4baa9fabeb437449c1e8/geoPackage?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "SQLite Geodatabase",
+          "format": "GDB",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/b69266abf22c4baa9fabeb437449c1e8/sqlite?layers=0"
         }
       ],
       "theme": [
@@ -15896,7 +15931,7 @@
         "lyžařské vleky"
       ],
       "issued": "2024-10-07T07:21:43.000Z",
-      "modified": "2024-10-07T07:21:57.597Z",
+      "modified": "2025-04-01T11:11:49.076Z",
       "publisher": {
         "name": "Karlovarská agentura rozvoje podnikání, p.o."
       },
