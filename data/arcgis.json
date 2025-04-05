@@ -2737,6 +2737,41 @@
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
           "accessURL": "https://www.datazapad.cz/api/download/v1/items/135900efd11e4df1865987b57428eb9f/kml?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "File Geodatabase",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/135900efd11e4df1865987b57428eb9f/filegdb?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Feature Collection",
+          "format": "TXT",
+          "mediaType": "text/plain",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/135900efd11e4df1865987b57428eb9f/featureCollection?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Excel",
+          "format": "XLSX",
+          "mediaType": "application/vnd.ms-excel",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/135900efd11e4df1865987b57428eb9f/excel?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoPackage",
+          "format": "GPKG",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/135900efd11e4df1865987b57428eb9f/geoPackage?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "SQLite Geodatabase",
+          "format": "GDB",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/135900efd11e4df1865987b57428eb9f/sqlite?layers=0"
         }
       ],
       "theme": [
@@ -5549,9 +5584,7 @@
       "accessLevel": "public",
       "spatial": "12.1892,49.9415,14.4490,50.3695",
       "license": "https://creativecommons.org/licenses/by/4.0",
-      "category": [
-        "Kraj a dotace"
-      ],
+      "category": "{{categories}}",
       "metadata": {
         "mdLang": {
           "languageCode": {
