@@ -14172,13 +14172,7 @@
       "accessLevel": "public",
       "spatial": "12.1942,49.9530,13.1601,50.5111",
       "license": "https://creativecommons.org/publicdomain/zero/1.0",
-      "category": [
-        "Zdravotnictví a zdraví",
-        "Lidé a sociální služby",
-        "Veřejná doprava a silnice",
-        "Školství a výzkum",
-        "Kultura a cestovní ruch"
-      ],
+      "category": "{{categories}}",
       "metadata": {
         "mdLang": {
           "languageCode": {
