@@ -17178,8 +17178,8 @@
     },
     {
       "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=dbe7041a35494dbe8e01fd86694faed8&sublayer=0",
-      "landingPage": "https://www.datazapad.cz/datasets/dbe7041a35494dbe8e01fd86694faed8_0",
+      "identifier": "https://www.arcgis.com/home/item.html?id=dbe7041a35494dbe8e01fd86694faed8&sublayer=3",
+      "landingPage": "https://www.datazapad.cz/datasets/dbe7041a35494dbe8e01fd86694faed8_3",
       "title": "Seznam svazků obcí v Karlovarském kraji",
       "description": "<p>Dobrovolné svazky obcí jsou formou spolupráce mezi obcemi s různým zaměřením a specifickými cíli (např. technická infrastruktura, nakládání s odpady, vodní hospodářství, zemědělství, obnova venkova, životní prostředí a příroda). Datová sada obsahuje seznam svazků obcí registrovaných v Karlovarském kraji vč. uvedení účelu svazku obcí, sídla svazku a v případě zajištění také uvedení webové stránky svazku obce.</p><p>Zdroj dat poskytl Krajský úřad Karlovarského kraje.</p>",
       "keyword": [
@@ -17193,7 +17193,7 @@
         "dobrovolné svazky obcí"
       ],
       "issued": "2024-11-04T10:08:40.000Z",
-      "modified": "2025-01-28T09:40:16.797Z",
+      "modified": "2025-04-07T10:40:14.000Z",
       "publisher": {
         "name": "Krajský úřad Karlovarského kraje"
       },
@@ -17220,28 +17220,30 @@
               "eMailAdd": "pavla.brabencova@karp-kv.cz"
             }
           },
-          "rpOrgName": "Karlovarská agentura rozvoje podnikání, p.o.",
           "role": {
             "RoleCd": {
               "@_value": "007"
             }
-          }
+          },
+          "rpOrgName": "Karlovarská agentura rozvoje podnikání, p.o."
         },
-        "mdDateSt": "2025-01-28",
+        "mdDateSt": "2025-04-07",
         "Esri": {
           "ArcGISFormat": 1,
           "CreaTime": 11060300,
           "ArcGISProfile": "INSPIRE",
-          "ArcGISstyle": "INSPIRE Metadata Directive",
-          "ModDate": 20250213,
           "CreaDate": 20241104,
-          "ModTime": 12102515,
-          "SyncOnce": "TRUE",
-          "MapLyrSync": false,
-          "PublishStatus": "editor:esri.dijit.metadata.editor"
+          "SyncOnce": "TRUE"
         },
-        "mdTimeSt": "10:39:31.05",
+        "mdTimeSt": "10:41:55",
         "dqInfo": {
+          "dqScope": {
+            "scpLvl": {
+              "ScopeCd": {
+                "@_value": "005"
+              }
+            }
+          },
           "report": {
             "measResult": {
               "ConResult": {
@@ -17264,9 +17266,6 @@
           "idAbs": "<p>Dobrovolné svazky obcí jsou formou spolupráce mezi obcemi s různým zaměřením a specifickými cíli (např. technická infrastruktura, nakládání s odpady, vodní hospodářství, zemědělství, obnova venkova, životní prostředí a příroda). Datová sada obsahuje seznam svazků obcí registrovaných v Karlovarském kraji vč. uvedení účelu svazku obcí, sídla svazku a v případě zajištění také uvedení webové stránky svazku obce.</p><p>Zdroj dat poskytl Krajský úřad Karlovarského kraje.</p>",
           "idCredit": "Krajský úřad Karlovarského kraje",
           "dataLang": {
-            "countryCode": {
-              "@_value": "CZ"
-            },
             "languageCode": {
               "@_value": "cze"
             }
@@ -17280,16 +17279,16 @@
           "dataExt": {
             "geoEle": {
               "GeoBndBox": {
-                "eastBL": 13.206279,
-                "southBL": 49.941921,
-                "northBL": 50.374788,
-                "westBL": 12.162797
+                "eastBL": 13.1898,
+                "southBL": 49.927779,
+                "northBL": 50.394053,
+                "westBL": 12.099626
               }
             }
           },
           "idCitation": {
             "date": {
-              "reviseDate": "2025-01-28T10:40:16.797+01:00"
+              "reviseDate": "2025-04-07T10:40:14"
             },
             "resTitle": "Seznam svazků obcí v Karlovarském kraji",
             "citId": {
@@ -17302,28 +17301,11 @@
                 "pubDate": "2008-06-01T00:00:00"
               },
               "resTitle": "GEMET - INSPIRE themes, version 1.0"
-            },
-            "keyword": [
-              "svazek obcí",
-              "svazky obcí",
-              "mikroregion",
-              "mikroregiony",
-              "Karlovarský kraj",
-              "obce",
-              "obec",
-              "dobrovolné svazky obcí"
-            ]
+            }
           },
-          "resMaint": {
-            "maintScp": {
-              "ScopeCd": {
-                "@_value": "001"
-              }
-            },
-            "maintFreq": {
-              "MaintFreqCd": {
-                "@_value": "009"
-              }
+          "spatRpType": {
+            "SpatRepTypCd": {
+              "@_value": "003"
             }
           },
           "dataChar": {
@@ -17349,22 +17331,16 @@
                 "eMailAdd": "pavla.brabencova@karp-kv.cz"
               }
             },
-            "rpOrgName": "Krajský úřad Karlovarského kraje",
             "role": {
               "RoleCd": {
                 "@_value": "007"
               }
-            }
+            },
+            "rpOrgName": "Krajský úřad Karlovarského kraje"
           },
           "resConst": [
             {
               "LegConsts": {
-                "useConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
-                "othConsts": "Jiná omezení",
                 "inspireAccessUseConditions": {
                   "ConditionsAccUseCd": {
                     "@_value": "001"
@@ -17374,12 +17350,6 @@
             },
             {
               "LegConsts": {
-                "othConsts": "Jiná omezení",
-                "accessConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
                 "inspirePublicAccessLimits": {
                   "PublicAccessCd": {
                     "@_value": "001"
@@ -17398,7 +17368,7 @@
           "RefSystem": {
             "refSysID": {
               "identCode": {
-                "@_code": "WGS84"
+                "@_code": "GCS_WGS_1984"
               }
             }
           }
@@ -17408,7 +17378,6 @@
             "@_value": "004"
           }
         },
-        "mdFileID": "1738057171297r9767557886018394",
         "distInfo": {
           "distTranOps": {
             "onLineSrc": {
@@ -17431,77 +17400,77 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/datasets/dbe7041a35494dbe8e01fd86694faed8_0"
+          "accessURL": "https://www.datazapad.cz/datasets/dbe7041a35494dbe8e01fd86694faed8_3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "ArcGIS GeoService",
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
-          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Seznam_svazk%C5%AF_obc%C3%AD_v_Karlovarsk%C3%A9m_kraji_WFL1/FeatureServer/0"
+          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Seznam_svazk%C5%AF_obc%C3%AD_v_Karlovarsk%C3%A9m_kraji_WFL1/FeatureServer/3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "CSV",
           "format": "CSV",
           "mediaType": "text/csv",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/dbe7041a35494dbe8e01fd86694faed8/csv?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/dbe7041a35494dbe8e01fd86694faed8/csv?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Shapefile",
           "format": "ZIP",
           "mediaType": "application/zip",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/dbe7041a35494dbe8e01fd86694faed8/shapefile?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/dbe7041a35494dbe8e01fd86694faed8/shapefile?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "GeoJSON",
           "format": "GeoJSON",
           "mediaType": "application/vnd.geo+json",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/dbe7041a35494dbe8e01fd86694faed8/geojson?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/dbe7041a35494dbe8e01fd86694faed8/geojson?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "KML",
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/dbe7041a35494dbe8e01fd86694faed8/kml?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/dbe7041a35494dbe8e01fd86694faed8/kml?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "File Geodatabase",
           "format": "ZIP",
           "mediaType": "application/zip",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/dbe7041a35494dbe8e01fd86694faed8/filegdb?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/dbe7041a35494dbe8e01fd86694faed8/filegdb?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Feature Collection",
           "format": "TXT",
           "mediaType": "text/plain",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/dbe7041a35494dbe8e01fd86694faed8/featureCollection?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/dbe7041a35494dbe8e01fd86694faed8/featureCollection?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Excel",
           "format": "XLSX",
           "mediaType": "application/vnd.ms-excel",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/dbe7041a35494dbe8e01fd86694faed8/excel?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/dbe7041a35494dbe8e01fd86694faed8/excel?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "GeoPackage",
           "format": "GPKG",
           "mediaType": "application/geopackage+sqlite3",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/dbe7041a35494dbe8e01fd86694faed8/geoPackage?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/dbe7041a35494dbe8e01fd86694faed8/geoPackage?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "SQLite Geodatabase",
           "format": "GDB",
           "mediaType": "application/geopackage+sqlite3",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/dbe7041a35494dbe8e01fd86694faed8/sqlite?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/dbe7041a35494dbe8e01fd86694faed8/sqlite?layers=3"
         }
       ],
       "theme": [
