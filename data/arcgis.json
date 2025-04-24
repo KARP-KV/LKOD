@@ -2130,6 +2130,52 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=0fe3d33bc93a4157b524475d275139e6",
+      "landingPage": "https://www.datazapad.cz/documents/0fe3d33bc93a4157b524475d275139e6",
+      "title": "Inovační ekosystém KVK - test",
+      "description": "{{description}}",
+      "keyword": [
+        "inovace"
+      ],
+      "issued": "2025-04-03T10:01:45.000Z",
+      "modified": "2025-04-24T10:19:20.000Z",
+      "publisher": {
+        "name": "petr.bek@karp-kv.cz"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "petr.bek@karp-kv.cz",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "",
+      "category": [
+        "Kraj a dotace"
+      ],
+      "metadata": "{{metadata.metadata}}",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datazapad.cz/documents/0fe3d33bc93a4157b524475d275139e6"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://www.datazapad.cz/pages/rim-inovacni-ekosystem-karlovarskeho-kraje"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=10bdbfe0cb1341a784f5a1e4ed66b1da&sublayer=0",
       "landingPage": "https://www.datazapad.cz/datasets/10bdbfe0cb1341a784f5a1e4ed66b1da_0",
       "title": "Orgány a organizace státní památkové péče v Karlovarském kraji",
