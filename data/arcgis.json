@@ -7778,6 +7778,56 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=52d90b8c34f14328b150f1caddd2d6aa",
+      "landingPage": "https://www.datazapad.cz/documents/52d90b8c34f14328b150f1caddd2d6aa",
+      "title": "Pohoří a řeky Karlovarského kraje",
+      "description": "{{description}}",
+      "keyword": [
+        "Řeky",
+        "Profil regionu",
+        "Pohoří",
+        "Území"
+      ],
+      "issued": "2025-05-06T11:40:50.000Z",
+      "modified": "2025-05-06T11:40:56.000Z",
+      "publisher": {
+        "name": "petr.bek@karp-kv.cz"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "petr.bek@karp-kv.cz",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "",
+      "category": [
+        "Kraj a dotace",
+        "Kultura a cestovní ruch"
+      ],
+      "metadata": "{{metadata.metadata}}",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datazapad.cz/documents/52d90b8c34f14328b150f1caddd2d6aa"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://app.powerbi.com/view?r=eyJrIjoiZmQ2NThiN2UtY2I2OS00ZTg5LTk2YmEtZWNhOWM2NWYzYWM2IiwidCI6IjU3NGE0YjU0LTYxMjItNGRlYi05YjE4LWM1OGZkN2M3NWQzMiIsImMiOjl9"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=54223e92a9b04a0ba27e9800f41c4f1f&sublayer=0",
       "landingPage": "https://www.datazapad.cz/datasets/54223e92a9b04a0ba27e9800f41c4f1f_0",
       "title": "Památkově chráněná území v Karlovarském kraji",
@@ -18890,6 +18940,52 @@
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
           "accessURL": "https://www.datazapad.cz/api/download/v1/items/d51db8b1ac8f40b6adf214e67cbb6f30/kml?layers=3"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=df97b40149a74620b5f9c4c7c86c291c",
+      "landingPage": "https://www.datazapad.cz/documents/df97b40149a74620b5f9c4c7c86c291c",
+      "title": "Analýza přínosů lázeňství pro Karlovarský kraj",
+      "description": "{{description}}",
+      "keyword": [],
+      "issued": "2025-05-06T11:53:08.000Z",
+      "modified": "2025-05-06T11:53:15.000Z",
+      "publisher": {
+        "name": "petr.bek@karp-kv.cz"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "petr.bek@karp-kv.cz",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "",
+      "category": [
+        "Ekonomika a trh práce",
+        "Zdravotnictví a zdraví",
+        "Kultura a cestovní ruch"
+      ],
+      "metadata": "{{metadata.metadata}}",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datazapad.cz/documents/df97b40149a74620b5f9c4c7c86c291c"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://ik.imagekit.io/3nrtv9oq0/datazapad/Analyza-prinosu-lazenstvi-pro-Karlovarsky-kraj.pdf?updatedAt=1706104628843"
         }
       ],
       "theme": [
