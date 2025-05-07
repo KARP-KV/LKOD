@@ -12386,6 +12386,265 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=805a0267da9e45eea0c20a2e3123189f&sublayer=0",
+      "landingPage": "https://www.datazapad.cz/datasets/805a0267da9e45eea0c20a2e3123189f_0",
+      "title": "Divadla v Karlovarském kraji",
+      "description": "<p>Datová sada obsahuje rovněž specifikaci provozovatele (IČ, právní forma), webové stránky, kontaktní e-mail, telefon a číslo datové schránky.</p><div>Poskytovatelem dat je Karlovarská agentura rozvoje podnikání, p.o.</div>",
+      "keyword": [
+        "divadlo",
+        "Karlovarský kraj",
+        "divadla"
+      ],
+      "issued": "2025-05-07T08:27:21.000Z",
+      "modified": "2025-05-07T08:27:30.202Z",
+      "publisher": {
+        "name": "Karlovarská agentura rozvoje podnikání, p.o."
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "pavla.brabencova_karp",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "12.1866,49.9779,12.9494,50.3081",
+      "license": "https://creativecommons.org/licenses/by/4.0",
+      "category": [
+        "Kultura a cestovní ruch"
+      ],
+      "metadata": {
+        "mdLang": {
+          "languageCode": {
+            "@_value": "cze"
+          }
+        },
+        "mdContact": {
+          "rpCntInfo": {
+            "cntAddress": {
+              "eMailAdd": "pavla.brabencova@karp-kv.cz"
+            }
+          },
+          "role": {
+            "RoleCd": {
+              "@_value": "007"
+            }
+          },
+          "rpOrgName": "Karlovarská agentura rozvoje podnikání, p.o."
+        },
+        "distInfo": {
+          "distTranOps": {
+            "onLineSrc": {
+              "linkage": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Divadla_v_Karlovarsk%C3%A9m_kraji_WFL1/FeatureServer"
+            }
+          }
+        },
+        "mdMaint": {
+          "maintFreq": {
+            "MaintFreqCd": {
+              "@_value": "009"
+            }
+          }
+        },
+        "mdDateSt": "2025-05-07",
+        "Esri": {
+          "ArcGISFormat": 1,
+          "CreaTime": 10170600,
+          "ArcGISProfile": "INSPIRE",
+          "CreaDate": 20250507,
+          "SyncOnce": "TRUE"
+        },
+        "dqInfo": {
+          "dqScope": {
+            "scpLvl": {
+              "ScopeCd": {
+                "@_value": "005"
+              }
+            }
+          },
+          "report": {
+            "measResult": {
+              "ConResult": {
+                "conSpec": {
+                  "date": {
+                    "pubDate": "2010-12-08T00:00:00"
+                  },
+                  "resTitle": "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                }
+              }
+            }
+          }
+        },
+        "@_xml:lang": "cs",
+        "mdHrLv": {
+          "ScopeCd": {
+            "@_value": "005"
+          }
+        },
+        "dataIdInfo": {
+          "idAbs": "<p>Datová sada obsahuje rovněž specifikaci provozovatele (IČ, právní forma), webové stránky, kontaktní e-mail, telefon a číslo datové schránky.</p><div>Poskytovatelem dat je Karlovarská agentura rozvoje podnikání, p.o.</div>",
+          "idCredit": "Karlovarská agentura rozvoje podnikání, p.o.",
+          "dataLang": {
+            "languageCode": {
+              "@_value": "cze"
+            }
+          },
+          "idPurp": "Datová sada s prostorovou lokalizací divadel na území Karlovarského kraje.",
+          "tpCat": {
+            "TopicCatCd": {
+              "@_value": "016"
+            }
+          },
+          "dataExt": {
+            "geoEle": {
+              "GeoBndBox": {
+                "eastBL": 12.952141,
+                "southBL": 49.958467,
+                "northBL": 50.311609,
+                "westBL": 12.156419
+              }
+            }
+          },
+          "idCitation": {
+            "date": {
+              "pubDate": "2025-05-07T10:38:17"
+            },
+            "resTitle": "Divadla v Karlovarském kraji",
+            "citId": {
+              "identCode": "publication"
+            }
+          },
+          "themeKeys": {
+            "thesaName": {
+              "date": {
+                "pubDate": "2008-06-01T00:00:00"
+              },
+              "resTitle": "GEMET - INSPIRE themes, version 1.0"
+            },
+            "keyword": [
+              "divadlo",
+              "Karlovarský kraj"
+            ]
+          },
+          "spatRpType": {
+            "SpatRepTypCd": {
+              "@_value": "003"
+            }
+          },
+          "dataChar": {
+            "CharSetCd": {
+              "@_value": "004"
+            }
+          },
+          "searchKeys": {
+            "keyword": [
+              "divadlo",
+              "Karlovarský kraj",
+              "divadla"
+            ]
+          },
+          "idPoC": {
+            "rpCntInfo": {
+              "cntAddress": {
+                "eMailAdd": "pavla.brabencova@karp-kv.cz"
+              }
+            },
+            "role": {
+              "RoleCd": {
+                "@_value": "007"
+              }
+            },
+            "rpOrgName": "Karlovarská agentura rozvoje podnikání, p.o."
+          },
+          "resConst": [
+            {
+              "LegConsts": {
+                "inspireAccessUseConditions": {
+                  "ConditionsAccUseCd": {
+                    "@_value": "001"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "inspirePublicAccessLimits": {
+                  "PublicAccessCd": {
+                    "@_value": "001"
+                  }
+                }
+              }
+            },
+            {
+              "Consts": {
+                "useLimit": "<p>CC BY 4.0</p>"
+              }
+            }
+          ]
+        },
+        "refSysInfo": {
+          "RefSystem": {
+            "refSysID": {
+              "identCode": {
+                "@_code": "GCS_WGS_1984"
+              }
+            }
+          }
+        },
+        "mdChar": {
+          "CharSetCd": {
+            "@_value": "004"
+          }
+        }
+      },
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datazapad.cz/datasets/805a0267da9e45eea0c20a2e3123189f_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Divadla_v_Karlovarsk%C3%A9m_kraji_WFL1/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/805a0267da9e45eea0c20a2e3123189f/csv?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/805a0267da9e45eea0c20a2e3123189f/shapefile?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/805a0267da9e45eea0c20a2e3123189f/geojson?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/805a0267da9e45eea0c20a2e3123189f/kml?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=8a71d71444f14acd8d43023ce9c3fb95&sublayer=0",
       "landingPage": "https://www.datazapad.cz/datasets/8a71d71444f14acd8d43023ce9c3fb95_0",
       "title": "Poskytovatelé sociálních služeb v Karlovarském kraji",
