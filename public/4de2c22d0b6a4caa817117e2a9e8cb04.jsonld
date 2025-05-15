@@ -1,24 +1,26 @@
 {
   "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://open.datazapad.cz/fe141aa145b941c8b3c2eca846a79efd.jsonld",
+  "iri": "https://open.datazapad.cz/4de2c22d0b6a4caa817117e2a9e8cb04.jsonld",
   "typ": "Datová sada",
   "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891168",
   "název": {
-    "cs": "RIM: Regionální inovační mapa"
+    "cs": "Analýza překážek inovačního prostředí Karlovarského kraje"
   },
   "popis": {
     "cs": "{{description}}"
   },
   "klíčové_slovo": {
     "cs": [
-      "inovace"
+      "Inovace",
+      "Analýza"
     ]
   },
   "téma": [
-    "http://publications.europa.eu/resource/authority/data-theme/REGI",
+    "http://publications.europa.eu/resource/authority/data-theme/ECON",
     "http://publications.europa.eu/resource/authority/data-theme/GOVE",
-    "http://publications.europa.eu/resource/authority/data-theme/EDUC",
-    "http://publications.europa.eu/resource/authority/data-theme/TECH"
+    "http://publications.europa.eu/resource/authority/data-theme/ECON",
+    "http://publications.europa.eu/resource/authority/data-theme/REGI",
+    "http://publications.europa.eu/resource/authority/data-theme/GOVE"
   ],
   "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
   "prvek_rúian": [
@@ -27,12 +29,12 @@
   "distribuce": [
     {
       "typ": "Distribuce",
-      "iri": "https://www.datazapad.cz/documents/fe141aa145b941c8b3c2eca846a79efd",
+      "iri": "https://www.datazapad.cz/documents/4de2c22d0b6a4caa817117e2a9e8cb04",
       "název": {
         "cs": "ArcGIS Hub Dataset"
       },
-      "soubor_ke_stažení": "https://www.datazapad.cz/documents/fe141aa145b941c8b3c2eca846a79efd",
-      "přístupové_url": "https://www.datazapad.cz/documents/fe141aa145b941c8b3c2eca846a79efd",
+      "soubor_ke_stažení": "https://www.datazapad.cz/documents/4de2c22d0b6a4caa817117e2a9e8cb04",
+      "přístupové_url": "https://www.datazapad.cz/documents/4de2c22d0b6a4caa817117e2a9e8cb04",
       "typ_média": "http://www.iana.org/assignments/media-types/text/html",
       "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
       "podmínky_užití": {
@@ -45,12 +47,12 @@
     },
     {
       "typ": "Distribuce",
-      "iri": "https://www.datazapad.cz/pages/regionalni-inovacni-mapa",
+      "iri": "https://ik.imagekit.io/3nrtv9oq0/datazapad/Analyza-prekazek-inovacniho-prostredi-Karlovarskeho-kraje.pdf?updatedAt=1706016589354",
       "název": {
         "cs": "ArcGIS GeoService"
       },
-      "soubor_ke_stažení": "https://www.datazapad.cz/pages/regionalni-inovacni-mapa",
-      "přístupové_url": "https://www.datazapad.cz/pages/regionalni-inovacni-mapa",
+      "soubor_ke_stažení": "https://ik.imagekit.io/3nrtv9oq0/datazapad/Analyza-prekazek-inovacniho-prostredi-Karlovarskeho-kraje.pdf?updatedAt=1706016589354",
+      "přístupové_url": "https://ik.imagekit.io/3nrtv9oq0/datazapad/Analyza-prekazek-inovacniho-prostredi-Karlovarskeho-kraje.pdf?updatedAt=1706016589354",
       "typ_média": "http://www.iana.org/assignments/media-types/application/json",
       "formát": "http://publications.europa.eu/resource/authority/file-type/JSON",
       "podmínky_užití": {

@@ -7,10 +7,13 @@
     "cs": "Analýza přínosů lázeňství pro Karlovarský kraj"
   },
   "popis": {
-    "cs": "{{description}}"
+    "cs": "Cílem této analýzy bylo shromáždit data o jednotlivých aktérech lázeňství v Karlovarském kraji a ukázat na nich jejich přínos pro kraj i pro obor lázeňství jako takový."
   },
   "klíčové_slovo": {
-    "cs": []
+    "cs": [
+      "Analýza",
+      "Lázeňství"
+    ]
   },
   "téma": [
     "http://publications.europa.eu/resource/authority/data-theme/ECON",

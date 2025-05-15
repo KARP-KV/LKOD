@@ -1835,52 +1835,6 @@
     },
     {
       "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=0fe3d33bc93a4157b524475d275139e6",
-      "landingPage": "https://www.datazapad.cz/documents/0fe3d33bc93a4157b524475d275139e6",
-      "title": "Inovační ekosystém KVK - test",
-      "description": "{{description}}",
-      "keyword": [
-        "inovace"
-      ],
-      "issued": "2025-04-03T10:01:45.000Z",
-      "modified": "2025-04-25T09:12:35.000Z",
-      "publisher": {
-        "name": "petr.bek@karp-kv.cz"
-      },
-      "contactPoint": {
-        "@type": "vcard:Contact",
-        "fn": "petr.bek@karp-kv.cz",
-        "hasEmail": "{{orgContactEmail}}"
-      },
-      "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
-      "license": "",
-      "category": [
-        "Kraj a dotace"
-      ],
-      "metadata": "{{metadata.metadata}}",
-      "distribution": [
-        {
-          "@type": "dcat:Distribution",
-          "title": "ArcGIS Hub Dataset",
-          "format": "Web Page",
-          "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/documents/0fe3d33bc93a4157b524475d275139e6"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "ArcGIS GeoService",
-          "format": "ArcGIS GeoServices REST API",
-          "mediaType": "application/json",
-          "accessURL": "https://www.datazapad.cz/pages/rim-inovacni-ekosystem-karlovarskeho-kraje"
-        }
-      ],
-      "theme": [
-        "geospatial"
-      ]
-    },
-    {
-      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=10bdbfe0cb1341a784f5a1e4ed66b1da&sublayer=0",
       "landingPage": "https://www.datazapad.cz/datasets/10bdbfe0cb1341a784f5a1e4ed66b1da_0",
       "title": "Orgány a organizace státní památkové péče v Karlovarském kraji",
@@ -4014,58 +3968,6 @@
           "format": "GDB",
           "mediaType": "application/geopackage+sqlite3",
           "accessURL": "https://www.datazapad.cz/api/download/v1/items/1e64adf22f8448a693f638c9f1334dc9/sqlite?layers=0"
-        }
-      ],
-      "theme": [
-        "geospatial"
-      ]
-    },
-    {
-      "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=21ff0add4d71453ca9bb7beabc09e399",
-      "landingPage": "https://www.datazapad.cz/documents/21ff0add4d71453ca9bb7beabc09e399",
-      "title": "Předpoklady rozvoje chytré obce",
-      "description": "{{description}}",
-      "keyword": [],
-      "issued": "2025-05-14T19:49:55.000Z",
-      "modified": "2025-05-14T19:50:02.000Z",
-      "publisher": {
-        "name": "petr.bek@karp-kv.cz"
-      },
-      "contactPoint": {
-        "@type": "vcard:Contact",
-        "fn": "petr.bek@karp-kv.cz",
-        "hasEmail": "{{orgContactEmail}}"
-      },
-      "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
-      "license": "",
-      "category": [
-        "Zdravotnictví a zdraví",
-        "Kraj a dotace",
-        "Veřejná doprava a silnice",
-        "Ekonomika a trh práce",
-        "IZS a bezpečnost",
-        "Lidé a sociální služby",
-        "Školství a výzkum",
-        "Kultura a cestovní ruch",
-        "Investice kraje"
-      ],
-      "metadata": "{{metadata.metadata}}",
-      "distribution": [
-        {
-          "@type": "dcat:Distribution",
-          "title": "ArcGIS Hub Dataset",
-          "format": "Web Page",
-          "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/documents/21ff0add4d71453ca9bb7beabc09e399"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "ArcGIS GeoService",
-          "format": "ArcGIS GeoServices REST API",
-          "mediaType": "application/json",
-          "accessURL": "https://www.datazapad.cz/pages/dalsi-vystupy-vyhodnoceni-predpokladu-rozvoje-chytre-obce"
         }
       ],
       "theme": [
@@ -6571,6 +6473,51 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=4c20099b476a4c03b7b5a0cf97b45d95",
+      "landingPage": "https://www.datazapad.cz/documents/4c20099b476a4c03b7b5a0cf97b45d95",
+      "title": "Image analýza Karlovarského kraje",
+      "description": "{{description}}",
+      "keyword": [
+        "Analýza",
+        "Image"
+      ],
+      "issued": "2025-05-15T17:42:11.000Z",
+      "modified": "2025-05-15T17:42:17.000Z",
+      "publisher": {
+        "name": "petr.bek@karp-kv.cz"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "petr.bek@karp-kv.cz",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "",
+      "category": [],
+      "metadata": "{{metadata.metadata}}",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datazapad.cz/documents/4c20099b476a4c03b7b5a0cf97b45d95"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://ik.imagekit.io/3nrtv9oq0/datazapad/Image-analyza-Karlovarskeho-kraje.pdf?updatedAt=1706083830677"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=4d8d7284782049ee826b794af25cbc05&sublayer=0",
       "landingPage": "https://www.datazapad.cz/datasets/4d8d7284782049ee826b794af25cbc05_0",
       "title": "Živnostenské úřady v Karlovarském kraji",
@@ -6847,6 +6794,55 @@
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
           "accessURL": "https://www.datazapad.cz/api/download/v1/items/4d8d7284782049ee826b794af25cbc05/kml?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=4de2c22d0b6a4caa817117e2a9e8cb04",
+      "landingPage": "https://www.datazapad.cz/documents/4de2c22d0b6a4caa817117e2a9e8cb04",
+      "title": "Analýza překážek inovačního prostředí Karlovarského kraje",
+      "description": "{{description}}",
+      "keyword": [
+        "Inovace",
+        "Analýza"
+      ],
+      "issued": "2025-05-15T17:40:38.000Z",
+      "modified": "2025-05-15T17:40:45.000Z",
+      "publisher": {
+        "name": "petr.bek@karp-kv.cz"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "petr.bek@karp-kv.cz",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "",
+      "category": [
+        "Ekonomika a trh práce",
+        "Investice kraje",
+        "Kraj a dotace"
+      ],
+      "metadata": "{{metadata.metadata}}",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datazapad.cz/documents/4de2c22d0b6a4caa817117e2a9e8cb04"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://ik.imagekit.io/3nrtv9oq0/datazapad/Analyza-prekazek-inovacniho-prostredi-Karlovarskeho-kraje.pdf?updatedAt=1706016589354"
         }
       ],
       "theme": [
@@ -13251,6 +13247,51 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=8b2bfbf4d4354143965773148b16d732",
+      "landingPage": "https://www.datazapad.cz/documents/8b2bfbf4d4354143965773148b16d732",
+      "title": "Analýza změn inovačního prostředí Karlovarského kraje",
+      "description": "{{description}}",
+      "keyword": [],
+      "issued": "2025-05-15T17:36:01.000Z",
+      "modified": "2025-05-15T17:36:07.000Z",
+      "publisher": {
+        "name": "petr.bek@karp-kv.cz"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "petr.bek@karp-kv.cz",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "",
+      "category": [
+        "Ekonomika a trh práce",
+        "Kraj a dotace"
+      ],
+      "metadata": "{{metadata.metadata}}",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datazapad.cz/documents/8b2bfbf4d4354143965773148b16d732"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://ik.imagekit.io/3nrtv9oq0/datazapad/Analyza-zmen-inovacniho-prostredi-Karlovarskeho-kraje.pdf?updatedAt=1706088842124"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=903168d407624e57a43cb4ab9bc97620&sublayer=3",
       "landingPage": "https://www.datazapad.cz/datasets/903168d407624e57a43cb4ab9bc97620_3",
       "title": "Seznam provozovatelů školících středisek v Karlovarském kraji",
@@ -13857,6 +13898,61 @@
           "format": "GDB",
           "mediaType": "application/geopackage+sqlite3",
           "accessURL": "https://www.datazapad.cz/api/download/v1/items/90441fa783444e1ead5ad71464504d6a/sqlite?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=948923a0b6a14930b412bf31f16ce034",
+      "landingPage": "https://www.datazapad.cz/documents/948923a0b6a14930b412bf31f16ce034",
+      "title": "Analýza chytrých řešení pro města a venkov",
+      "description": "<span style='font-size:16px; color:rgb(33, 33, 33); font-family:Montserrat, &quot;Avenir Next&quot;;'>Analýza se věnuje příkladům dobré praxe v různě velkých městech a obcích České republiky a následně realizovaným řešením v Karlovarském kraji, která by se mohla stát základem pro budování chytrého regionu.</span>",
+      "keyword": [
+        "Smart city",
+        "Chytrá města",
+        "Chytrý venkov",
+        "Digitalizace"
+      ],
+      "issued": "2025-05-15T17:37:40.000Z",
+      "modified": "2025-05-15T17:50:09.000Z",
+      "publisher": {
+        "name": "petr.bek@karp-kv.cz"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "petr.bek@karp-kv.cz",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "",
+      "category": [
+        "Zdravotnictví a zdraví",
+        "Kraj a dotace",
+        "Veřejná doprava a silnice",
+        "Ekonomika a trh práce",
+        "Lidé a sociální služby",
+        "Kultura a cestovní ruch",
+        "Investice kraje"
+      ],
+      "metadata": "{{metadata.metadata}}",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datazapad.cz/documents/948923a0b6a14930b412bf31f16ce034"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://ik.imagekit.io/3nrtv9oq0/datazapad/Analyza-chytrych-reseni-pro-mesta-a-venkov.pdf?updatedAt=1704977556234"
         }
       ],
       "theme": [
@@ -17435,10 +17531,14 @@
       "identifier": "https://www.arcgis.com/home/item.html?id=c693eb86f1974cc18e6a0bc5ae8d39ee",
       "landingPage": "https://www.datazapad.cz/apps/c693eb86f1974cc18e6a0bc5ae8d39ee",
       "title": "Analýza nabídek práce",
-      "description": "{{description}}",
-      "keyword": [],
+      "description": "Karlovarský kraj je často vnímán jako region, ve kterém není dostatek perspektivních pracovních míst pro kvalifikovanou pracovní sílu. V naší drobné analýze jsme se pokusili tímto přesvědčením zabývat podrobněji a snažili jsme se ověřit, jestli je ho možné považovat za obecně platné nebo jde spíše o stereotyp mezi obyvateli regionu.",
+      "keyword": [
+        "Analýza",
+        "Pracovní trh",
+        "Nabídky práce"
+      ],
       "issued": "2025-05-14T20:09:24.000Z",
-      "modified": "2025-05-14T20:09:24.000Z",
+      "modified": "2025-05-15T17:54:34.000Z",
       "publisher": {
         "name": "petr.bek@karp-kv.cz"
       },
@@ -18671,10 +18771,13 @@
       "identifier": "https://www.arcgis.com/home/item.html?id=df97b40149a74620b5f9c4c7c86c291c",
       "landingPage": "https://www.datazapad.cz/documents/df97b40149a74620b5f9c4c7c86c291c",
       "title": "Analýza přínosů lázeňství pro Karlovarský kraj",
-      "description": "{{description}}",
-      "keyword": [],
+      "description": "Cílem této analýzy bylo shromáždit data o jednotlivých aktérech lázeňství v Karlovarském kraji a ukázat na nich jejich přínos pro kraj i pro obor lázeňství jako takový.",
+      "keyword": [
+        "Analýza",
+        "Lázeňství"
+      ],
       "issued": "2025-05-06T11:53:08.000Z",
-      "modified": "2025-05-06T11:53:15.000Z",
+      "modified": "2025-05-15T17:49:03.000Z",
       "publisher": {
         "name": "petr.bek@karp-kv.cz"
       },
@@ -18993,53 +19096,6 @@
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
           "accessURL": "https://www.datazapad.cz/api/download/v1/items/f98f8248cdf140ad84649976f2d6f499/kml?layers=3"
-        }
-      ],
-      "theme": [
-        "geospatial"
-      ]
-    },
-    {
-      "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=fe141aa145b941c8b3c2eca846a79efd",
-      "landingPage": "https://www.datazapad.cz/documents/fe141aa145b941c8b3c2eca846a79efd",
-      "title": "RIM: Regionální inovační mapa",
-      "description": "{{description}}",
-      "keyword": [
-        "inovace"
-      ],
-      "issued": "2025-04-24T13:52:46.000Z",
-      "modified": "2025-04-25T09:12:01.000Z",
-      "publisher": {
-        "name": "petr.bek@karp-kv.cz"
-      },
-      "contactPoint": {
-        "@type": "vcard:Contact",
-        "fn": "petr.bek@karp-kv.cz",
-        "hasEmail": "{{orgContactEmail}}"
-      },
-      "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
-      "license": "",
-      "category": [
-        "Kraj a dotace",
-        "Školství a výzkum"
-      ],
-      "metadata": "{{metadata.metadata}}",
-      "distribution": [
-        {
-          "@type": "dcat:Distribution",
-          "title": "ArcGIS Hub Dataset",
-          "format": "Web Page",
-          "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/documents/fe141aa145b941c8b3c2eca846a79efd"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "ArcGIS GeoService",
-          "format": "ArcGIS GeoServices REST API",
-          "mediaType": "application/json",
-          "accessURL": "https://www.datazapad.cz/pages/regionalni-inovacni-mapa"
         }
       ],
       "theme": [
