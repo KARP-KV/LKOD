@@ -1,26 +1,19 @@
 {
   "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://open.datazapad.cz/52d90b8c34f14328b150f1caddd2d6aa.jsonld",
+  "iri": "https://open.datazapad.cz/c693eb86f1974cc18e6a0bc5ae8d39ee.jsonld",
   "typ": "Datová sada",
   "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891168",
   "název": {
-    "cs": "Pohoří a řeky Karlovarského kraje"
+    "cs": "Analýza nabídek práce"
   },
   "popis": {
     "cs": "{{description}}"
   },
   "klíčové_slovo": {
-    "cs": [
-      "Řeky",
-      "Profil regionu",
-      "Pohoří",
-      "Území"
-    ]
+    "cs": []
   },
   "téma": [
-    "http://publications.europa.eu/resource/authority/data-theme/REGI",
-    "http://publications.europa.eu/resource/authority/data-theme/GOVE",
-    "http://publications.europa.eu/resource/authority/data-theme/EDUC"
+    "http://publications.europa.eu/resource/authority/data-theme/ECON"
   ],
   "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
   "prvek_rúian": [
@@ -29,12 +22,12 @@
   "distribuce": [
     {
       "typ": "Distribuce",
-      "iri": "https://www.datazapad.cz/documents/52d90b8c34f14328b150f1caddd2d6aa",
+      "iri": "https://www.datazapad.cz/apps/c693eb86f1974cc18e6a0bc5ae8d39ee",
       "název": {
         "cs": "ArcGIS Hub Dataset"
       },
-      "soubor_ke_stažení": "https://www.datazapad.cz/documents/52d90b8c34f14328b150f1caddd2d6aa",
-      "přístupové_url": "https://www.datazapad.cz/documents/52d90b8c34f14328b150f1caddd2d6aa",
+      "soubor_ke_stažení": "https://www.datazapad.cz/apps/c693eb86f1974cc18e6a0bc5ae8d39ee",
+      "přístupové_url": "https://www.datazapad.cz/apps/c693eb86f1974cc18e6a0bc5ae8d39ee",
       "typ_média": "http://www.iana.org/assignments/media-types/text/html",
       "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
       "podmínky_užití": {
@@ -47,12 +40,12 @@
     },
     {
       "typ": "Distribuce",
-      "iri": "https://app.powerbi.com/view?r=eyJrIjoiZmQ2NThiN2UtY2I2OS00ZTg5LTk2YmEtZWNhOWM2NWYzYWM2IiwidCI6IjU3NGE0YjU0LTYxMjItNGRlYi05YjE4LWM1OGZkN2M3NWQzMiIsImMiOjl9",
+      "iri": "https://www.datazapad.cz/pages/dalsi-vystupy-analyza-nabidek-prace",
       "název": {
         "cs": "ArcGIS GeoService"
       },
-      "soubor_ke_stažení": "https://app.powerbi.com/view?r=eyJrIjoiZmQ2NThiN2UtY2I2OS00ZTg5LTk2YmEtZWNhOWM2NWYzYWM2IiwidCI6IjU3NGE0YjU0LTYxMjItNGRlYi05YjE4LWM1OGZkN2M3NWQzMiIsImMiOjl9",
-      "přístupové_url": "https://app.powerbi.com/view?r=eyJrIjoiZmQ2NThiN2UtY2I2OS00ZTg5LTk2YmEtZWNhOWM2NWYzYWM2IiwidCI6IjU3NGE0YjU0LTYxMjItNGRlYi05YjE4LWM1OGZkN2M3NWQzMiIsImMiOjl9",
+      "soubor_ke_stažení": "https://www.datazapad.cz/pages/dalsi-vystupy-analyza-nabidek-prace",
+      "přístupové_url": "https://www.datazapad.cz/pages/dalsi-vystupy-analyza-nabidek-prace",
       "typ_média": "http://www.iana.org/assignments/media-types/application/json",
       "formát": "http://publications.europa.eu/resource/authority/file-type/JSON",
       "podmínky_užití": {
