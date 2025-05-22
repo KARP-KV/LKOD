@@ -4952,17 +4952,18 @@
     },
     {
       "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=2fe4d27ac10341f6bd2b4ea6380a2599&sublayer=0",
-      "landingPage": "https://www.datazapad.cz/datasets/2fe4d27ac10341f6bd2b4ea6380a2599_0",
+      "identifier": "https://www.arcgis.com/home/item.html?id=2fe4d27ac10341f6bd2b4ea6380a2599&sublayer=3",
+      "landingPage": "https://www.datazapad.cz/datasets/2fe4d27ac10341f6bd2b4ea6380a2599_3",
       "title": "Rozhledny v Karlovarském kraji",
-      "description": "Seznam rozhleden v Karlovarském kraji",
+      "description": "<p>Seznam rozhleden obsahuje kromě místní specifikace rovněž popis rozhledny, informace o provozovateli, přístupu, vstupném na rozhlednu a webové stránky s bližším popisem rozhledny. Poskytovatelem původního zdroje dat je <span style=\"font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif;\">Živý kraj – Destinační agentura pro Karlovarský kraj, z.s.</span></p><div><span style=\"font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif;\">Souřadnicový systém je použit GCS_WGS_1984.</span></div>",
       "keyword": [
         "rozhledna",
         "vyhlídka",
-        "Karlovarský kraj"
+        "Karlovarský kraj",
+        "vyhlídková věž"
       ],
       "issued": "2024-05-13T10:45:39.000Z",
-      "modified": "2025-04-01T11:27:20.811Z",
+      "modified": "2025-05-22T10:12:27.000Z",
       "publisher": {
         "name": "Karlovarská agentura rozvoje podnikání, p.o."
       },
@@ -4972,7 +4973,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "12.2018,49.9352,13.0044,50.4002",
+      "spatial": "12.2018,49.9352,13.0363,50.4054",
       "license": "https://creativecommons.org/licenses/by/4.0",
       "category": [
         "Kultura a cestovní ruch"
@@ -4989,28 +4990,48 @@
               "eMailAdd": "pavla.brabencova@karp-kv.cz"
             }
           },
-          "rpOrgName": "Karlovarská agentura rozvoje podnikání, p.o.",
           "role": {
             "RoleCd": {
               "@_value": "007"
             }
+          },
+          "rpOrgName": "Karlovarská agentura rozvoje podnikání, p.o."
+        },
+        "distInfo": {
+          "distTranOps": {
+            "onLineSrc": {
+              "linkage": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Rozhledny_v_Karlovarsk%C3%A9m_kraji_WFL1/FeatureServer"
+            }
           }
         },
-        "mdDateSt": "2024-05-13",
+        "mdMaint": {
+          "maintScp": {
+            "ScopeCd": {
+              "@_value": "001"
+            }
+          },
+          "maintFreq": {
+            "MaintFreqCd": {
+              "@_value": "008"
+            }
+          }
+        },
+        "mdDateSt": "2025-05-22",
         "Esri": {
           "ArcGISFormat": 1,
-          "CreaTime": 12183000,
+          "CreaTime": 11232400,
           "ArcGISProfile": "INSPIRE",
-          "ArcGISstyle": "INSPIRE Metadata Directive",
-          "ModDate": 20240514,
           "CreaDate": 20240513,
-          "ModTime": 12010777,
-          "SyncOnce": "TRUE",
-          "MapLyrSync": false,
-          "PublishStatus": "editor:esri.dijit.metadata.editor"
+          "SyncOnce": "TRUE"
         },
-        "mdTimeSt": "12:51:36.57",
         "dqInfo": {
+          "dqScope": {
+            "scpLvl": {
+              "ScopeCd": {
+                "@_value": "005"
+              }
+            }
+          },
           "report": {
             "measResult": {
               "ConResult": {
@@ -5024,40 +5045,53 @@
             }
           }
         },
+        "@_xml:lang": "cs",
         "mdHrLv": {
           "ScopeCd": {
             "@_value": "005"
           }
         },
         "dataIdInfo": {
-          "idAbs": "Seznam rozhleden v Karlovarském kraji",
+          "idAbs": "<p>Seznam rozhleden obsahuje kromě místní specifikace rovněž popis rozhledny, informace o provozovateli, přístupu, vstupném na rozhlednu a webové stránky s bližším popisem rozhledny. Poskytovatelem původního zdroje dat je <span style=\"font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif;\">Živý kraj – Destinační agentura pro Karlovarský kraj, z.s.</span></p><div><span style=\"font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif;\">Souřadnicový systém je použit GCS_WGS_1984.</span></div>",
           "idCredit": "Živý kraj – Destinační agentura pro Karlovarský kraj, z.s.",
-          "dataExt": {
-            "geoEle": {
-              "GeoBndBox": {
-                "eastBL": 13.163695,
-                "southBL": 49.903356,
-                "northBL": 50.457934,
-                "westBL": 12.03978
-              }
+          "dataLang": {
+            "languageCode": {
+              "@_value": "cze"
             }
+          },
+          "idPurp": "Přehled rozhleden v Karlovarském kraji.",
+          "tpCat": {
+            "TopicCatCd": {
+              "@_value": "016"
+            }
+          },
+          "dataExt": {
+            "geoEle": [
+              {
+                "GeoBndBox": {
+                  "eastBL": 13.06379,
+                  "southBL": 49.922811,
+                  "northBL": 50.415935,
+                  "westBL": 12.12767
+                }
+              },
+              {
+                "GeoBndBox": {
+                  "eastBL": 13.07203,
+                  "southBL": 49.913969,
+                  "northBL": 50.421185,
+                  "westBL": 12.168869
+                }
+              }
+            ]
           },
           "idCitation": {
             "date": {
-              "pubDate": "2024-05-13T12:52:24.436+02:00",
-              "createDate": "2024-05-13T12:52:27.887+02:00"
+              "reviseDate": "2025-05-22T10:12:27"
             },
             "resTitle": "Rozhledny v Karlovarském kraji",
             "citId": {
               "identCode": "publication"
-            }
-          },
-          "dataLang": {
-            "countryCode": {
-              "@_value": "CZ"
-            },
-            "languageCode": {
-              "@_value": "cze"
             }
           },
           "themeKeys": {
@@ -5069,27 +5103,27 @@
             },
             "keyword": [
               "rozhledna",
-              "rozhledny",
-              "vyhlídka",
-              "Karlovarský kraj"
+              "Karlovarský kraj",
+              "vyhlídková věž",
+              "vyhlídka"
             ]
           },
-          "idPurp": "Seznam rozhleden v Karlovarském kraji",
+          "spatRpType": {
+            "SpatRepTypCd": {
+              "@_value": "003"
+            }
+          },
           "dataChar": {
             "CharSetCd": {
               "@_value": "004"
-            }
-          },
-          "tpCat": {
-            "TopicCatCd": {
-              "@_value": "017"
             }
           },
           "searchKeys": {
             "keyword": [
               "rozhledna",
               "vyhlídka",
-              "Karlovarský kraj"
+              "Karlovarský kraj",
+              "vyhlídková věž"
             ]
           },
           "idPoC": {
@@ -5098,22 +5132,16 @@
                 "eMailAdd": "pavla.brabencova@karp-kv.cz"
               }
             },
-            "rpOrgName": "Karlovarská agentura rozvoje podnikání, p.o.",
             "role": {
               "RoleCd": {
                 "@_value": "007"
               }
-            }
+            },
+            "rpOrgName": "Karlovarská agentura rozvoje podnikání, p.o."
           },
           "resConst": [
             {
               "LegConsts": {
-                "useConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
-                "othConsts": "Jiná omezení",
                 "inspireAccessUseConditions": {
                   "ConditionsAccUseCd": {
                     "@_value": "001"
@@ -5123,12 +5151,6 @@
             },
             {
               "LegConsts": {
-                "othConsts": "Jiná omezení",
-                "accessConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
                 "inspirePublicAccessLimits": {
                   "PublicAccessCd": {
                     "@_value": "001"
@@ -5143,27 +5165,20 @@
             }
           ]
         },
+        "refSysInfo": {
+          "RefSystem": {
+            "refSysID": {
+              "identCode": {
+                "@_code": "GCS_WGS_1984"
+              }
+            }
+          }
+        },
         "mdChar": {
           "CharSetCd": {
             "@_value": "004"
           }
-        },
-        "mdFileID": "1715597496827r6038834209640356",
-        "distInfo": {
-          "distTranOps": {
-            "onLineSrc": {
-              "linkage": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Rozhledny_v_Karlovarsk%C3%A9m_kraji_WFL1/FeatureServer"
-            }
-          }
-        },
-        "mdMaint": {
-          "maintFreq": {
-            "MaintFreqCd": {
-              "@_value": "009"
-            }
-          }
-        },
-        "@_xml:lang": "cs"
+        }
       },
       "distribution": [
         {
@@ -5171,77 +5186,77 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/datasets/2fe4d27ac10341f6bd2b4ea6380a2599_0"
+          "accessURL": "https://www.datazapad.cz/datasets/2fe4d27ac10341f6bd2b4ea6380a2599_3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "ArcGIS GeoService",
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
-          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Rozhledny_v_Karlovarsk%C3%A9m_kraji_WFL1/FeatureServer/0"
+          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Rozhledny_v_Karlovarsk%C3%A9m_kraji_WFL1/FeatureServer/3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "CSV",
           "format": "CSV",
           "mediaType": "text/csv",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/2fe4d27ac10341f6bd2b4ea6380a2599/csv?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/2fe4d27ac10341f6bd2b4ea6380a2599/csv?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Shapefile",
           "format": "ZIP",
           "mediaType": "application/zip",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/2fe4d27ac10341f6bd2b4ea6380a2599/shapefile?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/2fe4d27ac10341f6bd2b4ea6380a2599/shapefile?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "GeoJSON",
           "format": "GeoJSON",
           "mediaType": "application/vnd.geo+json",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/2fe4d27ac10341f6bd2b4ea6380a2599/geojson?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/2fe4d27ac10341f6bd2b4ea6380a2599/geojson?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "KML",
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/2fe4d27ac10341f6bd2b4ea6380a2599/kml?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/2fe4d27ac10341f6bd2b4ea6380a2599/kml?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "File Geodatabase",
           "format": "ZIP",
           "mediaType": "application/zip",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/2fe4d27ac10341f6bd2b4ea6380a2599/filegdb?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/2fe4d27ac10341f6bd2b4ea6380a2599/filegdb?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Feature Collection",
           "format": "TXT",
           "mediaType": "text/plain",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/2fe4d27ac10341f6bd2b4ea6380a2599/featureCollection?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/2fe4d27ac10341f6bd2b4ea6380a2599/featureCollection?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Excel",
           "format": "XLSX",
           "mediaType": "application/vnd.ms-excel",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/2fe4d27ac10341f6bd2b4ea6380a2599/excel?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/2fe4d27ac10341f6bd2b4ea6380a2599/excel?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "GeoPackage",
           "format": "GPKG",
           "mediaType": "application/geopackage+sqlite3",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/2fe4d27ac10341f6bd2b4ea6380a2599/geoPackage?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/2fe4d27ac10341f6bd2b4ea6380a2599/geoPackage?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "SQLite Geodatabase",
           "format": "GDB",
           "mediaType": "application/geopackage+sqlite3",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/2fe4d27ac10341f6bd2b4ea6380a2599/sqlite?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/2fe4d27ac10341f6bd2b4ea6380a2599/sqlite?layers=3"
         }
       ],
       "theme": [
