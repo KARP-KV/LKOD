@@ -14238,10 +14238,10 @@
     },
     {
       "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=98d26c1b1c8f4bd49850af82a19a7f58&sublayer=0",
-      "landingPage": "https://www.datazapad.cz/datasets/98d26c1b1c8f4bd49850af82a19a7f58_0",
+      "identifier": "https://www.arcgis.com/home/item.html?id=98d26c1b1c8f4bd49850af82a19a7f58&sublayer=3",
+      "landingPage": "https://www.datazapad.cz/datasets/98d26c1b1c8f4bd49850af82a19a7f58_3",
       "title": "Aquaparky, koupaliště a bazény v Karlovarském kraji",
-      "description": "<p>Datová sada obsahuje rovněž webové stránky zařízení a kontaktní e-mail a telefonní číslo.</p>",
+      "description": "<p>Datová sada obsahuje kromě specifikace umístění rovněž informace o provozovateli, webové stránky a kontaktní e-mail a telefonní číslo.</p><p>Zdrojem původních dat je <span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif;'>Živý kraj – Destinační agentura pro Karlovarský kraj, z.s.</span></p>",
       "keyword": [
         "aquapark",
         "koupaliště",
@@ -14249,7 +14249,7 @@
         "Karlovarský kraj"
       ],
       "issued": "2024-05-16T07:06:20.000Z",
-      "modified": "2025-04-01T11:25:43.004Z",
+      "modified": "2025-05-26T10:30:37.000Z",
       "publisher": {
         "name": "Karlovarská agentura rozvoje podnikání, p.o."
       },
@@ -14259,7 +14259,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "12.1950,49.9671,12.9601,50.3602",
+      "spatial": "12.1950,49.9430,13.1464,50.3602",
       "license": "https://creativecommons.org/licenses/by/4.0",
       "category": [
         "Kultura a cestovní ruch"
@@ -14276,28 +14276,43 @@
               "eMailAdd": "pavla.brabencova@karp-kv.cz"
             }
           },
-          "rpOrgName": "Karlovarská agentura rozvoje podnikání, p.o.",
           "role": {
             "RoleCd": {
               "@_value": "007"
             }
+          },
+          "rpOrgName": "Karlovarská agentura rozvoje podnikání, p.o."
+        },
+        "distInfo": {
+          "distTranOps": {
+            "onLineSrc": {
+              "linkage": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Aquaparky__koupali%C5%A1t%C4%9B_a_baz%C3%A9ny_v_Karlovarsk%C3%A9m_kraji_WFL1/FeatureServer"
+            }
           }
         },
-        "mdDateSt": "2024-05-16",
+        "mdMaint": {
+          "maintFreq": {
+            "MaintFreqCd": {
+              "@_value": "008"
+            }
+          }
+        },
+        "mdDateSt": "2025-05-26",
         "Esri": {
           "ArcGISFormat": 1,
-          "CreaTime": 8421000,
+          "CreaTime": 8411500,
           "ArcGISProfile": "INSPIRE",
-          "ArcGISstyle": "INSPIRE Metadata Directive",
-          "ModDate": 20240516,
           "CreaDate": 20240516,
-          "ModTime": 9144394,
-          "SyncOnce": "TRUE",
-          "MapLyrSync": false,
-          "PublishStatus": "editor:esri.dijit.metadata.editor"
+          "SyncOnce": "TRUE"
         },
-        "mdTimeSt": "09:11:21.76",
         "dqInfo": {
+          "dqScope": {
+            "scpLvl": {
+              "ScopeCd": {
+                "@_value": "005"
+              }
+            }
+          },
           "report": {
             "measResult": {
               "ConResult": {
@@ -14311,40 +14326,43 @@
             }
           }
         },
+        "@_xml:lang": "cs",
         "mdHrLv": {
           "ScopeCd": {
             "@_value": "005"
           }
         },
         "dataIdInfo": {
-          "idAbs": "<p>Datová sada obsahuje rovněž webové stránky zařízení a kontaktní e-mail a telefonní číslo.</p>",
+          "idAbs": "<p>Datová sada obsahuje kromě specifikace umístění rovněž informace o provozovateli, webové stránky a kontaktní e-mail a telefonní číslo.</p><p>Zdrojem původních dat je <span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif;'>Živý kraj – Destinační agentura pro Karlovarský kraj, z.s.</span></p>",
           "idCredit": "Živý kraj – Destinační agentura pro Karlovarský kraj, z.s.",
+          "dataLang": {
+            "languageCode": {
+              "@_value": "cze"
+            }
+          },
+          "idPurp": "Přehled aquaparků, koupališť a bazénů v Karlovarském kraji.",
+          "tpCat": {
+            "TopicCatCd": {
+              "@_value": "016"
+            }
+          },
           "dataExt": {
             "geoEle": {
               "GeoBndBox": {
-                "eastBL": 13.100833,
-                "southBL": 49.891612,
-                "northBL": 50.403954,
-                "westBL": 12.194971
+                "eastBL": 13.162881,
+                "southBL": 49.93236,
+                "northBL": 50.372433,
+                "westBL": 12.148279
               }
             }
           },
           "idCitation": {
             "date": {
-              "pubDate": "2024-05-16T09:12:08.870+02:00",
-              "createDate": "2024-05-16T09:12:10.621+02:00"
+              "reviseDate": "2025-05-26T10:30:37"
             },
             "resTitle": "Aquaparky, koupaliště a bazény v Karlovarském kraji",
             "citId": {
               "identCode": "publication"
-            }
-          },
-          "dataLang": {
-            "countryCode": {
-              "@_value": "CZ"
-            },
-            "languageCode": {
-              "@_value": "cze"
             }
           },
           "themeKeys": {
@@ -14356,20 +14374,19 @@
             },
             "keyword": [
               "aquapark",
-              "koupaliště",
               "bazén",
+              "koupaliště",
               "Karlovarský kraj"
             ]
           },
-          "idPurp": "Přehled aquaparků, koupališť a bazénů v Karlovarském kraji.",
+          "spatRpType": {
+            "SpatRepTypCd": {
+              "@_value": "003"
+            }
+          },
           "dataChar": {
             "CharSetCd": {
               "@_value": "004"
-            }
-          },
-          "tpCat": {
-            "TopicCatCd": {
-              "@_value": "016"
             }
           },
           "searchKeys": {
@@ -14386,22 +14403,16 @@
                 "eMailAdd": "pavla.brabencova@karp-kv.cz"
               }
             },
-            "rpOrgName": "Karlovarská agentura rozvoje podnikání, p.o.",
             "role": {
               "RoleCd": {
                 "@_value": "007"
               }
-            }
+            },
+            "rpOrgName": "Karlovarská agentura rozvoje podnikání, p.o."
           },
           "resConst": [
             {
               "LegConsts": {
-                "useConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
-                "othConsts": "Jiná omezení",
                 "inspireAccessUseConditions": {
                   "ConditionsAccUseCd": {
                     "@_value": "001"
@@ -14411,12 +14422,6 @@
             },
             {
               "LegConsts": {
-                "othConsts": "Jiná omezení",
-                "accessConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
                 "inspirePublicAccessLimits": {
                   "PublicAccessCd": {
                     "@_value": "001"
@@ -14431,27 +14436,20 @@
             }
           ]
         },
+        "refSysInfo": {
+          "RefSystem": {
+            "refSysID": {
+              "identCode": {
+                "@_code": "GCS_WGS_1984"
+              }
+            }
+          }
+        },
         "mdChar": {
           "CharSetCd": {
             "@_value": "004"
           }
-        },
-        "mdFileID": "1715843482025r8281877569607738",
-        "distInfo": {
-          "distTranOps": {
-            "onLineSrc": {
-              "linkage": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Aquaparky__koupali%C5%A1t%C4%9B_a_baz%C3%A9ny_v_Karlovarsk%C3%A9m_kraji_WFL1/FeatureServer"
-            }
-          }
-        },
-        "mdMaint": {
-          "maintFreq": {
-            "MaintFreqCd": {
-              "@_value": "009"
-            }
-          }
-        },
-        "@_xml:lang": "cs"
+        }
       },
       "distribution": [
         {
@@ -14459,77 +14457,77 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/datasets/98d26c1b1c8f4bd49850af82a19a7f58_0"
+          "accessURL": "https://www.datazapad.cz/datasets/98d26c1b1c8f4bd49850af82a19a7f58_3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "ArcGIS GeoService",
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
-          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Aquaparky__koupali%C5%A1t%C4%9B_a_baz%C3%A9ny_v_Karlovarsk%C3%A9m_kraji_WFL1/FeatureServer/0"
+          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Aquaparky__koupali%C5%A1t%C4%9B_a_baz%C3%A9ny_v_Karlovarsk%C3%A9m_kraji_WFL1/FeatureServer/3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "CSV",
           "format": "CSV",
           "mediaType": "text/csv",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/98d26c1b1c8f4bd49850af82a19a7f58/csv?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/98d26c1b1c8f4bd49850af82a19a7f58/csv?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Shapefile",
           "format": "ZIP",
           "mediaType": "application/zip",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/98d26c1b1c8f4bd49850af82a19a7f58/shapefile?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/98d26c1b1c8f4bd49850af82a19a7f58/shapefile?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "GeoJSON",
           "format": "GeoJSON",
           "mediaType": "application/vnd.geo+json",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/98d26c1b1c8f4bd49850af82a19a7f58/geojson?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/98d26c1b1c8f4bd49850af82a19a7f58/geojson?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "KML",
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/98d26c1b1c8f4bd49850af82a19a7f58/kml?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/98d26c1b1c8f4bd49850af82a19a7f58/kml?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "File Geodatabase",
           "format": "ZIP",
           "mediaType": "application/zip",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/98d26c1b1c8f4bd49850af82a19a7f58/filegdb?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/98d26c1b1c8f4bd49850af82a19a7f58/filegdb?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Feature Collection",
           "format": "TXT",
           "mediaType": "text/plain",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/98d26c1b1c8f4bd49850af82a19a7f58/featureCollection?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/98d26c1b1c8f4bd49850af82a19a7f58/featureCollection?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Excel",
           "format": "XLSX",
           "mediaType": "application/vnd.ms-excel",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/98d26c1b1c8f4bd49850af82a19a7f58/excel?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/98d26c1b1c8f4bd49850af82a19a7f58/excel?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "GeoPackage",
           "format": "GPKG",
           "mediaType": "application/geopackage+sqlite3",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/98d26c1b1c8f4bd49850af82a19a7f58/geoPackage?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/98d26c1b1c8f4bd49850af82a19a7f58/geoPackage?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "SQLite Geodatabase",
           "format": "GDB",
           "mediaType": "application/geopackage+sqlite3",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/98d26c1b1c8f4bd49850af82a19a7f58/sqlite?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/98d26c1b1c8f4bd49850af82a19a7f58/sqlite?layers=3"
         }
       ],
       "theme": [
