@@ -2780,19 +2780,19 @@
     },
     {
       "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=1384c78c4e6846219a9829cd07c81f60&sublayer=3",
-      "landingPage": "https://www.datazapad.cz/datasets/1384c78c4e6846219a9829cd07c81f60_3",
+      "identifier": "https://www.arcgis.com/home/item.html?id=1384c78c4e6846219a9829cd07c81f60&sublayer=0",
+      "landingPage": "https://www.datazapad.cz/datasets/1384c78c4e6846219a9829cd07c81f60_0",
       "title": "Pohřebiště v Karlovarském kraji",
-      "description": "<p>Přehled pohřebišť v Karlovarském kraji obsahuje kromě přehledu pohřebišť rovněž jejich umístění na pozemcích parcelních čísel a katastrálních území a dále také specifikaci Správce pohřebiště.</p>",
+      "description": "<p>Přehled pohřebišť v Karlovarském kraji obsahuje kromě přehledu pohřebišť rovněž jejich umístění na pozemcích parcelních čísel a katastrálních území a dále také specifikaci Správce pohřebiště.</p><p>Zdrojem dat je Krajský úřad Karlovarského kraje.</p>",
       "keyword": [
         "Pohřebiště",
         "hřbitov",
         "Karlovarský kraj"
       ],
       "issued": "2024-05-21T09:58:01.000Z",
-      "modified": "2025-04-01T11:17:25.307Z",
+      "modified": "2025-05-27T12:32:05.000Z",
       "publisher": {
-        "name": "Karlovarská agentura rozvoje podnikání, p.o."
+        "name": "Krajský úřad Karlovarského kraje"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -2817,28 +2817,43 @@
               "eMailAdd": "pavla.brabencova@karp-kv.cz"
             }
           },
-          "rpOrgName": "Karlovarská agentura rozvoje podnikání, p.o.",
           "role": {
             "RoleCd": {
               "@_value": "007"
             }
+          },
+          "rpOrgName": "Karlovarská agentura rozvoje podnikání, p.o."
+        },
+        "distInfo": {
+          "distTranOps": {
+            "onLineSrc": {
+              "linkage": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Poh%C5%99ebi%C5%A1t%C4%9B_v_Karlovarsk%C3%A9m_kraji_WFL1/FeatureServer"
+            }
           }
         },
-        "mdDateSt": "2024-05-21",
+        "mdMaint": {
+          "maintFreq": {
+            "MaintFreqCd": {
+              "@_value": "008"
+            }
+          }
+        },
+        "mdDateSt": "2025-05-27",
         "Esri": {
           "ArcGISFormat": 1,
           "CreaTime": 11334700,
           "ArcGISProfile": "INSPIRE",
-          "ArcGISstyle": "INSPIRE Metadata Directive",
-          "ModDate": 20240521,
           "CreaDate": 20240521,
-          "ModTime": 12491203,
-          "SyncOnce": "TRUE",
-          "MapLyrSync": false,
-          "PublishStatus": "editor:esri.dijit.metadata.editor"
+          "SyncOnce": "TRUE"
         },
-        "mdTimeSt": "12:44:33.80",
         "dqInfo": {
+          "dqScope": {
+            "scpLvl": {
+              "ScopeCd": {
+                "@_value": "005"
+              }
+            }
+          },
           "report": {
             "measResult": {
               "ConResult": {
@@ -2852,40 +2867,43 @@
             }
           }
         },
+        "@_xml:lang": "cs",
         "mdHrLv": {
           "ScopeCd": {
             "@_value": "005"
           }
         },
         "dataIdInfo": {
-          "idAbs": "<p>Přehled pohřebišť v Karlovarském kraji obsahuje kromě přehledu pohřebišť rovněž jejich umístění na pozemcích parcelních čísel a katastrálních území a dále také specifikaci Správce pohřebiště.</p>",
+          "idAbs": "<p>Přehled pohřebišť v Karlovarském kraji obsahuje kromě přehledu pohřebišť rovněž jejich umístění na pozemcích parcelních čísel a katastrálních území a dále také specifikaci Správce pohřebiště.</p><p>Zdrojem dat je Krajský úřad Karlovarského kraje.</p>",
           "idCredit": "Krajský úřad Karlovarského kraje",
+          "dataLang": {
+            "languageCode": {
+              "@_value": "cze"
+            }
+          },
+          "idPurp": "Přehled pohřebišť v Karlovarském kraji.",
+          "tpCat": {
+            "TopicCatCd": {
+              "@_value": "016"
+            }
+          },
           "dataExt": {
             "geoEle": {
               "GeoBndBox": {
-                "eastBL": 13.336473,
-                "southBL": 49.830618,
-                "northBL": 50.490004,
-                "westBL": 12.073493
+                "eastBL": 13.259569,
+                "southBL": 49.915584,
+                "northBL": 50.427055,
+                "westBL": 12.177863
               }
             }
           },
           "idCitation": {
             "date": {
-              "pubDate": "2024-05-21T12:45:11.243+02:00",
-              "createDate": "2024-05-21T12:45:14.725+02:00"
+              "reviseDate": "2025-05-27T12:32:05"
             },
             "resTitle": "Pohřebiště v Karlovarském kraji",
             "citId": {
               "identCode": "publication"
-            }
-          },
-          "dataLang": {
-            "countryCode": {
-              "@_value": "CZ"
-            },
-            "languageCode": {
-              "@_value": "cze"
             }
           },
           "themeKeys": {
@@ -2897,19 +2915,18 @@
             },
             "keyword": [
               "pohřebiště",
-              "hřbitov",
-              "Karlovarský kraj"
+              "Karlovarský kraj",
+              "hřbitov"
             ]
           },
-          "idPurp": "Přehled pohřebišť v Karlovarském kraji",
+          "spatRpType": {
+            "SpatRepTypCd": {
+              "@_value": "003"
+            }
+          },
           "dataChar": {
             "CharSetCd": {
               "@_value": "004"
-            }
-          },
-          "tpCat": {
-            "TopicCatCd": {
-              "@_value": "016"
             }
           },
           "searchKeys": {
@@ -2925,22 +2942,16 @@
                 "eMailAdd": "pavla.brabencova@karp-kv.cz"
               }
             },
-            "rpOrgName": "Karlovarská agentura rozvoje podnikání, p.o.",
             "role": {
               "RoleCd": {
                 "@_value": "007"
               }
-            }
+            },
+            "rpOrgName": "Krajský úřad Karlovarského kraje"
           },
           "resConst": [
             {
               "LegConsts": {
-                "useConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
-                "othConsts": "Jiná omezení",
                 "inspireAccessUseConditions": {
                   "ConditionsAccUseCd": {
                     "@_value": "001"
@@ -2950,12 +2961,6 @@
             },
             {
               "LegConsts": {
-                "othConsts": "Jiná omezení",
-                "accessConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
                 "inspirePublicAccessLimits": {
                   "PublicAccessCd": {
                     "@_value": "001"
@@ -2970,27 +2975,20 @@
             }
           ]
         },
+        "refSysInfo": {
+          "RefSystem": {
+            "refSysID": {
+              "identCode": {
+                "@_code": "GCS_WGS_1984"
+              }
+            }
+          }
+        },
         "mdChar": {
           "CharSetCd": {
             "@_value": "004"
           }
-        },
-        "mdFileID": "1716288274068r6109920207965407",
-        "distInfo": {
-          "distTranOps": {
-            "onLineSrc": {
-              "linkage": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Poh%C5%99ebi%C5%A1t%C4%9B_v_Karlovarsk%C3%A9m_kraji_WFL1/FeatureServer"
-            }
-          }
-        },
-        "mdMaint": {
-          "maintFreq": {
-            "MaintFreqCd": {
-              "@_value": "009"
-            }
-          }
-        },
-        "@_xml:lang": "cs"
+        }
       },
       "distribution": [
         {
@@ -2998,77 +2996,77 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/datasets/1384c78c4e6846219a9829cd07c81f60_3"
+          "accessURL": "https://www.datazapad.cz/datasets/1384c78c4e6846219a9829cd07c81f60_0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "ArcGIS GeoService",
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
-          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Poh%C5%99ebi%C5%A1t%C4%9B_v_Karlovarsk%C3%A9m_kraji_WFL1/FeatureServer/3"
+          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Poh%C5%99ebi%C5%A1t%C4%9B_v_Karlovarsk%C3%A9m_kraji_WFL1/FeatureServer/0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "CSV",
           "format": "CSV",
           "mediaType": "text/csv",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/1384c78c4e6846219a9829cd07c81f60/csv?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/1384c78c4e6846219a9829cd07c81f60/csv?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Shapefile",
           "format": "ZIP",
           "mediaType": "application/zip",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/1384c78c4e6846219a9829cd07c81f60/shapefile?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/1384c78c4e6846219a9829cd07c81f60/shapefile?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "GeoJSON",
           "format": "GeoJSON",
           "mediaType": "application/vnd.geo+json",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/1384c78c4e6846219a9829cd07c81f60/geojson?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/1384c78c4e6846219a9829cd07c81f60/geojson?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "KML",
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/1384c78c4e6846219a9829cd07c81f60/kml?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/1384c78c4e6846219a9829cd07c81f60/kml?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "File Geodatabase",
           "format": "ZIP",
           "mediaType": "application/zip",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/1384c78c4e6846219a9829cd07c81f60/filegdb?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/1384c78c4e6846219a9829cd07c81f60/filegdb?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Feature Collection",
           "format": "TXT",
           "mediaType": "text/plain",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/1384c78c4e6846219a9829cd07c81f60/featureCollection?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/1384c78c4e6846219a9829cd07c81f60/featureCollection?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Excel",
           "format": "XLSX",
           "mediaType": "application/vnd.ms-excel",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/1384c78c4e6846219a9829cd07c81f60/excel?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/1384c78c4e6846219a9829cd07c81f60/excel?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "GeoPackage",
           "format": "GPKG",
           "mediaType": "application/geopackage+sqlite3",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/1384c78c4e6846219a9829cd07c81f60/geoPackage?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/1384c78c4e6846219a9829cd07c81f60/geoPackage?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "SQLite Geodatabase",
           "format": "GDB",
           "mediaType": "application/geopackage+sqlite3",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/1384c78c4e6846219a9829cd07c81f60/sqlite?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/1384c78c4e6846219a9829cd07c81f60/sqlite?layers=0"
         }
       ],
       "theme": [
@@ -18194,10 +18192,10 @@
     },
     {
       "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=d51db8b1ac8f40b6adf214e67cbb6f30&sublayer=3",
-      "landingPage": "https://www.datazapad.cz/datasets/d51db8b1ac8f40b6adf214e67cbb6f30_3",
+      "identifier": "https://www.arcgis.com/home/item.html?id=d51db8b1ac8f40b6adf214e67cbb6f30&sublayer=0",
+      "landingPage": "https://www.datazapad.cz/datasets/d51db8b1ac8f40b6adf214e67cbb6f30_0",
       "title": "Pohřební služby v Karlovarském kraji",
-      "description": "<p>Datová sada obsahuje kontaktní údaje pohřebních služeb, webové stránky a umístění poboček pohřebních služeb.</p>",
+      "description": "<p>Datová sada obsahuje kromě místní specifikace rovněž IČO, právní formu pohřební služby, kontaktní údaje, webové stránky a umístění poboček pohřebních služeb.</p><p>Zdrojem dat je Krajský úřad Karlovarského kraje.</p>",
       "keyword": [
         "Pohřební služba",
         "pohřební ústav",
@@ -18205,9 +18203,9 @@
         "pohřeb"
       ],
       "issued": "2024-05-22T09:02:57.000Z",
-      "modified": "2024-05-27T10:24:44.440Z",
+      "modified": "2025-05-27T09:45:50.000Z",
       "publisher": {
-        "name": "Karlovarská agentura rozvoje podnikání, p.o."
+        "name": "Krajský úřad Karlovarského kraje"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -18215,7 +18213,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "12.1896,49.8723,12.9869,50.3252",
+      "spatial": "12.1875,49.9582,12.9869,50.3252",
       "license": "https://creativecommons.org/publicdomain/zero/1.0",
       "category": [
         "Lidé a sociální služby"
@@ -18232,14 +18230,13 @@
               "eMailAdd": "pavla.brabencova@karp-kv.cz"
             }
           },
-          "rpOrgName": "Karlovarská agentura rozvoje podnikání, p.o.",
           "role": {
             "RoleCd": {
               "@_value": "007"
             }
-          }
+          },
+          "rpOrgName": "Karlovarská agentura rozvoje podnikání, p.o."
         },
-        "mdFileID": "1716805428886r8915809934087195",
         "distInfo": {
           "distTranOps": {
             "onLineSrc": {
@@ -18247,21 +18244,29 @@
             }
           }
         },
-        "mdDateSt": "2024-05-27",
+        "mdMaint": {
+          "maintFreq": {
+            "MaintFreqCd": {
+              "@_value": "008"
+            }
+          }
+        },
+        "mdDateSt": "2025-05-27",
         "Esri": {
           "ArcGISFormat": 1,
           "CreaTime": 10352000,
           "ArcGISProfile": "INSPIRE",
-          "ArcGISstyle": "INSPIRE Metadata Directive",
-          "ModDate": 20240527,
           "CreaDate": 20240522,
-          "ModTime": 12313938,
-          "SyncOnce": "TRUE",
-          "MapLyrSync": false,
-          "PublishStatus": "editor:esri.dijit.metadata.editor"
+          "SyncOnce": "TRUE"
         },
-        "mdTimeSt": "12:23:48.67",
         "dqInfo": {
+          "dqScope": {
+            "scpLvl": {
+              "ScopeCd": {
+                "@_value": "005"
+              }
+            }
+          },
           "report": {
             "measResult": {
               "ConResult": {
@@ -18269,7 +18274,7 @@
                   "date": {
                     "pubDate": "2010-12-08T00:00:00"
                   },
-                  "resTitle": "NAŘÍZENÍ KOMISE (EU) č. 1089/2010 ze dne 23. listopadu 2010, kterým se provádí směrnice Evropského parlamentu a Rady 2007/2/ES, pokud jde o interoperabilitu sad prostorových dat a služeb prostorových dat"
+                  "resTitle": "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
                 }
               }
             }
@@ -18282,12 +18287,9 @@
           }
         },
         "dataIdInfo": {
-          "idAbs": "<p>Datová sada obsahuje kontaktní údaje pohřebních služeb, webové stránky a umístění poboček pohřebních služeb.</p>",
+          "idAbs": "<p>Datová sada obsahuje kromě místní specifikace rovněž IČO, právní formu pohřební služby, kontaktní údaje, webové stránky a umístění poboček pohřebních služeb.</p><p>Zdrojem dat je Krajský úřad Karlovarského kraje.</p>",
           "idCredit": "Krajský úřad Karlovarského kraje",
           "dataLang": {
-            "countryCode": {
-              "@_value": "CZ"
-            },
             "languageCode": {
               "@_value": "cze"
             }
@@ -18301,18 +18303,16 @@
           "dataExt": {
             "geoEle": {
               "GeoBndBox": {
-                "eastBL": 13.184699,
-                "southBL": 49.84041,
-                "northBL": 50.395268,
-                "westBL": 12.115431
+                "eastBL": 13.044623,
+                "southBL": 49.945878,
+                "northBL": 50.337453,
+                "westBL": 12.160051
               }
             }
           },
           "idCitation": {
             "date": {
-              "reviseDate": "2024-05-27T12:24:44.440+02:00",
-              "pubDate": "2024-05-22T12:54:00",
-              "createDate": "2024-05-22T12:24:26.515+02:00"
+              "reviseDate": "2025-05-27T09:45:50"
             },
             "resTitle": "Pohřební služby v Karlovarském kraji",
             "citId": {
@@ -18327,17 +18327,14 @@
               "resTitle": "GEMET - INSPIRE themes, version 1.0"
             },
             "keyword": [
-              "Pohřební služba",
-              "pohřební ústav",
+              "pohřební služba",
               "Karlovarský kraj",
               "pohřeb"
             ]
           },
-          "resMaint": {
-            "maintFreq": {
-              "MaintFreqCd": {
-                "@_value": "009"
-              }
+          "spatRpType": {
+            "SpatRepTypCd": {
+              "@_value": "003"
             }
           },
           "dataChar": {
@@ -18359,22 +18356,16 @@
                 "eMailAdd": "pavla.brabencova@karp-kv.cz"
               }
             },
-            "rpOrgName": "Karlovarská agentura rozvoje podnikání, p.o.",
             "role": {
               "RoleCd": {
                 "@_value": "007"
               }
-            }
+            },
+            "rpOrgName": "Krajský úřad Karlovarského kraje"
           },
           "resConst": [
             {
               "LegConsts": {
-                "useConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
-                "othConsts": "Jiná omezení",
                 "inspireAccessUseConditions": {
                   "ConditionsAccUseCd": {
                     "@_value": "001"
@@ -18384,12 +18375,6 @@
             },
             {
               "LegConsts": {
-                "othConsts": "Jiná omezení",
-                "accessConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
                 "inspirePublicAccessLimits": {
                   "PublicAccessCd": {
                     "@_value": "001"
@@ -18401,28 +18386,17 @@
               "Consts": {
                 "useLimit": "<p>CC0 1.0</p>"
               }
-            },
-            {
-              "LegConsts": {
-                "othConsts": "Jiná omezení",
-                "accessConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                }
-              }
-            },
-            {
-              "LegConsts": {
-                "useConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
-                "othConsts": "Jiná omezení"
-              }
             }
           ]
+        },
+        "refSysInfo": {
+          "RefSystem": {
+            "refSysID": {
+              "identCode": {
+                "@_code": "GCS_WGS_1984"
+              }
+            }
+          }
         },
         "mdChar": {
           "CharSetCd": {
@@ -18436,42 +18410,42 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/datasets/d51db8b1ac8f40b6adf214e67cbb6f30_3"
+          "accessURL": "https://www.datazapad.cz/datasets/d51db8b1ac8f40b6adf214e67cbb6f30_0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "ArcGIS GeoService",
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
-          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Poh%C5%99ebn%C3%AD_slu%C5%BEby_v_Karlovarsk%C3%A9m_kraji_WFL1/FeatureServer/3"
+          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Poh%C5%99ebn%C3%AD_slu%C5%BEby_v_Karlovarsk%C3%A9m_kraji_WFL1/FeatureServer/0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "CSV",
           "format": "CSV",
           "mediaType": "text/csv",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/d51db8b1ac8f40b6adf214e67cbb6f30/csv?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/d51db8b1ac8f40b6adf214e67cbb6f30/csv?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Shapefile",
           "format": "ZIP",
           "mediaType": "application/zip",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/d51db8b1ac8f40b6adf214e67cbb6f30/shapefile?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/d51db8b1ac8f40b6adf214e67cbb6f30/shapefile?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "GeoJSON",
           "format": "GeoJSON",
           "mediaType": "application/vnd.geo+json",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/d51db8b1ac8f40b6adf214e67cbb6f30/geojson?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/d51db8b1ac8f40b6adf214e67cbb6f30/geojson?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "KML",
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/d51db8b1ac8f40b6adf214e67cbb6f30/kml?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/d51db8b1ac8f40b6adf214e67cbb6f30/kml?layers=0"
         }
       ],
       "theme": [
