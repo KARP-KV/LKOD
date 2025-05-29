@@ -4950,6 +4950,58 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=2d4c18ac954d44008f078fe0227ecd39",
+      "landingPage": "https://www.datazapad.cz/apps/2d4c18ac954d44008f078fe0227ecd39",
+      "title": "Chytrý region",
+      "description": "{{description}}",
+      "keyword": [
+        "Analýza",
+        "Chytrá města",
+        "Chytrý venkov",
+        "Smart city",
+        "Dotazníkové šetření"
+      ],
+      "issued": "2025-05-29T07:43:47.000Z",
+      "modified": "2025-05-29T07:43:48.000Z",
+      "publisher": {
+        "name": "petr.bek@karp-kv.cz"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "petr.bek@karp-kv.cz",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "",
+      "category": [
+        "Ekonomika a trh práce",
+        "Investice kraje",
+        "Kraj a dotace"
+      ],
+      "metadata": "{{metadata.metadata}}",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datazapad.cz/apps/2d4c18ac954d44008f078fe0227ecd39"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://www.datazapad.cz/pages/dalsi-vystupy-chytry-region"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=2fe4d27ac10341f6bd2b4ea6380a2599&sublayer=3",
       "landingPage": "https://www.datazapad.cz/datasets/2fe4d27ac10341f6bd2b4ea6380a2599_3",
       "title": "Rozhledny v Karlovarském kraji",
@@ -6807,6 +6859,58 @@
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
           "accessURL": "https://www.datazapad.cz/api/download/v1/items/4d8d7284782049ee826b794af25cbc05/kml?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=4d92b6da8ad84852a7ab620155bf8ffe",
+      "landingPage": "https://www.datazapad.cz/apps/4d92b6da8ad84852a7ab620155bf8ffe",
+      "title": "Chytré mobilní aplikace",
+      "description": "{{description}}",
+      "keyword": [
+        "Chytrá města",
+        "Chytrý venkov",
+        "Digitalizace",
+        "Smart city",
+        "Aplikace"
+      ],
+      "issued": "2025-05-29T07:39:38.000Z",
+      "modified": "2025-05-29T07:39:39.000Z",
+      "publisher": {
+        "name": "petr.bek@karp-kv.cz"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "petr.bek@karp-kv.cz",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "",
+      "category": [
+        "Ekonomika a trh práce",
+        "Investice kraje",
+        "Kraj a dotace"
+      ],
+      "metadata": "{{metadata.metadata}}",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datazapad.cz/apps/4d92b6da8ad84852a7ab620155bf8ffe"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://www.datazapad.cz/pages/dalsi-vystupy-chytre-mobilni-aplikace"
         }
       ],
       "theme": [
@@ -9826,17 +9930,22 @@
     },
     {
       "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=5e900a28dedd446aa8ae18d49ac88d70&sublayer=0",
-      "landingPage": "https://www.datazapad.cz/datasets/5e900a28dedd446aa8ae18d49ac88d70_0",
+      "identifier": "https://www.arcgis.com/home/item.html?id=5e900a28dedd446aa8ae18d49ac88d70&sublayer=3",
+      "landingPage": "https://www.datazapad.cz/datasets/5e900a28dedd446aa8ae18d49ac88d70_3",
       "title": "Agroturistické destinace v Karlovarském kraji",
-      "description": "Přehled uvádí rovněž kontaktní údaje na agroturistické destinace a webové stránky. Dále uvádí specifikaci agroturistických destinací (zaměření).",
+      "description": "Přehled uvádí rovněž údaje o agroturistické destinaci, jeho provozovateli, kontaktní údaje a webové stránky. Uvedena je i specifikace agroturistických destinací (zaměření).<div>Původním zdrojem dat je <span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif;'>Živý kraj – Destinační agentura pro Karlovarský kraj, z.s.</span></div>",
       "keyword": [
         "agroturistika",
         "agroturistická destinace",
-        "Karlovarský kraj"
+        "Karlovarský kraj",
+        "ekofarma",
+        "statek",
+        "biofarma",
+        "hipoturistika",
+        "minizoo"
       ],
       "issued": "2024-05-14T09:39:12.000Z",
-      "modified": "2024-05-14T09:39:15.003Z",
+      "modified": "2025-05-29T12:38:10.000Z",
       "publisher": {
         "name": "Karlovarská agentura rozvoje podnikání, p.o."
       },
@@ -9846,7 +9955,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "12.6735,50.0105,13.0162,50.2982",
+      "spatial": "12.4508,50.0105,13.2500,50.3673",
       "license": "https://creativecommons.org/licenses/by/4.0",
       "category": [
         "Kultura a cestovní ruch"
@@ -9863,28 +9972,43 @@
               "eMailAdd": "pavla.brabencova@karp-kv.cz"
             }
           },
-          "rpOrgName": "Karlovarská agentura rozvoje podnikání, p.o.",
           "role": {
             "RoleCd": {
               "@_value": "007"
             }
+          },
+          "rpOrgName": "Karlovarská agentura rozvoje podnikání, p.o."
+        },
+        "distInfo": {
+          "distTranOps": {
+            "onLineSrc": {
+              "linkage": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Agroturistick%C3%A9_destinace_v_KVK_WFL1/FeatureServer"
+            }
           }
         },
-        "mdDateSt": "2024-05-14",
+        "mdMaint": {
+          "maintFreq": {
+            "MaintFreqCd": {
+              "@_value": "008"
+            }
+          }
+        },
+        "mdDateSt": "2025-05-29",
         "Esri": {
           "ArcGISFormat": 1,
-          "CreaTime": 11293300,
-          "ArcGISstyle": "INSPIRE Metadata Directive",
+          "CreaTime": 11261500,
           "ArcGISProfile": "INSPIRE",
-          "ModDate": "2024-11-28",
-          "CreaDate": "2024-05-14",
-          "ModTime": "09:04:15.61",
-          "SyncOnce": "TRUE",
-          "MapLyrSync": false,
-          "PublishStatus": "editor:esri.dijit.metadata.editor"
+          "CreaDate": 20240514,
+          "SyncOnce": "TRUE"
         },
-        "mdTimeSt": "11:53:25.37",
         "dqInfo": {
+          "dqScope": {
+            "scpLvl": {
+              "ScopeCd": {
+                "@_value": "005"
+              }
+            }
+          },
           "report": {
             "measResult": {
               "ConResult": {
@@ -9892,27 +10016,22 @@
                   "date": {
                     "pubDate": "2010-12-08T00:00:00"
                   },
-                  "resTitle": [
-                    "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services",
-                    "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
-                  ]
+                  "resTitle": "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
                 }
               }
             }
           }
         },
+        "@_xml:lang": "cs",
         "mdHrLv": {
           "ScopeCd": {
             "@_value": "005"
           }
         },
         "dataIdInfo": {
-          "idAbs": "Přehled uvádí rovněž kontaktní údaje na agroturistické destinace a webové stránky. Dále uvádí specifikaci agroturistických destinací (zaměření).",
+          "idAbs": "Přehled uvádí rovněž údaje o agroturistické destinaci, jeho provozovateli, kontaktní údaje a webové stránky. Uvedena je i specifikace agroturistických destinací (zaměření).<div>Původním zdrojem dat je <span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif;'>Živý kraj – Destinační agentura pro Karlovarský kraj, z.s.</span></div>",
           "idCredit": "Živý kraj – Destinační agentura pro Karlovarský kraj, z.s.",
           "dataLang": {
-            "countryCode": {
-              "@_value": "CZ"
-            },
             "languageCode": {
               "@_value": "cze"
             }
@@ -9920,28 +10039,24 @@
           "idPurp": "Přehled agroturistických destinací v Karlovarském kraji.",
           "tpCat": {
             "TopicCatCd": {
-              "@_value": "001"
+              "@_value": "016"
             }
           },
           "dataExt": {
             "geoEle": {
               "GeoBndBox": {
-                "eastBL": 13.135658,
-                "southBL": 49.960144,
-                "northBL": 50.342962,
-                "westBL": 12.505908
+                "eastBL": 13.250022,
+                "southBL": 50.010475,
+                "northBL": 50.36727,
+                "westBL": 12.450762
               }
             }
           },
           "idCitation": {
             "date": {
-              "pubDate": "2024-05-14T11:54:11.380+02:00",
-              "createDate": "2024-05-14T11:54:13.903+02:00"
+              "reviseDate": "2025-05-29T12:38:10"
             },
             "resTitle": "Agroturistické destinace v Karlovarském kraji",
-            "citOnlineRes": {
-              "linkage": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Agroturistick%C3%A9_destinace_v_KVK_WFL1/FeatureServer"
-            },
             "citId": {
               "identCode": "publication"
             }
@@ -9955,23 +10070,15 @@
             },
             "keyword": [
               "agroturistika",
+              "biofarma",
+              "statek",
               "Karlovarský kraj",
-              "agroturistické destinace"
+              "destinace"
             ]
           },
-          "resMaint": {
-            "maintScp": {
-              "ScopeCd": {
-                "@_value": "001"
-              }
-            },
-            "usrDefFreq": {
-              "duration": "ročně"
-            },
-            "maintFreq": {
-              "MaintFreqCd": {
-                "@_value": "008"
-              }
+          "spatRpType": {
+            "SpatRepTypCd": {
+              "@_value": "003"
             }
           },
           "dataChar": {
@@ -9983,7 +10090,12 @@
             "keyword": [
               "agroturistika",
               "agroturistická destinace",
-              "Karlovarský kraj"
+              "Karlovarský kraj",
+              "ekofarma",
+              "statek",
+              "biofarma",
+              "hipoturistika",
+              "minizoo"
             ]
           },
           "idPoC": {
@@ -9992,27 +10104,25 @@
                 "eMailAdd": "pavla.brabencova@karp-kv.cz"
               }
             },
-            "rpOrgName": "Karlovarská agentura rozvoje podnikání, p.o.",
             "role": {
               "RoleCd": {
                 "@_value": "007"
               }
-            }
+            },
+            "rpOrgName": "Karlovarská agentura rozvoje podnikání, p.o."
           },
           "resConst": [
             {
-              "Consts": {
-                "useLimit": "CC BY 4.0"
+              "LegConsts": {
+                "inspireAccessUseConditions": {
+                  "ConditionsAccUseCd": {
+                    "@_value": "001"
+                  }
+                }
               }
             },
             {
               "LegConsts": {
-                "othConsts": "Jiná omezení",
-                "accessConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
                 "inspirePublicAccessLimits": {
                   "PublicAccessCd": {
                     "@_value": "001"
@@ -10021,46 +10131,26 @@
               }
             },
             {
-              "LegConsts": {
-                "useConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
-                "othConsts": "Jiná omezení",
-                "inspireAccessUseConditions": {
-                  "ConditionsAccUseCd": {
-                    "@_value": "001"
-                  }
-                }
+              "Consts": {
+                "useLimit": "CC BY 4.0"
               }
             }
           ]
+        },
+        "refSysInfo": {
+          "RefSystem": {
+            "refSysID": {
+              "identCode": {
+                "@_code": "GCS_WGS_1984"
+              }
+            }
+          }
         },
         "mdChar": {
           "CharSetCd": {
             "@_value": "004"
           }
-        },
-        "mdFileID": "1715680405606r760810853661714",
-        "mdMaint": {
-          "usrDefFreq": {
-            "duration": "ročně"
-          },
-          "maintFreq": {
-            "MaintFreqCd": {
-              "@_value": "008"
-            }
-          }
-        },
-        "distInfo": {
-          "distTranOps": {
-            "onLineSrc": {
-              "linkage": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Agroturistick%C3%A9_destinace_v_KVK_WFL1/FeatureServer"
-            }
-          }
-        },
-        "@_xml:lang": "cs"
+        }
       },
       "distribution": [
         {
@@ -10068,42 +10158,42 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/datasets/5e900a28dedd446aa8ae18d49ac88d70_0"
+          "accessURL": "https://www.datazapad.cz/datasets/5e900a28dedd446aa8ae18d49ac88d70_3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "ArcGIS GeoService",
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
-          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Agroturistick%C3%A9_destinace_v_KVK_WFL1/FeatureServer/0"
+          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Agroturistick%C3%A9_destinace_v_KVK_WFL1/FeatureServer/3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "CSV",
           "format": "CSV",
           "mediaType": "text/csv",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/5e900a28dedd446aa8ae18d49ac88d70/csv?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/5e900a28dedd446aa8ae18d49ac88d70/csv?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Shapefile",
           "format": "ZIP",
           "mediaType": "application/zip",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/5e900a28dedd446aa8ae18d49ac88d70/shapefile?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/5e900a28dedd446aa8ae18d49ac88d70/shapefile?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "GeoJSON",
           "format": "GeoJSON",
           "mediaType": "application/vnd.geo+json",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/5e900a28dedd446aa8ae18d49ac88d70/geojson?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/5e900a28dedd446aa8ae18d49ac88d70/geojson?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "KML",
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/5e900a28dedd446aa8ae18d49ac88d70/kml?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/5e900a28dedd446aa8ae18d49ac88d70/kml?layers=3"
         }
       ],
       "theme": [
@@ -18796,6 +18886,63 @@
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
           "accessURL": "https://ik.imagekit.io/3nrtv9oq0/datazapad/Analyza-prinosu-lazenstvi-pro-Karlovarsky-kraj.pdf?updatedAt=1706104628843"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=e8889c6594154e30a4b39a5d8e747f0d",
+      "landingPage": "https://www.datazapad.cz/apps/e8889c6594154e30a4b39a5d8e747f0d",
+      "title": "Předpoklady rozvoje chytré obce",
+      "description": "{{description}}",
+      "keyword": [
+        "Chytrá města",
+        "Chytrý venkov",
+        "Smart city",
+        "Analýza"
+      ],
+      "issued": "2025-05-29T07:25:23.000Z",
+      "modified": "2025-05-29T07:25:24.000Z",
+      "publisher": {
+        "name": "petr.bek@karp-kv.cz"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "petr.bek@karp-kv.cz",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "",
+      "category": [
+        "Zdravotnictví a zdraví",
+        "Kraj a dotace",
+        "Veřejná doprava a silnice",
+        "Ekonomika a trh práce",
+        "IZS a bezpečnost",
+        "Lidé a sociální služby",
+        "Kultura a cestovní ruch",
+        "Školství a výzkum",
+        "Investice kraje"
+      ],
+      "metadata": "{{metadata.metadata}}",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datazapad.cz/apps/e8889c6594154e30a4b39a5d8e747f0d"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://www.datazapad.cz/pages/dalsi-vystupy-vyhodnoceni-predpokladu-rozvoje-chytre-obce"
         }
       ],
       "theme": [

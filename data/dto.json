@@ -34,6 +34,7 @@
     "https://open.datazapad.cz/2293df931dc548668292c933ab7d4a6d.jsonld",
     "https://open.datazapad.cz/25589e2554f54259b200f4adb547db54.jsonld",
     "https://open.datazapad.cz/2c9bd5558c4a495c8424a84bc6b370e2.jsonld",
+    "https://open.datazapad.cz/2d4c18ac954d44008f078fe0227ecd39.jsonld",
     "https://open.datazapad.cz/2fe4d27ac10341f6bd2b4ea6380a2599.jsonld",
     "https://open.datazapad.cz/3727aefc159e47fd8cb9d70432ab7397.jsonld",
     "https://open.datazapad.cz/387d1403bddb48b09ba4e3cd3b7894f8.jsonld",
@@ -41,6 +42,7 @@
     "https://open.datazapad.cz/464108d64a93430083119bfb0845af3c.jsonld",
     "https://open.datazapad.cz/4c20099b476a4c03b7b5a0cf97b45d95.jsonld",
     "https://open.datazapad.cz/4d8d7284782049ee826b794af25cbc05.jsonld",
+    "https://open.datazapad.cz/4d92b6da8ad84852a7ab620155bf8ffe.jsonld",
     "https://open.datazapad.cz/4de2c22d0b6a4caa817117e2a9e8cb04.jsonld",
     "https://open.datazapad.cz/52658b60dacf474f80cf5bb7c8004cc6.jsonld",
     "https://open.datazapad.cz/52b5d92f7aff4e6282d6838ff338c76b.jsonld",
@@ -86,6 +88,7 @@
     "https://open.datazapad.cz/d51db8b1ac8f40b6adf214e67cbb6f30.jsonld",
     "https://open.datazapad.cz/dbe7041a35494dbe8e01fd86694faed8.jsonld",
     "https://open.datazapad.cz/df97b40149a74620b5f9c4c7c86c291c.jsonld",
+    "https://open.datazapad.cz/e8889c6594154e30a4b39a5d8e747f0d.jsonld",
     "https://open.datazapad.cz/f98f8248cdf140ad84649976f2d6f499.jsonld"
   ],
   "_datasets": [
@@ -3613,6 +3616,76 @@
     },
     {
       "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+      "iri": "https://open.datazapad.cz/2d4c18ac954d44008f078fe0227ecd39.jsonld",
+      "typ": "Datová sada",
+      "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891168",
+      "název": {
+        "cs": "Chytrý region"
+      },
+      "popis": {
+        "cs": "{{description}}"
+      },
+      "klíčové_slovo": {
+        "cs": [
+          "Analýza",
+          "Chytrá města",
+          "Chytrý venkov",
+          "Smart city",
+          "Dotazníkové šetření"
+        ]
+      },
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/ECON",
+        "http://publications.europa.eu/resource/authority/data-theme/GOVE",
+        "http://publications.europa.eu/resource/authority/data-theme/ECON",
+        "http://publications.europa.eu/resource/authority/data-theme/REGI",
+        "http://publications.europa.eu/resource/authority/data-theme/GOVE"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "prvek_rúian": [
+        "https://linked.cuzk.cz/resource/ruian/vusc/51"
+      ],
+      "distribuce": [
+        {
+          "typ": "Distribuce",
+          "iri": "https://www.datazapad.cz/apps/2d4c18ac954d44008f078fe0227ecd39",
+          "název": {
+            "cs": "ArcGIS Hub Dataset"
+          },
+          "soubor_ke_stažení": "https://www.datazapad.cz/apps/2d4c18ac954d44008f078fe0227ecd39",
+          "přístupové_url": "https://www.datazapad.cz/apps/2d4c18ac954d44008f078fe0227ecd39",
+          "typ_média": "http://www.iana.org/assignments/media-types/text/html",
+          "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
+          "podmínky_užití": {
+            "typ": "Specifikace podmínek užití",
+            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+          }
+        },
+        {
+          "typ": "Distribuce",
+          "iri": "https://www.datazapad.cz/pages/dalsi-vystupy-chytry-region",
+          "název": {
+            "cs": "ArcGIS GeoService"
+          },
+          "soubor_ke_stažení": "https://www.datazapad.cz/pages/dalsi-vystupy-chytry-region",
+          "přístupové_url": "https://www.datazapad.cz/pages/dalsi-vystupy-chytry-region",
+          "typ_média": "http://www.iana.org/assignments/media-types/application/json",
+          "formát": "http://publications.europa.eu/resource/authority/file-type/JSON",
+          "podmínky_užití": {
+            "typ": "Specifikace podmínek užití",
+            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+          }
+        }
+      ]
+    },
+    {
+      "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
       "iri": "https://open.datazapad.cz/2fe4d27ac10341f6bd2b4ea6380a2599.jsonld",
       "typ": "Datová sada",
       "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891168",
@@ -4854,6 +4927,76 @@
           "přístupové_url": "https://www.datazapad.cz/api/download/v1/items/4d8d7284782049ee826b794af25cbc05/kml?layers=0",
           "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.google-earth.kml+xml",
           "formát": "http://publications.europa.eu/resource/authority/file-type/KML",
+          "podmínky_užití": {
+            "typ": "Specifikace podmínek užití",
+            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+          }
+        }
+      ]
+    },
+    {
+      "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+      "iri": "https://open.datazapad.cz/4d92b6da8ad84852a7ab620155bf8ffe.jsonld",
+      "typ": "Datová sada",
+      "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891168",
+      "název": {
+        "cs": "Chytré mobilní aplikace"
+      },
+      "popis": {
+        "cs": "{{description}}"
+      },
+      "klíčové_slovo": {
+        "cs": [
+          "Chytrá města",
+          "Chytrý venkov",
+          "Digitalizace",
+          "Smart city",
+          "Aplikace"
+        ]
+      },
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/ECON",
+        "http://publications.europa.eu/resource/authority/data-theme/GOVE",
+        "http://publications.europa.eu/resource/authority/data-theme/ECON",
+        "http://publications.europa.eu/resource/authority/data-theme/REGI",
+        "http://publications.europa.eu/resource/authority/data-theme/GOVE"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "prvek_rúian": [
+        "https://linked.cuzk.cz/resource/ruian/vusc/51"
+      ],
+      "distribuce": [
+        {
+          "typ": "Distribuce",
+          "iri": "https://www.datazapad.cz/apps/4d92b6da8ad84852a7ab620155bf8ffe",
+          "název": {
+            "cs": "ArcGIS Hub Dataset"
+          },
+          "soubor_ke_stažení": "https://www.datazapad.cz/apps/4d92b6da8ad84852a7ab620155bf8ffe",
+          "přístupové_url": "https://www.datazapad.cz/apps/4d92b6da8ad84852a7ab620155bf8ffe",
+          "typ_média": "http://www.iana.org/assignments/media-types/text/html",
+          "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
+          "podmínky_užití": {
+            "typ": "Specifikace podmínek užití",
+            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+          }
+        },
+        {
+          "typ": "Distribuce",
+          "iri": "https://www.datazapad.cz/pages/dalsi-vystupy-chytre-mobilni-aplikace",
+          "název": {
+            "cs": "ArcGIS GeoService"
+          },
+          "soubor_ke_stažení": "https://www.datazapad.cz/pages/dalsi-vystupy-chytre-mobilni-aplikace",
+          "přístupové_url": "https://www.datazapad.cz/pages/dalsi-vystupy-chytre-mobilni-aplikace",
+          "typ_média": "http://www.iana.org/assignments/media-types/application/json",
+          "formát": "http://publications.europa.eu/resource/authority/file-type/JSON",
           "podmínky_užití": {
             "typ": "Specifikace podmínek užití",
             "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
@@ -7043,13 +7186,18 @@
         "cs": "Agroturistické destinace v Karlovarském kraji"
       },
       "popis": {
-        "cs": "Přehled uvádí rovněž kontaktní údaje na agroturistické destinace a webové stránky. Dále uvádí specifikaci agroturistických destinací (zaměření)."
+        "cs": "Přehled uvádí rovněž údaje o agroturistické destinaci, jeho provozovateli, kontaktní údaje a webové stránky. Uvedena je i specifikace agroturistických destinací (zaměření).Původním zdrojem dat je Živý kraj – Destinační agentura pro Karlovarský kraj, z.s."
       },
       "klíčové_slovo": {
         "cs": [
           "agroturistika",
           "agroturistická destinace",
-          "Karlovarský kraj"
+          "Karlovarský kraj",
+          "ekofarma",
+          "statek",
+          "biofarma",
+          "hipoturistika",
+          "minizoo"
         ]
       },
       "téma": [
@@ -7062,12 +7210,12 @@
       "distribuce": [
         {
           "typ": "Distribuce",
-          "iri": "https://www.datazapad.cz/datasets/5e900a28dedd446aa8ae18d49ac88d70_0",
+          "iri": "https://www.datazapad.cz/datasets/5e900a28dedd446aa8ae18d49ac88d70_3",
           "název": {
             "cs": "ArcGIS Hub Dataset"
           },
-          "soubor_ke_stažení": "https://www.datazapad.cz/datasets/5e900a28dedd446aa8ae18d49ac88d70_0",
-          "přístupové_url": "https://www.datazapad.cz/datasets/5e900a28dedd446aa8ae18d49ac88d70_0",
+          "soubor_ke_stažení": "https://www.datazapad.cz/datasets/5e900a28dedd446aa8ae18d49ac88d70_3",
+          "přístupové_url": "https://www.datazapad.cz/datasets/5e900a28dedd446aa8ae18d49ac88d70_3",
           "typ_média": "http://www.iana.org/assignments/media-types/text/html",
           "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
           "podmínky_užití": {
@@ -7080,12 +7228,12 @@
         },
         {
           "typ": "Distribuce",
-          "iri": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Agroturistick%C3%A9_destinace_v_KVK_WFL1/FeatureServer/0",
+          "iri": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Agroturistick%C3%A9_destinace_v_KVK_WFL1/FeatureServer/3",
           "název": {
             "cs": "ArcGIS GeoService"
           },
-          "soubor_ke_stažení": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Agroturistick%C3%A9_destinace_v_KVK_WFL1/FeatureServer/0",
-          "přístupové_url": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Agroturistick%C3%A9_destinace_v_KVK_WFL1/FeatureServer/0",
+          "soubor_ke_stažení": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Agroturistick%C3%A9_destinace_v_KVK_WFL1/FeatureServer/3",
+          "přístupové_url": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Agroturistick%C3%A9_destinace_v_KVK_WFL1/FeatureServer/3",
           "typ_média": "http://www.iana.org/assignments/media-types/application/json",
           "formát": "http://publications.europa.eu/resource/authority/file-type/JSON",
           "podmínky_užití": {
@@ -7098,12 +7246,12 @@
         },
         {
           "typ": "Distribuce",
-          "iri": "https://www.datazapad.cz/api/download/v1/items/5e900a28dedd446aa8ae18d49ac88d70/csv?layers=0",
+          "iri": "https://www.datazapad.cz/api/download/v1/items/5e900a28dedd446aa8ae18d49ac88d70/csv?layers=3",
           "název": {
             "cs": "CSV"
           },
-          "soubor_ke_stažení": "https://www.datazapad.cz/api/download/v1/items/5e900a28dedd446aa8ae18d49ac88d70/csv?layers=0",
-          "přístupové_url": "https://www.datazapad.cz/api/download/v1/items/5e900a28dedd446aa8ae18d49ac88d70/csv?layers=0",
+          "soubor_ke_stažení": "https://www.datazapad.cz/api/download/v1/items/5e900a28dedd446aa8ae18d49ac88d70/csv?layers=3",
+          "přístupové_url": "https://www.datazapad.cz/api/download/v1/items/5e900a28dedd446aa8ae18d49ac88d70/csv?layers=3",
           "typ_média": "http://www.iana.org/assignments/media-types/text/csv",
           "formát": "http://publications.europa.eu/resource/authority/file-type/CSV",
           "podmínky_užití": {
@@ -7116,12 +7264,12 @@
         },
         {
           "typ": "Distribuce",
-          "iri": "https://www.datazapad.cz/api/download/v1/items/5e900a28dedd446aa8ae18d49ac88d70/shapefile?layers=0",
+          "iri": "https://www.datazapad.cz/api/download/v1/items/5e900a28dedd446aa8ae18d49ac88d70/shapefile?layers=3",
           "název": {
             "cs": "Shapefile"
           },
-          "soubor_ke_stažení": "https://www.datazapad.cz/api/download/v1/items/5e900a28dedd446aa8ae18d49ac88d70/shapefile?layers=0",
-          "přístupové_url": "https://www.datazapad.cz/api/download/v1/items/5e900a28dedd446aa8ae18d49ac88d70/shapefile?layers=0",
+          "soubor_ke_stažení": "https://www.datazapad.cz/api/download/v1/items/5e900a28dedd446aa8ae18d49ac88d70/shapefile?layers=3",
+          "přístupové_url": "https://www.datazapad.cz/api/download/v1/items/5e900a28dedd446aa8ae18d49ac88d70/shapefile?layers=3",
           "typ_média": "http://www.iana.org/assignments/media-types/application/zip",
           "formát": "http://publications.europa.eu/resource/authority/file-type/ZIP",
           "podmínky_užití": {
@@ -7134,12 +7282,12 @@
         },
         {
           "typ": "Distribuce",
-          "iri": "https://www.datazapad.cz/api/download/v1/items/5e900a28dedd446aa8ae18d49ac88d70/geojson?layers=0",
+          "iri": "https://www.datazapad.cz/api/download/v1/items/5e900a28dedd446aa8ae18d49ac88d70/geojson?layers=3",
           "název": {
             "cs": "GeoJSON"
           },
-          "soubor_ke_stažení": "https://www.datazapad.cz/api/download/v1/items/5e900a28dedd446aa8ae18d49ac88d70/geojson?layers=0",
-          "přístupové_url": "https://www.datazapad.cz/api/download/v1/items/5e900a28dedd446aa8ae18d49ac88d70/geojson?layers=0",
+          "soubor_ke_stažení": "https://www.datazapad.cz/api/download/v1/items/5e900a28dedd446aa8ae18d49ac88d70/geojson?layers=3",
+          "přístupové_url": "https://www.datazapad.cz/api/download/v1/items/5e900a28dedd446aa8ae18d49ac88d70/geojson?layers=3",
           "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.geo+json",
           "formát": "http://publications.europa.eu/resource/authority/file-type/GEOJSON",
           "podmínky_užití": {
@@ -7152,12 +7300,12 @@
         },
         {
           "typ": "Distribuce",
-          "iri": "https://www.datazapad.cz/api/download/v1/items/5e900a28dedd446aa8ae18d49ac88d70/kml?layers=0",
+          "iri": "https://www.datazapad.cz/api/download/v1/items/5e900a28dedd446aa8ae18d49ac88d70/kml?layers=3",
           "název": {
             "cs": "KML"
           },
-          "soubor_ke_stažení": "https://www.datazapad.cz/api/download/v1/items/5e900a28dedd446aa8ae18d49ac88d70/kml?layers=0",
-          "přístupové_url": "https://www.datazapad.cz/api/download/v1/items/5e900a28dedd446aa8ae18d49ac88d70/kml?layers=0",
+          "soubor_ke_stažení": "https://www.datazapad.cz/api/download/v1/items/5e900a28dedd446aa8ae18d49ac88d70/kml?layers=3",
+          "přístupové_url": "https://www.datazapad.cz/api/download/v1/items/5e900a28dedd446aa8ae18d49ac88d70/kml?layers=3",
           "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.google-earth.kml+xml",
           "formát": "http://publications.europa.eu/resource/authority/file-type/KML",
           "podmínky_užití": {
@@ -12979,6 +13127,82 @@
           },
           "soubor_ke_stažení": "https://ik.imagekit.io/3nrtv9oq0/datazapad/Analyza-prinosu-lazenstvi-pro-Karlovarsky-kraj.pdf?updatedAt=1706104628843",
           "přístupové_url": "https://ik.imagekit.io/3nrtv9oq0/datazapad/Analyza-prinosu-lazenstvi-pro-Karlovarsky-kraj.pdf?updatedAt=1706104628843",
+          "typ_média": "http://www.iana.org/assignments/media-types/application/json",
+          "formát": "http://publications.europa.eu/resource/authority/file-type/JSON",
+          "podmínky_užití": {
+            "typ": "Specifikace podmínek užití",
+            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+          }
+        }
+      ]
+    },
+    {
+      "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+      "iri": "https://open.datazapad.cz/e8889c6594154e30a4b39a5d8e747f0d.jsonld",
+      "typ": "Datová sada",
+      "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891168",
+      "název": {
+        "cs": "Předpoklady rozvoje chytré obce"
+      },
+      "popis": {
+        "cs": "{{description}}"
+      },
+      "klíčové_slovo": {
+        "cs": [
+          "Chytrá města",
+          "Chytrý venkov",
+          "Smart city",
+          "Analýza"
+        ]
+      },
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/HEAL",
+        "http://publications.europa.eu/resource/authority/data-theme/REGI",
+        "http://publications.europa.eu/resource/authority/data-theme/GOVE",
+        "http://publications.europa.eu/resource/authority/data-theme/TRAN",
+        "http://publications.europa.eu/resource/authority/data-theme/ECON",
+        "http://publications.europa.eu/resource/authority/data-theme/JUST",
+        "http://publications.europa.eu/resource/authority/data-theme/SOCI",
+        "http://publications.europa.eu/resource/authority/data-theme/EDUC",
+        "http://publications.europa.eu/resource/authority/data-theme/EDUC",
+        "http://publications.europa.eu/resource/authority/data-theme/TECH",
+        "http://publications.europa.eu/resource/authority/data-theme/GOVE",
+        "http://publications.europa.eu/resource/authority/data-theme/ECON"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "prvek_rúian": [
+        "https://linked.cuzk.cz/resource/ruian/vusc/51"
+      ],
+      "distribuce": [
+        {
+          "typ": "Distribuce",
+          "iri": "https://www.datazapad.cz/apps/e8889c6594154e30a4b39a5d8e747f0d",
+          "název": {
+            "cs": "ArcGIS Hub Dataset"
+          },
+          "soubor_ke_stažení": "https://www.datazapad.cz/apps/e8889c6594154e30a4b39a5d8e747f0d",
+          "přístupové_url": "https://www.datazapad.cz/apps/e8889c6594154e30a4b39a5d8e747f0d",
+          "typ_média": "http://www.iana.org/assignments/media-types/text/html",
+          "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
+          "podmínky_užití": {
+            "typ": "Specifikace podmínek užití",
+            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+          }
+        },
+        {
+          "typ": "Distribuce",
+          "iri": "https://www.datazapad.cz/pages/dalsi-vystupy-vyhodnoceni-predpokladu-rozvoje-chytre-obce",
+          "název": {
+            "cs": "ArcGIS GeoService"
+          },
+          "soubor_ke_stažení": "https://www.datazapad.cz/pages/dalsi-vystupy-vyhodnoceni-predpokladu-rozvoje-chytre-obce",
+          "přístupové_url": "https://www.datazapad.cz/pages/dalsi-vystupy-vyhodnoceni-predpokladu-rozvoje-chytre-obce",
           "typ_média": "http://www.iana.org/assignments/media-types/application/json",
           "formát": "http://publications.europa.eu/resource/authority/file-type/JSON",
           "podmínky_užití": {
