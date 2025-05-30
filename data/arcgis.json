@@ -18284,7 +18284,7 @@
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=d3184b2f488f4d099bd56c84ace5ffd0&sublayer=0",
       "landingPage": "https://www.datazapad.cz/datasets/d3184b2f488f4d099bd56c84ace5ffd0_0",
-      "title": "Školská poradenská zařízení",
+      "title": "Školská poradenská zařízení v Karlovarském kraji",
       "description": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(76,76,76);font-family:&quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;font-size:15px;\"><span style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\">Datová vrstva obsahuje údaje o školních poradenských zařízeních (speciálně pedagogická centra a pedadogicko-psychologické poradny) na území Karlovarského kraje.</span></span></p><div style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);color:rgb(76, 76, 76);font-family:&quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;font-size:15px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\"></div><div style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);color:rgb(76, 76, 76);font-family:&quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;font-size:15px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\">Obsahuje atributy:</div><div style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);color:rgb(76, 76, 76);font-family:&quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;font-size:15px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\"><ul><li>název organizace</li><li>adresu včetně adresního místa dle číselníku RÚIAN</li><li>typ zařízení</li><li>IČO a RED-IZO</li><li>informace o zřizovateli</li><li>datovou schránku</li></ul></div>",
       "keyword": [
         "Karlovarský kraj"
@@ -18292,7 +18292,7 @@
       "issued": "2025-05-30T06:17:11.000Z",
       "modified": "2025-05-30T08:29:45.000Z",
       "publisher": {
-        "name": "Karlovarský kraj"
+        "name": "Krajský úřad Karlovarského kraje"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -18324,7 +18324,7 @@
               "@_value": "007"
             }
           },
-          "rpOrgName": "Karlovarský kraj"
+          "rpOrgName": "Krajský úřad Karlovarského kraje"
         },
         "mdDateSt": "2025-05-30",
         "Esri": {
@@ -18364,7 +18364,7 @@
         },
         "dataIdInfo": {
           "idAbs": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(76,76,76);font-family:&quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;font-size:15px;\"><span style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\">Datová vrstva obsahuje údaje o školních poradenských zařízeních (speciálně pedagogická centra a pedadogicko-psychologické poradny) na území Karlovarského kraje.</span></span></p><div style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);color:rgb(76, 76, 76);font-family:&quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;font-size:15px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\"></div><div style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);color:rgb(76, 76, 76);font-family:&quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;font-size:15px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\">Obsahuje atributy:</div><div style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);color:rgb(76, 76, 76);font-family:&quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;font-size:15px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\"><ul><li>název organizace</li><li>adresu včetně adresního místa dle číselníku RÚIAN</li><li>typ zařízení</li><li>IČO a RED-IZO</li><li>informace o zřizovateli</li><li>datovou schránku</li></ul></div>",
-          "idCredit": "Karlovarský kraj",
+          "idCredit": "Krajský úřad Karlovarského kraje",
           "dataLang": {
             "countryCode": {
               "@_value": "CZ"
@@ -18373,7 +18373,7 @@
               "@_value": "cze"
             }
           },
-          "idPurp": "Publikováno pro účely opendat.",
+          "idPurp": "Školská poradenská zařízení (speciálně pedagogická centra a pedagogicko-psychologické poradny) na území Karlovarského kraje.",
           "tpCat": {
             "TopicCatCd": {
               "@_value": "016"
@@ -18433,7 +18433,7 @@
                 "@_value": "007"
               }
             },
-            "rpOrgName": "Karlovarský kraj"
+            "rpOrgName": "Krajský úřad Karlovarského kraje"
           },
           "resConst": [
             {

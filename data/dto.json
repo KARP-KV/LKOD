@@ -12712,7 +12712,7 @@
       "typ": "Datová sada",
       "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891168",
       "název": {
-        "cs": "Školská poradenská zařízení"
+        "cs": "Školská poradenská zařízení v Karlovarském kraji"
       },
       "popis": {
         "cs": "Datová vrstva obsahuje údaje o školních poradenských zařízeních (speciálně pedagogická centra a pedadogicko-psychologické poradny) na území Karlovarského kraje.Obsahuje atributy:název organizaceadresu včetně adresního místa dle číselníku RÚIANtyp zařízeníIČO a RED-IZOinformace o zřizovatelidatovou schránku"
