@@ -5002,6 +5002,271 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=2ec6469e9f76487f8325504d8313a5f3&sublayer=3",
+      "landingPage": "https://www.datazapad.cz/datasets/2ec6469e9f76487f8325504d8313a5f3_3",
+      "title": "Startovací vouchery v Karlovarském kraji v roce 2024",
+      "description": "<p>Datová sada obsahuje kromě místní specifikace sídla žadatele také informace o žadateli (IČ, kontaktní e-mail), výsledku žadatele vč. výše finanční podpory. Použitý souřadnicový systém je WGS 1984.</p><div>Zdrojem dat je Karlovarská agentura rozvoje podnikání, p.o.</div>",
+      "keyword": [
+        "startovací voucher",
+        "Karlovarský kraj",
+        "dotace",
+        "voucher",
+        "žadatel"
+      ],
+      "issued": "2025-06-16T09:33:33.000Z",
+      "modified": "2025-06-16T10:22:12.007Z",
+      "publisher": {
+        "name": "Karlovarská agentura rozvoje podnikání, p.o."
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "pavla.brabencova_karp",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "12.1902,49.7409,13.3901,50.4105",
+      "license": "https://creativecommons.org/licenses/by/4.0",
+      "category": [
+        "Kraj a dotace"
+      ],
+      "metadata": {
+        "mdLang": {
+          "languageCode": {
+            "@_value": "cze"
+          }
+        },
+        "mdContact": {
+          "rpCntInfo": {
+            "cntAddress": {
+              "eMailAdd": "pavla.brabencova@karp-kv.cz"
+            }
+          },
+          "role": {
+            "RoleCd": {
+              "@_value": "007"
+            }
+          },
+          "rpOrgName": "Karlovarská agentura rozvoje podnikání, p.o."
+        },
+        "distInfo": {
+          "distTranOps": {
+            "onLineSrc": {
+              "linkage": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Startovac%C3%AD_vouchery_v_Karlovarsk%C3%A9m_kraji_v_roce_2024_WFL1/FeatureServer"
+            }
+          }
+        },
+        "mdMaint": {
+          "maintFreq": {
+            "MaintFreqCd": {
+              "@_value": "011"
+            }
+          }
+        },
+        "mdDateSt": "2025-06-16",
+        "Esri": {
+          "ArcGISFormat": 1,
+          "CreaTime": 11330600,
+          "ArcGISProfile": "INSPIRE",
+          "CreaDate": 20250616,
+          "SyncOnce": "TRUE"
+        },
+        "dqInfo": {
+          "dqScope": {
+            "scpLvl": {
+              "ScopeCd": {
+                "@_value": "005"
+              }
+            }
+          },
+          "report": {
+            "measResult": {
+              "ConResult": {
+                "conSpec": {
+                  "date": {
+                    "pubDate": "2010-12-08T00:00:00"
+                  },
+                  "resTitle": "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                }
+              }
+            }
+          }
+        },
+        "@_xml:lang": "cs",
+        "mdHrLv": {
+          "ScopeCd": {
+            "@_value": "005"
+          }
+        },
+        "dataIdInfo": {
+          "idAbs": "<p>Datová sada obsahuje kromě místní specifikace sídla žadatele také informace o žadateli (IČ, kontaktní e-mail), výsledku žadatele vč. výše finanční podpory. Použitý souřadnicový systém je WGS 1984.</p><div>Zdrojem dat je Karlovarská agentura rozvoje podnikání, p.o.</div>",
+          "idCredit": "Karlovarská agentura rozvoje podnikání, p.o.",
+          "dataLang": {
+            "languageCode": {
+              "@_value": "cze"
+            }
+          },
+          "idPurp": "Přehled žadatelů o startovací voucher v roce 2024 v Karlovarském kraji.",
+          "tpCat": {
+            "TopicCatCd": {
+              "@_value": "005"
+            }
+          },
+          "dataExt": {
+            "geoEle": {
+              "GeoBndBox": {
+                "eastBL": 13.390131,
+                "southBL": 49.740855,
+                "northBL": 50.410489,
+                "westBL": 12.190205
+              }
+            }
+          },
+          "idCitation": {
+            "date": {
+              "pubDate": "2025-06-16T12:26:45"
+            },
+            "resTitle": "Startovací vouchery v Karlovarském kraji v roce 2024",
+            "citId": {
+              "identCode": "publication"
+            }
+          },
+          "themeKeys": {
+            "thesaName": {
+              "date": {
+                "pubDate": "2008-06-01T00:00:00"
+              },
+              "resTitle": "GEMET - INSPIRE themes, version 1.0"
+            },
+            "keyword": [
+              "startovací voucher",
+              "Karlovarský kraj",
+              "voucher",
+              "dotace"
+            ]
+          },
+          "spatRpType": {
+            "SpatRepTypCd": {
+              "@_value": "003"
+            }
+          },
+          "dataChar": {
+            "CharSetCd": {
+              "@_value": "004"
+            }
+          },
+          "searchKeys": {
+            "keyword": [
+              "startovací voucher",
+              "Karlovarský kraj",
+              "dotace",
+              "voucher",
+              "žadatel"
+            ]
+          },
+          "idPoC": {
+            "rpCntInfo": {
+              "cntAddress": {
+                "eMailAdd": "pavla.brabencova@karp-kv.cz"
+              }
+            },
+            "role": {
+              "RoleCd": {
+                "@_value": "007"
+              }
+            },
+            "rpOrgName": "Karlovarská agentura rozvoje podnikání, p.o."
+          },
+          "resConst": [
+            {
+              "LegConsts": {
+                "inspireAccessUseConditions": {
+                  "ConditionsAccUseCd": {
+                    "@_value": "001"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "inspirePublicAccessLimits": {
+                  "PublicAccessCd": {
+                    "@_value": "001"
+                  }
+                }
+              }
+            },
+            {
+              "Consts": {
+                "useLimit": "<p>CC BY 4.0</p>"
+              }
+            }
+          ]
+        },
+        "refSysInfo": {
+          "RefSystem": {
+            "refSysID": {
+              "identCode": {
+                "@_code": "GCS_WGS_1984"
+              }
+            }
+          }
+        },
+        "mdChar": {
+          "CharSetCd": {
+            "@_value": "004"
+          }
+        }
+      },
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datazapad.cz/datasets/2ec6469e9f76487f8325504d8313a5f3_3"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Startovac%C3%AD_vouchery_v_Karlovarsk%C3%A9m_kraji_v_roce_2024_WFL1/FeatureServer/3"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/2ec6469e9f76487f8325504d8313a5f3/csv?layers=3"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/2ec6469e9f76487f8325504d8313a5f3/shapefile?layers=3"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/2ec6469e9f76487f8325504d8313a5f3/geojson?layers=3"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/2ec6469e9f76487f8325504d8313a5f3/kml?layers=3"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=2fe4d27ac10341f6bd2b4ea6380a2599&sublayer=3",
       "landingPage": "https://www.datazapad.cz/datasets/2fe4d27ac10341f6bd2b4ea6380a2599_3",
       "title": "Rozhledny v Karlovarském kraji",
@@ -12233,18 +12498,18 @@
     },
     {
       "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=7974da466d594bdea7953f3542ef5ca9&sublayer=0",
-      "landingPage": "https://www.datazapad.cz/datasets/7974da466d594bdea7953f3542ef5ca9_0",
+      "identifier": "https://www.arcgis.com/home/item.html?id=7974da466d594bdea7953f3542ef5ca9&sublayer=3",
+      "landingPage": "https://www.datazapad.cz/datasets/7974da466d594bdea7953f3542ef5ca9_3",
       "title": "Startovací vouchery v Karlovarském kraji v roce 2023",
-      "description": "<span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'>Datová sada obsahuje rovněž údaje o výši poskytnutých příspěvků, poskytnutí podpory a další podrobnosti o projektech žadatelů. Poskytovatelem dat je Karlovarská agentura rozvoje podnikání, p.o.</span>",
+      "description": "<p><span style=\"font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif;font-size:16px;\">Datová sada obsahuje kromě místní specifikace sídla žadatele rovněž informace o poskytnutí voucheru, výši poskytnutých příspěvků, poskytnutí podpory a další podrobnosti o projektu žadatele a informace o žadateli - IČ, kontaktní e-mail. Použitý souřadnicový systém je WGS 1984.</span></p><div><span style=\"font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif;font-size:16px;\">Poskytovatelem dat je Karlovarská agentura rozvoje podnikání, p.o.</span></div>",
       "keyword": [
-        "starovací voucher",
         "voucher",
-        "startovací",
-        "Karlovarský kraj"
+        "Karlovarský kraj",
+        "startovací voucher",
+        "dotace"
       ],
       "issued": "2024-02-22T11:28:48.000Z",
-      "modified": "2024-02-26T09:09:14.846Z",
+      "modified": "2025-06-16T12:56:45.000Z",
       "publisher": {
         "name": "Karlovarská agentura rozvoje podnikání, p.o."
       },
@@ -12254,7 +12519,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "12.1892,49.9515,14.4491,50.3302",
+      "spatial": "12.1892,49.9430,14.4491,50.3316",
       "license": "https://creativecommons.org/licenses/by/4.0",
       "category": [
         "Kraj a dotace"
@@ -12271,14 +12536,13 @@
               "eMailAdd": "pavla.brabencova@karp-kv.cz"
             }
           },
-          "rpOrgName": "Karlovarská agentura rozvoje podnikání, p.o.",
           "role": {
             "RoleCd": {
               "@_value": "007"
             }
-          }
+          },
+          "rpOrgName": "Karlovarská agentura rozvoje podnikání, p.o."
         },
-        "mdFileID": "1708602047778r8809619639946928",
         "distInfo": {
           "distTranOps": {
             "onLineSrc": {
@@ -12286,20 +12550,21 @@
             }
           }
         },
-        "mdDateSt": "2024-02-22",
+        "mdMaint": {
+          "maintFreq": {
+            "MaintFreqCd": {
+              "@_value": "011"
+            }
+          }
+        },
+        "mdDateSt": "2025-06-16",
         "Esri": {
           "ArcGISFormat": 1,
-          "CreaTime": 12254800,
+          "CreaTime": 12275400,
           "ArcGISProfile": "INSPIRE",
-          "ArcGISstyle": "INSPIRE Metadata Directive",
-          "ModDate": 20240222,
           "CreaDate": 20240222,
-          "ModTime": 12435497,
-          "SyncOnce": "TRUE",
-          "MapLyrSync": false,
-          "PublishStatus": "editor:esri.dijit.metadata.editor"
+          "SyncOnce": "TRUE"
         },
-        "mdTimeSt": "12:40:47.46",
         "dqInfo": {
           "dqScope": {
             "scpLvl": {
@@ -12315,7 +12580,7 @@
                   "date": {
                     "pubDate": "2010-12-08T00:00:00"
                   },
-                  "resTitle": "NAŘÍZENÍ KOMISE (EU) č. 1089/2010 ze dne 23. listopadu 2010, kterým se provádí směrnice Evropského parlamentu a Rady 2007/2/ES, pokud jde o interoperabilitu sad prostorových dat a služeb prostorových dat"
+                  "resTitle": "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
                 }
               }
             }
@@ -12328,33 +12593,36 @@
           }
         },
         "dataIdInfo": {
-          "idAbs": "<span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'>Datová sada obsahuje rovněž údaje o výši poskytnutých příspěvků, poskytnutí podpory a další podrobnosti o projektech žadatelů. Poskytovatelem dat je Karlovarská agentura rozvoje podnikání, p.o.</span>",
+          "idAbs": "<p><span style=\"font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif;font-size:16px;\">Datová sada obsahuje kromě místní specifikace sídla žadatele rovněž informace o poskytnutí voucheru, výši poskytnutých příspěvků, poskytnutí podpory a další podrobnosti o projektu žadatele a informace o žadateli - IČ, kontaktní e-mail. Použitý souřadnicový systém je WGS 1984.</span></p><div><span style=\"font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif;font-size:16px;\">Poskytovatelem dat je Karlovarská agentura rozvoje podnikání, p.o.</span></div>",
           "idCredit": "Karlovarská agentura rozvoje podnikání, p.o.",
+          "dataLang": {
+            "languageCode": {
+              "@_value": "cze"
+            }
+          },
+          "idPurp": "Přehled žadatelů o startovací voucher v Karlovarském kraji v roce 2023.",
+          "tpCat": {
+            "TopicCatCd": {
+              "@_value": "005"
+            }
+          },
           "dataExt": {
             "geoEle": {
               "GeoBndBox": {
-                "eastBL": 14.525954,
-                "southBL": 49.767361,
-                "northBL": 50.449299,
-                "westBL": 12.112296
+                "eastBL": 14.44905,
+                "southBL": 49.943044,
+                "northBL": 50.331574,
+                "westBL": 12.1892
               }
             }
           },
           "idCitation": {
             "date": {
-              "pubDate": "2024-02-22T12:41:33.327+01:00"
+              "reviseDate": "2025-06-16T12:56:45"
             },
             "resTitle": "Startovací vouchery v Karlovarském kraji v roce 2023",
             "citId": {
               "identCode": "publication"
-            }
-          },
-          "dataLang": {
-            "countryCode": {
-              "@_value": "CZ"
-            },
-            "languageCode": {
-              "@_value": "cze"
             }
           },
           "themeKeys": {
@@ -12366,28 +12634,27 @@
             },
             "keyword": [
               "startovací voucher",
-              "startovací",
-              "vouchery",
-              "Karlovarský kraj"
+              "Karlovarský kraj",
+              "dotace",
+              "voucher"
             ]
           },
-          "idPurp": "Přehled žadatelů o startovací voucher v Karlovarském kraji v roce 2023.",
+          "spatRpType": {
+            "SpatRepTypCd": {
+              "@_value": "003"
+            }
+          },
           "dataChar": {
             "CharSetCd": {
               "@_value": "004"
             }
           },
-          "tpCat": {
-            "TopicCatCd": {
-              "@_value": "016"
-            }
-          },
           "searchKeys": {
             "keyword": [
-              "starovací voucher",
               "voucher",
-              "startovací",
-              "Karlovarský kraj"
+              "Karlovarský kraj",
+              "startovací voucher",
+              "dotace"
             ]
           },
           "idPoC": {
@@ -12396,22 +12663,16 @@
                 "eMailAdd": "pavla.brabencova@karp-kv.cz"
               }
             },
-            "rpOrgName": "Karlovarská agentura rozvoje podnikání, p.o.",
             "role": {
               "RoleCd": {
                 "@_value": "007"
               }
-            }
+            },
+            "rpOrgName": "Karlovarská agentura rozvoje podnikání, p.o."
           },
           "resConst": [
             {
               "LegConsts": {
-                "useConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
-                "othConsts": "Jiná omezení",
                 "inspireAccessUseConditions": {
                   "ConditionsAccUseCd": {
                     "@_value": "001"
@@ -12421,12 +12682,6 @@
             },
             {
               "LegConsts": {
-                "othConsts": "Jiná omezení",
-                "accessConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
                 "inspirePublicAccessLimits": {
                   "PublicAccessCd": {
                     "@_value": "001"
@@ -12441,6 +12696,15 @@
             }
           ]
         },
+        "refSysInfo": {
+          "RefSystem": {
+            "refSysID": {
+              "identCode": {
+                "@_code": "GCS_WGS_1984"
+              }
+            }
+          }
+        },
         "mdChar": {
           "CharSetCd": {
             "@_value": "004"
@@ -12453,42 +12717,42 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/datasets/7974da466d594bdea7953f3542ef5ca9_0"
+          "accessURL": "https://www.datazapad.cz/datasets/7974da466d594bdea7953f3542ef5ca9_3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "ArcGIS GeoService",
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
-          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Startovac%C3%AD_vouchery_v_Karlovarsk%C3%A9m_kraji_v_r__2023_WFL1/FeatureServer/0"
+          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Startovac%C3%AD_vouchery_v_Karlovarsk%C3%A9m_kraji_v_r__2023_WFL1/FeatureServer/3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "CSV",
           "format": "CSV",
           "mediaType": "text/csv",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/7974da466d594bdea7953f3542ef5ca9/csv?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/7974da466d594bdea7953f3542ef5ca9/csv?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Shapefile",
           "format": "ZIP",
           "mediaType": "application/zip",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/7974da466d594bdea7953f3542ef5ca9/shapefile?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/7974da466d594bdea7953f3542ef5ca9/shapefile?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "GeoJSON",
           "format": "GeoJSON",
           "mediaType": "application/vnd.geo+json",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/7974da466d594bdea7953f3542ef5ca9/geojson?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/7974da466d594bdea7953f3542ef5ca9/geojson?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "KML",
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/7974da466d594bdea7953f3542ef5ca9/kml?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/7974da466d594bdea7953f3542ef5ca9/kml?layers=3"
         }
       ],
       "theme": [
