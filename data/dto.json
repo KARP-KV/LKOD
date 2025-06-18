@@ -62,6 +62,7 @@
     "https://open.datazapad.cz/6be3423787fd4c1fa19a70b025e2eb64.jsonld",
     "https://open.datazapad.cz/6cd2b71c45184327aab9375661268f5d.jsonld",
     "https://open.datazapad.cz/6f9302623bcd4a72af2ac674c3b46adf.jsonld",
+    "https://open.datazapad.cz/705330c29a8d41b6bc489b7245c370e6.jsonld",
     "https://open.datazapad.cz/72aa9de6abc94f949f3959e70e0d241d.jsonld",
     "https://open.datazapad.cz/785fbd982147426ca275496791930eb8.jsonld",
     "https://open.datazapad.cz/7974da466d594bdea7953f3542ef5ca9.jsonld",
@@ -75,6 +76,7 @@
     "https://open.datazapad.cz/94c4d284041c4412af231e96fe66cf6b.jsonld",
     "https://open.datazapad.cz/98d26c1b1c8f4bd49850af82a19a7f58.jsonld",
     "https://open.datazapad.cz/a193c3092bef4fa8b514761b421d9ee1.jsonld",
+    "https://open.datazapad.cz/a6b5122fceed4a08916c8c2e9c7d17b9.jsonld",
     "https://open.datazapad.cz/a80fbe6e01f742a8a0a7b507bfb3998f.jsonld",
     "https://open.datazapad.cz/b073abb685724bb88e1b560fe774edcd.jsonld",
     "https://open.datazapad.cz/b25ec3a5ec614f8ab341eeae3e9e19be.jsonld",
@@ -8387,6 +8389,69 @@
     },
     {
       "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+      "iri": "https://open.datazapad.cz/705330c29a8d41b6bc489b7245c370e6.jsonld",
+      "typ": "Datová sada",
+      "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891168",
+      "název": {
+        "cs": "Lázeňský cestovní ruch v ČR"
+      },
+      "popis": {
+        "cs": "{{description}}"
+      },
+      "klíčové_slovo": {
+        "cs": [
+          "Lázeňství",
+          "Vizualizace"
+        ]
+      },
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/EDUC"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "prvek_rúian": [
+        "https://linked.cuzk.cz/resource/ruian/vusc/51"
+      ],
+      "distribuce": [
+        {
+          "typ": "Distribuce",
+          "iri": "https://www.datazapad.cz/apps/705330c29a8d41b6bc489b7245c370e6",
+          "název": {
+            "cs": "ArcGIS Hub Dataset"
+          },
+          "soubor_ke_stažení": "https://www.datazapad.cz/apps/705330c29a8d41b6bc489b7245c370e6",
+          "přístupové_url": "https://www.datazapad.cz/apps/705330c29a8d41b6bc489b7245c370e6",
+          "typ_média": "http://www.iana.org/assignments/media-types/text/html",
+          "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
+          "podmínky_užití": {
+            "typ": "Specifikace podmínek užití",
+            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+          }
+        },
+        {
+          "typ": "Distribuce",
+          "iri": "https://www.datazapad.cz/pages/dalsi-vystupy-lazensky-cestovni-ruch-v-cr",
+          "název": {
+            "cs": "ArcGIS GeoService"
+          },
+          "soubor_ke_stažení": "https://www.datazapad.cz/pages/dalsi-vystupy-lazensky-cestovni-ruch-v-cr",
+          "přístupové_url": "https://www.datazapad.cz/pages/dalsi-vystupy-lazensky-cestovni-ruch-v-cr",
+          "typ_média": "http://www.iana.org/assignments/media-types/application/json",
+          "formát": "http://publications.europa.eu/resource/authority/file-type/JSON",
+          "podmínky_užití": {
+            "typ": "Specifikace podmínek užití",
+            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+          }
+        }
+      ]
+    },
+    {
+      "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
       "iri": "https://open.datazapad.cz/72aa9de6abc94f949f3959e70e0d241d.jsonld",
       "typ": "Datová sada",
       "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891168",
@@ -10662,6 +10727,75 @@
           "přístupové_url": "https://www.datazapad.cz/api/download/v1/items/a193c3092bef4fa8b514761b421d9ee1/sqlite?layers=0",
           "typ_média": "http://www.iana.org/assignments/media-types/unknown",
           "formát": "http://publications.europa.eu/resource/authority/file-type/UNKNOWN",
+          "podmínky_užití": {
+            "typ": "Specifikace podmínek užití",
+            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+          }
+        }
+      ]
+    },
+    {
+      "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+      "iri": "https://open.datazapad.cz/a6b5122fceed4a08916c8c2e9c7d17b9.jsonld",
+      "typ": "Datová sada",
+      "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891168",
+      "název": {
+        "cs": "Lázeňská zařízení Karlovarského kraje v číslech"
+      },
+      "popis": {
+        "cs": "{{description}}"
+      },
+      "klíčové_slovo": {
+        "cs": [
+          "Analýza",
+          "Lázeňství"
+        ]
+      },
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/ECON",
+        "http://publications.europa.eu/resource/authority/data-theme/HEAL",
+        "http://publications.europa.eu/resource/authority/data-theme/REGI",
+        "http://publications.europa.eu/resource/authority/data-theme/GOVE",
+        "http://publications.europa.eu/resource/authority/data-theme/EDUC",
+        "http://publications.europa.eu/resource/authority/data-theme/GOVE",
+        "http://publications.europa.eu/resource/authority/data-theme/ECON"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "prvek_rúian": [
+        "https://linked.cuzk.cz/resource/ruian/vusc/51"
+      ],
+      "distribuce": [
+        {
+          "typ": "Distribuce",
+          "iri": "https://www.datazapad.cz/documents/a6b5122fceed4a08916c8c2e9c7d17b9",
+          "název": {
+            "cs": "ArcGIS Hub Dataset"
+          },
+          "soubor_ke_stažení": "https://www.datazapad.cz/documents/a6b5122fceed4a08916c8c2e9c7d17b9",
+          "přístupové_url": "https://www.datazapad.cz/documents/a6b5122fceed4a08916c8c2e9c7d17b9",
+          "typ_média": "http://www.iana.org/assignments/media-types/text/html",
+          "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
+          "podmínky_užití": {
+            "typ": "Specifikace podmínek užití",
+            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+          }
+        },
+        {
+          "typ": "Distribuce",
+          "iri": "https://Série 6 odborných článků z roku 2022 mapujících lázeňská zařízení Karlovarského kraje z hlediska vlastnických struktur, jejich provozovatelů či vztahů se zdravotními pojišťovnami.",
+          "název": {
+            "cs": "ArcGIS GeoService"
+          },
+          "soubor_ke_stažení": "https://Série 6 odborných článků z roku 2022 mapujících lázeňská zařízení Karlovarského kraje z hlediska vlastnických struktur, jejich provozovatelů či vztahů se zdravotními pojišťovnami.",
+          "přístupové_url": "https://Série 6 odborných článků z roku 2022 mapujících lázeňská zařízení Karlovarského kraje z hlediska vlastnických struktur, jejich provozovatelů či vztahů se zdravotními pojišťovnami.",
+          "typ_média": "http://www.iana.org/assignments/media-types/application/json",
+          "formát": "http://publications.europa.eu/resource/authority/file-type/JSON",
           "podmínky_užití": {
             "typ": "Specifikace podmínek užití",
             "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",

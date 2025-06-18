@@ -1,0 +1,69 @@
+{
+  "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+  "iri": "https://open.datazapad.cz/a6b5122fceed4a08916c8c2e9c7d17b9.jsonld",
+  "typ": "Datová sada",
+  "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891168",
+  "název": {
+    "cs": "Lázeňská zařízení Karlovarského kraje v číslech"
+  },
+  "popis": {
+    "cs": "{{description}}"
+  },
+  "klíčové_slovo": {
+    "cs": [
+      "Analýza",
+      "Lázeňství"
+    ]
+  },
+  "téma": [
+    "http://publications.europa.eu/resource/authority/data-theme/ECON",
+    "http://publications.europa.eu/resource/authority/data-theme/HEAL",
+    "http://publications.europa.eu/resource/authority/data-theme/REGI",
+    "http://publications.europa.eu/resource/authority/data-theme/GOVE",
+    "http://publications.europa.eu/resource/authority/data-theme/EDUC",
+    "http://publications.europa.eu/resource/authority/data-theme/GOVE",
+    "http://publications.europa.eu/resource/authority/data-theme/ECON"
+  ],
+  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+  "prvek_rúian": [
+    "https://linked.cuzk.cz/resource/ruian/vusc/51"
+  ],
+  "distribuce": [
+    {
+      "typ": "Distribuce",
+      "iri": "https://www.datazapad.cz/documents/a6b5122fceed4a08916c8c2e9c7d17b9",
+      "název": {
+        "cs": "ArcGIS Hub Dataset"
+      },
+      "soubor_ke_stažení": "https://www.datazapad.cz/documents/a6b5122fceed4a08916c8c2e9c7d17b9",
+      "přístupové_url": "https://www.datazapad.cz/documents/a6b5122fceed4a08916c8c2e9c7d17b9",
+      "typ_média": "http://www.iana.org/assignments/media-types/text/html",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
+      "podmínky_užití": {
+        "typ": "Specifikace podmínek užití",
+        "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+        "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+        "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+        "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+      }
+    },
+    {
+      "typ": "Distribuce",
+      "iri": "https://Série 6 odborných článků z roku 2022 mapujících lázeňská zařízení Karlovarského kraje z hlediska vlastnických struktur, jejich provozovatelů či vztahů se zdravotními pojišťovnami.",
+      "název": {
+        "cs": "ArcGIS GeoService"
+      },
+      "soubor_ke_stažení": "https://Série 6 odborných článků z roku 2022 mapujících lázeňská zařízení Karlovarského kraje z hlediska vlastnických struktur, jejich provozovatelů či vztahů se zdravotními pojišťovnami.",
+      "přístupové_url": "https://Série 6 odborných článků z roku 2022 mapujících lázeňská zařízení Karlovarského kraje z hlediska vlastnických struktur, jejich provozovatelů či vztahů se zdravotními pojišťovnami.",
+      "typ_média": "http://www.iana.org/assignments/media-types/application/json",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/JSON",
+      "podmínky_užití": {
+        "typ": "Specifikace podmínek užití",
+        "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+        "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+        "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+        "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+      }
+    }
+  ]
+}

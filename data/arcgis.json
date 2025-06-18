@@ -12135,6 +12135,53 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=705330c29a8d41b6bc489b7245c370e6",
+      "landingPage": "https://www.datazapad.cz/apps/705330c29a8d41b6bc489b7245c370e6",
+      "title": "Lázeňský cestovní ruch v ČR",
+      "description": "{{description}}",
+      "keyword": [
+        "Lázeňství",
+        "Vizualizace"
+      ],
+      "issued": "2025-06-18T06:53:51.000Z",
+      "modified": "2025-06-18T06:53:52.000Z",
+      "publisher": {
+        "name": "petr.bek@karp-kv.cz"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "petr.bek@karp-kv.cz",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "",
+      "category": [
+        "Kultura a cestovní ruch"
+      ],
+      "metadata": "{{metadata.metadata}}",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datazapad.cz/apps/705330c29a8d41b6bc489b7245c370e6"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://www.datazapad.cz/pages/dalsi-vystupy-lazensky-cestovni-ruch-v-cr"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=72aa9de6abc94f949f3959e70e0d241d&sublayer=3",
       "landingPage": "https://www.datazapad.cz/datasets/72aa9de6abc94f949f3959e70e0d241d_3",
       "title": "Lékařská a lékárenská pohotovostní služba v Karlovarském kraji",
@@ -15464,6 +15511,57 @@
           "format": "GDB",
           "mediaType": "application/geopackage+sqlite3",
           "accessURL": "https://www.datazapad.cz/api/download/v1/items/a193c3092bef4fa8b514761b421d9ee1/sqlite?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=a6b5122fceed4a08916c8c2e9c7d17b9",
+      "landingPage": "https://www.datazapad.cz/documents/a6b5122fceed4a08916c8c2e9c7d17b9",
+      "title": "Lázeňská zařízení Karlovarského kraje v číslech",
+      "description": "{{description}}",
+      "keyword": [
+        "Analýza",
+        "Lázeňství"
+      ],
+      "issued": "2025-06-18T06:56:39.000Z",
+      "modified": "2025-06-18T06:56:45.000Z",
+      "publisher": {
+        "name": "petr.bek@karp-kv.cz"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "petr.bek@karp-kv.cz",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "",
+      "category": [
+        "Ekonomika a trh práce",
+        "Zdravotnictví a zdraví",
+        "Kraj a dotace",
+        "Kultura a cestovní ruch",
+        "Investice kraje"
+      ],
+      "metadata": "{{metadata.metadata}}",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datazapad.cz/documents/a6b5122fceed4a08916c8c2e9c7d17b9"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://Série 6 odborných článků z roku 2022 mapujících lázeňská zařízení Karlovarského kraje z hlediska vlastnických struktur, jejich provozovatelů či vztahů se zdravotními pojišťovnami."
         }
       ],
       "theme": [
