@@ -11110,6 +11110,54 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=5f0941316ebf4d62a5b518b3406aa7b3",
+      "landingPage": "https://www.datazapad.cz/apps/5f0941316ebf4d62a5b518b3406aa7b3",
+      "title": "Mapování inovačního prostředí",
+      "description": "{{description}}",
+      "keyword": [
+        "analyza",
+        "dotaznikove setreni",
+        "firemni prostredi",
+        "inovace",
+        "vizualizace"
+      ],
+      "issued": "2025-06-30T12:58:18.000Z",
+      "modified": "2025-06-30T12:58:19.000Z",
+      "publisher": {
+        "name": "petr.bek@karp-kv.cz"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "petr.bek@karp-kv.cz",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "",
+      "category": [],
+      "metadata": "{{metadata.metadata}}",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datazapad.cz/apps/5f0941316ebf4d62a5b518b3406aa7b3"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://www.datazapad.cz/pages/rim-mapovani-inovacniho-prostredi"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=5f5a19a727514857a731e29781448dc7&sublayer=0",
       "landingPage": "https://www.datazapad.cz/datasets/5f5a19a727514857a731e29781448dc7_0",
       "title": "Městské historické soubory v Karlovarském kraji",
@@ -19719,6 +19767,55 @@
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
           "accessURL": "https://www.datazapad.cz/api/download/v1/items/d51db8b1ac8f40b6adf214e67cbb6f30/kml?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=d5cc8e46d48b43eca602c78480fbe9e2",
+      "landingPage": "https://www.datazapad.cz/apps/d5cc8e46d48b43eca602c78480fbe9e2",
+      "title": "Firemní prostředí Karlovarského kraje",
+      "description": "{{description}}",
+      "keyword": [
+        "firemní prostředí",
+        "vizualizace",
+        "analyza"
+      ],
+      "issued": "2025-06-30T12:54:55.000Z",
+      "modified": "2025-06-30T12:54:56.000Z",
+      "publisher": {
+        "name": "petr.bek@karp-kv.cz"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "petr.bek@karp-kv.cz",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "",
+      "category": [
+        "Ekonomika a trh práce",
+        "Kraj a dotace"
+      ],
+      "metadata": "{{metadata.metadata}}",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datazapad.cz/apps/d5cc8e46d48b43eca602c78480fbe9e2"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://www.datazapad.cz/pages/rim-firemni-prostredi-karlovarskeho-kraje"
         }
       ],
       "theme": [
