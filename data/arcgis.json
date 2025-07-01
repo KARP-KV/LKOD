@@ -12331,10 +12331,10 @@
     },
     {
       "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=72aa9de6abc94f949f3959e70e0d241d&sublayer=3",
-      "landingPage": "https://www.datazapad.cz/datasets/72aa9de6abc94f949f3959e70e0d241d_3",
+      "identifier": "https://www.arcgis.com/home/item.html?id=72aa9de6abc94f949f3959e70e0d241d&sublayer=0",
+      "landingPage": "https://www.datazapad.cz/datasets/72aa9de6abc94f949f3959e70e0d241d_0",
       "title": "Lékařská a lékárenská pohotovostní služba v Karlovarském kraji",
-      "description": "<p><span style=\"font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif;font-size:16px;\">Datová sada obsahuje časovou a místní specifikaci lékařské pohotovosti pro děti, dospělé, stomatologickou a chirurgickou pohotovost (chirurgickou pohotovost pouze v Mariánských Lázních) a lékárenskou pohotovost pro Karlovarský kraj.</span></p><p><span style=\"font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif;font-size:16px;\">Zdrojem dat je Krajský úřad Karlovarského kraje.</span></p>",
+      "description": "<p><span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'>Datová sada obsahuje časovou a místní specifikaci lékařské pohotovosti pro děti, dospělé, stomatologickou a chirurgickou pohotovost (chirurgickou pohotovost pouze v Mariánských Lázních) a lékárenskou pohotovost pro Karlovarský kraj. Souřadnicový systém je použit WGS 1984.</span></p><p><span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'>Zdrojem dat je Krajský úřad Karlovarského kraje.</span></p>",
       "keyword": [
         "chirurgická pohotovost",
         "dětská pohotovost",
@@ -12343,10 +12343,11 @@
         "lékárenská",
         "pohotovost",
         "pohotovost pro dospělé",
-        "zubní pohotovost"
+        "zubní pohotovost",
+        "on-line pohotovost"
       ],
       "issued": "2024-02-15T08:55:43.000Z",
-      "modified": "2025-02-20T09:37:42.412Z",
+      "modified": "2025-07-01T07:57:04.000Z",
       "publisher": {
         "name": "Krajský úřad Karlovarského kraje"
       },
@@ -12364,6 +12365,7 @@
       "metadata": {
         "mdLang": {
           "languageCode": {
+            "@_Sync": "FALSE",
             "@_value": "cze"
           }
         },
@@ -12373,28 +12375,38 @@
               "eMailAdd": "pavla.brabencova@karp-kv.cz"
             }
           },
-          "rpOrgName": "Karlovarská agentura rozvoje podnikání, p.o.",
           "role": {
             "RoleCd": {
               "@_value": "007"
             }
+          },
+          "rpOrgName": "Karlovarská agentura rozvoje podnikání, p.o."
+        },
+        "distInfo": {
+          "distTranOps": {
+            "onLineSrc": {
+              "linkage": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/L%C3%A9ka%C5%99sk%C3%A1_a_l%C3%A9k%C3%A1rensk%C3%A1_pohotovostn%C3%AD_slu%C5%BEba_v_KVK_v_r__2024_WFL1/FeatureServer"
+            }
           }
         },
-        "mdDateSt": "2025-02-20",
+        "mdMaint": {
+          "maintFreq": {
+            "MaintFreqCd": {
+              "@_value": "009"
+            }
+          }
+        },
         "Esri": {
           "ArcGISFormat": 1,
           "CreaTime": 9545800,
           "ArcGISProfile": "INSPIRE",
-          "ArcGISstyle": "INSPIRE Metadata Directive",
-          "ModDate": 20250220,
           "CreaDate": 20240215,
-          "ModTime": 12371757,
-          "SyncOnce": "TRUE",
-          "MapLyrSync": false,
-          "PublishStatus": "editor:esri.dijit.metadata.editor"
+          "SyncOnce": "TRUE"
         },
-        "mdTimeSt": "10:32:08.92",
         "dqInfo": {
+          "dataLineage": {
+            "statement": "Data Krajského úřadu Karlovarského kraje"
+          },
           "dqScope": {
             "scpLvl": {
               "ScopeCd": {
@@ -12409,59 +12421,73 @@
                   "date": {
                     "pubDate": "2010-12-08T00:00:00"
                   },
-                  "resTitle": "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                  "resTitle": {
+                    "@_Sync": "FALSE",
+                    "#value": "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                  }
                 }
               }
             }
           }
         },
+        "@_xml:lang": "cs",
         "mdHrLv": {
           "ScopeCd": {
             "@_value": "005"
           }
         },
         "dataIdInfo": {
-          "idAbs": "<p><span style=\"font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif;font-size:16px;\">Datová sada obsahuje časovou a místní specifikaci lékařské pohotovosti pro děti, dospělé, stomatologickou a chirurgickou pohotovost (chirurgickou pohotovost pouze v Mariánských Lázních) a lékárenskou pohotovost pro Karlovarský kraj.</span></p><p><span style=\"font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif;font-size:16px;\">Zdrojem dat je Krajský úřad Karlovarského kraje.</span></p>",
+          "idAbs": "<p><span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'>Datová sada obsahuje časovou a místní specifikaci lékařské pohotovosti pro děti, dospělé, stomatologickou a chirurgickou pohotovost (chirurgickou pohotovost pouze v Mariánských Lázních) a lékárenskou pohotovost pro Karlovarský kraj. Souřadnicový systém je použit WGS 1984.</span></p><p><span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'>Zdrojem dat je Krajský úřad Karlovarského kraje.</span></p>",
           "idCredit": "Krajský úřad Karlovarského kraje",
           "dataLang": {
-            "countryCode": {
-              "@_value": "CZ"
-            },
             "languageCode": {
+              "@_Sync": "FALSE",
               "@_value": "cze"
             }
           },
           "idPurp": "Seznam lékařských a lékárenských pohotovostí v Karlovarském kraji.",
-          "tpCat": {
-            "TopicCatCd": {
-              "@_value": "009"
+          "tpCat": [
+            {
+              "TopicCatCd": {
+                "@_value": "009"
+              }
+            },
+            {
+              "TopicCatCd": {
+                "@_value": "016"
+              }
             }
-          },
+          ],
           "dataExt": {
-            "geoEle": [
-              {
-                "GeoBndBox": {
-                  "eastBL": 12.976969,
-                  "southBL": 49.939652,
-                  "northBL": 50.312748,
-                  "westBL": 12.180584
-                }
-              },
-              {
-                "GeoBndBox": {
-                  "eastBL": 13.004434,
-                  "southBL": 49.96086,
-                  "northBL": 50.32327,
-                  "westBL": 12.19981
+            "geoEle": {
+              "GeoBndBox": {
+                "eastBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 12.941263
+                },
+                "southBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 49.96086
+                },
+                "northBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 50.302223
+                },
+                "westBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 12.19981
                 }
               }
-            ]
+            }
           },
           "idCitation": {
             "date": {
-              "reviseDate": "2025-02-20T10:37:42.412+01:00"
+              "reviseDate": "2025-07-01T07:57:04"
             },
-            "resTitle": "Lékařská a lékárenská pohotovost v Karlovarském kraji",
+            "resTitle": {
+              "@_Sync": "FALSE",
+              "#value": "Lékařská a lékárenská pohotovost v Karlovarském kraji"
+            },
             "citId": {
               "identCode": "publication"
             }
@@ -12471,36 +12497,30 @@
               "date": {
                 "pubDate": "2008-06-01T00:00:00"
               },
-              "resTitle": "GEMET - INSPIRE themes, version 1.0"
+              "resTitle": {
+                "@_Sync": "FALSE",
+                "#value": "GEMET - INSPIRE themes, version 1.0"
+              }
             },
             "keyword": [
-              "chirurgická pohotovost",
-              "dětská pohotovost",
+              "zdravotnictví",
               "Karlovarský kraj",
-              "lékařská",
-              "lékárenská",
               "pohotovost",
-              "pohotovost pro dospělé",
-              "zubní pohotovost"
+              "lékařská pohotovost",
+              "lékárenská pohotovost",
+              "zubní pohotovost",
+              "on-line pohotovost"
             ]
           },
-          "resMaint": {
-            "maintScp": {
-              "ScopeCd": {
-                "@_value": "001"
-              }
-            },
-            "usrDefFreq": {
-              "duration": 9
-            },
-            "maintFreq": {
-              "MaintFreqCd": {
-                "@_value": "009"
-              }
+          "spatRpType": {
+            "SpatRepTypCd": {
+              "@_Sync": "FALSE",
+              "@_value": "003"
             }
           },
           "dataChar": {
             "CharSetCd": {
+              "@_Sync": "FALSE",
               "@_value": "004"
             }
           },
@@ -12513,7 +12533,8 @@
               "lékárenská",
               "pohotovost",
               "pohotovost pro dospělé",
-              "zubní pohotovost"
+              "zubní pohotovost",
+              "on-line pohotovost"
             ]
           },
           "idPoC": {
@@ -12522,22 +12543,16 @@
                 "eMailAdd": "pavla.brabencova@karp-kv.cz"
               }
             },
-            "rpOrgName": "Krajský úřad Karlovarského kraje",
             "role": {
               "RoleCd": {
                 "@_value": "007"
               }
-            }
+            },
+            "rpOrgName": "Krajský úřad Karlovarského kraje"
           },
           "resConst": [
             {
               "LegConsts": {
-                "useConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
-                "othConsts": "Jiná omezení",
                 "inspireAccessUseConditions": {
                   "ConditionsAccUseCd": {
                     "@_value": "001"
@@ -12547,12 +12562,6 @@
             },
             {
               "LegConsts": {
-                "othConsts": "Jiná omezení",
-                "accessConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
                 "inspirePublicAccessLimits": {
                   "PublicAccessCd": {
                     "@_value": "001"
@@ -12571,7 +12580,8 @@
           "RefSystem": {
             "refSysID": {
               "identCode": {
-                "@_code": "WGS84"
+                "@_Sync": "FALSE",
+                "@_code": "GCS_WGS_1984"
               }
             }
           }
@@ -12580,26 +12590,7 @@
           "CharSetCd": {
             "@_value": "004"
           }
-        },
-        "mdFileID": "1740043929109r8419618756814651",
-        "distInfo": {
-          "distTranOps": {
-            "onLineSrc": {
-              "linkage": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/L%C3%A9ka%C5%99sk%C3%A1_a_l%C3%A9k%C3%A1rensk%C3%A1_pohotovostn%C3%AD_slu%C5%BEba_v_KVK_v_r__2024_WFL1/FeatureServer"
-            }
-          }
-        },
-        "mdMaint": {
-          "usrDefFreq": {
-            "duration": 9
-          },
-          "maintFreq": {
-            "MaintFreqCd": {
-              "@_value": "009"
-            }
-          }
-        },
-        "@_xml:lang": "cs"
+        }
       },
       "distribution": [
         {
@@ -12607,42 +12598,42 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/datasets/72aa9de6abc94f949f3959e70e0d241d_3"
+          "accessURL": "https://www.datazapad.cz/datasets/72aa9de6abc94f949f3959e70e0d241d_0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "ArcGIS GeoService",
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
-          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/L%C3%A9ka%C5%99sk%C3%A1_a_l%C3%A9k%C3%A1rensk%C3%A1_pohotovostn%C3%AD_slu%C5%BEba_v_KVK_v_r__2024_WFL1/FeatureServer/3"
+          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/L%C3%A9ka%C5%99sk%C3%A1_a_l%C3%A9k%C3%A1rensk%C3%A1_pohotovostn%C3%AD_slu%C5%BEba_v_KVK_v_r__2024_WFL1/FeatureServer/0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "CSV",
           "format": "CSV",
           "mediaType": "text/csv",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/72aa9de6abc94f949f3959e70e0d241d/csv?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/72aa9de6abc94f949f3959e70e0d241d/csv?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Shapefile",
           "format": "ZIP",
           "mediaType": "application/zip",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/72aa9de6abc94f949f3959e70e0d241d/shapefile?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/72aa9de6abc94f949f3959e70e0d241d/shapefile?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "GeoJSON",
           "format": "GeoJSON",
           "mediaType": "application/vnd.geo+json",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/72aa9de6abc94f949f3959e70e0d241d/geojson?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/72aa9de6abc94f949f3959e70e0d241d/geojson?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "KML",
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/72aa9de6abc94f949f3959e70e0d241d/kml?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/72aa9de6abc94f949f3959e70e0d241d/kml?layers=0"
         }
       ],
       "theme": [
@@ -18922,7 +18913,7 @@
         "bariéra"
       ],
       "issued": "2025-06-30T08:52:27.000Z",
-      "modified": "2025-06-30T08:55:13.000Z",
+      "modified": "2025-07-01T06:22:19.000Z",
       "publisher": {
         "name": "jan.sklepek@karp-kv.cz"
       },
