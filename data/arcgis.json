@@ -17338,7 +17338,7 @@
         "bariéra"
       ],
       "issued": "2024-01-11T13:33:09.000Z",
-      "modified": "2025-06-30T09:16:08.000Z",
+      "modified": "2025-07-04T08:14:05.000Z",
       "publisher": {
         "name": "jan.sklepek@karp-kv.cz"
       },
@@ -18941,7 +18941,7 @@
         "bariéra"
       ],
       "issued": "2025-06-30T08:52:27.000Z",
-      "modified": "2025-07-04T05:47:04.000Z",
+      "modified": "2025-07-04T09:04:07.000Z",
       "publisher": {
         "name": "jan.sklepek@karp-kv.cz"
       },
@@ -20321,6 +20321,45 @@
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
           "accessURL": "https://www.datazapad.cz/pages/dalsi-vystupy-vyhodnoceni-predpokladu-rozvoje-chytre-obce"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=f2c4a4a5421a47d08ddf0d10eccd71c7",
+      "landingPage": "https://www.datazapad.cz/pages/f2c4a4a5421a47d08ddf0d10eccd71c7",
+      "title": "RIM: Počet studentů na pobočkách SŠ",
+      "description": "",
+      "keyword": [
+        "chytrý region",
+        "smart",
+        "bariéra"
+      ],
+      "issued": "2025-07-04T07:31:32.000Z",
+      "modified": "2025-07-04T08:19:18.000Z",
+      "publisher": {
+        "name": "lukas.rozlilek@karp-kv.cz"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "lukas.rozlilek@karp-kv.cz",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "12.0940,48.5525,18.8574,51.0581",
+      "license": "",
+      "category": [],
+      "metadata": "{{metadata.metadata}}",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datazapad.cz/pages/f2c4a4a5421a47d08ddf0d10eccd71c7"
         }
       ],
       "theme": [
