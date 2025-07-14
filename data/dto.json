@@ -86,6 +86,7 @@
     "https://open.datazapad.cz/b59dc439b86147e4aefba8d94fc6aa9e.jsonld",
     "https://open.datazapad.cz/b69266abf22c4baa9fabeb437449c1e8.jsonld",
     "https://open.datazapad.cz/bad1ca41fefe4ac6914e436cecc54d1f.jsonld",
+    "https://open.datazapad.cz/bf788d314adc45adaf00f3070a733754.jsonld",
     "https://open.datazapad.cz/c0ae279455b34b5fb4a929ef98675a5b.jsonld",
     "https://open.datazapad.cz/c3a31017e7ac4e8d8d75c6a1ed49bc03.jsonld",
     "https://open.datazapad.cz/c3a42c283f0649248326a0bbd7dc5cc3.jsonld",
@@ -12120,6 +12121,48 @@
           },
           "soubor_ke_stažení": "https://www.datazapad.cz/pages/bad1ca41fefe4ac6914e436cecc54d1f",
           "přístupové_url": "https://www.datazapad.cz/pages/bad1ca41fefe4ac6914e436cecc54d1f",
+          "typ_média": "http://www.iana.org/assignments/media-types/text/html",
+          "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
+          "podmínky_užití": {
+            "typ": "Specifikace podmínek užití",
+            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+          }
+        }
+      ]
+    },
+    {
+      "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+      "iri": "https://open.datazapad.cz/bf788d314adc45adaf00f3070a733754.jsonld",
+      "typ": "Datová sada",
+      "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891168",
+      "název": {
+        "cs": "Analýza sklářského a keramického průmyslu v Karlovarském kraji"
+      },
+      "popis": {
+        "cs": "{{description}}"
+      },
+      "klíčové_slovo": {
+        "cs": []
+      },
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "prvek_rúian": [
+        "https://linked.cuzk.cz/resource/ruian/vusc/51"
+      ],
+      "distribuce": [
+        {
+          "typ": "Distribuce",
+          "iri": "https://www.datazapad.cz/pages/bf788d314adc45adaf00f3070a733754",
+          "název": {
+            "cs": "ArcGIS Hub Dataset"
+          },
+          "soubor_ke_stažení": "https://www.datazapad.cz/pages/bf788d314adc45adaf00f3070a733754",
+          "přístupové_url": "https://www.datazapad.cz/pages/bf788d314adc45adaf00f3070a733754",
           "typ_média": "http://www.iana.org/assignments/media-types/text/html",
           "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
           "podmínky_užití": {

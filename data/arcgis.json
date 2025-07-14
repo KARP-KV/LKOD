@@ -17434,7 +17434,7 @@
         "bariéra"
       ],
       "issued": "2024-01-11T13:33:09.000Z",
-      "modified": "2025-07-04T08:14:05.000Z",
+      "modified": "2025-07-14T07:07:06.000Z",
       "publisher": {
         "name": "jan.sklepek@karp-kv.cz"
       },
@@ -17455,6 +17455,41 @@
           "format": "Web Page",
           "mediaType": "text/html",
           "accessURL": "https://www.datazapad.cz/pages/bad1ca41fefe4ac6914e436cecc54d1f"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=bf788d314adc45adaf00f3070a733754",
+      "landingPage": "https://www.datazapad.cz/pages/bf788d314adc45adaf00f3070a733754",
+      "title": "Analýza sklářského a keramického průmyslu v Karlovarském kraji",
+      "description": "{{description}}",
+      "keyword": [],
+      "issued": "2025-07-14T09:36:10.000Z",
+      "modified": "2025-07-14T09:36:10.000Z",
+      "publisher": {
+        "name": "petr.bek@karp-kv.cz"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "petr.bek@karp-kv.cz",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "",
+      "category": [],
+      "metadata": "{{metadata.metadata}}",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datazapad.cz/pages/bf788d314adc45adaf00f3070a733754"
         }
       ],
       "theme": [
@@ -20468,7 +20503,7 @@
         "bariéra"
       ],
       "issued": "2025-07-04T07:31:32.000Z",
-      "modified": "2025-07-04T08:19:18.000Z",
+      "modified": "2025-07-14T07:04:04.000Z",
       "publisher": {
         "name": "lukas.rozlilek@karp-kv.cz"
       },
