@@ -645,6 +645,54 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=0398153a20ea43c2865bdcbfd7615b0a",
+      "landingPage": "https://www.datazapad.cz/apps/0398153a20ea43c2865bdcbfd7615b0a",
+      "title": "Počet studentů na pobočkách VŠ v Karlovarském kraji",
+      "description": "{{description}}",
+      "keyword": [
+        "Analýza",
+        "Školství",
+        "Vizualizace"
+      ],
+      "issued": "2025-07-16T14:48:44.000Z",
+      "modified": "2025-07-16T14:48:45.000Z",
+      "publisher": {
+        "name": "petr.bek@karp-kv.cz"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "petr.bek@karp-kv.cz",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "",
+      "category": [
+        "Školství a výzkum"
+      ],
+      "metadata": "{{metadata.metadata}}",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datazapad.cz/apps/0398153a20ea43c2865bdcbfd7615b0a"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://www.datazapad.cz/pages/bad1ca41fefe4ac6914e436cecc54d1f"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=03dbe5719ab64960ae70ee90af4790c6&sublayer=3",
       "landingPage": "https://www.datazapad.cz/datasets/03dbe5719ab64960ae70ee90af4790c6_3",
       "title": "Nemocnice v Karlovarském kraji",
@@ -4944,6 +4992,54 @@
           "format": "GDB",
           "mediaType": "application/geopackage+sqlite3",
           "accessURL": "https://www.datazapad.cz/api/download/v1/items/25589e2554f54259b200f4adb547db54/sqlite?layers=3"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=270264c2c91d4af79cf049aec94e03df",
+      "landingPage": "https://www.datazapad.cz/apps/270264c2c91d4af79cf049aec94e03df",
+      "title": "Mapa škol Karlovarského kraje",
+      "description": "{{description}}",
+      "keyword": [
+        "Mapa",
+        "Školství",
+        "Vizualizace"
+      ],
+      "issued": "2025-07-16T14:37:04.000Z",
+      "modified": "2025-07-16T14:37:06.000Z",
+      "publisher": {
+        "name": "petr.bek@karp-kv.cz"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "petr.bek@karp-kv.cz",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "",
+      "category": [
+        "Školství a výzkum"
+      ],
+      "metadata": "{{metadata.metadata}}",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datazapad.cz/apps/270264c2c91d4af79cf049aec94e03df"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://www.datazapad.cz/pages/rim-mapa-skol-karlovarskeho-kraje"
         }
       ],
       "theme": [
@@ -20493,6 +20589,54 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=ea60e50034a24253b1a958f1c448a6b0",
+      "landingPage": "https://www.datazapad.cz/apps/ea60e50034a24253b1a958f1c448a6b0",
+      "title": "Počet studentů na středních školách",
+      "description": "{{description}}",
+      "keyword": [
+        "Školství",
+        "Vizualizace",
+        "Analýza"
+      ],
+      "issued": "2025-07-16T14:46:37.000Z",
+      "modified": "2025-07-16T14:46:38.000Z",
+      "publisher": {
+        "name": "petr.bek@karp-kv.cz"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "petr.bek@karp-kv.cz",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "",
+      "category": [
+        "Školství a výzkum"
+      ],
+      "metadata": "{{metadata.metadata}}",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datazapad.cz/apps/ea60e50034a24253b1a958f1c448a6b0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://www.datazapad.cz/pages/karp%7Ckarp%7Crimpocetstudentustredniskoly"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=f2c4a4a5421a47d08ddf0d10eccd71c7",
       "landingPage": "https://www.datazapad.cz/pages/f2c4a4a5421a47d08ddf0d10eccd71c7",
       "title": "RIM: Počet studentů na pobočkách SŠ",
@@ -20524,6 +20668,63 @@
           "format": "Web Page",
           "mediaType": "text/html",
           "accessURL": "https://www.datazapad.cz/pages/f2c4a4a5421a47d08ddf0d10eccd71c7"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=f565ec537341406bb4cd4c6062f1a356",
+      "landingPage": "https://www.datazapad.cz/apps/f565ec537341406bb4cd4c6062f1a356",
+      "title": "Mapa chytrých řešení obcí a měst",
+      "description": "{{description}}",
+      "keyword": [
+        "Smart city",
+        "Chytrý venkov",
+        "Chytrá města",
+        "vizualizace"
+      ],
+      "issued": "2025-07-16T14:34:20.000Z",
+      "modified": "2025-07-16T14:34:21.000Z",
+      "publisher": {
+        "name": "petr.bek@karp-kv.cz"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "petr.bek@karp-kv.cz",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "",
+      "category": [
+        "Zdravotnictví a zdraví",
+        "Kraj a dotace",
+        "Veřejná doprava a silnice",
+        "Ekonomika a trh práce",
+        "IZS a bezpečnost",
+        "Lidé a sociální služby",
+        "Školství a výzkum",
+        "Kultura a cestovní ruch",
+        "Investice kraje"
+      ],
+      "metadata": "{{metadata.metadata}}",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datazapad.cz/apps/f565ec537341406bb4cd4c6062f1a356"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://www.datazapad.cz/pages/rim-mapa-chytrych-reseni-obci-a-mest"
         }
       ],
       "theme": [
