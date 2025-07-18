@@ -4021,8 +4021,8 @@
     },
     {
       "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=1e64adf22f8448a693f638c9f1334dc9",
-      "landingPage": "https://www.datazapad.cz/maps/1e64adf22f8448a693f638c9f1334dc9",
+      "identifier": "https://www.arcgis.com/home/item.html?id=1e64adf22f8448a693f638c9f1334dc9&sublayer=0",
+      "landingPage": "https://www.datazapad.cz/datasets/1e64adf22f8448a693f638c9f1334dc9_0",
       "title": "Jiné atraktivity v Karlovarském kraji",
       "description": "<p>Datová sada obsahuje kromě specifikace umístění atraktivity rovněž webové stránky, kontaktní e-mail a telefon příslušné atraktivity.</p>",
       "keyword": [
@@ -4036,7 +4036,7 @@
         "trojstátí"
       ],
       "issued": "2024-08-07T09:19:48.000Z",
-      "modified": "2025-04-01T11:23:26.000Z",
+      "modified": "2025-04-01T11:23:29.752Z",
       "publisher": {
         "name": "Karlovarská agentura rozvoje podnikání, p.o."
       },
@@ -4253,14 +4253,77 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/maps/1e64adf22f8448a693f638c9f1334dc9"
+          "accessURL": "https://www.datazapad.cz/datasets/1e64adf22f8448a693f638c9f1334dc9_0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "ArcGIS GeoService",
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
-          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Jin%C3%A9_atraktivity_v_Karlovarsk%C3%A9m_kraji_WFL1/FeatureServer"
+          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Jin%C3%A9_atraktivity_v_Karlovarsk%C3%A9m_kraji_WFL1/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/1e64adf22f8448a693f638c9f1334dc9/csv?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/1e64adf22f8448a693f638c9f1334dc9/shapefile?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/1e64adf22f8448a693f638c9f1334dc9/geojson?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/1e64adf22f8448a693f638c9f1334dc9/kml?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "File Geodatabase",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/1e64adf22f8448a693f638c9f1334dc9/filegdb?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Feature Collection",
+          "format": "TXT",
+          "mediaType": "text/plain",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/1e64adf22f8448a693f638c9f1334dc9/featureCollection?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Excel",
+          "format": "XLSX",
+          "mediaType": "application/vnd.ms-excel",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/1e64adf22f8448a693f638c9f1334dc9/excel?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoPackage",
+          "format": "GPKG",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/1e64adf22f8448a693f638c9f1334dc9/geoPackage?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "SQLite Geodatabase",
+          "format": "GDB",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/1e64adf22f8448a693f638c9f1334dc9/sqlite?layers=0"
         }
       ],
       "theme": [
