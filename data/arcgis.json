@@ -12500,7 +12500,7 @@
       "identifier": "https://www.arcgis.com/home/item.html?id=72aa9de6abc94f949f3959e70e0d241d&sublayer=3",
       "landingPage": "https://www.datazapad.cz/datasets/72aa9de6abc94f949f3959e70e0d241d_3",
       "title": "Lékařská a lékárenská pohotovostní služba v Karlovarském kraji",
-      "description": "<p><span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'>Datová sada obsahuje časovou a místní specifikaci lékařské pohotovostní služby pro děti, dospělé, stomatologickou a chirurgickou pohotovostní službu (chirurgickou pohotovostní službu pouze v Mariánských Lázních) a lékárenskou pohotovostní službu pro Karlovarský kraj. Souřadnicový systém je použit WGS 1984.</span></p><p><span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'>Zdrojem dat je Krajský úřad Karlovarského kraje.</span></p>",
+      "description": "<p><span style=\"font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif;font-size:14px;\">Datová sada obsahuje časovou a místní specifikaci lékařské pohotovostní služby pro děti, dospělé, stomatologickou a chirurgickou pohotovostní službu (chirurgickou pohotovostní službu pouze v Mariánských Lázních) a lékárenskou pohotovostní službu pro Karlovarský kraj. Souřadnicový systém je použit WGS 1984.</span></p><p><span style=\"font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif;font-size:14px;\">Zdrojem dat je Krajský úřad Karlovarského kraje.</span></p>",
       "keyword": [
         "chirurgická pohotovost",
         "dětská pohotovost",
@@ -12513,7 +12513,7 @@
         "on-line pohotovost"
       ],
       "issued": "2024-02-15T08:55:43.000Z",
-      "modified": "2025-07-29T08:09:10.000Z",
+      "modified": "2025-08-01T13:03:55.000Z",
       "publisher": {
         "name": "Karlovarská agentura rozvoje podnikání, p.o."
       },
@@ -12548,9 +12548,19 @@
           },
           "rpOrgName": "Karlovarská agentura rozvoje podnikání, p.o."
         },
-        "mdDateSt": {
-          "@_Sync": "FALSE",
-          "#value": "2025-07-29"
+        "distInfo": {
+          "distTranOps": {
+            "onLineSrc": {
+              "linkage": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/L%C3%A9ka%C5%99sk%C3%A1_a_l%C3%A9k%C3%A1rensk%C3%A1_pohotovostn%C3%AD_slu%C5%BEba_v_KVK_v_r__2024_WFL1/FeatureServer"
+            }
+          }
+        },
+        "mdMaint": {
+          "maintFreq": {
+            "MaintFreqCd": {
+              "@_value": "008"
+            }
+          }
         },
         "Esri": {
           "ArcGISFormat": 1,
@@ -12559,10 +12569,9 @@
           "CreaDate": 20240215,
           "SyncOnce": "TRUE"
         },
-        "mdTimeSt": "08:12:16",
         "dqInfo": {
           "dataLineage": {
-            "statement": "Data Krajského úřadu Karlovarského kraje a Karlovarské agentury rozvoje podnikání, p.o."
+            "statement": "Krajský úřad Karlovarského kraje"
           },
           "dqScope": {
             "scpLvl": {
@@ -12587,13 +12596,14 @@
             }
           }
         },
+        "@_xml:lang": "cs",
         "mdHrLv": {
           "ScopeCd": {
             "@_value": "005"
           }
         },
         "dataIdInfo": {
-          "idAbs": "<p><span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'>Datová sada obsahuje časovou a místní specifikaci lékařské pohotovostní služby pro děti, dospělé, stomatologickou a chirurgickou pohotovostní službu (chirurgickou pohotovostní službu pouze v Mariánských Lázních) a lékárenskou pohotovostní službu pro Karlovarský kraj. Souřadnicový systém je použit WGS 1984.</span></p><p><span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'>Zdrojem dat je Krajský úřad Karlovarského kraje.</span></p>",
+          "idAbs": "<p><span style=\"font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif;font-size:14px;\">Datová sada obsahuje časovou a místní specifikaci lékařské pohotovostní služby pro děti, dospělé, stomatologickou a chirurgickou pohotovostní službu (chirurgickou pohotovostní službu pouze v Mariánských Lázních) a lékárenskou pohotovostní službu pro Karlovarský kraj. Souřadnicový systém je použit WGS 1984.</span></p><p><span style=\"font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif;font-size:14px;\">Zdrojem dat je Krajský úřad Karlovarského kraje.</span></p>",
           "idCredit": "Krajský úřad Karlovarského kraje",
           "dataLang": {
             "languageCode": {
@@ -12631,11 +12641,11 @@
           },
           "idCitation": {
             "date": {
-              "reviseDate": "2025-07-29T08:09:10"
+              "reviseDate": "2025-08-01T13:03:55"
             },
             "resTitle": {
               "@_Sync": "FALSE",
-              "#value": "Lékařská a lékárenská pohotovostní služba v Karlovarském kraji"
+              "#value": "Lékařská a lékárenská pohotovostní služba"
             },
             "citId": {
               "identCode": "publication"
@@ -12654,11 +12664,8 @@
             "keyword": [
               "Karlovarský kraj",
               "pohotovostní služba",
-              "lékařská pohotovost",
-              "dětská pohotovost",
-              "chirurgická pohotovost",
-              "online pohotovost",
-              "lékárenská pohotovost"
+              "lékařská pohotovostní služba",
+              "lékárenská pohotovostní služba"
             ]
           },
           "spatRpType": {
@@ -12739,22 +12746,7 @@
           "CharSetCd": {
             "@_value": "004"
           }
-        },
-        "distInfo": {
-          "distTranOps": {
-            "onLineSrc": {
-              "linkage": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/L%C3%A9ka%C5%99sk%C3%A1_a_l%C3%A9k%C3%A1rensk%C3%A1_pohotovostn%C3%AD_slu%C5%BEba_v_KVK_v_r__2024_WFL1/FeatureServer"
-            }
-          }
-        },
-        "mdMaint": {
-          "maintFreq": {
-            "MaintFreqCd": {
-              "@_value": "009"
-            }
-          }
-        },
-        "@_xml:lang": "cs"
+        }
       },
       "distribution": [
         {
