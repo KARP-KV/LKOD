@@ -12497,8 +12497,8 @@
     },
     {
       "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=72aa9de6abc94f949f3959e70e0d241d&sublayer=3",
-      "landingPage": "https://www.datazapad.cz/datasets/72aa9de6abc94f949f3959e70e0d241d_3",
+      "identifier": "https://www.arcgis.com/home/item.html?id=72aa9de6abc94f949f3959e70e0d241d&sublayer=0",
+      "landingPage": "https://www.datazapad.cz/datasets/72aa9de6abc94f949f3959e70e0d241d_0",
       "title": "Lékařská a lékárenská pohotovostní služba v Karlovarském kraji",
       "description": "<p><span style=\"font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif;font-size:14px;\">Datová sada obsahuje časovou a místní specifikaci lékařské pohotovostní služby pro děti, dospělé, stomatologickou a chirurgickou pohotovostní službu (chirurgickou pohotovostní službu pouze v Mariánských Lázních) a lékárenskou pohotovostní službu pro Karlovarský kraj. Souřadnicový systém je použit WGS 1984.</span></p><p><span style=\"font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif;font-size:14px;\">Zdrojem dat je Krajský úřad Karlovarského kraje.</span></p>",
       "keyword": [
@@ -12513,9 +12513,9 @@
         "on-line pohotovost"
       ],
       "issued": "2024-02-15T08:55:43.000Z",
-      "modified": "2025-08-01T13:03:55.000Z",
+      "modified": "2025-08-04T06:41:03.051Z",
       "publisher": {
-        "name": "Karlovarská agentura rozvoje podnikání, p.o."
+        "name": "pavla.brabencova_karp"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -12529,36 +12529,10 @@
         "Zdravotnictví a zdraví"
       ],
       "metadata": {
-        "mdLang": {
-          "languageCode": {
-            "@_Sync": "FALSE",
-            "@_value": "cze"
-          }
-        },
-        "mdContact": {
-          "rpCntInfo": {
-            "cntAddress": {
-              "eMailAdd": "pavla.brabencova@karp-kv.cz"
-            }
-          },
-          "role": {
-            "RoleCd": {
-              "@_value": "007"
-            }
-          },
-          "rpOrgName": "Karlovarská agentura rozvoje podnikání, p.o."
-        },
         "distInfo": {
           "distTranOps": {
             "onLineSrc": {
               "linkage": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/L%C3%A9ka%C5%99sk%C3%A1_a_l%C3%A9k%C3%A1rensk%C3%A1_pohotovostn%C3%AD_slu%C5%BEba_v_KVK_v_r__2024_WFL1/FeatureServer"
-            }
-          }
-        },
-        "mdMaint": {
-          "maintFreq": {
-            "MaintFreqCd": {
-              "@_value": "008"
             }
           }
         },
@@ -12570,16 +12544,6 @@
           "SyncOnce": "TRUE"
         },
         "dqInfo": {
-          "dataLineage": {
-            "statement": "Krajský úřad Karlovarského kraje"
-          },
-          "dqScope": {
-            "scpLvl": {
-              "ScopeCd": {
-                "@_value": "005"
-              }
-            }
-          },
           "report": {
             "measResult": {
               "ConResult": {
@@ -12605,48 +12569,8 @@
         "dataIdInfo": {
           "idAbs": "<p><span style=\"font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif;font-size:14px;\">Datová sada obsahuje časovou a místní specifikaci lékařské pohotovostní služby pro děti, dospělé, stomatologickou a chirurgickou pohotovostní službu (chirurgickou pohotovostní službu pouze v Mariánských Lázních) a lékárenskou pohotovostní službu pro Karlovarský kraj. Souřadnicový systém je použit WGS 1984.</span></p><p><span style=\"font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif;font-size:14px;\">Zdrojem dat je Krajský úřad Karlovarského kraje.</span></p>",
           "idCredit": "Krajský úřad Karlovarského kraje",
-          "dataLang": {
-            "languageCode": {
-              "@_Sync": "FALSE",
-              "@_value": "cze"
-            }
-          },
-          "idPurp": "Seznam lékařských a lékárenských pohotovostních služeb v Karlovarském kraji.",
-          "tpCat": {
-            "TopicCatCd": {
-              "@_value": "009"
-            }
-          },
-          "dataExt": {
-            "geoEle": {
-              "GeoBndBox": {
-                "eastBL": {
-                  "@_Sync": "FALSE",
-                  "#value": 12.941263
-                },
-                "southBL": {
-                  "@_Sync": "FALSE",
-                  "#value": 49.96086
-                },
-                "northBL": {
-                  "@_Sync": "FALSE",
-                  "#value": 50.302223
-                },
-                "westBL": {
-                  "@_Sync": "FALSE",
-                  "#value": 12.19981
-                }
-              }
-            }
-          },
           "idCitation": {
-            "date": {
-              "reviseDate": "2025-08-01T13:03:55"
-            },
-            "resTitle": {
-              "@_Sync": "FALSE",
-              "#value": "Lékařská a lékárenská pohotovostní služba"
-            },
+            "resTitle": "Mapa",
             "citId": {
               "identCode": "publication"
             }
@@ -12660,20 +12584,9 @@
                 "@_Sync": "FALSE",
                 "#value": "GEMET - INSPIRE themes, version 1.0"
               }
-            },
-            "keyword": [
-              "Karlovarský kraj",
-              "pohotovostní služba",
-              "lékařská pohotovostní služba",
-              "lékárenská pohotovostní služba"
-            ]
-          },
-          "spatRpType": {
-            "SpatRepTypCd": {
-              "@_Sync": "FALSE",
-              "@_value": "003"
             }
           },
+          "idPurp": "Seznam lékařských a lékárenských pohotovostních služeb v Karlovarském kraji.",
           "dataChar": {
             "CharSetCd": {
               "@_Sync": "FALSE",
@@ -12693,52 +12606,9 @@
               "on-line pohotovost"
             ]
           },
-          "idPoC": {
-            "rpCntInfo": {
-              "cntAddress": {
-                "eMailAdd": "pavla.brabencova@karp-kv.cz"
-              }
-            },
-            "role": {
-              "RoleCd": {
-                "@_value": "007"
-              }
-            },
-            "rpOrgName": "Karlovarská agentura rozvoje podnikání, p.o."
-          },
-          "resConst": [
-            {
-              "LegConsts": {
-                "inspireAccessUseConditions": {
-                  "ConditionsAccUseCd": {
-                    "@_value": "001"
-                  }
-                }
-              }
-            },
-            {
-              "LegConsts": {
-                "inspirePublicAccessLimits": {
-                  "PublicAccessCd": {
-                    "@_value": "001"
-                  }
-                }
-              }
-            },
-            {
-              "Consts": {
-                "useLimit": "CC0 1.0"
-              }
-            }
-          ]
-        },
-        "refSysInfo": {
-          "RefSystem": {
-            "refSysID": {
-              "identCode": {
-                "@_Sync": "FALSE",
-                "@_code": "GCS_WGS_1984"
-              }
+          "resConst": {
+            "Consts": {
+              "useLimit": "CC0 1.0"
             }
           }
         },
@@ -12754,42 +12624,42 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/datasets/72aa9de6abc94f949f3959e70e0d241d_3"
+          "accessURL": "https://www.datazapad.cz/datasets/72aa9de6abc94f949f3959e70e0d241d_0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "ArcGIS GeoService",
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
-          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/L%C3%A9ka%C5%99sk%C3%A1_a_l%C3%A9k%C3%A1rensk%C3%A1_pohotovostn%C3%AD_slu%C5%BEba_v_KVK_v_r__2024_WFL1/FeatureServer/3"
+          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/L%C3%A9ka%C5%99sk%C3%A1_a_l%C3%A9k%C3%A1rensk%C3%A1_pohotovostn%C3%AD_slu%C5%BEba_v_KVK_v_r__2024_WFL1/FeatureServer/0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "CSV",
           "format": "CSV",
           "mediaType": "text/csv",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/72aa9de6abc94f949f3959e70e0d241d/csv?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/72aa9de6abc94f949f3959e70e0d241d/csv?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Shapefile",
           "format": "ZIP",
           "mediaType": "application/zip",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/72aa9de6abc94f949f3959e70e0d241d/shapefile?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/72aa9de6abc94f949f3959e70e0d241d/shapefile?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "GeoJSON",
           "format": "GeoJSON",
           "mediaType": "application/vnd.geo+json",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/72aa9de6abc94f949f3959e70e0d241d/geojson?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/72aa9de6abc94f949f3959e70e0d241d/geojson?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "KML",
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/72aa9de6abc94f949f3959e70e0d241d/kml?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/72aa9de6abc94f949f3959e70e0d241d/kml?layers=0"
         }
       ],
       "theme": [
