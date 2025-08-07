@@ -8463,6 +8463,305 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=5767506f1df649098991f462da16d497&sublayer=0",
+      "landingPage": "https://www.datazapad.cz/datasets/5767506f1df649098991f462da16d497_0",
+      "title": "Dobroty Karlovarského kraje",
+      "description": "<p>Datová sada obsahuje přehled oceněných produktů značkou “Dobrota Karlovarského kraje” od 1. ročníku soutěže v roce 2017. Do soutěže mohou své výrobky přihlásit malé a střední potravinářské podniky s počtem maximálně 250 zaměstnanců. Podmínkou je, aby byl přihlášený produkt vyroben v Karlovarském kraji. Datová sada obsahuje název produktu, kategorii, ročník soutěže, umístění produktu, výrobce produktu vč. jeho IČO, sídla, právní formy, webovou stránku, provozovnu vč. souřadnic této provozovny. Souřadnicový systém je použit WGS 1984.</p><p>Zdrojem dat je Krajský úřad Karlovarského kraje.</p>",
+      "keyword": [
+        "dobrota",
+        "regionální potravina",
+        "Karlovarský kraj",
+        "výrobky",
+        "soutěž"
+      ],
+      "issued": "2025-08-07T09:15:50.000Z",
+      "modified": "2025-08-07T09:15:53.737Z",
+      "publisher": {
+        "name": "Krajský úřad Karlovarského kraje"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "pavla.brabencova_karp",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "12.3663,49.9019,14.5155,50.3673",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0",
+      "category": [
+        "Kultura a cestovní ruch"
+      ],
+      "metadata": {
+        "mdLang": {
+          "languageCode": {
+            "@_Sync": "FALSE",
+            "@_value": "cze"
+          }
+        },
+        "mdContact": {
+          "rpCntInfo": {
+            "cntAddress": {
+              "eMailAdd": "pavla.brabencova@karp-kv.cz"
+            }
+          },
+          "role": {
+            "RoleCd": {
+              "@_value": "007"
+            }
+          },
+          "rpOrgName": "Karlovarská agentura rozvoje podnikání, p.o."
+        },
+        "distInfo": {
+          "distTranOps": {
+            "onLineSrc": {
+              "linkage": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Dobroty_Karlovarsk%C3%A9ho_kraje_WFL1/FeatureServer"
+            }
+          }
+        },
+        "mdMaint": {
+          "maintFreq": {
+            "MaintFreqCd": {
+              "@_value": "008"
+            }
+          }
+        },
+        "Esri": {
+          "ArcGISFormat": 1,
+          "CreaTime": 11091900,
+          "ArcGISProfile": "INSPIRE",
+          "DataProperties": {
+            "itemProps": {
+              "portalDetails": {
+                "thumbnailURL": "https://www.arcgis.com/sharing/rest/content/items/5767506f1df649098991f462da16d497/info/thumbnail/thumbnail1754558721526.png"
+              }
+            }
+          },
+          "CreaDate": 20250807,
+          "SyncOnce": "TRUE"
+        },
+        "dqInfo": {
+          "dataLineage": {
+            "statement": "Data Krajského úřadu Karlovarského kraje a Karlovarské agentury rozvoje podnikání"
+          },
+          "dqScope": {
+            "scpLvl": {
+              "ScopeCd": {
+                "@_value": "005"
+              }
+            }
+          },
+          "report": {
+            "measResult": {
+              "ConResult": {
+                "conSpec": {
+                  "date": {
+                    "pubDate": "2010-12-08T00:00:00"
+                  },
+                  "resTitle": {
+                    "@_Sync": "FALSE",
+                    "#value": "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "@_xml:lang": "cs",
+        "mdHrLv": {
+          "ScopeCd": {
+            "@_value": "005"
+          }
+        },
+        "dataIdInfo": {
+          "idAbs": "<p>Datová sada obsahuje přehled oceněných produktů značkou “Dobrota Karlovarského kraje” od 1. ročníku soutěže v roce 2017. Do soutěže mohou své výrobky přihlásit malé a střední potravinářské podniky s počtem maximálně 250 zaměstnanců. Podmínkou je, aby byl přihlášený produkt vyroben v Karlovarském kraji. Datová sada obsahuje název produktu, kategorii, ročník soutěže, umístění produktu, výrobce produktu vč. jeho IČO, sídla, právní formy, webovou stránku, provozovnu vč. souřadnic této provozovny. Souřadnicový systém je použit WGS 1984.</p><p>Zdrojem dat je Krajský úřad Karlovarského kraje.</p>",
+          "idCredit": "Krajský úřad Karlovarského kraje",
+          "dataLang": {
+            "languageCode": {
+              "@_Sync": "FALSE",
+              "@_value": "cze"
+            }
+          },
+          "idPurp": "Přehled výrobků oceněných značkou \"Dobrota Karlovarského kraje\".",
+          "tpCat": {
+            "TopicCatCd": {
+              "@_value": "016"
+            }
+          },
+          "dataExt": {
+            "geoEle": {
+              "GeoBndBox": {
+                "eastBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 14.515538
+                },
+                "southBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 49.901885
+                },
+                "northBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 50.367251
+                },
+                "westBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 12.366287
+                }
+              }
+            }
+          },
+          "idCitation": {
+            "date": {
+              "pubDate": "2025-08-07T11:37:46"
+            },
+            "resTitle": {
+              "@_Sync": "FALSE",
+              "#value": "Dobroty Karlovarského kraje"
+            },
+            "citId": {
+              "identCode": "publication"
+            }
+          },
+          "themeKeys": {
+            "thesaName": {
+              "date": {
+                "pubDate": "2008-06-01T00:00:00"
+              },
+              "resTitle": {
+                "@_Sync": "FALSE",
+                "#value": "GEMET - INSPIRE themes, version 1.0"
+              }
+            },
+            "keyword": [
+              "Karlovarský kraj",
+              "dobrota",
+              "regionální potravina"
+            ]
+          },
+          "spatRpType": {
+            "SpatRepTypCd": {
+              "@_Sync": "FALSE",
+              "@_value": "003"
+            }
+          },
+          "dataChar": {
+            "CharSetCd": {
+              "@_Sync": "FALSE",
+              "@_value": "004"
+            }
+          },
+          "searchKeys": {
+            "keyword": [
+              "dobrota",
+              "regionální potravina",
+              "Karlovarský kraj",
+              "výrobky",
+              "soutěž"
+            ]
+          },
+          "idPoC": {
+            "rpCntInfo": {
+              "cntAddress": {
+                "eMailAdd": "pavla.brabencova@karp-kv.cz"
+              }
+            },
+            "role": {
+              "RoleCd": {
+                "@_value": "007"
+              }
+            },
+            "rpOrgName": "Krajský úřad Karlovarského kraje"
+          },
+          "resConst": [
+            {
+              "LegConsts": {
+                "inspireAccessUseConditions": {
+                  "ConditionsAccUseCd": {
+                    "@_value": "001"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "inspirePublicAccessLimits": {
+                  "PublicAccessCd": {
+                    "@_value": "001"
+                  }
+                }
+              }
+            },
+            {
+              "Consts": {
+                "useLimit": "<p>CC0 1.0</p>"
+              }
+            }
+          ]
+        },
+        "refSysInfo": {
+          "RefSystem": {
+            "refSysID": {
+              "identCode": {
+                "@_Sync": "FALSE",
+                "@_code": "GCS_WGS_1984"
+              }
+            }
+          }
+        },
+        "mdChar": {
+          "CharSetCd": {
+            "@_value": "004"
+          }
+        }
+      },
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datazapad.cz/datasets/5767506f1df649098991f462da16d497_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Dobroty_Karlovarsk%C3%A9ho_kraje_WFL1/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/5767506f1df649098991f462da16d497/csv?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/5767506f1df649098991f462da16d497/shapefile?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/5767506f1df649098991f462da16d497/geojson?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/5767506f1df649098991f462da16d497/kml?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=57a4ac11b4014df7803496c91408ec4e&sublayer=3",
       "landingPage": "https://www.datazapad.cz/datasets/57a4ac11b4014df7803496c91408ec4e_3",
       "title": "Stavební úřady v Karlovarském kraji dle katastrálních území",
