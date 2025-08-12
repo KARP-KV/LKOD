@@ -21020,20 +21020,20 @@
     },
     {
       "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=f98f8248cdf140ad84649976f2d6f499&sublayer=3",
-      "landingPage": "https://www.datazapad.cz/datasets/f98f8248cdf140ad84649976f2d6f499_3",
+      "identifier": "https://www.arcgis.com/home/item.html?id=f98f8248cdf140ad84649976f2d6f499&sublayer=0",
+      "landingPage": "https://www.datazapad.cz/datasets/f98f8248cdf140ad84649976f2d6f499_0",
       "title": "Inovační infrastruktury Karlovarského kraje",
-      "description": "<p><span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'>Zdrojem dat je Karlovarská agentura rozvoje podnikání, p.o.</span></p>",
+      "description": "<p>Datová sada obsahuje kromě umístění inovačních infrastruktur také název společnosti (provozovatele), jeho IČO, sídlo, právní formu, kód adresy, číslo datové schránky a webové stránky. Souřadnicový systém je použit WGS 1984.</p><p><span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'>Zdrojem dat je Krajské inovační centrum Karlovarského kraje, příspěvková organizace.</span></p>",
       "keyword": [
-        "inovační infrastruktury",
         "Karlovarský  kraj",
         "inovace",
-        "infrastruktura"
+        "infrastruktura",
+        "inovační infrastruktura"
       ],
       "issued": "2023-12-07T07:26:16.000Z",
-      "modified": "2025-02-13T10:46:37.577Z",
+      "modified": "2025-08-12T12:34:32.000Z",
       "publisher": {
-        "name": "Karlovarská agentura rozvoje podnikání, p.o."
+        "name": "Krajské inovační centrum Karlovarského kraje"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -21050,6 +21050,7 @@
       "metadata": {
         "mdLang": {
           "languageCode": {
+            "@_Sync": "FALSE",
             "@_value": "cze"
           }
         },
@@ -21059,28 +21060,45 @@
               "eMailAdd": "pavla.brabencova@karp-kv.cz"
             }
           },
-          "rpOrgName": "Karlovarská agentura rozvoje podnikání, p.o.",
           "role": {
             "RoleCd": {
               "@_value": "007"
             }
+          },
+          "rpOrgName": "Krajské inovační centrum Karlovarského kraje"
+        },
+        "distInfo": {
+          "distTranOps": {
+            "onLineSrc": {
+              "linkage": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Mapa1_WFL1/FeatureServer"
+            }
           }
         },
-        "mdDateSt": "2025-02-13",
+        "mdMaint": {
+          "maintFreq": {
+            "MaintFreqCd": {
+              "@_value": "008"
+            }
+          }
+        },
         "Esri": {
           "ArcGISFormat": 1,
           "CreaTime": 12023300,
           "ArcGISProfile": "INSPIRE",
-          "ArcGISstyle": "INSPIRE Metadata Directive",
-          "ModDate": 20250213,
           "CreaDate": 20231204,
-          "ModTime": 11503496,
-          "SyncOnce": "TRUE",
-          "MapLyrSync": false,
-          "PublishStatus": "editor:esri.dijit.metadata.editor"
+          "SyncOnce": "TRUE"
         },
-        "mdTimeSt": "11:46:04.12",
         "dqInfo": {
+          "dataLineage": {
+            "statement": "Krajské inovační centrum Karlovarského kraje, příspěvková organizace"
+          },
+          "dqScope": {
+            "scpLvl": {
+              "ScopeCd": {
+                "@_value": "005"
+              }
+            }
+          },
           "report": {
             "measResult": {
               "ConResult": {
@@ -21088,25 +21106,27 @@
                   "date": {
                     "pubDate": "2010-12-08T00:00:00"
                   },
-                  "resTitle": "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                  "resTitle": {
+                    "@_Sync": "FALSE",
+                    "#value": "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                  }
                 }
               }
             }
           }
         },
+        "@_xml:lang": "cs",
         "mdHrLv": {
           "ScopeCd": {
             "@_value": "005"
           }
         },
         "dataIdInfo": {
-          "idAbs": "<p><span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'>Zdrojem dat je Karlovarská agentura rozvoje podnikání, p.o.</span></p>",
-          "idCredit": "Karlovarská agentura rozvoje podnikání, p.o.",
+          "idAbs": "<p>Datová sada obsahuje kromě umístění inovačních infrastruktur také název společnosti (provozovatele), jeho IČO, sídlo, právní formu, kód adresy, číslo datové schránky a webové stránky. Souřadnicový systém je použit WGS 1984.</p><p><span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'>Zdrojem dat je Krajské inovační centrum Karlovarského kraje, příspěvková organizace.</span></p>",
+          "idCredit": "Krajské inovační centrum Karlovarského kraje",
           "dataLang": {
-            "countryCode": {
-              "@_value": "CZ"
-            },
             "languageCode": {
+              "@_Sync": "FALSE",
               "@_value": "cze"
             }
           },
@@ -21119,18 +21139,33 @@
           "dataExt": {
             "geoEle": {
               "GeoBndBox": {
-                "eastBL": 12.976065,
-                "southBL": 50.058602,
-                "northBL": 50.304796,
-                "westBL": 12.32696
+                "eastBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 12.947226
+                },
+                "southBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 50.076232
+                },
+                "northBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 50.296024
+                },
+                "westBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 12.364039
+                }
               }
             }
           },
           "idCitation": {
             "date": {
-              "reviseDate": "2025-02-13T11:46:37.577+01:00"
+              "reviseDate": "2025-08-12T12:34:32"
             },
-            "resTitle": "Inovační infrastruktury Karlovarského kraje",
+            "resTitle": {
+              "@_Sync": "FALSE",
+              "#value": "Inovační infrastruktury Karlovarského kraje"
+            },
             "citId": {
               "identCode": "publication"
             }
@@ -21140,39 +21175,36 @@
               "date": {
                 "pubDate": "2008-06-01T00:00:00"
               },
-              "resTitle": "GEMET - INSPIRE themes, version 1.0"
+              "resTitle": {
+                "@_Sync": "FALSE",
+                "#value": "GEMET - INSPIRE themes, version 1.0"
+              }
             },
             "keyword": [
-              "inovační infrastruktury",
+              "Inovační infrastruktura",
               "Karlovarský kraj",
               "inovace",
-              "infrastruktura",
-              "inovační infrastruktura"
+              "infrastruktura"
             ]
           },
-          "resMaint": {
-            "maintScp": {
-              "ScopeCd": {
-                "@_value": "001"
-              }
-            },
-            "maintFreq": {
-              "MaintFreqCd": {
-                "@_value": "009"
-              }
+          "spatRpType": {
+            "SpatRepTypCd": {
+              "@_Sync": "FALSE",
+              "@_value": "003"
             }
           },
           "dataChar": {
             "CharSetCd": {
+              "@_Sync": "FALSE",
               "@_value": "004"
             }
           },
           "searchKeys": {
             "keyword": [
-              "inovační infrastruktury",
               "Karlovarský  kraj",
               "inovace",
-              "infrastruktura"
+              "infrastruktura",
+              "inovační infrastruktura"
             ]
           },
           "idPoC": {
@@ -21181,22 +21213,16 @@
                 "eMailAdd": "pavla.brabencova@karp-kv.cz"
               }
             },
-            "rpOrgName": "Karlovarská agentura rozvoje podnikání, p.o.",
             "role": {
               "RoleCd": {
                 "@_value": "007"
               }
-            }
+            },
+            "rpOrgName": "Krajské inovační centrum Karlovarského kraje"
           },
           "resConst": [
             {
               "LegConsts": {
-                "useConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
-                "othConsts": "Jiná omezení",
                 "inspireAccessUseConditions": {
                   "ConditionsAccUseCd": {
                     "@_value": "001"
@@ -21206,12 +21232,6 @@
             },
             {
               "LegConsts": {
-                "othConsts": "Jiná omezení",
-                "accessConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
                 "inspirePublicAccessLimits": {
                   "PublicAccessCd": {
                     "@_value": "001"
@@ -21230,7 +21250,8 @@
           "RefSystem": {
             "refSysID": {
               "identCode": {
-                "@_code": "WGS84"
+                "@_Sync": "FALSE",
+                "@_code": "GCS_WGS_1984"
               }
             }
           }
@@ -21239,23 +21260,7 @@
           "CharSetCd": {
             "@_value": "004"
           }
-        },
-        "mdFileID": "1739443564381r7772998386338674",
-        "distInfo": {
-          "distTranOps": {
-            "onLineSrc": {
-              "linkage": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Mapa1_WFL1/FeatureServer"
-            }
-          }
-        },
-        "mdMaint": {
-          "maintFreq": {
-            "MaintFreqCd": {
-              "@_value": "009"
-            }
-          }
-        },
-        "@_xml:lang": "cs"
+        }
       },
       "distribution": [
         {
@@ -21263,42 +21268,42 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/datasets/f98f8248cdf140ad84649976f2d6f499_3"
+          "accessURL": "https://www.datazapad.cz/datasets/f98f8248cdf140ad84649976f2d6f499_0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "ArcGIS GeoService",
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
-          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Mapa1_WFL1/FeatureServer/3"
+          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Mapa1_WFL1/FeatureServer/0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "CSV",
           "format": "CSV",
           "mediaType": "text/csv",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/f98f8248cdf140ad84649976f2d6f499/csv?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/f98f8248cdf140ad84649976f2d6f499/csv?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Shapefile",
           "format": "ZIP",
           "mediaType": "application/zip",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/f98f8248cdf140ad84649976f2d6f499/shapefile?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/f98f8248cdf140ad84649976f2d6f499/shapefile?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "GeoJSON",
           "format": "GeoJSON",
           "mediaType": "application/vnd.geo+json",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/f98f8248cdf140ad84649976f2d6f499/geojson?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/f98f8248cdf140ad84649976f2d6f499/geojson?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "KML",
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/f98f8248cdf140ad84649976f2d6f499/kml?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/f98f8248cdf140ad84649976f2d6f499/kml?layers=0"
         }
       ],
       "theme": [
