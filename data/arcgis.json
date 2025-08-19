@@ -6599,6 +6599,45 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=3ba120c44ae64934b9e436fcead3ce2c",
+      "landingPage": "https://www.datazapad.cz/pages/3ba120c44ae64934b9e436fcead3ce2c",
+      "title": "Mapa strategických dokumentů",
+      "description": "Mapa zobrazuje přehledně strategické, koncepční a další dokumenty podobného charakteru, jež se vztahují k území Karlovarského kraje.",
+      "keyword": [
+        "strategický dokument",
+        "koncepce",
+        "studie"
+      ],
+      "issued": "2023-11-10T09:54:12.000Z",
+      "modified": "2025-08-19T11:00:15.000Z",
+      "publisher": {
+        "name": "jan.sklepek@karp-kv.cz"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "jan.sklepek@karp-kv.cz",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "12.0940,48.5525,18.8574,51.0581",
+      "license": "",
+      "category": [],
+      "metadata": "{{metadata.metadata}}",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datazapad.cz/pages/3ba120c44ae64934b9e436fcead3ce2c"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=3f9c9a95272e40d1a24e2711515e3d4d&sublayer=0",
       "landingPage": "https://www.datazapad.cz/datasets/3f9c9a95272e40d1a24e2711515e3d4d_0",
       "title": "Aktuální projekty Karlovarského kraje v oblasti rozvoje regionu a územního plánování",
@@ -17856,7 +17895,7 @@
         "bariéra"
       ],
       "issued": "2024-01-11T13:33:09.000Z",
-      "modified": "2025-07-14T07:07:06.000Z",
+      "modified": "2025-08-19T10:08:53.000Z",
       "publisher": {
         "name": "jan.sklepek@karp-kv.cz"
       },
@@ -19527,7 +19566,7 @@
         "bariéra"
       ],
       "issued": "2025-06-30T08:52:27.000Z",
-      "modified": "2025-07-04T09:04:07.000Z",
+      "modified": "2025-08-19T10:20:40.000Z",
       "publisher": {
         "name": "jan.sklepek@karp-kv.cz"
       },
