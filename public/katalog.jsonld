@@ -19,6 +19,7 @@
   },
   "datová_sada": [
     "https://open.datazapad.cz/01fcf68eb2054fb3ab99af6aa34af6e4.jsonld",
+    "https://open.datazapad.cz/02ff52be52434a68918e32f9468417da.jsonld",
     "https://open.datazapad.cz/037f7b55d2d34fa88fd63bf2d2903839.jsonld",
     "https://open.datazapad.cz/0398153a20ea43c2865bdcbfd7615b0a.jsonld",
     "https://open.datazapad.cz/03dbe5719ab64960ae70ee90af4790c6.jsonld",
@@ -43,7 +44,6 @@
     "https://open.datazapad.cz/2fe4d27ac10341f6bd2b4ea6380a2599.jsonld",
     "https://open.datazapad.cz/3727aefc159e47fd8cb9d70432ab7397.jsonld",
     "https://open.datazapad.cz/387d1403bddb48b09ba4e3cd3b7894f8.jsonld",
-    "https://open.datazapad.cz/3ba120c44ae64934b9e436fcead3ce2c.jsonld",
     "https://open.datazapad.cz/3f9c9a95272e40d1a24e2711515e3d4d.jsonld",
     "https://open.datazapad.cz/464108d64a93430083119bfb0845af3c.jsonld",
     "https://open.datazapad.cz/4c20099b476a4c03b7b5a0cf97b45d95.jsonld",
@@ -91,7 +91,6 @@
     "https://open.datazapad.cz/b59dc439b86147e4aefba8d94fc6aa9e.jsonld",
     "https://open.datazapad.cz/b69266abf22c4baa9fabeb437449c1e8.jsonld",
     "https://open.datazapad.cz/bad1ca41fefe4ac6914e436cecc54d1f.jsonld",
-    "https://open.datazapad.cz/bf788d314adc45adaf00f3070a733754.jsonld",
     "https://open.datazapad.cz/c0ae279455b34b5fb4a929ef98675a5b.jsonld",
     "https://open.datazapad.cz/c3a31017e7ac4e8d8d75c6a1ed49bc03.jsonld",
     "https://open.datazapad.cz/c3a42c283f0649248326a0bbd7dc5cc3.jsonld",

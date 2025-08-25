@@ -1,19 +1,17 @@
 {
   "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://open.datazapad.cz/3ba120c44ae64934b9e436fcead3ce2c.jsonld",
+  "iri": "https://open.datazapad.cz/02ff52be52434a68918e32f9468417da.jsonld",
   "typ": "Datová sada",
   "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891168",
   "název": {
-    "cs": "Mapa strategických dokumentů"
+    "cs": "Další výstupy - Sklářský a keramický průmysl v Karlovarském kraji"
   },
   "popis": {
-    "cs": "Mapa zobrazuje přehledně strategické, koncepční a další dokumenty podobného charakteru, jež se vztahují k území Karlovarského kraje."
+    "cs": "{{description}}"
   },
   "klíčové_slovo": {
     "cs": [
-      "strategický dokument",
-      "koncepce",
-      "studie"
+      ""
     ]
   },
   "téma": [
@@ -26,12 +24,12 @@
   "distribuce": [
     {
       "typ": "Distribuce",
-      "iri": "https://www.datazapad.cz/pages/3ba120c44ae64934b9e436fcead3ce2c",
+      "iri": "https://www.datazapad.cz/pages/02ff52be52434a68918e32f9468417da",
       "název": {
         "cs": "ArcGIS Hub Dataset"
       },
-      "soubor_ke_stažení": "https://www.datazapad.cz/pages/3ba120c44ae64934b9e436fcead3ce2c",
-      "přístupové_url": "https://www.datazapad.cz/pages/3ba120c44ae64934b9e436fcead3ce2c",
+      "soubor_ke_stažení": "https://www.datazapad.cz/pages/02ff52be52434a68918e32f9468417da",
+      "přístupové_url": "https://www.datazapad.cz/pages/02ff52be52434a68918e32f9468417da",
       "typ_média": "http://www.iana.org/assignments/media-types/text/html",
       "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
       "podmínky_užití": {
