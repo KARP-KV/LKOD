@@ -351,7 +351,7 @@
         ""
       ],
       "issued": "2025-08-25T12:35:54.000Z",
-      "modified": "2025-08-26T05:35:06.000Z",
+      "modified": "2025-09-01T11:54:16.000Z",
       "publisher": {
         "name": "jan.sklepek@karp-kv.cz"
       },
@@ -1005,21 +1005,20 @@
     },
     {
       "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=0ddb05a36f0c4b319975df6a4b1ed90e&sublayer=0",
-      "landingPage": "https://www.datazapad.cz/datasets/0ddb05a36f0c4b319975df6a4b1ed90e_0",
+      "identifier": "https://www.arcgis.com/home/item.html?id=0ddb05a36f0c4b319975df6a4b1ed90e&sublayer=3",
+      "landingPage": "https://www.datazapad.cz/datasets/0ddb05a36f0c4b319975df6a4b1ed90e_3",
       "title": "Pivovarnictví v Karlovarském kraji",
-      "description": "<p>Datová sada obsahuje včetně specifikace umístění a typu pivovaru také webovou stránku, kontaktní e-mail a kontaktní telefon pivovaru.</p>",
+      "description": "<p>Datová sada obsahuje včetně specifikace umístění a typu pivovaru také informace o provozovateli (jeho identifikační číslo, sídlo, právní formu, kód adresy a ID datové schránky), webovou stránku, kontaktní e-mail a kontaktní telefon pivovaru. Souřadnicový systém je použit WGS 1984.</p><p>Původním zdrojem dat je Živý kraj - Destinační agentura pro Karlovarský kraj, z.s.</p>",
       "keyword": [
         "Karlovarský kraj",
         "pivovar",
         "pivovarnictví",
-        "pivovary",
         "minipivovar"
       ],
       "issued": "2024-08-08T08:16:33.000Z",
-      "modified": "2025-04-01T11:26:34.911Z",
+      "modified": "2025-09-01T10:53:18.000Z",
       "publisher": {
-        "name": "Karlovarská agentura rozvoje podnikání, p.o."
+        "name": "Krajské inovační centrum Karlovarského kraje"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -1027,7 +1026,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "12.3716,49.9580,13.2476,50.4093",
+      "spatial": "12.3716,49.9580,13.2528,50.4093",
       "license": "https://creativecommons.org/licenses/by/4.0",
       "category": [
         "Kultura a cestovní ruch"
@@ -1035,186 +1034,22 @@
       "metadata": {
         "mdLang": {
           "languageCode": {
+            "@_Sync": "FALSE",
             "@_value": "cze"
           }
         },
         "mdContact": {
           "rpCntInfo": {
             "cntAddress": {
-              "eMailAdd": "pavla.brabencova@karp-kv.cz"
+              "eMailAdd": "pavla.brabencova@kickk.cz"
             }
           },
-          "rpOrgName": "Karlovarská agentura rozvoje podnikání, p.o.",
           "role": {
             "RoleCd": {
               "@_value": "007"
             }
-          }
-        },
-        "mdDateSt": "2024-08-08",
-        "Esri": {
-          "ArcGISFormat": 1,
-          "CreaTime": 10090200,
-          "ArcGISstyle": "INSPIRE Metadata Directive",
-          "ArcGISProfile": "INSPIRE",
-          "ModDate": "2024-08-08",
-          "CreaDate": "2024-08-08",
-          "ModTime": "10:32:29.86",
-          "SyncOnce": "TRUE",
-          "MapLyrSync": false,
-          "PublishStatus": "editor:esri.dijit.metadata.editor"
-        },
-        "mdTimeSt": "10:28:05.17",
-        "dqInfo": {
-          "report": {
-            "measResult": {
-              "ConResult": {
-                "conSpec": {
-                  "date": {
-                    "pubDate": "2010-12-08T00:00:00"
-                  },
-                  "resTitle": [
-                    "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services",
-                    "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
-                  ]
-                }
-              }
-            }
-          }
-        },
-        "mdHrLv": {
-          "ScopeCd": {
-            "@_value": "005"
-          }
-        },
-        "dataIdInfo": {
-          "idAbs": "<p>Datová sada obsahuje včetně specifikace umístění a typu pivovaru také webovou stránku, kontaktní e-mail a kontaktní telefon pivovaru.</p>",
-          "idCredit": "Živý kraj – Destinační agentura pro Karlovarský kraj, z.s.",
-          "dataExt": {
-            "geoEle": {
-              "GeoBndBox": {
-                "eastBL": 13.286054,
-                "southBL": 49.933277,
-                "northBL": 50.44782,
-                "westBL": 12.322149
-              }
-            }
           },
-          "idCitation": {
-            "date": {
-              "pubDate": "2024-08-08T10:28:45.730+02:00"
-            },
-            "resTitle": "Pivovarnictví v Karlovarském kraji",
-            "citId": {
-              "identCode": "publication"
-            }
-          },
-          "dataLang": {
-            "countryCode": {
-              "@_value": "CZ"
-            },
-            "languageCode": {
-              "@_value": "cze"
-            }
-          },
-          "themeKeys": {
-            "thesaName": {
-              "date": {
-                "pubDate": "2008-06-01T00:00:00"
-              },
-              "resTitle": "GEMET - INSPIRE themes, version 1.0"
-            },
-            "keyword": [
-              "pivovarnictví",
-              "pivovary",
-              "pivovar",
-              "minipivovar",
-              "Karlovarský kraj"
-            ]
-          },
-          "idPurp": "Přehled pivovarů a minipivovarů v Karlovarském kraji.",
-          "dataChar": {
-            "CharSetCd": {
-              "@_value": "004"
-            }
-          },
-          "tpCat": {
-            "TopicCatCd": {
-              "@_value": "016"
-            }
-          },
-          "searchKeys": {
-            "keyword": [
-              "Karlovarský kraj",
-              "pivovar",
-              "pivovarnictví",
-              "pivovary",
-              "minipivovar"
-            ]
-          },
-          "idPoC": {
-            "rpCntInfo": {
-              "cntAddress": {
-                "eMailAdd": "pavla.brabencova@karp-kv.cz"
-              }
-            },
-            "rpOrgName": "Karlovarská agentura rozvoje podnikání, p.o.",
-            "role": {
-              "RoleCd": {
-                "@_value": "007"
-              }
-            }
-          },
-          "resConst": [
-            {
-              "Consts": {
-                "useLimit": "<p>CC BY 4.0</p>"
-              }
-            },
-            {
-              "LegConsts": {
-                "othConsts": "Jiná omezení",
-                "accessConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
-                "inspirePublicAccessLimits": {
-                  "PublicAccessCd": {
-                    "@_value": "001"
-                  }
-                }
-              }
-            },
-            {
-              "LegConsts": {
-                "useConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
-                "othConsts": "Jiná omezení",
-                "inspireAccessUseConditions": {
-                  "ConditionsAccUseCd": {
-                    "@_value": "001"
-                  }
-                }
-              }
-            }
-          ]
-        },
-        "mdChar": {
-          "CharSetCd": {
-            "@_value": "004"
-          }
-        },
-        "mdFileID": "1723105685406r03259066172252001",
-        "mdMaint": {
-          "maintFreq": {
-            "MaintFreqCd": {
-              "@_value": "009"
-            }
-          }
+          "rpOrgName": "Krajské inovační centrum Karlovarského kraje, p.o."
         },
         "distInfo": {
           "distTranOps": {
@@ -1223,7 +1058,193 @@
             }
           }
         },
-        "@_xml:lang": "cs"
+        "mdMaint": {
+          "maintFreq": {
+            "MaintFreqCd": {
+              "@_value": "008"
+            }
+          }
+        },
+        "Esri": {
+          "ArcGISFormat": 1,
+          "CreaTime": 10074500,
+          "ArcGISProfile": "INSPIRE",
+          "CreaDate": 20240808,
+          "SyncOnce": "TRUE"
+        },
+        "dqInfo": {
+          "dataLineage": {
+            "statement": "Data Živého kraje - Destinační agentury pro Karlovarský kraj, z.s. a Krajského inovačního centra Karlovarského kraje, p.o."
+          },
+          "dqScope": {
+            "scpLvl": {
+              "ScopeCd": {
+                "@_value": "005"
+              }
+            }
+          },
+          "report": {
+            "measResult": {
+              "ConResult": {
+                "conSpec": {
+                  "date": {
+                    "pubDate": "2010-12-08T00:00:00"
+                  },
+                  "resTitle": {
+                    "@_Sync": "FALSE",
+                    "#value": "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "@_xml:lang": "cs",
+        "mdHrLv": {
+          "ScopeCd": {
+            "@_value": "005"
+          }
+        },
+        "dataIdInfo": {
+          "idAbs": "<p>Datová sada obsahuje včetně specifikace umístění a typu pivovaru také informace o provozovateli (jeho identifikační číslo, sídlo, právní formu, kód adresy a ID datové schránky), webovou stránku, kontaktní e-mail a kontaktní telefon pivovaru. Souřadnicový systém je použit WGS 1984.</p><p>Původním zdrojem dat je Živý kraj - Destinační agentura pro Karlovarský kraj, z.s.</p>",
+          "idCredit": "Živý kraj – Destinační agentura pro Karlovarský kraj, z.s.",
+          "dataLang": {
+            "languageCode": {
+              "@_Sync": "FALSE",
+              "@_value": "cze"
+            }
+          },
+          "idPurp": "Přehled pivovarů a minipivovarů v Karlovarském kraji.",
+          "tpCat": {
+            "TopicCatCd": {
+              "@_value": "016"
+            }
+          },
+          "dataExt": {
+            "geoEle": {
+              "GeoBndBox": {
+                "eastBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 13.252802
+                },
+                "southBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 49.958021
+                },
+                "northBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 50.409327
+                },
+                "westBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 12.371587
+                }
+              }
+            }
+          },
+          "idCitation": {
+            "date": {
+              "reviseDate": "2025-09-01T10:53:18"
+            },
+            "resTitle": {
+              "@_Sync": "FALSE",
+              "#value": "Pivovarnictví v Karlovarském kraji"
+            },
+            "citId": {
+              "identCode": "publication"
+            }
+          },
+          "themeKeys": {
+            "thesaName": {
+              "date": {
+                "pubDate": "2008-06-01T00:00:00"
+              },
+              "resTitle": {
+                "@_Sync": "FALSE",
+                "#value": "GEMET - INSPIRE themes, version 1.0"
+              }
+            },
+            "keyword": [
+              "pivovarnictví",
+              "Karlovarský kraj",
+              "pivovar",
+              "minipivovar"
+            ]
+          },
+          "spatRpType": {
+            "SpatRepTypCd": {
+              "@_Sync": "FALSE",
+              "@_value": "003"
+            }
+          },
+          "dataChar": {
+            "CharSetCd": {
+              "@_Sync": "FALSE",
+              "@_value": "004"
+            }
+          },
+          "searchKeys": {
+            "keyword": [
+              "Karlovarský kraj",
+              "pivovar",
+              "pivovarnictví",
+              "minipivovar"
+            ]
+          },
+          "idPoC": {
+            "rpCntInfo": {
+              "cntAddress": {
+                "eMailAdd": "pavla.brabencova@kickk.cz"
+              }
+            },
+            "role": {
+              "RoleCd": {
+                "@_value": "007"
+              }
+            },
+            "rpOrgName": "Krajské inovační centrum Karlovarského kraje"
+          },
+          "resConst": [
+            {
+              "LegConsts": {
+                "inspireAccessUseConditions": {
+                  "ConditionsAccUseCd": {
+                    "@_value": "001"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "inspirePublicAccessLimits": {
+                  "PublicAccessCd": {
+                    "@_value": "001"
+                  }
+                }
+              }
+            },
+            {
+              "Consts": {
+                "useLimit": "<p>CC BY 4.0</p>"
+              }
+            }
+          ]
+        },
+        "refSysInfo": {
+          "RefSystem": {
+            "refSysID": {
+              "identCode": {
+                "@_Sync": "FALSE",
+                "@_code": "GCS_WGS_1984"
+              }
+            }
+          }
+        },
+        "mdChar": {
+          "CharSetCd": {
+            "@_value": "004"
+          }
+        }
       },
       "distribution": [
         {
@@ -1231,77 +1252,77 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/datasets/0ddb05a36f0c4b319975df6a4b1ed90e_0"
+          "accessURL": "https://www.datazapad.cz/datasets/0ddb05a36f0c4b319975df6a4b1ed90e_3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "ArcGIS GeoService",
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
-          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Pivovarnictv%C3%AD_v_Karlovarsk%C3%A9m_kraji_WFL1/FeatureServer/0"
+          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Pivovarnictv%C3%AD_v_Karlovarsk%C3%A9m_kraji_WFL1/FeatureServer/3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "CSV",
           "format": "CSV",
           "mediaType": "text/csv",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/0ddb05a36f0c4b319975df6a4b1ed90e/csv?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/0ddb05a36f0c4b319975df6a4b1ed90e/csv?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Shapefile",
           "format": "ZIP",
           "mediaType": "application/zip",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/0ddb05a36f0c4b319975df6a4b1ed90e/shapefile?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/0ddb05a36f0c4b319975df6a4b1ed90e/shapefile?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "GeoJSON",
           "format": "GeoJSON",
           "mediaType": "application/vnd.geo+json",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/0ddb05a36f0c4b319975df6a4b1ed90e/geojson?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/0ddb05a36f0c4b319975df6a4b1ed90e/geojson?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "KML",
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/0ddb05a36f0c4b319975df6a4b1ed90e/kml?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/0ddb05a36f0c4b319975df6a4b1ed90e/kml?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "File Geodatabase",
           "format": "ZIP",
           "mediaType": "application/zip",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/0ddb05a36f0c4b319975df6a4b1ed90e/filegdb?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/0ddb05a36f0c4b319975df6a4b1ed90e/filegdb?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Feature Collection",
           "format": "TXT",
           "mediaType": "text/plain",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/0ddb05a36f0c4b319975df6a4b1ed90e/featureCollection?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/0ddb05a36f0c4b319975df6a4b1ed90e/featureCollection?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Excel",
           "format": "XLSX",
           "mediaType": "application/vnd.ms-excel",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/0ddb05a36f0c4b319975df6a4b1ed90e/excel?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/0ddb05a36f0c4b319975df6a4b1ed90e/excel?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "GeoPackage",
           "format": "GPKG",
           "mediaType": "application/geopackage+sqlite3",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/0ddb05a36f0c4b319975df6a4b1ed90e/geoPackage?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/0ddb05a36f0c4b319975df6a4b1ed90e/geoPackage?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "SQLite Geodatabase",
           "format": "GDB",
           "mediaType": "application/geopackage+sqlite3",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/0ddb05a36f0c4b319975df6a4b1ed90e/sqlite?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/0ddb05a36f0c4b319975df6a4b1ed90e/sqlite?layers=3"
         }
       ],
       "theme": [
@@ -16007,20 +16028,19 @@
     },
     {
       "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=a193c3092bef4fa8b514761b421d9ee1&sublayer=0",
-      "landingPage": "https://www.datazapad.cz/datasets/a193c3092bef4fa8b514761b421d9ee1_0",
+      "identifier": "https://www.arcgis.com/home/item.html?id=a193c3092bef4fa8b514761b421d9ee1&sublayer=3",
+      "landingPage": "https://www.datazapad.cz/datasets/a193c3092bef4fa8b514761b421d9ee1_3",
       "title": "Lázeňská místa v Karlovarském kraji",
-      "description": "<p>Datová sada specifikuje umístění lázeňských zón v Karlovarském kraji.</p>",
+      "description": "<p>Datová sada specifikuje lázeňská místa v Karlovarském kraji, souřadnicově je specifikováno místo umístění informačních center jednotlivých lázeňských míst. Souřadnicový systém je použit WGS 1984.</p><p>Zdrojem dat je Živý kraj - Destinační agentura pro Karlovarský kraj, z.ú.</p>",
       "keyword": [
         "lázně",
-        "lázeňská místa",
         "Karlovarský kraj",
         "lázeňské místo"
       ],
       "issued": "2024-08-28T07:25:55.000Z",
-      "modified": "2025-04-01T11:21:23.099Z",
+      "modified": "2025-09-01T12:45:08.000Z",
       "publisher": {
-        "name": "Karlovarská agentura rozvoje podnikání, p.o."
+        "name": "Krajské inovační centrum Karlovarského kraje"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -16028,7 +16048,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "12.3489,49.9740,12.9331,50.3616",
+      "spatial": "12.3494,49.9753,12.9139,50.3713",
       "license": "https://creativecommons.org/licenses/by/4.0",
       "category": [
         "Kultura a cestovní ruch"
@@ -16036,37 +16056,55 @@
       "metadata": {
         "mdLang": {
           "languageCode": {
+            "@_Sync": "FALSE",
             "@_value": "cze"
           }
         },
         "mdContact": {
           "rpCntInfo": {
             "cntAddress": {
-              "eMailAdd": "pavla.brabencova@karp-kv.cz"
+              "eMailAdd": "pavla.brabencova@kickk.cz"
             }
           },
-          "rpOrgName": "Karlovarská agentura rozvoje podnikání, p.o.",
           "role": {
             "RoleCd": {
               "@_value": "007"
             }
+          },
+          "rpOrgName": "Krajské inovační centrum Karlovarského kraje"
+        },
+        "distInfo": {
+          "distTranOps": {
+            "onLineSrc": {
+              "linkage": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/L%C3%A1ze%C5%88sk%C3%A1_m%C3%ADsta_v_Karlovarsk%C3%A9m_kraji_WFL1/FeatureServer"
+            }
           }
         },
-        "mdDateSt": "2024-08-28",
+        "mdMaint": {
+          "maintFreq": {
+            "MaintFreqCd": {
+              "@_value": "008"
+            }
+          }
+        },
         "Esri": {
           "ArcGISFormat": 1,
-          "CreaTime": 9193000,
+          "CreaTime": 9183600,
           "ArcGISProfile": "INSPIRE",
-          "ArcGISstyle": "INSPIRE Metadata Directive",
-          "ModDate": 20240828,
           "CreaDate": 20240828,
-          "ModTime": 9433494,
-          "SyncOnce": "TRUE",
-          "MapLyrSync": false,
-          "PublishStatus": "editor:esri.dijit.metadata.editor"
+          "SyncOnce": "TRUE"
         },
-        "mdTimeSt": "09:39:44.62",
         "dqInfo": {
+          "dataLineage": {
+            "statement": "Data Živého kraje - Destinační agentury pro Karlovarský kraj, z.ú. a Krajského inovačního centra Karlovarského kraje, p.o."
+          },
+          "dqScope": {
+            "scpLvl": {
+              "ScopeCd": {
+                "@_value": "005"
+              }
+            }
+          },
           "report": {
             "measResult": {
               "ConResult": {
@@ -16074,67 +16112,31 @@
                   "date": {
                     "pubDate": "2010-12-08T00:00:00"
                   },
-                  "resTitle": "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                  "resTitle": {
+                    "@_Sync": "FALSE",
+                    "#value": "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                  }
                 }
               }
             }
           }
         },
+        "@_xml:lang": "cs",
         "mdHrLv": {
           "ScopeCd": {
             "@_value": "005"
           }
         },
         "dataIdInfo": {
-          "idAbs": "<p>Datová sada specifikuje umístění lázeňských zón v Karlovarském kraji.</p>",
+          "idAbs": "<p>Datová sada specifikuje lázeňská místa v Karlovarském kraji, souřadnicově je specifikováno místo umístění informačních center jednotlivých lázeňských míst. Souřadnicový systém je použit WGS 1984.</p><p>Zdrojem dat je Živý kraj - Destinační agentura pro Karlovarský kraj, z.ú.</p>",
           "idCredit": "Živý kraj – Destinační agentura pro Karlovarský kraj, z.s.",
-          "dataExt": {
-            "geoEle": {
-              "GeoBndBox": {
-                "eastBL": 12.966034,
-                "southBL": 49.950984,
-                "northBL": 50.375576,
-                "westBL": 12.303533
-              }
-            }
-          },
-          "idCitation": {
-            "date": {
-              "pubDate": "2024-08-28T09:40:54.912+02:00"
-            },
-            "resTitle": "Lázeňská místa v Karlovarském kraji",
-            "citId": {
-              "identCode": "publication"
-            }
-          },
           "dataLang": {
-            "countryCode": {
-              "@_value": "CZ"
-            },
             "languageCode": {
+              "@_Sync": "FALSE",
               "@_value": "cze"
             }
           },
-          "themeKeys": {
-            "thesaName": {
-              "date": {
-                "pubDate": "2008-06-01T00:00:00"
-              },
-              "resTitle": "GEMET - INSPIRE themes, version 1.0"
-            },
-            "keyword": [
-              "lázně",
-              "lázeňská místa",
-              "Karlovarský kraj",
-              "lázeňské místo"
-            ]
-          },
           "idPurp": "Přehled lázeňských míst v Karlovarském kraji.",
-          "dataChar": {
-            "CharSetCd": {
-              "@_value": "004"
-            }
-          },
           "tpCat": [
             {
               "TopicCatCd": {
@@ -16147,10 +16149,70 @@
               }
             }
           ],
+          "dataExt": {
+            "geoEle": {
+              "GeoBndBox": {
+                "eastBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 12.913865
+                },
+                "southBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 49.975313
+                },
+                "northBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 50.371289
+                },
+                "westBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 12.349399
+                }
+              }
+            }
+          },
+          "idCitation": {
+            "date": {
+              "reviseDate": "2025-09-01T12:45:08"
+            },
+            "resTitle": {
+              "@_Sync": "FALSE",
+              "#value": "Lázeňská místa v Karlovarském kraji"
+            },
+            "citId": {
+              "identCode": "publication"
+            }
+          },
+          "themeKeys": {
+            "thesaName": {
+              "date": {
+                "pubDate": "2008-06-01T00:00:00"
+              },
+              "resTitle": {
+                "@_Sync": "FALSE",
+                "#value": "GEMET - INSPIRE themes, version 1.0"
+              }
+            },
+            "keyword": [
+              "lázeňská místa",
+              "Karlovarský kraj"
+            ]
+          },
+          "spatRpType": {
+            "SpatRepTypCd": {
+              "@_Sync": "FALSE",
+              "@_value": "003"
+            }
+          },
+          "dataChar": {
+            "CharSetCd": {
+              "@_Sync": "FALSE",
+              "@_value": "004"
+            }
+          },
           "searchKeys": {
             "keyword": [
               "lázně",
-              "lázeňská místa",
               "Karlovarský kraj",
               "lázeňské místo"
             ]
@@ -16158,25 +16220,19 @@
           "idPoC": {
             "rpCntInfo": {
               "cntAddress": {
-                "eMailAdd": "pavla.brabencova@karp-kv.cz"
+                "eMailAdd": "pavla.brabencova@kickk.cz"
               }
             },
-            "rpOrgName": "Karlovarská agentura rozvoje podnikání, p.o.",
             "role": {
               "RoleCd": {
                 "@_value": "007"
               }
-            }
+            },
+            "rpOrgName": "Krajské inovační centrum Karlovarského kraje"
           },
           "resConst": [
             {
               "LegConsts": {
-                "useConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
-                "othConsts": "Jiná omezení",
                 "inspireAccessUseConditions": {
                   "ConditionsAccUseCd": {
                     "@_value": "001"
@@ -16186,12 +16242,6 @@
             },
             {
               "LegConsts": {
-                "othConsts": "Jiná omezení",
-                "accessConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
                 "inspirePublicAccessLimits": {
                   "PublicAccessCd": {
                     "@_value": "001"
@@ -16206,27 +16256,21 @@
             }
           ]
         },
+        "refSysInfo": {
+          "RefSystem": {
+            "refSysID": {
+              "identCode": {
+                "@_Sync": "FALSE",
+                "@_code": "GCS_WGS_1984"
+              }
+            }
+          }
+        },
         "mdChar": {
           "CharSetCd": {
             "@_value": "004"
           }
-        },
-        "mdFileID": "1724830784926r6226130821384126",
-        "distInfo": {
-          "distTranOps": {
-            "onLineSrc": {
-              "linkage": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/L%C3%A1ze%C5%88sk%C3%A1_m%C3%ADsta_v_Karlovarsk%C3%A9m_kraji_WFL1/FeatureServer"
-            }
-          }
-        },
-        "mdMaint": {
-          "maintFreq": {
-            "MaintFreqCd": {
-              "@_value": "009"
-            }
-          }
-        },
-        "@_xml:lang": "cs"
+        }
       },
       "distribution": [
         {
@@ -16234,77 +16278,77 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/datasets/a193c3092bef4fa8b514761b421d9ee1_0"
+          "accessURL": "https://www.datazapad.cz/datasets/a193c3092bef4fa8b514761b421d9ee1_3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "ArcGIS GeoService",
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
-          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/L%C3%A1ze%C5%88sk%C3%A1_m%C3%ADsta_v_Karlovarsk%C3%A9m_kraji_WFL1/FeatureServer/0"
+          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/L%C3%A1ze%C5%88sk%C3%A1_m%C3%ADsta_v_Karlovarsk%C3%A9m_kraji_WFL1/FeatureServer/3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "CSV",
           "format": "CSV",
           "mediaType": "text/csv",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/a193c3092bef4fa8b514761b421d9ee1/csv?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/a193c3092bef4fa8b514761b421d9ee1/csv?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Shapefile",
           "format": "ZIP",
           "mediaType": "application/zip",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/a193c3092bef4fa8b514761b421d9ee1/shapefile?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/a193c3092bef4fa8b514761b421d9ee1/shapefile?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "GeoJSON",
           "format": "GeoJSON",
           "mediaType": "application/vnd.geo+json",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/a193c3092bef4fa8b514761b421d9ee1/geojson?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/a193c3092bef4fa8b514761b421d9ee1/geojson?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "KML",
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/a193c3092bef4fa8b514761b421d9ee1/kml?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/a193c3092bef4fa8b514761b421d9ee1/kml?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "File Geodatabase",
           "format": "ZIP",
           "mediaType": "application/zip",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/a193c3092bef4fa8b514761b421d9ee1/filegdb?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/a193c3092bef4fa8b514761b421d9ee1/filegdb?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Feature Collection",
           "format": "TXT",
           "mediaType": "text/plain",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/a193c3092bef4fa8b514761b421d9ee1/featureCollection?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/a193c3092bef4fa8b514761b421d9ee1/featureCollection?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Excel",
           "format": "XLSX",
           "mediaType": "application/vnd.ms-excel",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/a193c3092bef4fa8b514761b421d9ee1/excel?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/a193c3092bef4fa8b514761b421d9ee1/excel?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "GeoPackage",
           "format": "GPKG",
           "mediaType": "application/geopackage+sqlite3",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/a193c3092bef4fa8b514761b421d9ee1/geoPackage?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/a193c3092bef4fa8b514761b421d9ee1/geoPackage?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "SQLite Geodatabase",
           "format": "GDB",
           "mediaType": "application/geopackage+sqlite3",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/a193c3092bef4fa8b514761b421d9ee1/sqlite?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/a193c3092bef4fa8b514761b421d9ee1/sqlite?layers=3"
         }
       ],
       "theme": [
