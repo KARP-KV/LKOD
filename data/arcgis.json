@@ -4079,24 +4079,20 @@
     },
     {
       "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=1e64adf22f8448a693f638c9f1334dc9&sublayer=0",
-      "landingPage": "https://www.datazapad.cz/datasets/1e64adf22f8448a693f638c9f1334dc9_0",
+      "identifier": "https://www.arcgis.com/home/item.html?id=1e64adf22f8448a693f638c9f1334dc9&sublayer=3",
+      "landingPage": "https://www.datazapad.cz/datasets/1e64adf22f8448a693f638c9f1334dc9_3",
       "title": "Jiné atraktivity v Karlovarském kraji",
-      "description": "<p>Datová sada obsahuje kromě specifikace umístění atraktivity rovněž webové stránky, kontaktní e-mail a telefon příslušné atraktivity.</p>",
+      "description": "<p>Datová sada obsahuje kromě specifikace umístění atraktivity rovněž informace o provozovateli (identifikační číslo, právní forma, sídlo, kód adresy, ID datové schránky), informace o vstupu, webové stránky o atraktivitě, kontaktní e-mail a telefon. Souřadnicový systém ve použit WGS 1984.</p><p>Původním zdrojem dat je Živý kraj - Destinační agentura pro Karlovarský kraj, z.s.</p>",
       "keyword": [
         "atraktivita",
-        "atraktivity",
         "Karlovarský kraj",
-        "motýlí dům",
-        "věž",
-        "podzemí",
-        "park",
-        "trojstátí"
+        "zajímavost",
+        "cestovní ruch"
       ],
       "issued": "2024-08-07T09:19:48.000Z",
-      "modified": "2025-04-01T11:23:29.752Z",
+      "modified": "2025-09-04T12:57:23.000Z",
       "publisher": {
-        "name": "Karlovarská agentura rozvoje podnikání, p.o."
+        "name": "Krajské inovační centrum Karlovarského kraje"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -4104,197 +4100,30 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "12.1011,49.9711,13.0002,50.3965",
+      "spatial": "12.1011,49.9711,13.0676,50.3851",
       "license": "https://creativecommons.org/licenses/by/4.0",
-      "category": "{{categories}}",
+      "category": [
+        "Kultura a cestovní ruch"
+      ],
       "metadata": {
         "mdLang": {
           "languageCode": {
+            "@_Sync": "FALSE",
             "@_value": "cze"
           }
         },
         "mdContact": {
           "rpCntInfo": {
             "cntAddress": {
-              "eMailAdd": "pavla.brabencova@karp-kv.cz"
+              "eMailAdd": "pavla.brabencova@kickk.cz"
             }
           },
-          "rpOrgName": "Karlovarská agentura rozvoje podnikání, p.o.",
           "role": {
             "RoleCd": {
               "@_value": "007"
             }
-          }
-        },
-        "mdDateSt": "2024-08-07",
-        "Esri": {
-          "ArcGISFormat": 1,
-          "CreaTime": 11121800,
-          "ArcGISstyle": "INSPIRE Metadata Directive",
-          "ArcGISProfile": "INSPIRE",
-          "ModDate": "2024-08-07",
-          "CreaDate": "2024-08-07",
-          "ModTime": "11:31:27.33",
-          "SyncOnce": "TRUE",
-          "MapLyrSync": false,
-          "PublishStatus": "editor:esri.dijit.metadata.editor"
-        },
-        "mdTimeSt": "11:26:21.85",
-        "dqInfo": {
-          "report": {
-            "measResult": {
-              "ConResult": {
-                "conSpec": {
-                  "date": {
-                    "pubDate": "2010-12-08T00:00:00"
-                  },
-                  "resTitle": [
-                    "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services",
-                    "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
-                  ]
-                }
-              }
-            }
-          }
-        },
-        "mdHrLv": {
-          "ScopeCd": {
-            "@_value": "005"
-          }
-        },
-        "dataIdInfo": {
-          "idAbs": "<p>Datová sada obsahuje kromě specifikace umístění atraktivity rovněž webové stránky, kontaktní e-mail a telefon příslušné atraktivity.</p>",
-          "idCredit": "Živý kraj – Destinační agentura pro Karlovarský kraj, z.s.",
-          "dataExt": {
-            "geoEle": {
-              "GeoBndBox": {
-                "eastBL": 13.044106,
-                "southBL": 49.949919,
-                "northBL": 50.424479,
-                "westBL": 12.051623
-              }
-            }
           },
-          "idCitation": {
-            "date": {
-              "pubDate": "2024-08-07T11:27:07.629+02:00"
-            },
-            "resTitle": "Jiné atraktivity v Karlovarském kraji",
-            "citId": {
-              "identCode": "publication"
-            }
-          },
-          "dataLang": {
-            "countryCode": {
-              "@_value": "CZ"
-            },
-            "languageCode": {
-              "@_value": "cze"
-            }
-          },
-          "themeKeys": {
-            "thesaName": {
-              "date": {
-                "pubDate": "2008-06-01T00:00:00"
-              },
-              "resTitle": "GEMET - INSPIRE themes, version 1.0"
-            },
-            "keyword": [
-              "atraktivity",
-              "atraktivita",
-              "Karlovarský kraj",
-              "podzemí",
-              "trojstátá",
-              "motýlí dům",
-              "věž"
-            ]
-          },
-          "idPurp": "Přehled atraktivit v Karlovarském kraji, které nejsou zahrnuté v jiných kategoriích (např. památky, zábavní centra..)",
-          "dataChar": {
-            "CharSetCd": {
-              "@_value": "004"
-            }
-          },
-          "tpCat": {
-            "TopicCatCd": {
-              "@_value": "016"
-            }
-          },
-          "searchKeys": {
-            "keyword": [
-              "atraktivita",
-              "atraktivity",
-              "Karlovarský kraj",
-              "motýlí dům",
-              "věž",
-              "podzemí",
-              "park",
-              "trojstátí"
-            ]
-          },
-          "idPoC": {
-            "rpCntInfo": {
-              "cntAddress": {
-                "eMailAdd": "pavla.brabencova@karp-kv.cz"
-              }
-            },
-            "rpOrgName": "Karlovarská agentura rozvoje podnikání, p.o.",
-            "role": {
-              "RoleCd": {
-                "@_value": "007"
-              }
-            }
-          },
-          "resConst": [
-            {
-              "Consts": {
-                "useLimit": "<p>CC BY 4.0</p>"
-              }
-            },
-            {
-              "LegConsts": {
-                "othConsts": "Jiná omezení",
-                "accessConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
-                "inspirePublicAccessLimits": {
-                  "PublicAccessCd": {
-                    "@_value": "001"
-                  }
-                }
-              }
-            },
-            {
-              "LegConsts": {
-                "useConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
-                "othConsts": "Jiná omezení",
-                "inspireAccessUseConditions": {
-                  "ConditionsAccUseCd": {
-                    "@_value": "001"
-                  }
-                }
-              }
-            }
-          ]
-        },
-        "mdChar": {
-          "CharSetCd": {
-            "@_value": "004"
-          }
-        },
-        "mdFileID": "1723022782101r790899441292426",
-        "mdMaint": {
-          "maintFreq": {
-            "MaintFreqCd": {
-              "@_value": "009"
-            }
-          }
+          "rpOrgName": "Krajské inovační centrum Karlovarského kraje, p.o."
         },
         "distInfo": {
           "distTranOps": {
@@ -4303,7 +4132,193 @@
             }
           }
         },
-        "@_xml:lang": "cs"
+        "mdMaint": {
+          "maintFreq": {
+            "MaintFreqCd": {
+              "@_value": "008"
+            }
+          }
+        },
+        "Esri": {
+          "ArcGISFormat": 1,
+          "CreaTime": 11111100,
+          "ArcGISProfile": "INSPIRE",
+          "CreaDate": 20240807,
+          "SyncOnce": "TRUE"
+        },
+        "dqInfo": {
+          "dataLineage": {
+            "statement": "Data Živého kraje - Destinační agentury pro Karlovarský kraj, z.s. a Krajského inovačního centra Karlovarského kraje, p.o."
+          },
+          "dqScope": {
+            "scpLvl": {
+              "ScopeCd": {
+                "@_value": "005"
+              }
+            }
+          },
+          "report": {
+            "measResult": {
+              "ConResult": {
+                "conSpec": {
+                  "date": {
+                    "pubDate": "2010-12-08T00:00:00"
+                  },
+                  "resTitle": {
+                    "@_Sync": "FALSE",
+                    "#value": "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "@_xml:lang": "cs",
+        "mdHrLv": {
+          "ScopeCd": {
+            "@_value": "005"
+          }
+        },
+        "dataIdInfo": {
+          "idAbs": "<p>Datová sada obsahuje kromě specifikace umístění atraktivity rovněž informace o provozovateli (identifikační číslo, právní forma, sídlo, kód adresy, ID datové schránky), informace o vstupu, webové stránky o atraktivitě, kontaktní e-mail a telefon. Souřadnicový systém ve použit WGS 1984.</p><p>Původním zdrojem dat je Živý kraj - Destinační agentura pro Karlovarský kraj, z.s.</p>",
+          "idCredit": "Živý kraj – Destinační agentura pro Karlovarský kraj, z.s.",
+          "dataLang": {
+            "languageCode": {
+              "@_Sync": "FALSE",
+              "@_value": "cze"
+            }
+          },
+          "idPurp": "Přehled jiných/netypických atraktivit v Karlovarském kraji.",
+          "tpCat": {
+            "TopicCatCd": {
+              "@_value": "016"
+            }
+          },
+          "dataExt": {
+            "geoEle": {
+              "GeoBndBox": {
+                "eastBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 13.067642
+                },
+                "southBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 49.971122
+                },
+                "northBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 50.385128
+                },
+                "westBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 12.101061
+                }
+              }
+            }
+          },
+          "idCitation": {
+            "date": {
+              "reviseDate": "2025-09-04T12:57:23"
+            },
+            "resTitle": {
+              "@_Sync": "FALSE",
+              "#value": "Jiné atraktivity v Karlovarském kraji"
+            },
+            "citId": {
+              "identCode": "publication"
+            }
+          },
+          "themeKeys": {
+            "thesaName": {
+              "date": {
+                "pubDate": "2008-06-01T00:00:00"
+              },
+              "resTitle": {
+                "@_Sync": "FALSE",
+                "#value": "GEMET - INSPIRE themes, version 1.0"
+              }
+            },
+            "keyword": [
+              "atraktivita",
+              "Karlovarský kraj",
+              "cestovní ruch",
+              "zajímavost"
+            ]
+          },
+          "spatRpType": {
+            "SpatRepTypCd": {
+              "@_Sync": "FALSE",
+              "@_value": "003"
+            }
+          },
+          "dataChar": {
+            "CharSetCd": {
+              "@_Sync": "FALSE",
+              "@_value": "004"
+            }
+          },
+          "searchKeys": {
+            "keyword": [
+              "atraktivita",
+              "Karlovarský kraj",
+              "zajímavost",
+              "cestovní ruch"
+            ]
+          },
+          "idPoC": {
+            "rpCntInfo": {
+              "cntAddress": {
+                "eMailAdd": "pavla.brabencova@kickk.cz"
+              }
+            },
+            "role": {
+              "RoleCd": {
+                "@_value": "007"
+              }
+            },
+            "rpOrgName": "Krajské inovační centrum Karlovarského kraje"
+          },
+          "resConst": [
+            {
+              "LegConsts": {
+                "inspireAccessUseConditions": {
+                  "ConditionsAccUseCd": {
+                    "@_value": "001"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "inspirePublicAccessLimits": {
+                  "PublicAccessCd": {
+                    "@_value": "001"
+                  }
+                }
+              }
+            },
+            {
+              "Consts": {
+                "useLimit": "<p>CC BY 4.0</p>"
+              }
+            }
+          ]
+        },
+        "refSysInfo": {
+          "RefSystem": {
+            "refSysID": {
+              "identCode": {
+                "@_Sync": "FALSE",
+                "@_code": "GCS_WGS_1984"
+              }
+            }
+          }
+        },
+        "mdChar": {
+          "CharSetCd": {
+            "@_value": "004"
+          }
+        }
       },
       "distribution": [
         {
@@ -4311,77 +4326,77 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/datasets/1e64adf22f8448a693f638c9f1334dc9_0"
+          "accessURL": "https://www.datazapad.cz/datasets/1e64adf22f8448a693f638c9f1334dc9_3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "ArcGIS GeoService",
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
-          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Jin%C3%A9_atraktivity_v_Karlovarsk%C3%A9m_kraji_WFL1/FeatureServer/0"
+          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Jin%C3%A9_atraktivity_v_Karlovarsk%C3%A9m_kraji_WFL1/FeatureServer/3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "CSV",
           "format": "CSV",
           "mediaType": "text/csv",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/1e64adf22f8448a693f638c9f1334dc9/csv?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/1e64adf22f8448a693f638c9f1334dc9/csv?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Shapefile",
           "format": "ZIP",
           "mediaType": "application/zip",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/1e64adf22f8448a693f638c9f1334dc9/shapefile?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/1e64adf22f8448a693f638c9f1334dc9/shapefile?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "GeoJSON",
           "format": "GeoJSON",
           "mediaType": "application/vnd.geo+json",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/1e64adf22f8448a693f638c9f1334dc9/geojson?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/1e64adf22f8448a693f638c9f1334dc9/geojson?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "KML",
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/1e64adf22f8448a693f638c9f1334dc9/kml?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/1e64adf22f8448a693f638c9f1334dc9/kml?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "File Geodatabase",
           "format": "ZIP",
           "mediaType": "application/zip",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/1e64adf22f8448a693f638c9f1334dc9/filegdb?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/1e64adf22f8448a693f638c9f1334dc9/filegdb?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Feature Collection",
           "format": "TXT",
           "mediaType": "text/plain",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/1e64adf22f8448a693f638c9f1334dc9/featureCollection?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/1e64adf22f8448a693f638c9f1334dc9/featureCollection?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Excel",
           "format": "XLSX",
           "mediaType": "application/vnd.ms-excel",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/1e64adf22f8448a693f638c9f1334dc9/excel?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/1e64adf22f8448a693f638c9f1334dc9/excel?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "GeoPackage",
           "format": "GPKG",
           "mediaType": "application/geopackage+sqlite3",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/1e64adf22f8448a693f638c9f1334dc9/geoPackage?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/1e64adf22f8448a693f638c9f1334dc9/geoPackage?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "SQLite Geodatabase",
           "format": "GDB",
           "mediaType": "application/geopackage+sqlite3",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/1e64adf22f8448a693f638c9f1334dc9/sqlite?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/1e64adf22f8448a693f638c9f1334dc9/sqlite?layers=3"
         }
       ],
       "theme": [
