@@ -5716,7 +5716,7 @@
       "issued": "2025-05-29T07:43:47.000Z",
       "modified": "2025-05-29T07:43:48.000Z",
       "publisher": {
-        "name": "petr.bek@karp-kv.cz"
+        "name": "Krajské inovační centrum Karlovarského kraje"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -5731,7 +5731,103 @@
         "Investice kraje",
         "Kraj a dotace"
       ],
-      "metadata": "{{metadata.metadata}}",
+      "metadata": {
+        "mdFileID": "2d4c18ac954d44008f078fe0227ecd39",
+        "distInfo": {
+          "distTranOps": {
+            "onLineSrc": {
+              "linkage": "https://www.datazapad.cz/pages/dalsi-vystupy-chytry-region"
+            }
+          },
+          "distFormat": {
+            "formatName": "Web Mapping Application"
+          }
+        },
+        "Esri": {
+          "ArcGISFormat": 1,
+          "CreaTime": 7434700,
+          "ArcGISProfile": "INSPIRE",
+          "DataProperties": {
+            "itemProps": {
+              "portalDetails": {
+                "itemType": "Web Mapping Application",
+                "resourceURL": "https://www.datazapad.cz/pages/dalsi-vystupy-chytry-region",
+                "itemDetailsURL": "https://www.arcgis.com/home/item.html?id=2d4c18ac954d44008f078fe0227ecd39",
+                "itemIdentifier": "2d4c18ac954d44008f078fe0227ecd39",
+                "thumbnailURL": "https://www.arcgis.com/sharing/rest/content/items/2d4c18ac954d44008f078fe0227ecd39/info/thumbnail/ago_downloaded.png"
+              }
+            }
+          },
+          "ModDate": 20250529,
+          "CreaDate": 20250529,
+          "ModTime": 7434700
+        },
+        "dqInfo": {
+          "report": {
+            "measResult": {
+              "ConResult": {
+                "conSpec": {
+                  "date": {
+                    "pubDate": "2010-12-08T00:00:00"
+                  },
+                  "resTitle": {
+                    "@_Sync": "FALSE",
+                    "#value": "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "@_xml:lang": "en",
+        "dataIdInfo": {
+          "idCitation": {
+            "date": {
+              "reviseDate": "2025-05-29T07:43:48",
+              "createDate": "2025-05-29T07:43:47"
+            },
+            "resTitle": "Chytrý region",
+            "citId": {
+              "identCode": "publication"
+            }
+          },
+          "themeKeys": {
+            "thesaName": {
+              "date": {
+                "pubDate": "2008-06-01T00:00:00"
+              },
+              "resTitle": {
+                "@_Sync": "FALSE",
+                "#value": "GEMET - INSPIRE themes, version 1.0"
+              }
+            }
+          },
+          "idPurp": "V čem můžeme spatřovat potenciál chytrého regionu v Karlovarském kraji a jaké jsou překážky jeho rozvoje? Odpovědi nejen na tyto otázky jsme získali díky dotazníkovému šetření, do kterého se zapojila více než třetina obcí a měst Karlovarského kraje.",
+          "dataChar": {
+            "CharSetCd": {
+              "@_Sync": "FALSE",
+              "@_value": "004"
+            }
+          },
+          "searchKeys": {
+            "keyword": [
+              "Analýza",
+              "Chytrá města",
+              "Chytrý venkov",
+              "Smart city",
+              "Dotazníkové šetření"
+            ]
+          },
+          "idPoC": {
+            "rpOrgName": "Krajské inovační centrum Karlovarského kraje"
+          }
+        },
+        "mdChar": {
+          "CharSetCd": {
+            "@_value": "004"
+          }
+        }
+      },
       "distribution": [
         {
           "@type": "dcat:Distribution",
@@ -7564,9 +7660,9 @@
         "Image"
       ],
       "issued": "2025-05-15T17:42:11.000Z",
-      "modified": "2025-05-15T17:42:17.000Z",
+      "modified": "2025-09-15T15:24:07.000Z",
       "publisher": {
-        "name": "petr.bek@karp-kv.cz"
+        "name": "Krajské inovační centrum Karlovarského kraje"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -7577,7 +7673,61 @@
       "spatial": "{{extent:computeSpatialProperty}}",
       "license": "",
       "category": [],
-      "metadata": "{{metadata.metadata}}",
+      "metadata": {
+        "Esri": {
+          "ArcGISFormat": 1,
+          "ArcGISProfile": "INSPIRE"
+        },
+        "dqInfo": {
+          "report": {
+            "measResult": {
+              "ConResult": {
+                "conSpec": {
+                  "date": {
+                    "pubDate": "2010-12-08T00:00:00"
+                  },
+                  "resTitle": {
+                    "@_Sync": "FALSE",
+                    "#value": "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "dataIdInfo": {
+          "idCitation": {
+            "citId": {
+              "identCode": "publication"
+            }
+          },
+          "themeKeys": {
+            "thesaName": {
+              "date": {
+                "pubDate": "2008-06-01T00:00:00"
+              },
+              "resTitle": {
+                "@_Sync": "FALSE",
+                "#value": "GEMET - INSPIRE themes, version 1.0"
+              }
+            }
+          },
+          "dataChar": {
+            "CharSetCd": {
+              "@_Sync": "FALSE",
+              "@_value": "004"
+            }
+          },
+          "idPoC": {
+            "rpOrgName": "Krajské inovační centrum Karlovarského kraje"
+          }
+        },
+        "mdChar": {
+          "CharSetCd": {
+            "@_value": "004"
+          }
+        }
+      },
       "distribution": [
         {
           "@type": "dcat:Distribution",
@@ -7903,9 +8053,9 @@
         "Aplikace"
       ],
       "issued": "2025-05-29T07:39:38.000Z",
-      "modified": "2025-05-29T07:39:39.000Z",
+      "modified": "2025-09-15T15:26:56.000Z",
       "publisher": {
-        "name": "petr.bek@karp-kv.cz"
+        "name": "Krajské inovační centrum Karlovarského kraje"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -7920,7 +8070,61 @@
         "Investice kraje",
         "Kraj a dotace"
       ],
-      "metadata": "{{metadata.metadata}}",
+      "metadata": {
+        "Esri": {
+          "ArcGISFormat": 1,
+          "ArcGISProfile": "INSPIRE"
+        },
+        "dqInfo": {
+          "report": {
+            "measResult": {
+              "ConResult": {
+                "conSpec": {
+                  "date": {
+                    "pubDate": "2010-12-08T00:00:00"
+                  },
+                  "resTitle": {
+                    "@_Sync": "FALSE",
+                    "#value": "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "dataIdInfo": {
+          "idCitation": {
+            "citId": {
+              "identCode": "publication"
+            }
+          },
+          "themeKeys": {
+            "thesaName": {
+              "date": {
+                "pubDate": "2008-06-01T00:00:00"
+              },
+              "resTitle": {
+                "@_Sync": "FALSE",
+                "#value": "GEMET - INSPIRE themes, version 1.0"
+              }
+            }
+          },
+          "dataChar": {
+            "CharSetCd": {
+              "@_Sync": "FALSE",
+              "@_value": "004"
+            }
+          },
+          "idPoC": {
+            "rpOrgName": "Krajské inovační centrum Karlovarského kraje"
+          }
+        },
+        "mdChar": {
+          "CharSetCd": {
+            "@_value": "004"
+          }
+        }
+      },
       "distribution": [
         {
           "@type": "dcat:Distribution",
@@ -7952,9 +8156,9 @@
         "Analýza"
       ],
       "issued": "2025-05-15T17:40:38.000Z",
-      "modified": "2025-05-15T17:40:45.000Z",
+      "modified": "2025-09-15T15:24:53.000Z",
       "publisher": {
-        "name": "petr.bek@karp-kv.cz"
+        "name": "Krajské inovační centrum Karlovarského kraje"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -7969,7 +8173,61 @@
         "Investice kraje",
         "Kraj a dotace"
       ],
-      "metadata": "{{metadata.metadata}}",
+      "metadata": {
+        "Esri": {
+          "ArcGISFormat": 1,
+          "ArcGISProfile": "INSPIRE"
+        },
+        "dqInfo": {
+          "report": {
+            "measResult": {
+              "ConResult": {
+                "conSpec": {
+                  "date": {
+                    "pubDate": "2010-12-08T00:00:00"
+                  },
+                  "resTitle": {
+                    "@_Sync": "FALSE",
+                    "#value": "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "dataIdInfo": {
+          "idCitation": {
+            "citId": {
+              "identCode": "publication"
+            }
+          },
+          "themeKeys": {
+            "thesaName": {
+              "date": {
+                "pubDate": "2008-06-01T00:00:00"
+              },
+              "resTitle": {
+                "@_Sync": "FALSE",
+                "#value": "GEMET - INSPIRE themes, version 1.0"
+              }
+            }
+          },
+          "dataChar": {
+            "CharSetCd": {
+              "@_Sync": "FALSE",
+              "@_value": "004"
+            }
+          },
+          "idPoC": {
+            "rpOrgName": "Krajské inovační centrum Karlovarského kraje"
+          }
+        },
+        "mdChar": {
+          "CharSetCd": {
+            "@_value": "004"
+          }
+        }
+      },
       "distribution": [
         {
           "@type": "dcat:Distribution",
@@ -15209,9 +15467,9 @@
       "description": "{{description}}",
       "keyword": [],
       "issued": "2025-05-15T17:36:01.000Z",
-      "modified": "2025-05-15T17:36:07.000Z",
+      "modified": "2025-09-15T15:25:37.000Z",
       "publisher": {
-        "name": "petr.bek@karp-kv.cz"
+        "name": "Krajské inovační centrum Karlovarského kraje"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -15225,7 +15483,61 @@
         "Ekonomika a trh práce",
         "Kraj a dotace"
       ],
-      "metadata": "{{metadata.metadata}}",
+      "metadata": {
+        "Esri": {
+          "ArcGISFormat": 1,
+          "ArcGISProfile": "INSPIRE"
+        },
+        "dqInfo": {
+          "report": {
+            "measResult": {
+              "ConResult": {
+                "conSpec": {
+                  "date": {
+                    "pubDate": "2010-12-08T00:00:00"
+                  },
+                  "resTitle": {
+                    "@_Sync": "FALSE",
+                    "#value": "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "dataIdInfo": {
+          "idCitation": {
+            "citId": {
+              "identCode": "publication"
+            }
+          },
+          "themeKeys": {
+            "thesaName": {
+              "date": {
+                "pubDate": "2008-06-01T00:00:00"
+              },
+              "resTitle": {
+                "@_Sync": "FALSE",
+                "#value": "GEMET - INSPIRE themes, version 1.0"
+              }
+            }
+          },
+          "dataChar": {
+            "CharSetCd": {
+              "@_Sync": "FALSE",
+              "@_value": "004"
+            }
+          },
+          "idPoC": {
+            "rpOrgName": "Krajské inovační centrum Karlovarského kraje"
+          }
+        },
+        "mdChar": {
+          "CharSetCd": {
+            "@_value": "004"
+          }
+        }
+      },
       "distribution": [
         {
           "@type": "dcat:Distribution",
@@ -15897,9 +16209,9 @@
         "Digitalizace"
       ],
       "issued": "2025-05-15T17:37:40.000Z",
-      "modified": "2025-05-15T17:50:09.000Z",
+      "modified": "2025-09-15T15:21:29.000Z",
       "publisher": {
-        "name": "petr.bek@karp-kv.cz"
+        "name": "Krajské inovační centrum Karlovarského kraje"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -15918,7 +16230,61 @@
         "Kultura a cestovní ruch",
         "Investice kraje"
       ],
-      "metadata": "{{metadata.metadata}}",
+      "metadata": {
+        "Esri": {
+          "ArcGISFormat": 1,
+          "ArcGISProfile": "INSPIRE"
+        },
+        "dqInfo": {
+          "report": {
+            "measResult": {
+              "ConResult": {
+                "conSpec": {
+                  "date": {
+                    "pubDate": "2010-12-08T00:00:00"
+                  },
+                  "resTitle": {
+                    "@_Sync": "FALSE",
+                    "#value": "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "dataIdInfo": {
+          "idCitation": {
+            "citId": {
+              "identCode": "publication"
+            }
+          },
+          "themeKeys": {
+            "thesaName": {
+              "date": {
+                "pubDate": "2008-06-01T00:00:00"
+              },
+              "resTitle": {
+                "@_Sync": "FALSE",
+                "#value": "GEMET - INSPIRE themes, version 1.0"
+              }
+            }
+          },
+          "dataChar": {
+            "CharSetCd": {
+              "@_Sync": "FALSE",
+              "@_value": "004"
+            }
+          },
+          "idPoC": {
+            "rpOrgName": "Krajské inovační centrum Karlovarského kraje"
+          }
+        },
+        "mdChar": {
+          "CharSetCd": {
+            "@_value": "004"
+          }
+        }
+      },
       "distribution": [
         {
           "@type": "dcat:Distribution",
@@ -19662,9 +20028,9 @@
         "Nabídky práce"
       ],
       "issued": "2025-05-14T20:09:24.000Z",
-      "modified": "2025-05-15T17:54:34.000Z",
+      "modified": "2025-09-15T15:20:09.000Z",
       "publisher": {
-        "name": "petr.bek@karp-kv.cz"
+        "name": "Krajské inovační centrum Karlovarského kraje"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -19677,7 +20043,61 @@
       "category": [
         "Ekonomika a trh práce"
       ],
-      "metadata": "{{metadata.metadata}}",
+      "metadata": {
+        "Esri": {
+          "ArcGISFormat": 1,
+          "ArcGISProfile": "INSPIRE"
+        },
+        "dqInfo": {
+          "report": {
+            "measResult": {
+              "ConResult": {
+                "conSpec": {
+                  "date": {
+                    "pubDate": "2010-12-08T00:00:00"
+                  },
+                  "resTitle": {
+                    "@_Sync": "FALSE",
+                    "#value": "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "dataIdInfo": {
+          "idCitation": {
+            "citId": {
+              "identCode": "publication"
+            }
+          },
+          "themeKeys": {
+            "thesaName": {
+              "date": {
+                "pubDate": "2008-06-01T00:00:00"
+              },
+              "resTitle": {
+                "@_Sync": "FALSE",
+                "#value": "GEMET - INSPIRE themes, version 1.0"
+              }
+            }
+          },
+          "dataChar": {
+            "CharSetCd": {
+              "@_Sync": "FALSE",
+              "@_value": "004"
+            }
+          },
+          "idPoC": {
+            "rpOrgName": "Krajské inovační centrum Karlovarského kraje"
+          }
+        },
+        "mdChar": {
+          "CharSetCd": {
+            "@_value": "004"
+          }
+        }
+      },
       "distribution": [
         {
           "@type": "dcat:Distribution",
@@ -21531,9 +21951,9 @@
         "Lázeňství"
       ],
       "issued": "2025-05-06T11:53:08.000Z",
-      "modified": "2025-05-15T17:49:03.000Z",
+      "modified": "2025-09-15T15:22:06.000Z",
       "publisher": {
-        "name": "petr.bek@karp-kv.cz"
+        "name": "Krajské inovační centrum Karlovarského kraje"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -21548,7 +21968,61 @@
         "Zdravotnictví a zdraví",
         "Kultura a cestovní ruch"
       ],
-      "metadata": "{{metadata.metadata}}",
+      "metadata": {
+        "Esri": {
+          "ArcGISFormat": 1,
+          "ArcGISProfile": "INSPIRE"
+        },
+        "dqInfo": {
+          "report": {
+            "measResult": {
+              "ConResult": {
+                "conSpec": {
+                  "date": {
+                    "pubDate": "2010-12-08T00:00:00"
+                  },
+                  "resTitle": {
+                    "@_Sync": "FALSE",
+                    "#value": "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "dataIdInfo": {
+          "idCitation": {
+            "citId": {
+              "identCode": "publication"
+            }
+          },
+          "themeKeys": {
+            "thesaName": {
+              "date": {
+                "pubDate": "2008-06-01T00:00:00"
+              },
+              "resTitle": {
+                "@_Sync": "FALSE",
+                "#value": "GEMET - INSPIRE themes, version 1.0"
+              }
+            }
+          },
+          "dataChar": {
+            "CharSetCd": {
+              "@_Sync": "FALSE",
+              "@_value": "004"
+            }
+          },
+          "idPoC": {
+            "rpOrgName": "Krajské inovační centrum Karlovarského kraje"
+          }
+        },
+        "mdChar": {
+          "CharSetCd": {
+            "@_value": "004"
+          }
+        }
+      },
       "distribution": [
         {
           "@type": "dcat:Distribution",
@@ -21582,9 +22056,9 @@
         "Analýza"
       ],
       "issued": "2025-05-29T07:25:23.000Z",
-      "modified": "2025-05-29T07:25:24.000Z",
+      "modified": "2025-09-15T15:19:02.000Z",
       "publisher": {
-        "name": "petr.bek@karp-kv.cz"
+        "name": "Krajské inovační centrum Karlovarského kraje"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -21605,7 +22079,66 @@
         "Školství a výzkum",
         "Investice kraje"
       ],
-      "metadata": "{{metadata.metadata}}",
+      "metadata": {
+        "Esri": {
+          "ArcGISFormat": 1,
+          "ArcGISProfile": "INSPIRE"
+        },
+        "dqInfo": {
+          "report": {
+            "measResult": {
+              "ConResult": {
+                "conSpec": {
+                  "date": {
+                    "pubDate": "2010-12-08T00:00:00"
+                  },
+                  "resTitle": {
+                    "@_Sync": "FALSE",
+                    "#value": "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "dataIdInfo": {
+          "idCitation": {
+            "citId": {
+              "identCode": "publication"
+            }
+          },
+          "themeKeys": {
+            "thesaName": {
+              "date": {
+                "pubDate": "2008-06-01T00:00:00"
+              },
+              "resTitle": {
+                "@_Sync": "FALSE",
+                "#value": "GEMET - INSPIRE themes, version 1.0"
+              }
+            }
+          },
+          "dataChar": {
+            "CharSetCd": {
+              "@_Sync": "FALSE",
+              "@_value": "004"
+            }
+          },
+          "idPoC": {
+            "role": {
+              "RoleCd": {
+                "@_value": "001"
+              }
+            },
+            "rpOrgName": "Krajské inovační centrum Karlovarského kraje"
+          }
+        },
+        "mdChar": {
+          "CharSetCd": {
+            "@_value": "004"
+          }
+        }
+      },
       "distribution": [
         {
           "@type": "dcat:Distribution",
