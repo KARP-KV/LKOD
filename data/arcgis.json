@@ -351,7 +351,7 @@
         ""
       ],
       "issued": "2025-08-25T12:35:54.000Z",
-      "modified": "2025-09-17T11:22:29.000Z",
+      "modified": "2025-09-18T09:59:06.000Z",
       "publisher": {
         "name": "jan.sklepek@karp-kv.cz"
       },
@@ -12643,6 +12643,43 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=6ac14c4ab995495db7c2b1a1930a9e9e",
+      "landingPage": "https://www.datazapad.cz/pages/6ac14c4ab995495db7c2b1a1930a9e9e",
+      "title": "Profil regionu - Sociální sféra - 01 - Obyvatelstvo - 03 - Věková struktura",
+      "description": "{{description}}",
+      "keyword": [
+        ""
+      ],
+      "issued": "2025-09-18T10:21:28.000Z",
+      "modified": "2025-09-18T12:33:18.000Z",
+      "publisher": {
+        "name": "jan.sklepek@karp-kv.cz"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "jan.sklepek@karp-kv.cz",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "12.0940,48.5525,18.8574,51.0581",
+      "license": "",
+      "category": [],
+      "metadata": "{{metadata.metadata}}",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datazapad.cz/pages/6ac14c4ab995495db7c2b1a1930a9e9e"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=6be3423787fd4c1fa19a70b025e2eb64&sublayer=3",
       "landingPage": "https://www.datazapad.cz/datasets/6be3423787fd4c1fa19a70b025e2eb64_3",
       "title": "Muzea v přírodě a skanzeny v Karlovarském kraji",
@@ -18862,7 +18899,7 @@
         ""
       ],
       "issued": "2025-09-17T12:06:31.000Z",
-      "modified": "2025-09-17T12:07:27.000Z",
+      "modified": "2025-09-18T12:10:29.000Z",
       "publisher": {
         "name": "jan.sklepek@karp-kv.cz"
       },
@@ -22496,7 +22533,7 @@
         ""
       ],
       "issued": "2025-09-17T11:35:41.000Z",
-      "modified": "2025-09-17T12:08:25.000Z",
+      "modified": "2025-09-18T11:28:49.000Z",
       "publisher": {
         "name": "jan.sklepek@karp-kv.cz"
       },
