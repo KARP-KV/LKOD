@@ -5466,6 +5466,303 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=2c8293e475994414b4210f9ba00813f9&sublayer=0",
+      "landingPage": "https://www.datazapad.cz/datasets/2c8293e475994414b4210f9ba00813f9_0",
+      "title": "MAS dle přísnušnosti jednoltivých obcí v Karlovarském kraji ",
+      "description": "<p>Datová sada obsahuje především polygony obcí Karlovarského kraje. Atribut “MAS” &nbsp;obsahuje informaci o působení obce v místní akční skupině. Vrstva dále obsahuje obce Ústeckého a Plzeňského kraje, které jsou zapojeny v MAS Karlovarského kraje. Vrstva je polygonová, v souřadnicovém systému S-JTSK.&nbsp;</p>",
+      "keyword": [
+        "Karlovarský kraj",
+        "Obce a města"
+      ],
+      "issued": "2025-09-23T09:36:19.000Z",
+      "modified": "2025-09-23T09:36:23.000Z",
+      "publisher": {
+        "name": "Karlovarský kraj"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Karlovarsky.Kraj",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "12.2349,49.7007,13.7524,50.5515",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0",
+      "category": [],
+      "metadata": {
+        "mdLang": {
+          "languageCode": {
+            "@_Sync": "FALSE",
+            "@_value": "cze"
+          }
+        },
+        "mdContact": {
+          "rpCntInfo": {
+            "cntAddress": {
+              "eMailAdd": "tereza.marzova@kr-karlovarsky.cz"
+            }
+          },
+          "role": {
+            "RoleCd": {
+              "@_value": "005"
+            }
+          },
+          "rpOrgName": "Karlovarský kraj"
+        },
+        "mdFileID": "2c8293e475994414b4210f9ba00813f9",
+        "distInfo": {
+          "distTranOps": {
+            "onLineSrc": {
+              "linkage": "https://geo-ags.kr-karlovarsky.cz/arcgis/rest/services/OpenData/ObceDleMAS/MapServer/0"
+            }
+          },
+          "distFormat": {
+            "formatName": "Feature Service"
+          }
+        },
+        "Esri": {
+          "ArcGISFormat": 1,
+          "CreaTime": 9361900,
+          "ArcGISProfile": "INSPIRE",
+          "DataProperties": {
+            "itemProps": {
+              "portalDetails": {
+                "itemType": "Feature Service",
+                "resourceURL": "https://geo-ags.kr-karlovarsky.cz/arcgis/rest/services/OpenData/ObceDleMAS/MapServer/0",
+                "itemDetailsURL": "https://www.arcgis.com/home/item.html?id=2c8293e475994414b4210f9ba00813f9",
+                "itemIdentifier": "2c8293e475994414b4210f9ba00813f9",
+                "thumbnailURL": "https://www.arcgis.com/sharing/rest/content/items/2c8293e475994414b4210f9ba00813f9/info/thumbnail/thumbnail1758621605784.png"
+              }
+            }
+          },
+          "ModDate": 20250923,
+          "CreaDate": 20250923,
+          "ModTime": 9361900
+        },
+        "dqInfo": {
+          "report": {
+            "measResult": {
+              "ConResult": {
+                "conSpec": {
+                  "date": {
+                    "pubDate": "2010-12-08T00:00:00"
+                  },
+                  "resTitle": {
+                    "@_Sync": "FALSE",
+                    "#value": "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "@_xml:lang": "cs",
+        "mdHrLv": {
+          "ScopeCd": {
+            "@_value": "005"
+          }
+        },
+        "dataIdInfo": {
+          "idAbs": "<p>Datová sada obsahuje především polygony obcí Karlovarského kraje. Atribut “MAS” &nbsp;obsahuje informaci o působení obce v místní akční skupině. Vrstva dále obsahuje obce Ústeckého a Plzeňského kraje, které jsou zapojeny v MAS Karlovarského kraje. Vrstva je polygonová, v souřadnicovém systému S-JTSK.&nbsp;</p>",
+          "dataExt": {
+            "geoEle": {
+              "GeoBndBox": {
+                "eastBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 13.9071
+                },
+                "southBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 49.7007
+                },
+                "exTypeCode": {
+                  "@_Sync": "TRUE",
+                  "#value": 1
+                },
+                "northBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 50.5515
+                },
+                "westBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 12.0568
+                }
+              }
+            }
+          },
+          "idCitation": {
+            "date": {
+              "reviseDate": "2025-09-23T09:36:23",
+              "createDate": "2025-09-23T09:36:19"
+            },
+            "resTitle": {
+              "@_Sync": "FALSE",
+              "#value": "MAS dle přísnušnosti jednotlivých obcí v Karlovarském kraji"
+            },
+            "citId": {
+              "identCode": "publication"
+            }
+          },
+          "dataLang": {
+            "languageCode": {
+              "@_Sync": "FALSE",
+              "@_value": "cze"
+            }
+          },
+          "themeKeys": {
+            "thesaName": {
+              "date": {
+                "pubDate": "2008-06-01T00:00:00"
+              },
+              "resTitle": {
+                "@_Sync": "FALSE",
+                "#value": "GEMET - INSPIRE themes, version 1.0"
+              }
+            },
+            "keyword": "Správní jednotky"
+          },
+          "idPurp": "Přehled obcí Karlovarského kraje s uvedením příslušnosti do místních akčních skupin",
+          "spatRpType": {
+            "SpatRepTypCd": {
+              "@_Sync": "FALSE",
+              "@_value": "001"
+            }
+          },
+          "dataChar": {
+            "CharSetCd": {
+              "@_Sync": "FALSE",
+              "@_value": "004"
+            }
+          },
+          "tpCat": {
+            "TopicCatCd": {
+              "@_value": "016"
+            }
+          },
+          "searchKeys": {
+            "keyword": [
+              "Karlovarský kraj",
+              "Obce a města"
+            ]
+          },
+          "idPoC": {
+            "rpCntInfo": {
+              "cntAddress": {
+                "eMailAdd": "tereza.marzova@kr-karlovarsky.cz"
+              }
+            },
+            "role": {
+              "RoleCd": {
+                "@_value": "007"
+              }
+            },
+            "rpOrgName": "Karlovarský kraj"
+          },
+          "resConst": [
+            {
+              "LegConsts": {
+                "inspireAccessUseConditions": {
+                  "ConditionsAccUseCd": {
+                    "@_value": "001"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "inspirePublicAccessLimits": {
+                  "PublicAccessCd": {
+                    "@_value": "001"
+                  }
+                }
+              }
+            },
+            {
+              "Consts": {
+                "useLimit": "<p>CC0 1.0</p>"
+              }
+            }
+          ]
+        },
+        "refSysInfo": {
+          "RefSystem": {
+            "refSysID": {
+              "identCode": {
+                "@_Sync": "FALSE",
+                "@_code": "5514"
+              }
+            }
+          }
+        },
+        "mdChar": {
+          "CharSetCd": {
+            "@_value": "004"
+          }
+        }
+      },
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datazapad.cz/datasets/2c8293e475994414b4210f9ba00813f9_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://geo-ags.kr-karlovarsky.cz/arcgis/rest/services/OpenData/ObceDleMAS/MapServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "OGC WFS",
+          "format": "OGC WFS",
+          "mediaType": "application/vnd.ogc.wfs_xml",
+          "accessURL": "https://geo-ags.kr-karlovarsky.cz/arcgis/services/OpenData/ObceDleMAS/MapServer/WFSServer?request=GetCapabilities&service=WFS"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "OGC WMS",
+          "format": "OGC WMS",
+          "mediaType": "application/vnd.ogc.wms_xml",
+          "accessURL": "https://geo-ags.kr-karlovarsky.cz/arcgis/services/OpenData/ObceDleMAS/MapServer/WMSServer?request=GetCapabilities&service=WMS"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/2c8293e475994414b4210f9ba00813f9/csv?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/2c8293e475994414b4210f9ba00813f9/shapefile?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/2c8293e475994414b4210f9ba00813f9/geojson?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/2c8293e475994414b4210f9ba00813f9/kml?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=2c9bd5558c4a495c8424a84bc6b370e2&sublayer=0",
       "landingPage": "https://www.datazapad.cz/datasets/2c9bd5558c4a495c8424a84bc6b370e2_0",
       "title": "Náboženské památky v Karlovarském kraji",
@@ -14932,7 +15229,7 @@
         ""
       ],
       "issued": "2025-09-19T13:23:22.000Z",
-      "modified": "2025-09-19T13:28:01.000Z",
+      "modified": "2025-09-23T07:52:34.000Z",
       "publisher": {
         "name": "jan.sklepek@karp-kv.cz"
       },
