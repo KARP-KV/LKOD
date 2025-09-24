@@ -3899,7 +3899,7 @@
       "typ": "Datová sada",
       "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891168",
       "název": {
-        "cs": "MAS dle přísnušnosti jednoltivých obcí v Karlovarském kraji "
+        "cs": "MAS dle příslušnosti jednoltivých obcí v Karlovarském kraji "
       },
       "popis": {
         "cs": "Datová sada obsahuje především polygony obcí Karlovarského kraje. Atribut “MAS” &nbsp;obsahuje informaci o působení obce v místní akční skupině. Vrstva dále obsahuje obce Ústeckého a Plzeňského kraje, které jsou zapojeny v MAS Karlovarského kraje. Vrstva je polygonová, v souřadnicovém systému S-JTSK.&nbsp;"
