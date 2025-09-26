@@ -14155,6 +14155,317 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=6fb15a0f28fe41d083ac150dc7405171&sublayer=0",
+      "landingPage": "https://www.datazapad.cz/datasets/6fb15a0f28fe41d083ac150dc7405171_0",
+      "title": "Průmyslové zóny a parky v Karlovarském kraji",
+      "description": "<p>Datová sada obsahuje přehled průmyslových zón a parků v Karlovarském kraji včetně prostorové lokalizace. Souřadnicový systém je použit WGS 1984. Zdrojem dat je Krajský úřad Karlovarského kraje, Odbor regionálního rozvoje.</p>",
+      "keyword": [
+        "průmyslová zóna",
+        "průmyslový park",
+        "Karlovarský kraj",
+        "zóna",
+        "park"
+      ],
+      "issued": "2025-09-26T07:56:23.000Z",
+      "modified": "2025-09-26T07:56:36.368Z",
+      "publisher": {
+        "name": "Krajský úřad Karlovarského kraje"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "pavla.brabencova_karp",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "12.1981,49.9734,12.9526,50.3453",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0",
+      "category": [
+        "Ekonomika a trh práce"
+      ],
+      "metadata": {
+        "mdLang": {
+          "languageCode": {
+            "@_Sync": "FALSE",
+            "@_value": "cze"
+          }
+        },
+        "mdContact": {
+          "rpCntInfo": {
+            "cntAddress": {
+              "eMailAdd": "pavla.brabencova@kickk.cz"
+            }
+          },
+          "role": {
+            "RoleCd": {
+              "@_value": "007"
+            }
+          },
+          "rpOrgName": "Krajské inovační centrum Karlovarského kraje, p.o."
+        },
+        "mdDateSt": {
+          "@_Sync": "FALSE",
+          "#value": "2025-09-26"
+        },
+        "Esri": {
+          "ArcGISFormat": 1,
+          "CreaTime": 9505000,
+          "ArcGISProfile": "INSPIRE",
+          "DataProperties": {
+            "itemProps": {
+              "portalDetails": {
+                "thumbnailURL": "https://www.arcgis.com/sharing/rest/content/items/6fb15a0f28fe41d083ac150dc7405171/info/thumbnail/thumbnail1758873754732.png"
+              }
+            }
+          },
+          "CreaDate": 20250926,
+          "SyncOnce": "TRUE"
+        },
+        "mdTimeSt": "10:10:17",
+        "dqInfo": {
+          "dataLineage": {
+            "statement": "Data Krajského úřadu Karlovarského kraje, Odboru regionálního rozvoje"
+          },
+          "dqScope": {
+            "scpLvl": {
+              "ScopeCd": {
+                "@_value": "005"
+              }
+            }
+          },
+          "report": {
+            "measResult": {
+              "ConResult": {
+                "conSpec": {
+                  "date": {
+                    "pubDate": "2010-12-08T00:00:00"
+                  },
+                  "resTitle": {
+                    "@_Sync": "FALSE",
+                    "#value": "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "mdHrLv": {
+          "ScopeCd": {
+            "@_value": "005"
+          }
+        },
+        "dataIdInfo": {
+          "idAbs": "<p>Datová sada obsahuje přehled průmyslových zón a parků v Karlovarském kraji včetně prostorové lokalizace. Souřadnicový systém je použit WGS 1984. Zdrojem dat je Krajský úřad Karlovarského kraje, Odbor regionálního rozvoje.</p>",
+          "idCredit": "Krajský úřad Karlovarského kraje, Odbor regionálního rozvoje",
+          "dataLang": {
+            "languageCode": {
+              "@_Sync": "FALSE",
+              "@_value": "cze"
+            }
+          },
+          "idPurp": "Přehled průmyslových zón a parků v Karlovarském kraji.",
+          "tpCat": [
+            {
+              "TopicCatCd": {
+                "@_value": "017"
+              }
+            },
+            {
+              "TopicCatCd": {
+                "@_value": "005"
+              }
+            }
+          ],
+          "dataExt": {
+            "geoEle": {
+              "GeoBndBox": {
+                "eastBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 12.952585
+                },
+                "southBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 49.973418
+                },
+                "northBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 50.345339
+                },
+                "westBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 12.198139
+                }
+              }
+            }
+          },
+          "idCitation": {
+            "date": {
+              "pubDate": "2025-09-26T10:08:57"
+            },
+            "resTitle": {
+              "@_Sync": "FALSE",
+              "#value": "Průmyslové zóny a parky v Karlovarském kraji"
+            },
+            "citId": {
+              "identCode": "publication"
+            }
+          },
+          "themeKeys": {
+            "thesaName": {
+              "date": {
+                "pubDate": "2008-06-01T00:00:00"
+              },
+              "resTitle": {
+                "@_Sync": "FALSE",
+                "#value": "GEMET - INSPIRE themes, version 1.0"
+              }
+            },
+            "keyword": [
+              "Průmyslová zóna",
+              "Průmyslový park",
+              "Karlovarský kraj"
+            ]
+          },
+          "spatRpType": {
+            "SpatRepTypCd": {
+              "@_Sync": "FALSE",
+              "@_value": "003"
+            }
+          },
+          "dataChar": {
+            "CharSetCd": {
+              "@_Sync": "FALSE",
+              "@_value": "004"
+            }
+          },
+          "searchKeys": {
+            "keyword": [
+              "průmyslová zóna",
+              "průmyslový park",
+              "Karlovarský kraj",
+              "zóna",
+              "park"
+            ]
+          },
+          "idPoC": {
+            "rpCntInfo": {
+              "cntAddress": {
+                "eMailAdd": "pavla.brabencova@kickk.cz"
+              }
+            },
+            "role": {
+              "RoleCd": {
+                "@_value": "007"
+              }
+            },
+            "rpOrgName": "Krajský úřad Karlovarského kraje"
+          },
+          "resConst": [
+            {
+              "LegConsts": {
+                "inspireAccessUseConditions": {
+                  "ConditionsAccUseCd": {
+                    "@_value": "001"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "inspirePublicAccessLimits": {
+                  "PublicAccessCd": {
+                    "@_value": "001"
+                  }
+                }
+              }
+            },
+            {
+              "Consts": {
+                "useLimit": "<p><span style='background-color:rgb(255,255,255); color:rgb(74,74,74); font-family:&quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'><span style='display:inline !important; float:none; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; text-align:start; text-decoration-color:initial; text-decoration-style:initial; text-indent:0px; text-transform:none; word-spacing:0px;'>CC0 1.0</span></span></p>"
+              }
+            }
+          ]
+        },
+        "refSysInfo": {
+          "RefSystem": {
+            "refSysID": {
+              "identCode": {
+                "@_Sync": "FALSE",
+                "@_code": "GCS_WGS_1984"
+              }
+            }
+          }
+        },
+        "mdChar": {
+          "CharSetCd": {
+            "@_value": "004"
+          }
+        },
+        "distInfo": {
+          "distTranOps": {
+            "onLineSrc": {
+              "linkage": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Pr%C5%AFmyslov%C3%A9_z%C3%B3ny_a_parky_v_KVK_WFL1/FeatureServer"
+            }
+          }
+        },
+        "mdMaint": {
+          "maintFreq": {
+            "MaintFreqCd": {
+              "@_value": "009"
+            }
+          }
+        },
+        "@_xml:lang": "cs"
+      },
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datazapad.cz/datasets/6fb15a0f28fe41d083ac150dc7405171_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Pr%C5%AFmyslov%C3%A9_z%C3%B3ny_a_parky_v_KVK_WFL1/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/6fb15a0f28fe41d083ac150dc7405171/csv?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/6fb15a0f28fe41d083ac150dc7405171/shapefile?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/6fb15a0f28fe41d083ac150dc7405171/geojson?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/6fb15a0f28fe41d083ac150dc7405171/kml?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=705330c29a8d41b6bc489b7245c370e6",
       "landingPage": "https://www.datazapad.cz/apps/705330c29a8d41b6bc489b7245c370e6",
       "title": "Lázeňský cestovní ruch v ČR",
@@ -15601,7 +15912,7 @@
         ""
       ],
       "issued": "2025-09-19T13:44:58.000Z",
-      "modified": "2025-09-25T14:30:41.000Z",
+      "modified": "2025-09-26T06:51:27.000Z",
       "publisher": {
         "name": "jan.sklepek@karp-kv.cz"
       },
