@@ -1135,6 +1135,43 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=07f44b854ca948ddb8d6800325d8092e",
+      "landingPage": "https://www.datazapad.cz/pages/07f44b854ca948ddb8d6800325d8092e",
+      "title": "Profil regionu - Sociální sféra - 01 - Obyvatelstvo - 20 - SWOT analýza",
+      "description": "{{description}}",
+      "keyword": [
+        ""
+      ],
+      "issued": "2025-09-26T05:39:41.000Z",
+      "modified": "2025-09-26T05:42:38.000Z",
+      "publisher": {
+        "name": "jan.sklepek@karp-kv.cz"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "jan.sklepek@karp-kv.cz",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "12.0940,48.5525,18.8574,51.0581",
+      "license": "",
+      "category": [],
+      "metadata": "{{metadata.metadata}}",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datazapad.cz/pages/07f44b854ca948ddb8d6800325d8092e"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=0ddb05a36f0c4b319975df6a4b1ed90e&sublayer=3",
       "landingPage": "https://www.datazapad.cz/datasets/0ddb05a36f0c4b319975df6a4b1ed90e_3",
       "title": "Pivovarnictví v Karlovarském kraji",
