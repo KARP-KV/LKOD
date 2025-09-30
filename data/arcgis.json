@@ -21468,19 +21468,20 @@
       "identifier": "https://www.arcgis.com/home/item.html?id=d130e2d3a13d4ca39b16761d2131619b&sublayer=0",
       "landingPage": "https://www.datazapad.cz/datasets/d130e2d3a13d4ca39b16761d2131619b_0",
       "title": "Lyžařské vleky a lanovky v Karlovarském kraji",
-      "description": "<p><font size='3'>Datová sada obsahuje rovněž informace o počtu vleků a lanovek v lyžařském centru v Karlovarském kraji. Dále obsahuje webové stránky, kontaktní telefon a e-mail na lyžařská střediska. </font></p><p><font size='3'>Poskytovatelem vstupních dat pro datovou sadu je Živý kraj - Destinační agentura pro Karlovarský kraj, z.s. </font></p>",
+      "description": "<p><span style='font-size:medium;'>Datová sada obsahuje přehled lyžařských vleků, lanovek (lanových drah) a pásů (pojízdných koberců) v jednotlivých skiareálech a sportovních areálech v Karlovarském kraji včetně informace o jejich počtu. Obsahuje rovněž informace o provozovateli areálu (název, identifikační číslo, sídlo, právní formu, kód adresy, ID datové schránky), webové stránky, kontaktní telefon, e-mail a prostorovou specifikaci areálu. Souřadnicový systém je použit WGS 1984.</span></p><p><span style='font-size:medium;'>Původním zdrojem dat je Živý kraj - Destinační agentura pro Karlovarský kraj, z.s.&nbsp;</span></p>",
       "keyword": [
         "Karlovarský kraj",
         "lanovka",
         "lyžařské středisko",
         "lyžařský vlek",
-        "lanovky",
-        "lyžařské vleky"
+        "skiareál",
+        "vlek",
+        "lanová dráha"
       ],
       "issued": "2024-10-07T07:21:43.000Z",
-      "modified": "2025-04-01T11:11:49.076Z",
+      "modified": "2025-09-30T09:22:49.000Z",
       "publisher": {
-        "name": "Karlovarská agentura rozvoje podnikání, p.o."
+        "name": "Krajské inovační centrum Karlovarského kraje"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -21488,7 +21489,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "12.2077,49.9732,12.9688,50.4185",
+      "spatial": "12.2029,49.9737,12.9688,50.4190",
       "license": "https://creativecommons.org/licenses/by/4.0",
       "category": [
         "Kultura a cestovní ruch"
@@ -21496,37 +21497,59 @@
       "metadata": {
         "mdLang": {
           "languageCode": {
+            "@_Sync": "FALSE",
             "@_value": "cze"
           }
         },
         "mdContact": {
           "rpCntInfo": {
             "cntAddress": {
-              "eMailAdd": "pavla.brabencova@kickvk.cz"
+              "eMailAdd": "pavla.brabencova@kickk.cz"
             }
           },
-          "rpOrgName": "Karlovarská agentura rozvoje podnikání, p.o.",
           "role": {
             "RoleCd": {
               "@_value": "007"
             }
+          },
+          "rpOrgName": "Krajské inovační centrum Karlovarského kraje, p.o."
+        },
+        "distInfo": {
+          "distTranOps": {
+            "onLineSrc": {
+              "linkage": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Ly%C5%BEa%C5%99sk%C3%A9_vleky_v_Karlovarsk%C3%A9m_kraji_WFL1/FeatureServer"
+            }
           }
         },
-        "mdDateSt": "2024-10-07",
+        "mdMaint": {
+          "maintFreq": {
+            "MaintFreqCd": {
+              "@_value": "008"
+            }
+          }
+        },
+        "mdDateSt": {
+          "@_Sync": "FALSE",
+          "#value": "2025-09-30"
+        },
         "Esri": {
           "ArcGISFormat": 1,
-          "CreaTime": 9125300,
+          "CreaTime": 9103500,
           "ArcGISProfile": "INSPIRE",
-          "ArcGISstyle": "INSPIRE Metadata Directive",
-          "ModDate": 20241007,
           "CreaDate": 20241007,
-          "ModTime": 11055170,
-          "SyncOnce": "TRUE",
-          "MapLyrSync": false,
-          "PublishStatus": "editor:esri.dijit.metadata.editor"
+          "SyncOnce": "TRUE"
         },
-        "mdTimeSt": "11:01:39.57",
         "dqInfo": {
+          "dataLineage": {
+            "statement": "Data Živého kraje - Destinační agentury pro Karlovarský kraj, z.s. a Krajského inovačního centra Karlovarského kraje, p.o."
+          },
+          "dqScope": {
+            "scpLvl": {
+              "ScopeCd": {
+                "@_value": "005"
+              }
+            }
+          },
           "report": {
             "measResult": {
               "ConResult": {
@@ -21534,45 +21557,75 @@
                   "date": {
                     "pubDate": "2010-12-08T00:00:00"
                   },
-                  "resTitle": "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                  "resTitle": {
+                    "@_Sync": "FALSE",
+                    "#value": "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                  }
                 }
               }
             }
           }
         },
+        "@_xml:lang": "cs",
         "mdHrLv": {
           "ScopeCd": {
             "@_value": "005"
           }
         },
         "dataIdInfo": {
-          "idAbs": "<p><font size='3'>Datová sada obsahuje rovněž informace o počtu vleků a lanovek v lyžařském centru v Karlovarském kraji. Dále obsahuje webové stránky, kontaktní telefon a e-mail na lyžařská střediska. </font></p><p><font size='3'>Poskytovatelem vstupních dat pro datovou sadu je Živý kraj - Destinační agentura pro Karlovarský kraj, z.s. </font></p>",
+          "idAbs": "<p><span style='font-size:medium;'>Datová sada obsahuje přehled lyžařských vleků, lanovek (lanových drah) a pásů (pojízdných koberců) v jednotlivých skiareálech a sportovních areálech v Karlovarském kraji včetně informace o jejich počtu. Obsahuje rovněž informace o provozovateli areálu (název, identifikační číslo, sídlo, právní formu, kód adresy, ID datové schránky), webové stránky, kontaktní telefon, e-mail a prostorovou specifikaci areálu. Souřadnicový systém je použit WGS 1984.</span></p><p><span style='font-size:medium;'>Původním zdrojem dat je Živý kraj - Destinační agentura pro Karlovarský kraj, z.s.&nbsp;</span></p>",
           "idCredit": "Živý kraj - Destinační agentura pro Karlovarský kraj, z.s.",
+          "dataLang": {
+            "languageCode": {
+              "@_Sync": "FALSE",
+              "@_value": "cze"
+            }
+          },
+          "idPurp": "Přehled lyžařských vleků a lanových drah v Karlovarském kraji.",
+          "tpCat": [
+            {
+              "TopicCatCd": {
+                "@_value": "017"
+              }
+            },
+            {
+              "TopicCatCd": {
+                "@_value": "016"
+              }
+            }
+          ],
           "dataExt": {
             "geoEle": {
               "GeoBndBox": {
-                "eastBL": 12.990752,
-                "southBL": 49.978888,
-                "northBL": 50.424094,
-                "westBL": 12.19017
+                "eastBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 12.968779
+                },
+                "southBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 49.973744
+                },
+                "northBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 50.419003
+                },
+                "westBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 12.202877
+                }
               }
             }
           },
           "idCitation": {
             "date": {
-              "pubDate": "2024-10-07T11:02:36.107+02:00"
+              "reviseDate": "2025-09-30T09:22:49"
             },
-            "resTitle": "Lyžařské vleky a lanovky v Karlovarském kraji",
+            "resTitle": {
+              "@_Sync": "FALSE",
+              "#value": "Lyžařské vleky a lanovky v Karlovarském kraji"
+            },
             "citId": {
               "identCode": "publication"
-            }
-          },
-          "dataLang": {
-            "countryCode": {
-              "@_value": "CZ"
-            },
-            "languageCode": {
-              "@_value": "cze"
             }
           },
           "themeKeys": {
@@ -21580,24 +21633,30 @@
               "date": {
                 "pubDate": "2008-06-01T00:00:00"
               },
-              "resTitle": "GEMET - INSPIRE themes, version 1.0"
+              "resTitle": {
+                "@_Sync": "FALSE",
+                "#value": "GEMET - INSPIRE themes, version 1.0"
+              }
             },
             "keyword": [
-              "lyžařské vleky",
-              "lanovky",
+              "vlek",
+              "lanová dráha",
+              "lanovka",
               "Karlovarský kraj",
-              "vleky a lanovky"
+              "lyžařské středisko",
+              "skiareál"
             ]
           },
-          "idPurp": "Přehled lyžařských vleků a lanovek v Karlovarském kraji.",
-          "dataChar": {
-            "CharSetCd": {
-              "@_value": "004"
+          "spatRpType": {
+            "SpatRepTypCd": {
+              "@_Sync": "FALSE",
+              "@_value": "003"
             }
           },
-          "tpCat": {
-            "TopicCatCd": {
-              "@_value": "017"
+          "dataChar": {
+            "CharSetCd": {
+              "@_Sync": "FALSE",
+              "@_value": "004"
             }
           },
           "searchKeys": {
@@ -21606,14 +21665,15 @@
               "lanovka",
               "lyžařské středisko",
               "lyžařský vlek",
-              "lanovky",
-              "lyžařské vleky"
+              "skiareál",
+              "vlek",
+              "lanová dráha"
             ]
           },
           "idPoC": {
             "rpCntInfo": {
               "cntAddress": {
-                "eMailAdd": "pavla.brabencova@kickvk.cz"
+                "eMailAdd": "pavla.brabencova@kickk.cz"
               }
             },
             "role": {
@@ -21621,17 +21681,11 @@
                 "@_value": "007"
               }
             },
-            "rpOrgName": "Karlovarská agentura rozvoje podnikání, p.o."
+            "rpOrgName": "Krajské inovační centrum Karlovarského kraje"
           },
           "resConst": [
             {
               "LegConsts": {
-                "useConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
-                "othConsts": "Jiná omezení",
                 "inspireAccessUseConditions": {
                   "ConditionsAccUseCd": {
                     "@_value": "001"
@@ -21641,12 +21695,6 @@
             },
             {
               "LegConsts": {
-                "othConsts": "Jiná omezení",
-                "accessConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
                 "inspirePublicAccessLimits": {
                   "PublicAccessCd": {
                     "@_value": "001"
@@ -21661,27 +21709,21 @@
             }
           ]
         },
+        "refSysInfo": {
+          "RefSystem": {
+            "refSysID": {
+              "identCode": {
+                "@_Sync": "FALSE",
+                "@_code": "GCS_WGS_1984"
+              }
+            }
+          }
+        },
         "mdChar": {
           "CharSetCd": {
             "@_value": "004"
           }
-        },
-        "mdFileID": "1728291700291r3158089952438581",
-        "distInfo": {
-          "distTranOps": {
-            "onLineSrc": {
-              "linkage": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Ly%C5%BEa%C5%99sk%C3%A9_vleky_v_Karlovarsk%C3%A9m_kraji_WFL1/FeatureServer"
-            }
-          }
-        },
-        "mdMaint": {
-          "maintFreq": {
-            "MaintFreqCd": {
-              "@_value": "009"
-            }
-          }
-        },
-        "@_xml:lang": "cs"
+        }
       },
       "distribution": [
         {

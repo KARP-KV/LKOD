@@ -14339,7 +14339,7 @@
         "cs": "Lyžařské vleky a lanovky v Karlovarském kraji"
       },
       "popis": {
-        "cs": "Datová sada obsahuje rovněž informace o počtu vleků a lanovek v lyžařském centru v Karlovarském kraji. Dále obsahuje webové stránky, kontaktní telefon a e-mail na lyžařská střediska. Poskytovatelem vstupních dat pro datovou sadu je Živý kraj - Destinační agentura pro Karlovarský kraj, z.s. "
+        "cs": "Datová sada obsahuje přehled lyžařských vleků, lanovek (lanových drah) a pásů (pojízdných koberců) v jednotlivých skiareálech a sportovních areálech v Karlovarském kraji včetně informace o jejich počtu. Obsahuje rovněž informace o provozovateli areálu (název, identifikační číslo, sídlo, právní formu, kód adresy, ID datové schránky), webové stránky, kontaktní telefon, e-mail a prostorovou specifikaci areálu. Souřadnicový systém je použit WGS 1984.Původním zdrojem dat je Živý kraj - Destinační agentura pro Karlovarský kraj, z.s.&nbsp;"
       },
       "klíčové_slovo": {
         "cs": [
@@ -14347,14 +14347,15 @@
           "lanovka",
           "lyžařské středisko",
           "lyžařský vlek",
-          "lanovky",
-          "lyžařské vleky"
+          "skiareál",
+          "vlek",
+          "lanová dráha"
         ]
       },
       "téma": [
         "http://publications.europa.eu/resource/authority/data-theme/EDUC"
       ],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/OTHER",
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/51"
       ],
