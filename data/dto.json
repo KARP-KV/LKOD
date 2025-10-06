@@ -19,12 +19,9 @@
   },
   "datová_sada": [
     "https://open.datazapad.cz/01fcf68eb2054fb3ab99af6aa34af6e4.jsonld",
-    "https://open.datazapad.cz/02ff52be52434a68918e32f9468417da.jsonld",
     "https://open.datazapad.cz/037f7b55d2d34fa88fd63bf2d2903839.jsonld",
     "https://open.datazapad.cz/0398153a20ea43c2865bdcbfd7615b0a.jsonld",
     "https://open.datazapad.cz/03dbe5719ab64960ae70ee90af4790c6.jsonld",
-    "https://open.datazapad.cz/0423c8de27b64e7f9e1927ad070682b3.jsonld",
-    "https://open.datazapad.cz/07f44b854ca948ddb8d6800325d8092e.jsonld",
     "https://open.datazapad.cz/0ddb05a36f0c4b319975df6a4b1ed90e.jsonld",
     "https://open.datazapad.cz/0e9821be72914b65ac6e9ccf37c8ea56.jsonld",
     "https://open.datazapad.cz/0fbcd94c27344fef86d2dafde1230761.jsonld",
@@ -36,7 +33,6 @@
     "https://open.datazapad.cz/13a7a5e389fe4d259e954185aa11dd72.jsonld",
     "https://open.datazapad.cz/142875a7b4ba49769393c8a3b80cca6d.jsonld",
     "https://open.datazapad.cz/17a673b7147d45ba8744904cae6afdbb.jsonld",
-    "https://open.datazapad.cz/182439c2da2942a388bcd5f132e50908.jsonld",
     "https://open.datazapad.cz/1e64adf22f8448a693f638c9f1334dc9.jsonld",
     "https://open.datazapad.cz/2293df931dc548668292c933ab7d4a6d.jsonld",
     "https://open.datazapad.cz/25589e2554f54259b200f4adb547db54.jsonld",
@@ -48,8 +44,6 @@
     "https://open.datazapad.cz/2fe4d27ac10341f6bd2b4ea6380a2599.jsonld",
     "https://open.datazapad.cz/3727aefc159e47fd8cb9d70432ab7397.jsonld",
     "https://open.datazapad.cz/387d1403bddb48b09ba4e3cd3b7894f8.jsonld",
-    "https://open.datazapad.cz/38f65bf1fc8842388f45f341c7e9e28c.jsonld",
-    "https://open.datazapad.cz/3e9701f5b7a54851a77585991a969925.jsonld",
     "https://open.datazapad.cz/3f9c9a95272e40d1a24e2711515e3d4d.jsonld",
     "https://open.datazapad.cz/464108d64a93430083119bfb0845af3c.jsonld",
     "https://open.datazapad.cz/4c20099b476a4c03b7b5a0cf97b45d95.jsonld",
@@ -59,7 +53,6 @@
     "https://open.datazapad.cz/52658b60dacf474f80cf5bb7c8004cc6.jsonld",
     "https://open.datazapad.cz/52b5d92f7aff4e6282d6838ff338c76b.jsonld",
     "https://open.datazapad.cz/54223e92a9b04a0ba27e9800f41c4f1f.jsonld",
-    "https://open.datazapad.cz/5561467d48d7481893dc93285d92b210.jsonld",
     "https://open.datazapad.cz/5767506f1df649098991f462da16d497.jsonld",
     "https://open.datazapad.cz/57a4ac11b4014df7803496c91408ec4e.jsonld",
     "https://open.datazapad.cz/58bc30d273d84926bc4e817aabca9321.jsonld",
@@ -67,14 +60,11 @@
     "https://open.datazapad.cz/5aa3b9fe8da6474786ff2b9c81b006cb.jsonld",
     "https://open.datazapad.cz/5ad57de2f5ea4f4483fd123f48beee47.jsonld",
     "https://open.datazapad.cz/5b6083d1a59d46c59d26717b31e991d1.jsonld",
-    "https://open.datazapad.cz/5d12ab9c33a041c8937511ecaef7177e.jsonld",
     "https://open.datazapad.cz/5e85e517a5be4765bab75d6803665a2c.jsonld",
     "https://open.datazapad.cz/5e900a28dedd446aa8ae18d49ac88d70.jsonld",
     "https://open.datazapad.cz/5e92fe0bd817496eb38cd733543e56f8.jsonld",
     "https://open.datazapad.cz/5f0941316ebf4d62a5b518b3406aa7b3.jsonld",
     "https://open.datazapad.cz/5f5a19a727514857a731e29781448dc7.jsonld",
-    "https://open.datazapad.cz/6ac14c4ab995495db7c2b1a1930a9e9e.jsonld",
-    "https://open.datazapad.cz/6b30a4546fca44e6b1d3d1039f2fcd34.jsonld",
     "https://open.datazapad.cz/6be3423787fd4c1fa19a70b025e2eb64.jsonld",
     "https://open.datazapad.cz/6cd2b71c45184327aab9375661268f5d.jsonld",
     "https://open.datazapad.cz/6f9302623bcd4a72af2ac674c3b46adf.jsonld",
@@ -84,57 +74,40 @@
     "https://open.datazapad.cz/734a1899e025441391b8787ceaf6e2b6.jsonld",
     "https://open.datazapad.cz/785fbd982147426ca275496791930eb8.jsonld",
     "https://open.datazapad.cz/7974da466d594bdea7953f3542ef5ca9.jsonld",
-    "https://open.datazapad.cz/7df362a29d79428e93d7e81534ecea15.jsonld",
     "https://open.datazapad.cz/805a0267da9e45eea0c20a2e3123189f.jsonld",
-    "https://open.datazapad.cz/82162d71215e4be2bd7a42f324199693.jsonld",
-    "https://open.datazapad.cz/85b624ea1f7b4531b9f3279a1d9353b6.jsonld",
     "https://open.datazapad.cz/8a71d71444f14acd8d43023ce9c3fb95.jsonld",
     "https://open.datazapad.cz/8ae1f28fc17f4918a0dba74bb11797ff.jsonld",
     "https://open.datazapad.cz/8b2bfbf4d4354143965773148b16d732.jsonld",
-    "https://open.datazapad.cz/8dc6c116fcf0438cb1326f9ad91a918e.jsonld",
     "https://open.datazapad.cz/903168d407624e57a43cb4ab9bc97620.jsonld",
     "https://open.datazapad.cz/90441fa783444e1ead5ad71464504d6a.jsonld",
     "https://open.datazapad.cz/948923a0b6a14930b412bf31f16ce034.jsonld",
     "https://open.datazapad.cz/94c4d284041c4412af231e96fe66cf6b.jsonld",
     "https://open.datazapad.cz/98d26c1b1c8f4bd49850af82a19a7f58.jsonld",
     "https://open.datazapad.cz/a193c3092bef4fa8b514761b421d9ee1.jsonld",
-    "https://open.datazapad.cz/a4e81dbb80e34cb1b0595e13d96d2837.jsonld",
     "https://open.datazapad.cz/a80fbe6e01f742a8a0a7b507bfb3998f.jsonld",
     "https://open.datazapad.cz/b073abb685724bb88e1b560fe774edcd.jsonld",
     "https://open.datazapad.cz/b25ec3a5ec614f8ab341eeae3e9e19be.jsonld",
     "https://open.datazapad.cz/b59dc439b86147e4aefba8d94fc6aa9e.jsonld",
     "https://open.datazapad.cz/b69266abf22c4baa9fabeb437449c1e8.jsonld",
-    "https://open.datazapad.cz/b9245f8f91db474e9357f3c4d5665d3e.jsonld",
-    "https://open.datazapad.cz/bad1ca41fefe4ac6914e436cecc54d1f.jsonld",
     "https://open.datazapad.cz/c0ae279455b34b5fb4a929ef98675a5b.jsonld",
     "https://open.datazapad.cz/c3a31017e7ac4e8d8d75c6a1ed49bc03.jsonld",
     "https://open.datazapad.cz/c3a42c283f0649248326a0bbd7dc5cc3.jsonld",
     "https://open.datazapad.cz/c548528f8601499d894cc7556e679de6.jsonld",
     "https://open.datazapad.cz/c693eb86f1974cc18e6a0bc5ae8d39ee.jsonld",
-    "https://open.datazapad.cz/c828346c0ace4e39859674675df03a51.jsonld",
     "https://open.datazapad.cz/cb8dcd69d2e34f02a090cd3ce1aa21b8.jsonld",
-    "https://open.datazapad.cz/cd4ace45b0324a5d8003c50abbad29f2.jsonld",
     "https://open.datazapad.cz/d130e2d3a13d4ca39b16761d2131619b.jsonld",
-    "https://open.datazapad.cz/d23b861d6ecd441b81e05637b78b435f.jsonld",
-    "https://open.datazapad.cz/d27cf97badd8447b90c89b1825259291.jsonld",
     "https://open.datazapad.cz/d27fb764c5a642e2bf2f8c134cbdeca2.jsonld",
     "https://open.datazapad.cz/d3184b2f488f4d099bd56c84ace5ffd0.jsonld",
     "https://open.datazapad.cz/d51db8b1ac8f40b6adf214e67cbb6f30.jsonld",
     "https://open.datazapad.cz/d5cc8e46d48b43eca602c78480fbe9e2.jsonld",
     "https://open.datazapad.cz/dae98e19561645e5a8aff509a5ea9dbc.jsonld",
     "https://open.datazapad.cz/dbe7041a35494dbe8e01fd86694faed8.jsonld",
-    "https://open.datazapad.cz/dcb29a6261384dd998331cc5796c3bfa.jsonld",
     "https://open.datazapad.cz/df97b40149a74620b5f9c4c7c86c291c.jsonld",
-    "https://open.datazapad.cz/e408399bf8ff43ccb1636fa0c73747b4.jsonld",
     "https://open.datazapad.cz/e8889c6594154e30a4b39a5d8e747f0d.jsonld",
     "https://open.datazapad.cz/ea60e50034a24253b1a958f1c448a6b0.jsonld",
-    "https://open.datazapad.cz/f2c4a4a5421a47d08ddf0d10eccd71c7.jsonld",
-    "https://open.datazapad.cz/f2c5b3a171c5420fa42f67e106d09719.jsonld",
-    "https://open.datazapad.cz/f423022bb27d431084dc7873cc3bce38.jsonld",
     "https://open.datazapad.cz/f565ec537341406bb4cd4c6062f1a356.jsonld",
     "https://open.datazapad.cz/f98f8248cdf140ad84649976f2d6f499.jsonld",
-    "https://open.datazapad.cz/fc44327a17e04959b7c5209d9ce32820.jsonld",
-    "https://open.datazapad.cz/fceb9c4e479841b9a4c152a224606b5d.jsonld"
+    "https://open.datazapad.cz/fc44327a17e04959b7c5209d9ce32820.jsonld"
   ],
   "_datasets": [
     {
@@ -361,50 +334,6 @@
           "přístupové_url": "https://www.datazapad.cz/api/download/v1/items/01fcf68eb2054fb3ab99af6aa34af6e4/sqlite?layers=3",
           "typ_média": "http://www.iana.org/assignments/media-types/unknown",
           "formát": "http://publications.europa.eu/resource/authority/file-type/UNKNOWN",
-          "podmínky_užití": {
-            "typ": "Specifikace podmínek užití",
-            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
-            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
-            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
-            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
-          }
-        }
-      ]
-    },
-    {
-      "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-      "iri": "https://open.datazapad.cz/02ff52be52434a68918e32f9468417da.jsonld",
-      "typ": "Datová sada",
-      "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891168",
-      "název": {
-        "cs": "Další výstupy - Sklářský a keramický průmysl v Karlovarském kraji"
-      },
-      "popis": {
-        "cs": "{{description}}"
-      },
-      "klíčové_slovo": {
-        "cs": [
-          ""
-        ]
-      },
-      "téma": [
-        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
-      ],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
-      "prvek_rúian": [
-        "https://linked.cuzk.cz/resource/ruian/vusc/51"
-      ],
-      "distribuce": [
-        {
-          "typ": "Distribuce",
-          "iri": "https://www.datazapad.cz/pages/02ff52be52434a68918e32f9468417da",
-          "název": {
-            "cs": "ArcGIS Hub Dataset"
-          },
-          "soubor_ke_stažení": "https://www.datazapad.cz/pages/02ff52be52434a68918e32f9468417da",
-          "přístupové_url": "https://www.datazapad.cz/pages/02ff52be52434a68918e32f9468417da",
-          "typ_média": "http://www.iana.org/assignments/media-types/text/html",
-          "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
           "podmínky_užití": {
             "typ": "Specifikace podmínek užití",
             "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
@@ -924,94 +853,6 @@
           "přístupové_url": "https://www.datazapad.cz/api/download/v1/items/03dbe5719ab64960ae70ee90af4790c6/sqlite?layers=3",
           "typ_média": "http://www.iana.org/assignments/media-types/unknown",
           "formát": "http://publications.europa.eu/resource/authority/file-type/UNKNOWN",
-          "podmínky_užití": {
-            "typ": "Specifikace podmínek užití",
-            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
-            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
-            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
-            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
-          }
-        }
-      ]
-    },
-    {
-      "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-      "iri": "https://open.datazapad.cz/0423c8de27b64e7f9e1927ad070682b3.jsonld",
-      "typ": "Datová sada",
-      "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891168",
-      "název": {
-        "cs": "Profil regionu - Sociální sféra - 01 - Obyvatelstvo - 05 - Sňatky a rozvody"
-      },
-      "popis": {
-        "cs": "{{description}}"
-      },
-      "klíčové_slovo": {
-        "cs": [
-          ""
-        ]
-      },
-      "téma": [
-        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
-      ],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
-      "prvek_rúian": [
-        "https://linked.cuzk.cz/resource/ruian/vusc/51"
-      ],
-      "distribuce": [
-        {
-          "typ": "Distribuce",
-          "iri": "https://www.datazapad.cz/pages/0423c8de27b64e7f9e1927ad070682b3",
-          "název": {
-            "cs": "ArcGIS Hub Dataset"
-          },
-          "soubor_ke_stažení": "https://www.datazapad.cz/pages/0423c8de27b64e7f9e1927ad070682b3",
-          "přístupové_url": "https://www.datazapad.cz/pages/0423c8de27b64e7f9e1927ad070682b3",
-          "typ_média": "http://www.iana.org/assignments/media-types/text/html",
-          "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
-          "podmínky_užití": {
-            "typ": "Specifikace podmínek užití",
-            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
-            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
-            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
-            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
-          }
-        }
-      ]
-    },
-    {
-      "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-      "iri": "https://open.datazapad.cz/07f44b854ca948ddb8d6800325d8092e.jsonld",
-      "typ": "Datová sada",
-      "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891168",
-      "název": {
-        "cs": "Profil regionu - Sociální sféra - 01 - Obyvatelstvo - 20 - SWOT analýza"
-      },
-      "popis": {
-        "cs": "{{description}}"
-      },
-      "klíčové_slovo": {
-        "cs": [
-          ""
-        ]
-      },
-      "téma": [
-        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
-      ],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
-      "prvek_rúian": [
-        "https://linked.cuzk.cz/resource/ruian/vusc/51"
-      ],
-      "distribuce": [
-        {
-          "typ": "Distribuce",
-          "iri": "https://www.datazapad.cz/pages/07f44b854ca948ddb8d6800325d8092e",
-          "název": {
-            "cs": "ArcGIS Hub Dataset"
-          },
-          "soubor_ke_stažení": "https://www.datazapad.cz/pages/07f44b854ca948ddb8d6800325d8092e",
-          "přístupové_url": "https://www.datazapad.cz/pages/07f44b854ca948ddb8d6800325d8092e",
-          "typ_média": "http://www.iana.org/assignments/media-types/text/html",
-          "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
           "podmínky_užití": {
             "typ": "Specifikace podmínek užití",
             "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
@@ -3141,50 +2982,6 @@
     },
     {
       "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-      "iri": "https://open.datazapad.cz/182439c2da2942a388bcd5f132e50908.jsonld",
-      "typ": "Datová sada",
-      "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891168",
-      "název": {
-        "cs": "Profil regionu - Sociální sféra - 01 - Obyvatelstvo - 18 - Národnost"
-      },
-      "popis": {
-        "cs": "{{description}}"
-      },
-      "klíčové_slovo": {
-        "cs": [
-          ""
-        ]
-      },
-      "téma": [
-        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
-      ],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
-      "prvek_rúian": [
-        "https://linked.cuzk.cz/resource/ruian/vusc/51"
-      ],
-      "distribuce": [
-        {
-          "typ": "Distribuce",
-          "iri": "https://www.datazapad.cz/pages/182439c2da2942a388bcd5f132e50908",
-          "název": {
-            "cs": "ArcGIS Hub Dataset"
-          },
-          "soubor_ke_stažení": "https://www.datazapad.cz/pages/182439c2da2942a388bcd5f132e50908",
-          "přístupové_url": "https://www.datazapad.cz/pages/182439c2da2942a388bcd5f132e50908",
-          "typ_média": "http://www.iana.org/assignments/media-types/text/html",
-          "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
-          "podmínky_užití": {
-            "typ": "Specifikace podmínek užití",
-            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
-            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
-            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
-            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
-          }
-        }
-      ]
-    },
-    {
-      "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
       "iri": "https://open.datazapad.cz/1e64adf22f8448a693f638c9f1334dc9.jsonld",
       "typ": "Datová sada",
       "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891168",
@@ -5232,94 +5029,6 @@
     },
     {
       "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-      "iri": "https://open.datazapad.cz/38f65bf1fc8842388f45f341c7e9e28c.jsonld",
-      "typ": "Datová sada",
-      "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891168",
-      "název": {
-        "cs": "Profil regionu - Sociální sféra - 01 - Obyvatelstvo - 10 - Incidence novotvarů"
-      },
-      "popis": {
-        "cs": "{{description}}"
-      },
-      "klíčové_slovo": {
-        "cs": [
-          ""
-        ]
-      },
-      "téma": [
-        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
-      ],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
-      "prvek_rúian": [
-        "https://linked.cuzk.cz/resource/ruian/vusc/51"
-      ],
-      "distribuce": [
-        {
-          "typ": "Distribuce",
-          "iri": "https://www.datazapad.cz/pages/38f65bf1fc8842388f45f341c7e9e28c",
-          "název": {
-            "cs": "ArcGIS Hub Dataset"
-          },
-          "soubor_ke_stažení": "https://www.datazapad.cz/pages/38f65bf1fc8842388f45f341c7e9e28c",
-          "přístupové_url": "https://www.datazapad.cz/pages/38f65bf1fc8842388f45f341c7e9e28c",
-          "typ_média": "http://www.iana.org/assignments/media-types/text/html",
-          "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
-          "podmínky_užití": {
-            "typ": "Specifikace podmínek užití",
-            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
-            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
-            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
-            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
-          }
-        }
-      ]
-    },
-    {
-      "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-      "iri": "https://open.datazapad.cz/3e9701f5b7a54851a77585991a969925.jsonld",
-      "typ": "Datová sada",
-      "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891168",
-      "název": {
-        "cs": "Profil regionu - Sociální sféra - 01 - Obyvatelstvo - 04 - Index obyvatelstva"
-      },
-      "popis": {
-        "cs": "{{description}}"
-      },
-      "klíčové_slovo": {
-        "cs": [
-          ""
-        ]
-      },
-      "téma": [
-        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
-      ],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
-      "prvek_rúian": [
-        "https://linked.cuzk.cz/resource/ruian/vusc/51"
-      ],
-      "distribuce": [
-        {
-          "typ": "Distribuce",
-          "iri": "https://www.datazapad.cz/pages/3e9701f5b7a54851a77585991a969925",
-          "název": {
-            "cs": "ArcGIS Hub Dataset"
-          },
-          "soubor_ke_stažení": "https://www.datazapad.cz/pages/3e9701f5b7a54851a77585991a969925",
-          "přístupové_url": "https://www.datazapad.cz/pages/3e9701f5b7a54851a77585991a969925",
-          "typ_média": "http://www.iana.org/assignments/media-types/text/html",
-          "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
-          "podmínky_užití": {
-            "typ": "Specifikace podmínek užití",
-            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
-            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
-            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
-            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
-          }
-        }
-      ]
-    },
-    {
-      "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
       "iri": "https://open.datazapad.cz/3f9c9a95272e40d1a24e2711515e3d4d.jsonld",
       "typ": "Datová sada",
       "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891168",
@@ -6519,50 +6228,6 @@
           "přístupové_url": "https://www.datazapad.cz/api/download/v1/items/54223e92a9b04a0ba27e9800f41c4f1f/sqlite?layers=0",
           "typ_média": "http://www.iana.org/assignments/media-types/unknown",
           "formát": "http://publications.europa.eu/resource/authority/file-type/UNKNOWN",
-          "podmínky_užití": {
-            "typ": "Specifikace podmínek užití",
-            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
-            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
-            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
-            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
-          }
-        }
-      ]
-    },
-    {
-      "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-      "iri": "https://open.datazapad.cz/5561467d48d7481893dc93285d92b210.jsonld",
-      "typ": "Datová sada",
-      "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891168",
-      "název": {
-        "cs": "Profil regionu - Sociální sféra - 01 - Obyvatelstvo - 07 - Potraty"
-      },
-      "popis": {
-        "cs": "{{description}}"
-      },
-      "klíčové_slovo": {
-        "cs": [
-          ""
-        ]
-      },
-      "téma": [
-        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
-      ],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
-      "prvek_rúian": [
-        "https://linked.cuzk.cz/resource/ruian/vusc/51"
-      ],
-      "distribuce": [
-        {
-          "typ": "Distribuce",
-          "iri": "https://www.datazapad.cz/pages/5561467d48d7481893dc93285d92b210",
-          "název": {
-            "cs": "ArcGIS Hub Dataset"
-          },
-          "soubor_ke_stažení": "https://www.datazapad.cz/pages/5561467d48d7481893dc93285d92b210",
-          "přístupové_url": "https://www.datazapad.cz/pages/5561467d48d7481893dc93285d92b210",
-          "typ_média": "http://www.iana.org/assignments/media-types/text/html",
-          "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
           "podmínky_užití": {
             "typ": "Specifikace podmínek užití",
             "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
@@ -8090,50 +7755,6 @@
     },
     {
       "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-      "iri": "https://open.datazapad.cz/5d12ab9c33a041c8937511ecaef7177e.jsonld",
-      "typ": "Datová sada",
-      "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891168",
-      "název": {
-        "cs": "Profil regionu - Sociální sféra - 01 - Obyvatelstvo - 08 - Úmrtnost"
-      },
-      "popis": {
-        "cs": "{{description}}"
-      },
-      "klíčové_slovo": {
-        "cs": [
-          ""
-        ]
-      },
-      "téma": [
-        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
-      ],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
-      "prvek_rúian": [
-        "https://linked.cuzk.cz/resource/ruian/vusc/51"
-      ],
-      "distribuce": [
-        {
-          "typ": "Distribuce",
-          "iri": "https://www.datazapad.cz/pages/5d12ab9c33a041c8937511ecaef7177e",
-          "název": {
-            "cs": "ArcGIS Hub Dataset"
-          },
-          "soubor_ke_stažení": "https://www.datazapad.cz/pages/5d12ab9c33a041c8937511ecaef7177e",
-          "přístupové_url": "https://www.datazapad.cz/pages/5d12ab9c33a041c8937511ecaef7177e",
-          "typ_média": "http://www.iana.org/assignments/media-types/text/html",
-          "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
-          "podmínky_užití": {
-            "typ": "Specifikace podmínek užití",
-            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
-            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
-            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
-            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
-          }
-        }
-      ]
-    },
-    {
-      "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
       "iri": "https://open.datazapad.cz/5e85e517a5be4765bab75d6803665a2c.jsonld",
       "typ": "Datová sada",
       "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891168",
@@ -8836,94 +8457,6 @@
           "přístupové_url": "https://www.datazapad.cz/api/download/v1/items/5f5a19a727514857a731e29781448dc7/kml?layers=3",
           "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.google-earth.kml+xml",
           "formát": "http://publications.europa.eu/resource/authority/file-type/KML",
-          "podmínky_užití": {
-            "typ": "Specifikace podmínek užití",
-            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
-            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
-            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
-            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
-          }
-        }
-      ]
-    },
-    {
-      "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-      "iri": "https://open.datazapad.cz/6ac14c4ab995495db7c2b1a1930a9e9e.jsonld",
-      "typ": "Datová sada",
-      "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891168",
-      "název": {
-        "cs": "Profil regionu - Sociální sféra - 01 - Obyvatelstvo - 03 - Věková struktura"
-      },
-      "popis": {
-        "cs": "{{description}}"
-      },
-      "klíčové_slovo": {
-        "cs": [
-          ""
-        ]
-      },
-      "téma": [
-        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
-      ],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
-      "prvek_rúian": [
-        "https://linked.cuzk.cz/resource/ruian/vusc/51"
-      ],
-      "distribuce": [
-        {
-          "typ": "Distribuce",
-          "iri": "https://www.datazapad.cz/pages/6ac14c4ab995495db7c2b1a1930a9e9e",
-          "název": {
-            "cs": "ArcGIS Hub Dataset"
-          },
-          "soubor_ke_stažení": "https://www.datazapad.cz/pages/6ac14c4ab995495db7c2b1a1930a9e9e",
-          "přístupové_url": "https://www.datazapad.cz/pages/6ac14c4ab995495db7c2b1a1930a9e9e",
-          "typ_média": "http://www.iana.org/assignments/media-types/text/html",
-          "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
-          "podmínky_užití": {
-            "typ": "Specifikace podmínek užití",
-            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
-            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
-            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
-            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
-          }
-        }
-      ]
-    },
-    {
-      "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-      "iri": "https://open.datazapad.cz/6b30a4546fca44e6b1d3d1039f2fcd34.jsonld",
-      "typ": "Datová sada",
-      "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891168",
-      "název": {
-        "cs": "Profil regionu - Sociální sféra - 01 - Obyvatelstvo - 15 - Životní podmínky"
-      },
-      "popis": {
-        "cs": "{{description}}"
-      },
-      "klíčové_slovo": {
-        "cs": [
-          ""
-        ]
-      },
-      "téma": [
-        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
-      ],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
-      "prvek_rúian": [
-        "https://linked.cuzk.cz/resource/ruian/vusc/51"
-      ],
-      "distribuce": [
-        {
-          "typ": "Distribuce",
-          "iri": "https://www.datazapad.cz/pages/6b30a4546fca44e6b1d3d1039f2fcd34",
-          "název": {
-            "cs": "ArcGIS Hub Dataset"
-          },
-          "soubor_ke_stažení": "https://www.datazapad.cz/pages/6b30a4546fca44e6b1d3d1039f2fcd34",
-          "přístupové_url": "https://www.datazapad.cz/pages/6b30a4546fca44e6b1d3d1039f2fcd34",
-          "typ_média": "http://www.iana.org/assignments/media-types/text/html",
-          "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
           "podmínky_užití": {
             "typ": "Specifikace podmínek užití",
             "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
@@ -10221,50 +9754,6 @@
     },
     {
       "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-      "iri": "https://open.datazapad.cz/7df362a29d79428e93d7e81534ecea15.jsonld",
-      "typ": "Datová sada",
-      "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891168",
-      "název": {
-        "cs": "Profil regionu - Sociální sféra - 01 - Obyvatelstvo - 06 - Porodnost"
-      },
-      "popis": {
-        "cs": "{{description}}"
-      },
-      "klíčové_slovo": {
-        "cs": [
-          ""
-        ]
-      },
-      "téma": [
-        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
-      ],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
-      "prvek_rúian": [
-        "https://linked.cuzk.cz/resource/ruian/vusc/51"
-      ],
-      "distribuce": [
-        {
-          "typ": "Distribuce",
-          "iri": "https://www.datazapad.cz/pages/7df362a29d79428e93d7e81534ecea15",
-          "název": {
-            "cs": "ArcGIS Hub Dataset"
-          },
-          "soubor_ke_stažení": "https://www.datazapad.cz/pages/7df362a29d79428e93d7e81534ecea15",
-          "přístupové_url": "https://www.datazapad.cz/pages/7df362a29d79428e93d7e81534ecea15",
-          "typ_média": "http://www.iana.org/assignments/media-types/text/html",
-          "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
-          "podmínky_užití": {
-            "typ": "Specifikace podmínek užití",
-            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
-            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
-            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
-            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
-          }
-        }
-      ]
-    },
-    {
-      "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
       "iri": "https://open.datazapad.cz/805a0267da9e45eea0c20a2e3123189f.jsonld",
       "typ": "Datová sada",
       "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891168",
@@ -10390,94 +9879,6 @@
           "přístupové_url": "https://www.datazapad.cz/api/download/v1/items/805a0267da9e45eea0c20a2e3123189f/kml?layers=0",
           "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.google-earth.kml+xml",
           "formát": "http://publications.europa.eu/resource/authority/file-type/KML",
-          "podmínky_užití": {
-            "typ": "Specifikace podmínek užití",
-            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
-            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
-            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
-            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
-          }
-        }
-      ]
-    },
-    {
-      "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-      "iri": "https://open.datazapad.cz/82162d71215e4be2bd7a42f324199693.jsonld",
-      "typ": "Datová sada",
-      "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891168",
-      "název": {
-        "cs": "Profil regionu - Sociální sféra - 01 - Obyvatelstvo - 09 - Příčiny úmrtí"
-      },
-      "popis": {
-        "cs": "{{description}}"
-      },
-      "klíčové_slovo": {
-        "cs": [
-          ""
-        ]
-      },
-      "téma": [
-        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
-      ],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
-      "prvek_rúian": [
-        "https://linked.cuzk.cz/resource/ruian/vusc/51"
-      ],
-      "distribuce": [
-        {
-          "typ": "Distribuce",
-          "iri": "https://www.datazapad.cz/pages/82162d71215e4be2bd7a42f324199693",
-          "název": {
-            "cs": "ArcGIS Hub Dataset"
-          },
-          "soubor_ke_stažení": "https://www.datazapad.cz/pages/82162d71215e4be2bd7a42f324199693",
-          "přístupové_url": "https://www.datazapad.cz/pages/82162d71215e4be2bd7a42f324199693",
-          "typ_média": "http://www.iana.org/assignments/media-types/text/html",
-          "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
-          "podmínky_užití": {
-            "typ": "Specifikace podmínek užití",
-            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
-            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
-            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
-            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
-          }
-        }
-      ]
-    },
-    {
-      "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-      "iri": "https://open.datazapad.cz/85b624ea1f7b4531b9f3279a1d9353b6.jsonld",
-      "typ": "Datová sada",
-      "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891168",
-      "název": {
-        "cs": "Profil regionu - Sociální sféra - 01 - Obyvatelstvo - 13 - Cizinci"
-      },
-      "popis": {
-        "cs": "{{description}}"
-      },
-      "klíčové_slovo": {
-        "cs": [
-          ""
-        ]
-      },
-      "téma": [
-        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
-      ],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
-      "prvek_rúian": [
-        "https://linked.cuzk.cz/resource/ruian/vusc/51"
-      ],
-      "distribuce": [
-        {
-          "typ": "Distribuce",
-          "iri": "https://www.datazapad.cz/pages/85b624ea1f7b4531b9f3279a1d9353b6",
-          "název": {
-            "cs": "ArcGIS Hub Dataset"
-          },
-          "soubor_ke_stažení": "https://www.datazapad.cz/pages/85b624ea1f7b4531b9f3279a1d9353b6",
-          "přístupové_url": "https://www.datazapad.cz/pages/85b624ea1f7b4531b9f3279a1d9353b6",
-          "typ_média": "http://www.iana.org/assignments/media-types/text/html",
-          "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
           "podmínky_užití": {
             "typ": "Specifikace podmínek užití",
             "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
@@ -10996,50 +10397,6 @@
           "přístupové_url": "https://ik.imagekit.io/3nrtv9oq0/datazapad/Analyza-zmen-inovacniho-prostredi-Karlovarskeho-kraje.pdf?updatedAt=1706088842124",
           "typ_média": "http://www.iana.org/assignments/media-types/application/json",
           "formát": "http://publications.europa.eu/resource/authority/file-type/JSON",
-          "podmínky_užití": {
-            "typ": "Specifikace podmínek užití",
-            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
-            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
-            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
-            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
-          }
-        }
-      ]
-    },
-    {
-      "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-      "iri": "https://open.datazapad.cz/8dc6c116fcf0438cb1326f9ad91a918e.jsonld",
-      "typ": "Datová sada",
-      "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891168",
-      "název": {
-        "cs": "Analytické výstupy"
-      },
-      "popis": {
-        "cs": "{{description}}"
-      },
-      "klíčové_slovo": {
-        "cs": [
-          ""
-        ]
-      },
-      "téma": [
-        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
-      ],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
-      "prvek_rúian": [
-        "https://linked.cuzk.cz/resource/ruian/vusc/51"
-      ],
-      "distribuce": [
-        {
-          "typ": "Distribuce",
-          "iri": "https://www.datazapad.cz/pages/8dc6c116fcf0438cb1326f9ad91a918e",
-          "název": {
-            "cs": "ArcGIS Hub Dataset"
-          },
-          "soubor_ke_stažení": "https://www.datazapad.cz/pages/8dc6c116fcf0438cb1326f9ad91a918e",
-          "přístupové_url": "https://www.datazapad.cz/pages/8dc6c116fcf0438cb1326f9ad91a918e",
-          "typ_média": "http://www.iana.org/assignments/media-types/text/html",
-          "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
           "podmínky_užití": {
             "typ": "Specifikace podmínek užití",
             "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
@@ -12173,52 +11530,6 @@
     },
     {
       "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-      "iri": "https://open.datazapad.cz/a4e81dbb80e34cb1b0595e13d96d2837.jsonld",
-      "typ": "Datová sada",
-      "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891168",
-      "název": {
-        "cs": "Další výstupy - Lázně očima hostů 13 1"
-      },
-      "popis": {
-        "cs": ""
-      },
-      "klíčové_slovo": {
-        "cs": [
-          "lázně",
-          "lázeňství",
-          "cestovní ruch"
-        ]
-      },
-      "téma": [
-        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
-      ],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
-      "prvek_rúian": [
-        "https://linked.cuzk.cz/resource/ruian/vusc/51"
-      ],
-      "distribuce": [
-        {
-          "typ": "Distribuce",
-          "iri": "https://www.datazapad.cz/pages/a4e81dbb80e34cb1b0595e13d96d2837",
-          "název": {
-            "cs": "ArcGIS Hub Dataset"
-          },
-          "soubor_ke_stažení": "https://www.datazapad.cz/pages/a4e81dbb80e34cb1b0595e13d96d2837",
-          "přístupové_url": "https://www.datazapad.cz/pages/a4e81dbb80e34cb1b0595e13d96d2837",
-          "typ_média": "http://www.iana.org/assignments/media-types/text/html",
-          "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
-          "podmínky_užití": {
-            "typ": "Specifikace podmínek užití",
-            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
-            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
-            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
-            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
-          }
-        }
-      ]
-    },
-    {
-      "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
       "iri": "https://open.datazapad.cz/a80fbe6e01f742a8a0a7b507bfb3998f.jsonld",
       "typ": "Datová sada",
       "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891168",
@@ -13285,96 +12596,6 @@
     },
     {
       "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-      "iri": "https://open.datazapad.cz/b9245f8f91db474e9357f3c4d5665d3e.jsonld",
-      "typ": "Datová sada",
-      "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891168",
-      "název": {
-        "cs": "Profil regionu - Sociální sféra - 01 - Obyvatelstvo - 02 - Počet obyvatel"
-      },
-      "popis": {
-        "cs": "{{description}}"
-      },
-      "klíčové_slovo": {
-        "cs": [
-          ""
-        ]
-      },
-      "téma": [
-        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
-      ],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
-      "prvek_rúian": [
-        "https://linked.cuzk.cz/resource/ruian/vusc/51"
-      ],
-      "distribuce": [
-        {
-          "typ": "Distribuce",
-          "iri": "https://www.datazapad.cz/pages/b9245f8f91db474e9357f3c4d5665d3e",
-          "název": {
-            "cs": "ArcGIS Hub Dataset"
-          },
-          "soubor_ke_stažení": "https://www.datazapad.cz/pages/b9245f8f91db474e9357f3c4d5665d3e",
-          "přístupové_url": "https://www.datazapad.cz/pages/b9245f8f91db474e9357f3c4d5665d3e",
-          "typ_média": "http://www.iana.org/assignments/media-types/text/html",
-          "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
-          "podmínky_užití": {
-            "typ": "Specifikace podmínek užití",
-            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
-            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
-            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
-            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
-          }
-        }
-      ]
-    },
-    {
-      "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-      "iri": "https://open.datazapad.cz/bad1ca41fefe4ac6914e436cecc54d1f.jsonld",
-      "typ": "Datová sada",
-      "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891168",
-      "název": {
-        "cs": "RIM: Počet studentů na pobočkách VŠ"
-      },
-      "popis": {
-        "cs": ""
-      },
-      "klíčové_slovo": {
-        "cs": [
-          "chytrý region",
-          "smart",
-          "bariéra"
-        ]
-      },
-      "téma": [
-        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
-      ],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
-      "prvek_rúian": [
-        "https://linked.cuzk.cz/resource/ruian/vusc/51"
-      ],
-      "distribuce": [
-        {
-          "typ": "Distribuce",
-          "iri": "https://www.datazapad.cz/pages/bad1ca41fefe4ac6914e436cecc54d1f",
-          "název": {
-            "cs": "ArcGIS Hub Dataset"
-          },
-          "soubor_ke_stažení": "https://www.datazapad.cz/pages/bad1ca41fefe4ac6914e436cecc54d1f",
-          "přístupové_url": "https://www.datazapad.cz/pages/bad1ca41fefe4ac6914e436cecc54d1f",
-          "typ_média": "http://www.iana.org/assignments/media-types/text/html",
-          "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
-          "podmínky_užití": {
-            "typ": "Specifikace podmínek užití",
-            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
-            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
-            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
-            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
-          }
-        }
-      ]
-    },
-    {
-      "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
       "iri": "https://open.datazapad.cz/c0ae279455b34b5fb4a929ef98675a5b.jsonld",
       "typ": "Datová sada",
       "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891168",
@@ -14173,52 +13394,6 @@
     },
     {
       "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-      "iri": "https://open.datazapad.cz/c828346c0ace4e39859674675df03a51.jsonld",
-      "typ": "Datová sada",
-      "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891168",
-      "název": {
-        "cs": "Rozcestník datových zdrojů"
-      },
-      "popis": {
-        "cs": "Rozcestník je katalog webových stránek, jež poskytují různá data o Karlovarském kraji."
-      },
-      "klíčové_slovo": {
-        "cs": [
-          "datový zdroj",
-          "webová stránka",
-          "data"
-        ]
-      },
-      "téma": [
-        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
-      ],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
-      "prvek_rúian": [
-        "https://linked.cuzk.cz/resource/ruian/vusc/51"
-      ],
-      "distribuce": [
-        {
-          "typ": "Distribuce",
-          "iri": "https://www.datazapad.cz/pages/c828346c0ace4e39859674675df03a51",
-          "název": {
-            "cs": "ArcGIS Hub Dataset"
-          },
-          "soubor_ke_stažení": "https://www.datazapad.cz/pages/c828346c0ace4e39859674675df03a51",
-          "přístupové_url": "https://www.datazapad.cz/pages/c828346c0ace4e39859674675df03a51",
-          "typ_média": "http://www.iana.org/assignments/media-types/text/html",
-          "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
-          "podmínky_užití": {
-            "typ": "Specifikace podmínek užití",
-            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
-            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
-            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
-            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
-          }
-        }
-      ]
-    },
-    {
-      "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
       "iri": "https://open.datazapad.cz/cb8dcd69d2e34f02a090cd3ce1aa21b8.jsonld",
       "typ": "Datová sada",
       "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891168",
@@ -14275,50 +13450,6 @@
           "přístupové_url": "https://www.datazapad.cz/pages/rim-inovacni-ekosystem-karlovarskeho-kraje",
           "typ_média": "http://www.iana.org/assignments/media-types/application/json",
           "formát": "http://publications.europa.eu/resource/authority/file-type/JSON",
-          "podmínky_užití": {
-            "typ": "Specifikace podmínek užití",
-            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
-            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
-            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
-            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
-          }
-        }
-      ]
-    },
-    {
-      "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-      "iri": "https://open.datazapad.cz/cd4ace45b0324a5d8003c50abbad29f2.jsonld",
-      "typ": "Datová sada",
-      "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891168",
-      "název": {
-        "cs": "Profil regionu - Sociální sféra - 01 - Obyvatelstvo - 11 - Změny počtu obyvatel"
-      },
-      "popis": {
-        "cs": "{{description}}"
-      },
-      "klíčové_slovo": {
-        "cs": [
-          ""
-        ]
-      },
-      "téma": [
-        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
-      ],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
-      "prvek_rúian": [
-        "https://linked.cuzk.cz/resource/ruian/vusc/51"
-      ],
-      "distribuce": [
-        {
-          "typ": "Distribuce",
-          "iri": "https://www.datazapad.cz/pages/cd4ace45b0324a5d8003c50abbad29f2",
-          "název": {
-            "cs": "ArcGIS Hub Dataset"
-          },
-          "soubor_ke_stažení": "https://www.datazapad.cz/pages/cd4ace45b0324a5d8003c50abbad29f2",
-          "přístupové_url": "https://www.datazapad.cz/pages/cd4ace45b0324a5d8003c50abbad29f2",
-          "typ_média": "http://www.iana.org/assignments/media-types/text/html",
-          "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
           "podmínky_užití": {
             "typ": "Specifikace podmínek užití",
             "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
@@ -14549,96 +13680,6 @@
           "přístupové_url": "https://www.datazapad.cz/api/download/v1/items/d130e2d3a13d4ca39b16761d2131619b/sqlite?layers=0",
           "typ_média": "http://www.iana.org/assignments/media-types/unknown",
           "formát": "http://publications.europa.eu/resource/authority/file-type/UNKNOWN",
-          "podmínky_užití": {
-            "typ": "Specifikace podmínek užití",
-            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
-            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
-            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
-            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
-          }
-        }
-      ]
-    },
-    {
-      "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-      "iri": "https://open.datazapad.cz/d23b861d6ecd441b81e05637b78b435f.jsonld",
-      "typ": "Datová sada",
-      "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891168",
-      "název": {
-        "cs": "Profil regionu - Sociální sféra - 01 - Obyvatelstvo - 17 - Vzdělání"
-      },
-      "popis": {
-        "cs": "{{description}}"
-      },
-      "klíčové_slovo": {
-        "cs": [
-          ""
-        ]
-      },
-      "téma": [
-        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
-      ],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
-      "prvek_rúian": [
-        "https://linked.cuzk.cz/resource/ruian/vusc/51"
-      ],
-      "distribuce": [
-        {
-          "typ": "Distribuce",
-          "iri": "https://www.datazapad.cz/pages/d23b861d6ecd441b81e05637b78b435f",
-          "název": {
-            "cs": "ArcGIS Hub Dataset"
-          },
-          "soubor_ke_stažení": "https://www.datazapad.cz/pages/d23b861d6ecd441b81e05637b78b435f",
-          "přístupové_url": "https://www.datazapad.cz/pages/d23b861d6ecd441b81e05637b78b435f",
-          "typ_média": "http://www.iana.org/assignments/media-types/text/html",
-          "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
-          "podmínky_užití": {
-            "typ": "Specifikace podmínek užití",
-            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
-            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
-            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
-            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
-          }
-        }
-      ]
-    },
-    {
-      "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-      "iri": "https://open.datazapad.cz/d27cf97badd8447b90c89b1825259291.jsonld",
-      "typ": "Datová sada",
-      "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891168",
-      "název": {
-        "cs": "RIM: Analýza inovačních firem"
-      },
-      "popis": {
-        "cs": ""
-      },
-      "klíčové_slovo": {
-        "cs": [
-          "chytrý region",
-          "smart",
-          "bariéra"
-        ]
-      },
-      "téma": [
-        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
-      ],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
-      "prvek_rúian": [
-        "https://linked.cuzk.cz/resource/ruian/vusc/51"
-      ],
-      "distribuce": [
-        {
-          "typ": "Distribuce",
-          "iri": "https://www.datazapad.cz/pages/d27cf97badd8447b90c89b1825259291",
-          "název": {
-            "cs": "ArcGIS Hub Dataset"
-          },
-          "soubor_ke_stažení": "https://www.datazapad.cz/pages/d27cf97badd8447b90c89b1825259291",
-          "přístupové_url": "https://www.datazapad.cz/pages/d27cf97badd8447b90c89b1825259291",
-          "typ_média": "http://www.iana.org/assignments/media-types/text/html",
-          "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
           "podmínky_užití": {
             "typ": "Specifikace podmínek užití",
             "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
@@ -15515,50 +14556,6 @@
     },
     {
       "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-      "iri": "https://open.datazapad.cz/dcb29a6261384dd998331cc5796c3bfa.jsonld",
-      "typ": "Datová sada",
-      "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891168",
-      "název": {
-        "cs": "Profil regionu - Sociální sféra - 01 - Obyvatelstvo - 14 - Životní úroveň"
-      },
-      "popis": {
-        "cs": "{{description}}"
-      },
-      "klíčové_slovo": {
-        "cs": [
-          ""
-        ]
-      },
-      "téma": [
-        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
-      ],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
-      "prvek_rúian": [
-        "https://linked.cuzk.cz/resource/ruian/vusc/51"
-      ],
-      "distribuce": [
-        {
-          "typ": "Distribuce",
-          "iri": "https://www.datazapad.cz/pages/dcb29a6261384dd998331cc5796c3bfa",
-          "název": {
-            "cs": "ArcGIS Hub Dataset"
-          },
-          "soubor_ke_stažení": "https://www.datazapad.cz/pages/dcb29a6261384dd998331cc5796c3bfa",
-          "přístupové_url": "https://www.datazapad.cz/pages/dcb29a6261384dd998331cc5796c3bfa",
-          "typ_média": "http://www.iana.org/assignments/media-types/text/html",
-          "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
-          "podmínky_užití": {
-            "typ": "Specifikace podmínek užití",
-            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
-            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
-            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
-            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
-          }
-        }
-      ]
-    },
-    {
-      "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
       "iri": "https://open.datazapad.cz/df97b40149a74620b5f9c4c7c86c291c.jsonld",
       "typ": "Datová sada",
       "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891168",
@@ -15612,50 +14609,6 @@
           "přístupové_url": "https://ik.imagekit.io/3nrtv9oq0/datazapad/Analyza-prinosu-lazenstvi-pro-Karlovarsky-kraj.pdf?updatedAt=1706104628843",
           "typ_média": "http://www.iana.org/assignments/media-types/application/json",
           "formát": "http://publications.europa.eu/resource/authority/file-type/JSON",
-          "podmínky_užití": {
-            "typ": "Specifikace podmínek užití",
-            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
-            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
-            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
-            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
-          }
-        }
-      ]
-    },
-    {
-      "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-      "iri": "https://open.datazapad.cz/e408399bf8ff43ccb1636fa0c73747b4.jsonld",
-      "typ": "Datová sada",
-      "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891168",
-      "název": {
-        "cs": "Profil regionu - Sociální sféra - 01 - Obyvatelstvo - 19 - Náboženské vyznání"
-      },
-      "popis": {
-        "cs": "{{description}}"
-      },
-      "klíčové_slovo": {
-        "cs": [
-          ""
-        ]
-      },
-      "téma": [
-        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
-      ],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
-      "prvek_rúian": [
-        "https://linked.cuzk.cz/resource/ruian/vusc/51"
-      ],
-      "distribuce": [
-        {
-          "typ": "Distribuce",
-          "iri": "https://www.datazapad.cz/pages/e408399bf8ff43ccb1636fa0c73747b4",
-          "název": {
-            "cs": "ArcGIS Hub Dataset"
-          },
-          "soubor_ke_stažení": "https://www.datazapad.cz/pages/e408399bf8ff43ccb1636fa0c73747b4",
-          "přístupové_url": "https://www.datazapad.cz/pages/e408399bf8ff43ccb1636fa0c73747b4",
-          "typ_média": "http://www.iana.org/assignments/media-types/text/html",
-          "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
           "podmínky_užití": {
             "typ": "Specifikace podmínek užití",
             "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
@@ -15797,140 +14750,6 @@
           "přístupové_url": "https://www.datazapad.cz/pages/karp%7Ckarp%7Crimpocetstudentustredniskoly",
           "typ_média": "http://www.iana.org/assignments/media-types/application/json",
           "formát": "http://publications.europa.eu/resource/authority/file-type/JSON",
-          "podmínky_užití": {
-            "typ": "Specifikace podmínek užití",
-            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
-            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
-            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
-            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
-          }
-        }
-      ]
-    },
-    {
-      "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-      "iri": "https://open.datazapad.cz/f2c4a4a5421a47d08ddf0d10eccd71c7.jsonld",
-      "typ": "Datová sada",
-      "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891168",
-      "název": {
-        "cs": "RIM: Počet studentů na pobočkách SŠ"
-      },
-      "popis": {
-        "cs": ""
-      },
-      "klíčové_slovo": {
-        "cs": [
-          "chytrý region",
-          "smart",
-          "bariéra"
-        ]
-      },
-      "téma": [
-        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
-      ],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
-      "prvek_rúian": [
-        "https://linked.cuzk.cz/resource/ruian/vusc/51"
-      ],
-      "distribuce": [
-        {
-          "typ": "Distribuce",
-          "iri": "https://www.datazapad.cz/pages/f2c4a4a5421a47d08ddf0d10eccd71c7",
-          "název": {
-            "cs": "ArcGIS Hub Dataset"
-          },
-          "soubor_ke_stažení": "https://www.datazapad.cz/pages/f2c4a4a5421a47d08ddf0d10eccd71c7",
-          "přístupové_url": "https://www.datazapad.cz/pages/f2c4a4a5421a47d08ddf0d10eccd71c7",
-          "typ_média": "http://www.iana.org/assignments/media-types/text/html",
-          "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
-          "podmínky_užití": {
-            "typ": "Specifikace podmínek užití",
-            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
-            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
-            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
-            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
-          }
-        }
-      ]
-    },
-    {
-      "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-      "iri": "https://open.datazapad.cz/f2c5b3a171c5420fa42f67e106d09719.jsonld",
-      "typ": "Datová sada",
-      "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891168",
-      "název": {
-        "cs": "Profil regionu - Sociální sféra - 01 - Obyvatelstvo - 12 - Migrace"
-      },
-      "popis": {
-        "cs": "{{description}}"
-      },
-      "klíčové_slovo": {
-        "cs": [
-          ""
-        ]
-      },
-      "téma": [
-        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
-      ],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
-      "prvek_rúian": [
-        "https://linked.cuzk.cz/resource/ruian/vusc/51"
-      ],
-      "distribuce": [
-        {
-          "typ": "Distribuce",
-          "iri": "https://www.datazapad.cz/pages/f2c5b3a171c5420fa42f67e106d09719",
-          "název": {
-            "cs": "ArcGIS Hub Dataset"
-          },
-          "soubor_ke_stažení": "https://www.datazapad.cz/pages/f2c5b3a171c5420fa42f67e106d09719",
-          "přístupové_url": "https://www.datazapad.cz/pages/f2c5b3a171c5420fa42f67e106d09719",
-          "typ_média": "http://www.iana.org/assignments/media-types/text/html",
-          "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
-          "podmínky_užití": {
-            "typ": "Specifikace podmínek užití",
-            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
-            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
-            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
-            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
-          }
-        }
-      ]
-    },
-    {
-      "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-      "iri": "https://open.datazapad.cz/f423022bb27d431084dc7873cc3bce38.jsonld",
-      "typ": "Datová sada",
-      "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891168",
-      "název": {
-        "cs": "Profil regionu - Sociální sféra - 01 - Obyvatelstvo - 01 - Osídlení"
-      },
-      "popis": {
-        "cs": "{{description}}"
-      },
-      "klíčové_slovo": {
-        "cs": [
-          ""
-        ]
-      },
-      "téma": [
-        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
-      ],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
-      "prvek_rúian": [
-        "https://linked.cuzk.cz/resource/ruian/vusc/51"
-      ],
-      "distribuce": [
-        {
-          "typ": "Distribuce",
-          "iri": "https://www.datazapad.cz/pages/f423022bb27d431084dc7873cc3bce38",
-          "název": {
-            "cs": "ArcGIS Hub Dataset"
-          },
-          "soubor_ke_stažení": "https://www.datazapad.cz/pages/f423022bb27d431084dc7873cc3bce38",
-          "přístupové_url": "https://www.datazapad.cz/pages/f423022bb27d431084dc7873cc3bce38",
-          "typ_média": "http://www.iana.org/assignments/media-types/text/html",
-          "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
           "podmínky_užití": {
             "typ": "Specifikace podmínek užití",
             "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
@@ -16285,50 +15104,6 @@
           "přístupové_url": "https://www.datazapad.cz/api/download/v1/items/fc44327a17e04959b7c5209d9ce32820/kml?layers=0",
           "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.google-earth.kml+xml",
           "formát": "http://publications.europa.eu/resource/authority/file-type/KML",
-          "podmínky_užití": {
-            "typ": "Specifikace podmínek užití",
-            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
-            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
-            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
-            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
-          }
-        }
-      ]
-    },
-    {
-      "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-      "iri": "https://open.datazapad.cz/fceb9c4e479841b9a4c152a224606b5d.jsonld",
-      "typ": "Datová sada",
-      "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891168",
-      "název": {
-        "cs": "Profil regionu - Sociální sféra - 01 - Obyvatelstvo - 16 - Důchody - příjemci a průměrná výše"
-      },
-      "popis": {
-        "cs": "{{description}}"
-      },
-      "klíčové_slovo": {
-        "cs": [
-          ""
-        ]
-      },
-      "téma": [
-        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
-      ],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
-      "prvek_rúian": [
-        "https://linked.cuzk.cz/resource/ruian/vusc/51"
-      ],
-      "distribuce": [
-        {
-          "typ": "Distribuce",
-          "iri": "https://www.datazapad.cz/pages/fceb9c4e479841b9a4c152a224606b5d",
-          "název": {
-            "cs": "ArcGIS Hub Dataset"
-          },
-          "soubor_ke_stažení": "https://www.datazapad.cz/pages/fceb9c4e479841b9a4c152a224606b5d",
-          "přístupové_url": "https://www.datazapad.cz/pages/fceb9c4e479841b9a4c152a224606b5d",
-          "typ_média": "http://www.iana.org/assignments/media-types/text/html",
-          "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
           "podmínky_užití": {
             "typ": "Specifikace podmínek užití",
             "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",

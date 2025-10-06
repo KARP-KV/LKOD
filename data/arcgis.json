@@ -343,43 +343,6 @@
     },
     {
       "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=02ff52be52434a68918e32f9468417da",
-      "landingPage": "https://www.datazapad.cz/pages/02ff52be52434a68918e32f9468417da",
-      "title": "Další výstupy - Sklářský a keramický průmysl v Karlovarském kraji",
-      "description": "{{description}}",
-      "keyword": [
-        ""
-      ],
-      "issued": "2025-08-25T12:35:54.000Z",
-      "modified": "2025-09-22T08:02:20.000Z",
-      "publisher": {
-        "name": "jan.sklepek@karp-kv.cz"
-      },
-      "contactPoint": {
-        "@type": "vcard:Contact",
-        "fn": "jan.sklepek@karp-kv.cz",
-        "hasEmail": "{{orgContactEmail}}"
-      },
-      "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
-      "license": "",
-      "category": [],
-      "metadata": "{{metadata.metadata}}",
-      "distribution": [
-        {
-          "@type": "dcat:Distribution",
-          "title": "ArcGIS Hub Dataset",
-          "format": "Web Page",
-          "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/pages/02ff52be52434a68918e32f9468417da"
-        }
-      ],
-      "theme": [
-        "geospatial"
-      ]
-    },
-    {
-      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=037f7b55d2d34fa88fd63bf2d2903839&sublayer=0",
       "landingPage": "https://www.datazapad.cz/datasets/037f7b55d2d34fa88fd63bf2d2903839_0",
       "title": "Přírodní pozoruhodnosti v Karlovarském kraji",
@@ -1090,80 +1053,6 @@
           "format": "GDB",
           "mediaType": "application/geopackage+sqlite3",
           "accessURL": "https://www.datazapad.cz/api/download/v1/items/03dbe5719ab64960ae70ee90af4790c6/sqlite?layers=3"
-        }
-      ],
-      "theme": [
-        "geospatial"
-      ]
-    },
-    {
-      "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=0423c8de27b64e7f9e1927ad070682b3",
-      "landingPage": "https://www.datazapad.cz/pages/0423c8de27b64e7f9e1927ad070682b3",
-      "title": "Profil regionu - Sociální sféra - 01 - Obyvatelstvo - 05 - Sňatky a rozvody",
-      "description": "{{description}}",
-      "keyword": [
-        ""
-      ],
-      "issued": "2025-09-19T13:13:49.000Z",
-      "modified": "2025-09-22T12:57:41.000Z",
-      "publisher": {
-        "name": "jan.sklepek@karp-kv.cz"
-      },
-      "contactPoint": {
-        "@type": "vcard:Contact",
-        "fn": "jan.sklepek@karp-kv.cz",
-        "hasEmail": "{{orgContactEmail}}"
-      },
-      "accessLevel": "public",
-      "spatial": "12.0940,48.5525,18.8574,51.0581",
-      "license": "",
-      "category": [],
-      "metadata": "{{metadata.metadata}}",
-      "distribution": [
-        {
-          "@type": "dcat:Distribution",
-          "title": "ArcGIS Hub Dataset",
-          "format": "Web Page",
-          "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/pages/0423c8de27b64e7f9e1927ad070682b3"
-        }
-      ],
-      "theme": [
-        "geospatial"
-      ]
-    },
-    {
-      "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=07f44b854ca948ddb8d6800325d8092e",
-      "landingPage": "https://www.datazapad.cz/pages/07f44b854ca948ddb8d6800325d8092e",
-      "title": "Profil regionu - Sociální sféra - 01 - Obyvatelstvo - 20 - SWOT analýza",
-      "description": "{{description}}",
-      "keyword": [
-        ""
-      ],
-      "issued": "2025-09-26T05:39:41.000Z",
-      "modified": "2025-09-26T05:42:38.000Z",
-      "publisher": {
-        "name": "jan.sklepek@karp-kv.cz"
-      },
-      "contactPoint": {
-        "@type": "vcard:Contact",
-        "fn": "jan.sklepek@karp-kv.cz",
-        "hasEmail": "{{orgContactEmail}}"
-      },
-      "accessLevel": "public",
-      "spatial": "12.0940,48.5525,18.8574,51.0581",
-      "license": "",
-      "category": [],
-      "metadata": "{{metadata.metadata}}",
-      "distribution": [
-        {
-          "@type": "dcat:Distribution",
-          "title": "ArcGIS Hub Dataset",
-          "format": "Web Page",
-          "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/pages/07f44b854ca948ddb8d6800325d8092e"
         }
       ],
       "theme": [
@@ -4354,43 +4243,6 @@
     },
     {
       "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=182439c2da2942a388bcd5f132e50908",
-      "landingPage": "https://www.datazapad.cz/pages/182439c2da2942a388bcd5f132e50908",
-      "title": "Profil regionu - Sociální sféra - 01 - Obyvatelstvo - 18 - Národnost",
-      "description": "{{description}}",
-      "keyword": [
-        ""
-      ],
-      "issued": "2025-09-22T06:03:05.000Z",
-      "modified": "2025-09-22T06:04:34.000Z",
-      "publisher": {
-        "name": "jan.sklepek@karp-kv.cz"
-      },
-      "contactPoint": {
-        "@type": "vcard:Contact",
-        "fn": "jan.sklepek@karp-kv.cz",
-        "hasEmail": "{{orgContactEmail}}"
-      },
-      "accessLevel": "public",
-      "spatial": "12.0940,48.5525,18.8574,51.0581",
-      "license": "",
-      "category": [],
-      "metadata": "{{metadata.metadata}}",
-      "distribution": [
-        {
-          "@type": "dcat:Distribution",
-          "title": "ArcGIS Hub Dataset",
-          "format": "Web Page",
-          "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/pages/182439c2da2942a388bcd5f132e50908"
-        }
-      ],
-      "theme": [
-        "geospatial"
-      ]
-    },
-    {
-      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=1e64adf22f8448a693f638c9f1334dc9&sublayer=3",
       "landingPage": "https://www.datazapad.cz/datasets/1e64adf22f8448a693f638c9f1334dc9_3",
       "title": "Jiné atraktivity v Karlovarském kraji",
@@ -7471,80 +7323,6 @@
     },
     {
       "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=38f65bf1fc8842388f45f341c7e9e28c",
-      "landingPage": "https://www.datazapad.cz/pages/38f65bf1fc8842388f45f341c7e9e28c",
-      "title": "Profil regionu - Sociální sféra - 01 - Obyvatelstvo - 10 - Incidence novotvarů",
-      "description": "{{description}}",
-      "keyword": [
-        ""
-      ],
-      "issued": "2025-09-19T13:38:36.000Z",
-      "modified": "2025-09-25T11:22:27.000Z",
-      "publisher": {
-        "name": "jan.sklepek@karp-kv.cz"
-      },
-      "contactPoint": {
-        "@type": "vcard:Contact",
-        "fn": "jan.sklepek@karp-kv.cz",
-        "hasEmail": "{{orgContactEmail}}"
-      },
-      "accessLevel": "public",
-      "spatial": "12.0940,48.5525,18.8574,51.0581",
-      "license": "",
-      "category": [],
-      "metadata": "{{metadata.metadata}}",
-      "distribution": [
-        {
-          "@type": "dcat:Distribution",
-          "title": "ArcGIS Hub Dataset",
-          "format": "Web Page",
-          "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/pages/38f65bf1fc8842388f45f341c7e9e28c"
-        }
-      ],
-      "theme": [
-        "geospatial"
-      ]
-    },
-    {
-      "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=3e9701f5b7a54851a77585991a969925",
-      "landingPage": "https://www.datazapad.cz/pages/3e9701f5b7a54851a77585991a969925",
-      "title": "Profil regionu - Sociální sféra - 01 - Obyvatelstvo - 04 - Index obyvatelstva",
-      "description": "{{description}}",
-      "keyword": [
-        ""
-      ],
-      "issued": "2025-09-18T11:28:41.000Z",
-      "modified": "2025-09-22T12:36:28.000Z",
-      "publisher": {
-        "name": "jan.sklepek@karp-kv.cz"
-      },
-      "contactPoint": {
-        "@type": "vcard:Contact",
-        "fn": "jan.sklepek@karp-kv.cz",
-        "hasEmail": "{{orgContactEmail}}"
-      },
-      "accessLevel": "public",
-      "spatial": "12.0940,48.5525,18.8574,51.0581",
-      "license": "",
-      "category": [],
-      "metadata": "{{metadata.metadata}}",
-      "distribution": [
-        {
-          "@type": "dcat:Distribution",
-          "title": "ArcGIS Hub Dataset",
-          "format": "Web Page",
-          "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/pages/3e9701f5b7a54851a77585991a969925"
-        }
-      ],
-      "theme": [
-        "geospatial"
-      ]
-    },
-    {
-      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=3f9c9a95272e40d1a24e2711515e3d4d&sublayer=0",
       "landingPage": "https://www.datazapad.cz/datasets/3f9c9a95272e40d1a24e2711515e3d4d_0",
       "title": "Aktuální projekty Karlovarského kraje v oblasti rozvoje regionu a územního plánování",
@@ -9628,43 +9406,6 @@
           "format": "GDB",
           "mediaType": "application/geopackage+sqlite3",
           "accessURL": "https://www.datazapad.cz/api/download/v1/items/54223e92a9b04a0ba27e9800f41c4f1f/sqlite?layers=0"
-        }
-      ],
-      "theme": [
-        "geospatial"
-      ]
-    },
-    {
-      "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=5561467d48d7481893dc93285d92b210",
-      "landingPage": "https://www.datazapad.cz/pages/5561467d48d7481893dc93285d92b210",
-      "title": "Profil regionu - Sociální sféra - 01 - Obyvatelstvo - 07 - Potraty",
-      "description": "{{description}}",
-      "keyword": [
-        ""
-      ],
-      "issued": "2025-09-19T13:31:46.000Z",
-      "modified": "2025-09-24T08:18:00.000Z",
-      "publisher": {
-        "name": "jan.sklepek@karp-kv.cz"
-      },
-      "contactPoint": {
-        "@type": "vcard:Contact",
-        "fn": "jan.sklepek@karp-kv.cz",
-        "hasEmail": "{{orgContactEmail}}"
-      },
-      "accessLevel": "public",
-      "spatial": "12.0940,48.5525,18.8574,51.0581",
-      "license": "",
-      "category": [],
-      "metadata": "{{metadata.metadata}}",
-      "distribution": [
-        {
-          "@type": "dcat:Distribution",
-          "title": "ArcGIS Hub Dataset",
-          "format": "Web Page",
-          "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/pages/5561467d48d7481893dc93285d92b210"
         }
       ],
       "theme": [
@@ -11898,43 +11639,6 @@
     },
     {
       "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=5d12ab9c33a041c8937511ecaef7177e",
-      "landingPage": "https://www.datazapad.cz/pages/5d12ab9c33a041c8937511ecaef7177e",
-      "title": "Profil regionu - Sociální sféra - 01 - Obyvatelstvo - 08 - Úmrtnost",
-      "description": "{{description}}",
-      "keyword": [
-        ""
-      ],
-      "issued": "2025-09-19T13:34:17.000Z",
-      "modified": "2025-09-24T10:23:18.000Z",
-      "publisher": {
-        "name": "jan.sklepek@karp-kv.cz"
-      },
-      "contactPoint": {
-        "@type": "vcard:Contact",
-        "fn": "jan.sklepek@karp-kv.cz",
-        "hasEmail": "{{orgContactEmail}}"
-      },
-      "accessLevel": "public",
-      "spatial": "12.0940,48.5525,18.8574,51.0581",
-      "license": "",
-      "category": [],
-      "metadata": "{{metadata.metadata}}",
-      "distribution": [
-        {
-          "@type": "dcat:Distribution",
-          "title": "ArcGIS Hub Dataset",
-          "format": "Web Page",
-          "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/pages/5d12ab9c33a041c8937511ecaef7177e"
-        }
-      ],
-      "theme": [
-        "geospatial"
-      ]
-    },
-    {
-      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=5e85e517a5be4765bab75d6803665a2c&sublayer=3",
       "landingPage": "https://www.datazapad.cz/datasets/5e85e517a5be4765bab75d6803665a2c_3",
       "title": "Stavební úřady v Karlovarském kraji dle okresů",
@@ -13213,80 +12917,6 @@
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
           "accessURL": "https://www.datazapad.cz/api/download/v1/items/5f5a19a727514857a731e29781448dc7/kml?layers=3"
-        }
-      ],
-      "theme": [
-        "geospatial"
-      ]
-    },
-    {
-      "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=6ac14c4ab995495db7c2b1a1930a9e9e",
-      "landingPage": "https://www.datazapad.cz/pages/6ac14c4ab995495db7c2b1a1930a9e9e",
-      "title": "Profil regionu - Sociální sféra - 01 - Obyvatelstvo - 03 - Věková struktura",
-      "description": "{{description}}",
-      "keyword": [
-        ""
-      ],
-      "issued": "2025-09-18T10:21:28.000Z",
-      "modified": "2025-09-19T06:47:20.000Z",
-      "publisher": {
-        "name": "jan.sklepek@karp-kv.cz"
-      },
-      "contactPoint": {
-        "@type": "vcard:Contact",
-        "fn": "jan.sklepek@karp-kv.cz",
-        "hasEmail": "{{orgContactEmail}}"
-      },
-      "accessLevel": "public",
-      "spatial": "12.0940,48.5525,18.8574,51.0581",
-      "license": "",
-      "category": [],
-      "metadata": "{{metadata.metadata}}",
-      "distribution": [
-        {
-          "@type": "dcat:Distribution",
-          "title": "ArcGIS Hub Dataset",
-          "format": "Web Page",
-          "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/pages/6ac14c4ab995495db7c2b1a1930a9e9e"
-        }
-      ],
-      "theme": [
-        "geospatial"
-      ]
-    },
-    {
-      "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=6b30a4546fca44e6b1d3d1039f2fcd34",
-      "landingPage": "https://www.datazapad.cz/pages/6b30a4546fca44e6b1d3d1039f2fcd34",
-      "title": "Profil regionu - Sociální sféra - 01 - Obyvatelstvo - 15 - Životní podmínky",
-      "description": "{{description}}",
-      "keyword": [
-        ""
-      ],
-      "issued": "2025-09-19T13:49:19.000Z",
-      "modified": "2025-09-19T13:50:42.000Z",
-      "publisher": {
-        "name": "jan.sklepek@karp-kv.cz"
-      },
-      "contactPoint": {
-        "@type": "vcard:Contact",
-        "fn": "jan.sklepek@karp-kv.cz",
-        "hasEmail": "{{orgContactEmail}}"
-      },
-      "accessLevel": "public",
-      "spatial": "12.0940,48.5525,18.8574,51.0581",
-      "license": "",
-      "category": [],
-      "metadata": "{{metadata.metadata}}",
-      "distribution": [
-        {
-          "@type": "dcat:Distribution",
-          "title": "ArcGIS Hub Dataset",
-          "format": "Web Page",
-          "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/pages/6b30a4546fca44e6b1d3d1039f2fcd34"
         }
       ],
       "theme": [
@@ -15591,43 +15221,6 @@
     },
     {
       "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=7df362a29d79428e93d7e81534ecea15",
-      "landingPage": "https://www.datazapad.cz/pages/7df362a29d79428e93d7e81534ecea15",
-      "title": "Profil regionu - Sociální sféra - 01 - Obyvatelstvo - 06 - Porodnost",
-      "description": "{{description}}",
-      "keyword": [
-        ""
-      ],
-      "issued": "2025-09-19T13:23:22.000Z",
-      "modified": "2025-09-23T07:52:34.000Z",
-      "publisher": {
-        "name": "jan.sklepek@karp-kv.cz"
-      },
-      "contactPoint": {
-        "@type": "vcard:Contact",
-        "fn": "jan.sklepek@karp-kv.cz",
-        "hasEmail": "{{orgContactEmail}}"
-      },
-      "accessLevel": "public",
-      "spatial": "12.0940,48.5525,18.8574,51.0581",
-      "license": "",
-      "category": [],
-      "metadata": "{{metadata.metadata}}",
-      "distribution": [
-        {
-          "@type": "dcat:Distribution",
-          "title": "ArcGIS Hub Dataset",
-          "format": "Web Page",
-          "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/pages/7df362a29d79428e93d7e81534ecea15"
-        }
-      ],
-      "theme": [
-        "geospatial"
-      ]
-    },
-    {
-      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=805a0267da9e45eea0c20a2e3123189f&sublayer=0",
       "landingPage": "https://www.datazapad.cz/datasets/805a0267da9e45eea0c20a2e3123189f_0",
       "title": "Divadla v Karlovarském kraji",
@@ -15881,80 +15474,6 @@
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
           "accessURL": "https://www.datazapad.cz/api/download/v1/items/805a0267da9e45eea0c20a2e3123189f/kml?layers=0"
-        }
-      ],
-      "theme": [
-        "geospatial"
-      ]
-    },
-    {
-      "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=82162d71215e4be2bd7a42f324199693",
-      "landingPage": "https://www.datazapad.cz/pages/82162d71215e4be2bd7a42f324199693",
-      "title": "Profil regionu - Sociální sféra - 01 - Obyvatelstvo - 09 - Příčiny úmrtí",
-      "description": "{{description}}",
-      "keyword": [
-        ""
-      ],
-      "issued": "2025-09-19T13:36:00.000Z",
-      "modified": "2025-09-24T14:50:58.000Z",
-      "publisher": {
-        "name": "jan.sklepek@karp-kv.cz"
-      },
-      "contactPoint": {
-        "@type": "vcard:Contact",
-        "fn": "jan.sklepek@karp-kv.cz",
-        "hasEmail": "{{orgContactEmail}}"
-      },
-      "accessLevel": "public",
-      "spatial": "12.0940,48.5525,18.8574,51.0581",
-      "license": "",
-      "category": [],
-      "metadata": "{{metadata.metadata}}",
-      "distribution": [
-        {
-          "@type": "dcat:Distribution",
-          "title": "ArcGIS Hub Dataset",
-          "format": "Web Page",
-          "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/pages/82162d71215e4be2bd7a42f324199693"
-        }
-      ],
-      "theme": [
-        "geospatial"
-      ]
-    },
-    {
-      "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=85b624ea1f7b4531b9f3279a1d9353b6",
-      "landingPage": "https://www.datazapad.cz/pages/85b624ea1f7b4531b9f3279a1d9353b6",
-      "title": "Profil regionu - Sociální sféra - 01 - Obyvatelstvo - 13 - Cizinci",
-      "description": "{{description}}",
-      "keyword": [
-        ""
-      ],
-      "issued": "2025-09-19T13:44:58.000Z",
-      "modified": "2025-09-26T06:51:27.000Z",
-      "publisher": {
-        "name": "jan.sklepek@karp-kv.cz"
-      },
-      "contactPoint": {
-        "@type": "vcard:Contact",
-        "fn": "jan.sklepek@karp-kv.cz",
-        "hasEmail": "{{orgContactEmail}}"
-      },
-      "accessLevel": "public",
-      "spatial": "12.0940,48.5525,18.8574,51.0581",
-      "license": "",
-      "category": [],
-      "metadata": "{{metadata.metadata}}",
-      "distribution": [
-        {
-          "@type": "dcat:Distribution",
-          "title": "ArcGIS Hub Dataset",
-          "format": "Web Page",
-          "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/pages/85b624ea1f7b4531b9f3279a1d9353b6"
         }
       ],
       "theme": [
@@ -16660,43 +16179,6 @@
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
           "accessURL": "https://ik.imagekit.io/3nrtv9oq0/datazapad/Analyza-zmen-inovacniho-prostredi-Karlovarskeho-kraje.pdf?updatedAt=1706088842124"
-        }
-      ],
-      "theme": [
-        "geospatial"
-      ]
-    },
-    {
-      "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=8dc6c116fcf0438cb1326f9ad91a918e",
-      "landingPage": "https://www.datazapad.cz/pages/8dc6c116fcf0438cb1326f9ad91a918e",
-      "title": "Analytické výstupy",
-      "description": "{{description}}",
-      "keyword": [
-        ""
-      ],
-      "issued": "2023-11-10T10:00:26.000Z",
-      "modified": "2025-09-17T08:45:38.000Z",
-      "publisher": {
-        "name": "jan.sklepek@karp-kv.cz"
-      },
-      "contactPoint": {
-        "@type": "vcard:Contact",
-        "fn": "jan.sklepek@karp-kv.cz",
-        "hasEmail": "{{orgContactEmail}}"
-      },
-      "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
-      "license": "",
-      "category": [],
-      "metadata": "{{metadata.metadata}}",
-      "distribution": [
-        {
-          "@type": "dcat:Distribution",
-          "title": "ArcGIS Hub Dataset",
-          "format": "Web Page",
-          "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/pages/8dc6c116fcf0438cb1326f9ad91a918e"
         }
       ],
       "theme": [
@@ -18341,45 +17823,6 @@
     },
     {
       "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=a4e81dbb80e34cb1b0595e13d96d2837",
-      "landingPage": "https://www.datazapad.cz/pages/a4e81dbb80e34cb1b0595e13d96d2837",
-      "title": "Další výstupy - Lázně očima hostů 13 1",
-      "description": "",
-      "keyword": [
-        "lázně",
-        "lázeňství",
-        "cestovní ruch"
-      ],
-      "issued": "2024-02-02T11:39:58.000Z",
-      "modified": "2025-08-15T05:31:42.000Z",
-      "publisher": {
-        "name": "jan.sklepek@karp-kv.cz"
-      },
-      "contactPoint": {
-        "@type": "vcard:Contact",
-        "fn": "jan.sklepek@karp-kv.cz",
-        "hasEmail": "{{orgContactEmail}}"
-      },
-      "accessLevel": "public",
-      "spatial": "-180.0000,-90.0000,180.0000,90.0000",
-      "license": "",
-      "category": [],
-      "metadata": "{{metadata.metadata}}",
-      "distribution": [
-        {
-          "@type": "dcat:Distribution",
-          "title": "ArcGIS Hub Dataset",
-          "format": "Web Page",
-          "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/pages/a4e81dbb80e34cb1b0595e13d96d2837"
-        }
-      ],
-      "theme": [
-        "geospatial"
-      ]
-    },
-    {
-      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=a80fbe6e01f742a8a0a7b507bfb3998f&sublayer=0",
       "landingPage": "https://www.datazapad.cz/datasets/a80fbe6e01f742a8a0a7b507bfb3998f_0",
       "title": "Organizace a společnosti zřízené Karlovarským krajem",
@@ -19928,82 +19371,6 @@
     },
     {
       "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=b9245f8f91db474e9357f3c4d5665d3e",
-      "landingPage": "https://www.datazapad.cz/pages/b9245f8f91db474e9357f3c4d5665d3e",
-      "title": "Profil regionu - Sociální sféra - 01 - Obyvatelstvo - 02 - Počet obyvatel",
-      "description": "{{description}}",
-      "keyword": [
-        ""
-      ],
-      "issued": "2025-09-17T12:06:31.000Z",
-      "modified": "2025-09-19T06:55:37.000Z",
-      "publisher": {
-        "name": "jan.sklepek@karp-kv.cz"
-      },
-      "contactPoint": {
-        "@type": "vcard:Contact",
-        "fn": "jan.sklepek@karp-kv.cz",
-        "hasEmail": "{{orgContactEmail}}"
-      },
-      "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
-      "license": "",
-      "category": [],
-      "metadata": "{{metadata.metadata}}",
-      "distribution": [
-        {
-          "@type": "dcat:Distribution",
-          "title": "ArcGIS Hub Dataset",
-          "format": "Web Page",
-          "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/pages/b9245f8f91db474e9357f3c4d5665d3e"
-        }
-      ],
-      "theme": [
-        "geospatial"
-      ]
-    },
-    {
-      "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=bad1ca41fefe4ac6914e436cecc54d1f",
-      "landingPage": "https://www.datazapad.cz/pages/bad1ca41fefe4ac6914e436cecc54d1f",
-      "title": "RIM: Počet studentů na pobočkách VŠ",
-      "description": "",
-      "keyword": [
-        "chytrý region",
-        "smart",
-        "bariéra"
-      ],
-      "issued": "2024-01-11T13:33:09.000Z",
-      "modified": "2025-08-19T10:08:53.000Z",
-      "publisher": {
-        "name": "jan.sklepek@karp-kv.cz"
-      },
-      "contactPoint": {
-        "@type": "vcard:Contact",
-        "fn": "jan.sklepek@karp-kv.cz",
-        "hasEmail": "{{orgContactEmail}}"
-      },
-      "accessLevel": "public",
-      "spatial": "12.0940,48.5525,18.8574,51.0581",
-      "license": "",
-      "category": [],
-      "metadata": "{{metadata.metadata}}",
-      "distribution": [
-        {
-          "@type": "dcat:Distribution",
-          "title": "ArcGIS Hub Dataset",
-          "format": "Web Page",
-          "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/pages/bad1ca41fefe4ac6914e436cecc54d1f"
-        }
-      ],
-      "theme": [
-        "geospatial"
-      ]
-    },
-    {
-      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=c0ae279455b34b5fb4a929ef98675a5b&sublayer=0",
       "landingPage": "https://www.datazapad.cz/datasets/c0ae279455b34b5fb4a929ef98675a5b_0",
       "title": "Národní kulturní památky v Karlovarském kraji",
@@ -21302,45 +20669,6 @@
     },
     {
       "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=c828346c0ace4e39859674675df03a51",
-      "landingPage": "https://www.datazapad.cz/pages/c828346c0ace4e39859674675df03a51",
-      "title": "Rozcestník datových zdrojů",
-      "description": "Rozcestník je katalog webových stránek, jež poskytují různá data o Karlovarském kraji.",
-      "keyword": [
-        "datový zdroj",
-        "webová stránka",
-        "data"
-      ],
-      "issued": "2023-11-03T09:24:32.000Z",
-      "modified": "2025-02-07T06:49:22.000Z",
-      "publisher": {
-        "name": "jan.sklepek@karp-kv.cz"
-      },
-      "contactPoint": {
-        "@type": "vcard:Contact",
-        "fn": "jan.sklepek@karp-kv.cz",
-        "hasEmail": "{{orgContactEmail}}"
-      },
-      "accessLevel": "public",
-      "spatial": "12.0940,48.5525,18.8574,51.0581",
-      "license": "",
-      "category": [],
-      "metadata": "{{metadata.metadata}}",
-      "distribution": [
-        {
-          "@type": "dcat:Distribution",
-          "title": "ArcGIS Hub Dataset",
-          "format": "Web Page",
-          "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/pages/c828346c0ace4e39859674675df03a51"
-        }
-      ],
-      "theme": [
-        "geospatial"
-      ]
-    },
-    {
-      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=cb8dcd69d2e34f02a090cd3ce1aa21b8",
       "landingPage": "https://www.datazapad.cz/apps/cb8dcd69d2e34f02a090cd3ce1aa21b8",
       "title": " Inovační prostředí Karlovarského kraje",
@@ -21442,43 +20770,6 @@
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
           "accessURL": "https://www.datazapad.cz/pages/rim-inovacni-ekosystem-karlovarskeho-kraje"
-        }
-      ],
-      "theme": [
-        "geospatial"
-      ]
-    },
-    {
-      "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=cd4ace45b0324a5d8003c50abbad29f2",
-      "landingPage": "https://www.datazapad.cz/pages/cd4ace45b0324a5d8003c50abbad29f2",
-      "title": "Profil regionu - Sociální sféra - 01 - Obyvatelstvo - 11 - Změny počtu obyvatel",
-      "description": "{{description}}",
-      "keyword": [
-        ""
-      ],
-      "issued": "2025-09-19T13:40:56.000Z",
-      "modified": "2025-09-25T13:10:01.000Z",
-      "publisher": {
-        "name": "jan.sklepek@karp-kv.cz"
-      },
-      "contactPoint": {
-        "@type": "vcard:Contact",
-        "fn": "jan.sklepek@karp-kv.cz",
-        "hasEmail": "{{orgContactEmail}}"
-      },
-      "accessLevel": "public",
-      "spatial": "12.0940,48.5525,18.8574,51.0581",
-      "license": "",
-      "category": [],
-      "metadata": "{{metadata.metadata}}",
-      "distribution": [
-        {
-          "@type": "dcat:Distribution",
-          "title": "ArcGIS Hub Dataset",
-          "format": "Web Page",
-          "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/pages/cd4ace45b0324a5d8003c50abbad29f2"
         }
       ],
       "theme": [
@@ -21824,82 +21115,6 @@
           "format": "GDB",
           "mediaType": "application/geopackage+sqlite3",
           "accessURL": "https://www.datazapad.cz/api/download/v1/items/d130e2d3a13d4ca39b16761d2131619b/sqlite?layers=0"
-        }
-      ],
-      "theme": [
-        "geospatial"
-      ]
-    },
-    {
-      "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=d23b861d6ecd441b81e05637b78b435f",
-      "landingPage": "https://www.datazapad.cz/pages/d23b861d6ecd441b81e05637b78b435f",
-      "title": "Profil regionu - Sociální sféra - 01 - Obyvatelstvo - 17 - Vzdělání",
-      "description": "{{description}}",
-      "keyword": [
-        ""
-      ],
-      "issued": "2025-09-22T06:00:32.000Z",
-      "modified": "2025-09-22T06:02:55.000Z",
-      "publisher": {
-        "name": "jan.sklepek@karp-kv.cz"
-      },
-      "contactPoint": {
-        "@type": "vcard:Contact",
-        "fn": "jan.sklepek@karp-kv.cz",
-        "hasEmail": "{{orgContactEmail}}"
-      },
-      "accessLevel": "public",
-      "spatial": "12.0940,48.5525,18.8574,51.0581",
-      "license": "",
-      "category": [],
-      "metadata": "{{metadata.metadata}}",
-      "distribution": [
-        {
-          "@type": "dcat:Distribution",
-          "title": "ArcGIS Hub Dataset",
-          "format": "Web Page",
-          "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/pages/d23b861d6ecd441b81e05637b78b435f"
-        }
-      ],
-      "theme": [
-        "geospatial"
-      ]
-    },
-    {
-      "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=d27cf97badd8447b90c89b1825259291",
-      "landingPage": "https://www.datazapad.cz/pages/d27cf97badd8447b90c89b1825259291",
-      "title": "RIM: Analýza inovačních firem",
-      "description": "",
-      "keyword": [
-        "chytrý region",
-        "smart",
-        "bariéra"
-      ],
-      "issued": "2025-06-30T08:52:27.000Z",
-      "modified": "2025-08-19T10:20:40.000Z",
-      "publisher": {
-        "name": "jan.sklepek@karp-kv.cz"
-      },
-      "contactPoint": {
-        "@type": "vcard:Contact",
-        "fn": "jan.sklepek@karp-kv.cz",
-        "hasEmail": "{{orgContactEmail}}"
-      },
-      "accessLevel": "public",
-      "spatial": "12.0940,48.5525,18.8574,51.0581",
-      "license": "",
-      "category": [],
-      "metadata": "{{metadata.metadata}}",
-      "distribution": [
-        {
-          "@type": "dcat:Distribution",
-          "title": "ArcGIS Hub Dataset",
-          "format": "Web Page",
-          "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/pages/d27cf97badd8447b90c89b1825259291"
         }
       ],
       "theme": [
@@ -23279,43 +22494,6 @@
     },
     {
       "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=dcb29a6261384dd998331cc5796c3bfa",
-      "landingPage": "https://www.datazapad.cz/pages/dcb29a6261384dd998331cc5796c3bfa",
-      "title": "Profil regionu - Sociální sféra - 01 - Obyvatelstvo - 14 - Životní úroveň",
-      "description": "{{description}}",
-      "keyword": [
-        ""
-      ],
-      "issued": "2025-09-19T13:46:50.000Z",
-      "modified": "2025-10-02T14:07:01.000Z",
-      "publisher": {
-        "name": "jan.sklepek@karp-kv.cz"
-      },
-      "contactPoint": {
-        "@type": "vcard:Contact",
-        "fn": "jan.sklepek@karp-kv.cz",
-        "hasEmail": "{{orgContactEmail}}"
-      },
-      "accessLevel": "public",
-      "spatial": "12.0940,48.5525,18.8574,51.0581",
-      "license": "",
-      "category": [],
-      "metadata": "{{metadata.metadata}}",
-      "distribution": [
-        {
-          "@type": "dcat:Distribution",
-          "title": "ArcGIS Hub Dataset",
-          "format": "Web Page",
-          "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/pages/dcb29a6261384dd998331cc5796c3bfa"
-        }
-      ],
-      "theme": [
-        "geospatial"
-      ]
-    },
-    {
-      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=df97b40149a74620b5f9c4c7c86c291c",
       "landingPage": "https://www.datazapad.cz/documents/df97b40149a74620b5f9c4c7c86c291c",
       "title": "Analýza přínosů lázeňství pro Karlovarský kraj",
@@ -23411,43 +22589,6 @@
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
           "accessURL": "https://ik.imagekit.io/3nrtv9oq0/datazapad/Analyza-prinosu-lazenstvi-pro-Karlovarsky-kraj.pdf?updatedAt=1706104628843"
-        }
-      ],
-      "theme": [
-        "geospatial"
-      ]
-    },
-    {
-      "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=e408399bf8ff43ccb1636fa0c73747b4",
-      "landingPage": "https://www.datazapad.cz/pages/e408399bf8ff43ccb1636fa0c73747b4",
-      "title": "Profil regionu - Sociální sféra - 01 - Obyvatelstvo - 19 - Náboženské vyznání",
-      "description": "{{description}}",
-      "keyword": [
-        ""
-      ],
-      "issued": "2025-09-22T06:04:48.000Z",
-      "modified": "2025-09-22T06:06:17.000Z",
-      "publisher": {
-        "name": "jan.sklepek@karp-kv.cz"
-      },
-      "contactPoint": {
-        "@type": "vcard:Contact",
-        "fn": "jan.sklepek@karp-kv.cz",
-        "hasEmail": "{{orgContactEmail}}"
-      },
-      "accessLevel": "public",
-      "spatial": "12.0940,48.5525,18.8574,51.0581",
-      "license": "",
-      "category": [],
-      "metadata": "{{metadata.metadata}}",
-      "distribution": [
-        {
-          "@type": "dcat:Distribution",
-          "title": "ArcGIS Hub Dataset",
-          "format": "Web Page",
-          "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/pages/e408399bf8ff43ccb1636fa0c73747b4"
         }
       ],
       "theme": [
@@ -23705,119 +22846,6 @@
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
           "accessURL": "https://www.datazapad.cz/pages/karp%7Ckarp%7Crimpocetstudentustredniskoly"
-        }
-      ],
-      "theme": [
-        "geospatial"
-      ]
-    },
-    {
-      "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=f2c4a4a5421a47d08ddf0d10eccd71c7",
-      "landingPage": "https://www.datazapad.cz/pages/f2c4a4a5421a47d08ddf0d10eccd71c7",
-      "title": "RIM: Počet studentů na pobočkách SŠ",
-      "description": "",
-      "keyword": [
-        "chytrý region",
-        "smart",
-        "bariéra"
-      ],
-      "issued": "2025-07-04T07:31:32.000Z",
-      "modified": "2025-08-15T05:26:52.000Z",
-      "publisher": {
-        "name": "lukas.rozlilek@karp-kv.cz"
-      },
-      "contactPoint": {
-        "@type": "vcard:Contact",
-        "fn": "lukas.rozlilek@karp-kv.cz",
-        "hasEmail": "{{orgContactEmail}}"
-      },
-      "accessLevel": "public",
-      "spatial": "12.0940,48.5525,18.8574,51.0581",
-      "license": "",
-      "category": [],
-      "metadata": "{{metadata.metadata}}",
-      "distribution": [
-        {
-          "@type": "dcat:Distribution",
-          "title": "ArcGIS Hub Dataset",
-          "format": "Web Page",
-          "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/pages/f2c4a4a5421a47d08ddf0d10eccd71c7"
-        }
-      ],
-      "theme": [
-        "geospatial"
-      ]
-    },
-    {
-      "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=f2c5b3a171c5420fa42f67e106d09719",
-      "landingPage": "https://www.datazapad.cz/pages/f2c5b3a171c5420fa42f67e106d09719",
-      "title": "Profil regionu - Sociální sféra - 01 - Obyvatelstvo - 12 - Migrace",
-      "description": "{{description}}",
-      "keyword": [
-        ""
-      ],
-      "issued": "2025-09-19T13:43:24.000Z",
-      "modified": "2025-09-25T13:48:56.000Z",
-      "publisher": {
-        "name": "jan.sklepek@karp-kv.cz"
-      },
-      "contactPoint": {
-        "@type": "vcard:Contact",
-        "fn": "jan.sklepek@karp-kv.cz",
-        "hasEmail": "{{orgContactEmail}}"
-      },
-      "accessLevel": "public",
-      "spatial": "12.0940,48.5525,18.8574,51.0581",
-      "license": "",
-      "category": [],
-      "metadata": "{{metadata.metadata}}",
-      "distribution": [
-        {
-          "@type": "dcat:Distribution",
-          "title": "ArcGIS Hub Dataset",
-          "format": "Web Page",
-          "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/pages/f2c5b3a171c5420fa42f67e106d09719"
-        }
-      ],
-      "theme": [
-        "geospatial"
-      ]
-    },
-    {
-      "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=f423022bb27d431084dc7873cc3bce38",
-      "landingPage": "https://www.datazapad.cz/pages/f423022bb27d431084dc7873cc3bce38",
-      "title": "Profil regionu - Sociální sféra - 01 - Obyvatelstvo - 01 - Osídlení",
-      "description": "{{description}}",
-      "keyword": [
-        ""
-      ],
-      "issued": "2025-09-17T11:35:41.000Z",
-      "modified": "2025-09-19T07:07:12.000Z",
-      "publisher": {
-        "name": "jan.sklepek@karp-kv.cz"
-      },
-      "contactPoint": {
-        "@type": "vcard:Contact",
-        "fn": "jan.sklepek@karp-kv.cz",
-        "hasEmail": "{{orgContactEmail}}"
-      },
-      "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
-      "license": "",
-      "category": [],
-      "metadata": "{{metadata.metadata}}",
-      "distribution": [
-        {
-          "@type": "dcat:Distribution",
-          "title": "ArcGIS Hub Dataset",
-          "format": "Web Page",
-          "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/pages/f423022bb27d431084dc7873cc3bce38"
         }
       ],
       "theme": [
@@ -24572,43 +23600,6 @@
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
           "accessURL": "https://www.datazapad.cz/api/download/v1/items/fc44327a17e04959b7c5209d9ce32820/kml?layers=0"
-        }
-      ],
-      "theme": [
-        "geospatial"
-      ]
-    },
-    {
-      "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=fceb9c4e479841b9a4c152a224606b5d",
-      "landingPage": "https://www.datazapad.cz/pages/fceb9c4e479841b9a4c152a224606b5d",
-      "title": "Profil regionu - Sociální sféra - 01 - Obyvatelstvo - 16 - Důchody - příjemci a průměrná výše",
-      "description": "{{description}}",
-      "keyword": [
-        ""
-      ],
-      "issued": "2025-09-22T05:53:40.000Z",
-      "modified": "2025-09-22T05:59:04.000Z",
-      "publisher": {
-        "name": "jan.sklepek@karp-kv.cz"
-      },
-      "contactPoint": {
-        "@type": "vcard:Contact",
-        "fn": "jan.sklepek@karp-kv.cz",
-        "hasEmail": "{{orgContactEmail}}"
-      },
-      "accessLevel": "public",
-      "spatial": "12.0940,48.5525,18.8574,51.0581",
-      "license": "",
-      "category": [],
-      "metadata": "{{metadata.metadata}}",
-      "distribution": [
-        {
-          "@type": "dcat:Distribution",
-          "title": "ArcGIS Hub Dataset",
-          "format": "Web Page",
-          "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/pages/fceb9c4e479841b9a4c152a224606b5d"
         }
       ],
       "theme": [
