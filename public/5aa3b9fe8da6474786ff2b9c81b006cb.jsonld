@@ -7,20 +7,19 @@
     "cs": "Muzea a galerie v Karlovarském kraji"
   },
   "popis": {
-    "cs": "Datová sada obsahuje, kromě umístění muzeí a galerií v Karlovarském kraji, také webové stránky, kontaktní telefon a e-mail na muzeum či galerii.Poskytovatelem vstupních dat pro datovou sadu je Živý kraj - Destinační agentura pro Karlovarský kraj, z.s."
+    "cs": "Datová sada obsahuje, kromě přehledu a prostorové lokalizace muzeí a galerií v Karlovarském kraji, také provozovatele (název, identifikační číslo, právní formu, sídlo, kód adresy, ID datové schránky), webové stránky, kontaktní telefon a e-mail, informace o přístupnosti a vstupném. Souřadnicový systém je použit WGS 1984.Původním zdrojem dat je Živý kraj - Destinační agentura pro Karlovarský kraj, z.s.&nbsp;"
   },
   "klíčové_slovo": {
     "cs": [
       "muzeum",
       "galerie",
-      "Karlovarský kraj",
-      "muzea a galerie"
+      "Karlovarský kraj"
     ]
   },
   "téma": [
     "http://publications.europa.eu/resource/authority/data-theme/EDUC"
   ],
-  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/OTHER",
+  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
   "prvek_rúian": [
     "https://linked.cuzk.cz/resource/ruian/vusc/51"
   ],
