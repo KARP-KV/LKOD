@@ -5407,7 +5407,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=2c8293e475994414b4210f9ba00813f9&sublayer=0",
-      "landingPage": "https://www.datazapad.cz/datasets/2c8293e475994414b4210f9ba00813f9_0",
+      "landingPage": "https://www.datazapad.cz/datasets/Kakraj::mas-dle-příslušnosti-jednoltivých-obcí-v-karlovarském-kraji-",
       "title": "MAS dle příslušnosti jednoltivých obcí v Karlovarském kraji ",
       "description": "<p>Datová sada obsahuje především polygony obcí Karlovarského kraje. Atribut “MAS” &nbsp;obsahuje informaci o působení obce v místní akční skupině. Vrstva dále obsahuje obce Ústeckého a Plzeňského kraje, které jsou zapojeny v MAS Karlovarského kraje. Vrstva je polygonová, v souřadnicovém systému S-JTSK.&nbsp;</p>",
       "keyword": [
@@ -5417,12 +5417,12 @@
       "issued": "2025-09-23T09:36:19.000Z",
       "modified": "2025-09-23T09:36:23.000Z",
       "publisher": {
-        "name": "Karlovarský kraj"
+        "name": "Krajský úřad Karlovarského kraje"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
         "fn": "Karlovarsky.Kraj",
-        "hasEmail": "{{orgContactEmail}}"
+        "hasEmail": "mailto:gis@kr-karlovarsky.cz"
       },
       "accessLevel": "public",
       "spatial": "12.2349,49.7007,13.7524,50.5515",
@@ -5446,7 +5446,7 @@
               "@_value": "005"
             }
           },
-          "rpOrgName": "Karlovarský kraj"
+          "rpOrgName": "Krajský úřad Karlovarského kraje"
         },
         "mdFileID": "2c8293e475994414b4210f9ba00813f9",
         "distInfo": {
@@ -5595,7 +5595,7 @@
                 "@_value": "007"
               }
             },
-            "rpOrgName": "Karlovarský kraj"
+            "rpOrgName": "Krajský úřad Karlovarského kraje"
           },
           "resConst": [
             {
@@ -5645,7 +5645,7 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/datasets/2c8293e475994414b4210f9ba00813f9_0"
+          "accessURL": "https://www.datazapad.cz/datasets/Kakraj::mas-dle-příslušnosti-jednoltivých-obcí-v-karlovarském-kraji-"
         },
         {
           "@type": "dcat:Distribution",
