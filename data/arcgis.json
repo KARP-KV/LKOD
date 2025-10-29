@@ -2617,6 +2617,307 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=113ff94189844161b0b4b590e155793a&sublayer=0",
+      "landingPage": "https://www.datazapad.cz/datasets/Kakraj::svazky-obcí-dle-příslušnosti-jednotlivých-obcí-v-karlovarském-kraji",
+      "title": "Svazky obcí dle příslušnosti jednotlivých obcí v Karlovarském kraji",
+      "description": "<p>Datová sada obsahuje adresní body obecních/měststkých úřadů obcí a měst Karlovarského kraje, které jsou zapojeny do dobrovolného svazku obcí. Atributová tabulka obsahuje základní údaje o obci (název, kód, okres, ORP, OPÚ), název svazku, do kterého je zapojena a souřadnice ve formátu WKT v souřadnicovém systému JTSK.&nbsp;</p>",
+      "keyword": [
+        "Karlovarský kraj",
+        "Obce a města",
+        "Svazky obcí",
+        "Mikroregiony"
+      ],
+      "issued": "2025-10-29T08:49:24.000Z",
+      "modified": "2025-10-29T09:09:22.000Z",
+      "publisher": {
+        "name": "Krajský úřad Karlovarského kraje"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Karlovarsky.Kraj",
+        "hasEmail": "mailto:gis@kr-karlovarsky.cz"
+      },
+      "accessLevel": "public",
+      "spatial": "12.2670,49.8745,13.1823,50.4730",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0",
+      "category": [],
+      "metadata": {
+        "mdLang": {
+          "languageCode": {
+            "@_Sync": "FALSE",
+            "@_value": "cze"
+          }
+        },
+        "mdContact": {
+          "rpCntInfo": {
+            "cntAddress": {
+              "eMailAdd": "tereza.marzova@kr-karlovarsky.cz"
+            }
+          },
+          "role": {
+            "RoleCd": {
+              "@_value": "007"
+            }
+          },
+          "rpOrgName": "Krajský úřad Karlovarského kraje"
+        },
+        "mdFileID": "113ff94189844161b0b4b590e155793a",
+        "distInfo": {
+          "distTranOps": {
+            "onLineSrc": {
+              "linkage": "https://geo-ags.kr-karlovarsky.cz/arcgis/rest/services/OpenData/ObceDleSvazku/MapServer/0"
+            }
+          },
+          "distFormat": {
+            "formatName": "Feature Service"
+          }
+        },
+        "Esri": {
+          "ArcGISFormat": 1,
+          "CreaTime": 8492400,
+          "ArcGISProfile": "INSPIRE",
+          "DataProperties": {
+            "itemProps": {
+              "portalDetails": {
+                "itemType": "Feature Service",
+                "resourceURL": "https://geo-ags.kr-karlovarsky.cz/arcgis/rest/services/OpenData/ObceDleSvazku/MapServer/0",
+                "itemDetailsURL": "https://www.arcgis.com/home/item.html?id=113ff94189844161b0b4b590e155793a",
+                "itemIdentifier": "113ff94189844161b0b4b590e155793a",
+                "thumbnailURL": "https://www.arcgis.com/sharing/rest/content/items/113ff94189844161b0b4b590e155793a/info/thumbnail/thumbnail1761728609631.png"
+              }
+            }
+          },
+          "ModDate": 20251029,
+          "CreaDate": 20251029,
+          "ModTime": 8492400
+        },
+        "dqInfo": {
+          "dqScope": {
+            "scpLvl": {
+              "ScopeCd": {
+                "@_value": "005"
+              }
+            }
+          },
+          "report": {
+            "measResult": {
+              "ConResult": {
+                "conSpec": {
+                  "date": {
+                    "pubDate": "2010-12-08T00:00:00"
+                  },
+                  "resTitle": {
+                    "@_Sync": "FALSE",
+                    "#value": "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "@_xml:lang": "cs",
+        "mdHrLv": {
+          "ScopeCd": {
+            "@_value": "005"
+          }
+        },
+        "dataIdInfo": {
+          "idAbs": "<p>Datová sada obsahuje adresní body obecních/měststkých úřadů obcí a měst Karlovarského kraje, které jsou zapojeny do dobrovolného svazku obcí. Atributová tabulka obsahuje základní údaje o obci (název, kód, okres, ORP, OPÚ), název svazku, do kterého je zapojena a souřadnice ve formátu WKT v souřadnicovém systému JTSK.&nbsp;</p>",
+          "dataExt": {
+            "geoEle": {
+              "GeoBndBox": {
+                "eastBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 13.3002
+                },
+                "southBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 49.8745
+                },
+                "exTypeCode": {
+                  "@_Sync": "TRUE",
+                  "#value": 1
+                },
+                "northBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 50.473
+                },
+                "westBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 12.1387
+                }
+              }
+            }
+          },
+          "idCitation": {
+            "date": {
+              "createDate": "2025-10-29T10:00:00"
+            },
+            "resTitle": {
+              "@_Sync": "FALSE",
+              "#value": "Svazky obcí dle příslušnosti jednotlivých obcí v Karlovarském kraji"
+            },
+            "citId": {
+              "identCode": "publication"
+            }
+          },
+          "dataLang": {
+            "languageCode": {
+              "@_Sync": "FALSE",
+              "@_value": "cze"
+            }
+          },
+          "themeKeys": {
+            "thesaName": {
+              "date": {
+                "pubDate": "2008-06-01T00:00:00"
+              },
+              "resTitle": {
+                "@_Sync": "FALSE",
+                "#value": "GEMET - INSPIRE themes, version 1.0"
+              }
+            },
+            "keyword": "Administrative units"
+          },
+          "idPurp": "Přehled obcí Karlovarského kraje s uvedením příslušnosti do svazku obcí",
+          "spatRpType": {
+            "SpatRepTypCd": {
+              "@_Sync": "FALSE",
+              "@_value": "001"
+            }
+          },
+          "dataChar": {
+            "CharSetCd": {
+              "@_Sync": "FALSE",
+              "@_value": "004"
+            }
+          },
+          "tpCat": [
+            {
+              "TopicCatCd": {
+                "@_value": "003"
+              }
+            },
+            {
+              "TopicCatCd": {
+                "@_value": "016"
+              }
+            }
+          ],
+          "searchKeys": {
+            "keyword": [
+              "Karlovarský kraj",
+              "Obce a města",
+              "Svazky obcí",
+              "Mikroregiony"
+            ]
+          },
+          "idPoC": {
+            "rpCntInfo": {
+              "cntAddress": {
+                "eMailAdd": "tereza.marzova@kr-karlovarsky.cz"
+              }
+            },
+            "role": {
+              "RoleCd": {
+                "@_value": "007"
+              }
+            },
+            "rpOrgName": "Krajský úřad Karlovarského kraje"
+          },
+          "resConst": [
+            {
+              "LegConsts": {
+                "inspireAccessUseConditions": {
+                  "ConditionsAccUseCd": {
+                    "@_value": "001"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "inspirePublicAccessLimits": {
+                  "PublicAccessCd": {
+                    "@_value": "001"
+                  }
+                }
+              }
+            },
+            {
+              "Consts": {
+                "useLimit": "<p>CC0 1.0</p>"
+              }
+            }
+          ]
+        },
+        "refSysInfo": {
+          "RefSystem": {
+            "refSysID": {
+              "identCode": {
+                "@_Sync": "FALSE",
+                "@_code": "5514"
+              }
+            }
+          }
+        },
+        "mdChar": {
+          "CharSetCd": {
+            "@_Sync": "FALSE",
+            "@_value": "004"
+          }
+        }
+      },
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datazapad.cz/datasets/Kakraj::svazky-obcí-dle-příslušnosti-jednotlivých-obcí-v-karlovarském-kraji"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://geo-ags.kr-karlovarsky.cz/arcgis/rest/services/OpenData/ObceDleSvazku/MapServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/113ff94189844161b0b4b590e155793a/csv?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/113ff94189844161b0b4b590e155793a/shapefile?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/113ff94189844161b0b4b590e155793a/geojson?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/113ff94189844161b0b4b590e155793a/kml?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=11796bcb67ee47bd8d38c0ec271b2787&sublayer=0",
       "landingPage": "https://www.datazapad.cz/datasets/11796bcb67ee47bd8d38c0ec271b2787_0",
       "title": "Seznam škol a školských zařízení do stupně VOŠ v Karlovarském kraji",
