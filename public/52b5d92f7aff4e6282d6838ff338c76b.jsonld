@@ -19,19 +19,19 @@
     "http://publications.europa.eu/resource/authority/data-theme/REGI",
     "http://publications.europa.eu/resource/authority/data-theme/GOVE"
   ],
-  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/OTHER",
   "prvek_rúian": [
     "https://linked.cuzk.cz/resource/ruian/vusc/51"
   ],
   "distribuce": [
     {
       "typ": "Distribuce",
-      "iri": "https://www.datazapad.cz/datasets/52b5d92f7aff4e6282d6838ff338c76b_0",
+      "iri": "https://www.datazapad.cz/datasets/Kakraj::obce-s-rozšířenou-působností-karlovarského-kraje",
       "název": {
         "cs": "ArcGIS Hub Dataset"
       },
-      "soubor_ke_stažení": "https://www.datazapad.cz/datasets/52b5d92f7aff4e6282d6838ff338c76b_0",
-      "přístupové_url": "https://www.datazapad.cz/datasets/52b5d92f7aff4e6282d6838ff338c76b_0",
+      "soubor_ke_stažení": "https://www.datazapad.cz/datasets/Kakraj::obce-s-rozšířenou-působností-karlovarského-kraje",
+      "přístupové_url": "https://www.datazapad.cz/datasets/Kakraj::obce-s-rozšířenou-působností-karlovarského-kraje",
       "typ_média": "http://www.iana.org/assignments/media-types/text/html",
       "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
       "podmínky_užití": {

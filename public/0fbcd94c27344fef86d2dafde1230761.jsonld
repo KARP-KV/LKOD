@@ -28,12 +28,12 @@
   "distribuce": [
     {
       "typ": "Distribuce",
-      "iri": "https://www.datazapad.cz/datasets/0fbcd94c27344fef86d2dafde1230761_0",
+      "iri": "https://www.datazapad.cz/datasets/Kakraj::matriční-úřady-karlovarského-kraje",
       "název": {
         "cs": "ArcGIS Hub Dataset"
       },
-      "soubor_ke_stažení": "https://www.datazapad.cz/datasets/0fbcd94c27344fef86d2dafde1230761_0",
-      "přístupové_url": "https://www.datazapad.cz/datasets/0fbcd94c27344fef86d2dafde1230761_0",
+      "soubor_ke_stažení": "https://www.datazapad.cz/datasets/Kakraj::matriční-úřady-karlovarského-kraje",
+      "přístupové_url": "https://www.datazapad.cz/datasets/Kakraj::matriční-úřady-karlovarského-kraje",
       "typ_média": "http://www.iana.org/assignments/media-types/text/html",
       "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
       "podmínky_užití": {

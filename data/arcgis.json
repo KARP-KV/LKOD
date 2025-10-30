@@ -1681,7 +1681,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=0fbcd94c27344fef86d2dafde1230761&sublayer=0",
-      "landingPage": "https://www.datazapad.cz/datasets/0fbcd94c27344fef86d2dafde1230761_0",
+      "landingPage": "https://www.datazapad.cz/datasets/Kakraj::matriční-úřady-karlovarského-kraje",
       "title": "Matriční úřady Karlovarského kraje",
       "description": "Vrstva matričních úřadů Karlovarského kraje pro účely publikace jako open data. Obsahuje název úřadu, adresu, telefon, úřední dny a úřední hodiny, adresu e-podatelny, kód adresního místa z RÚIAN, a souřadnicové umístění matričního úřadu.",
       "keyword": [
@@ -1698,7 +1698,7 @@
       "contactPoint": {
         "@type": "vcard:Contact",
         "fn": "Karlovarsky.Kraj",
-        "hasEmail": "{{orgContactEmail}}"
+        "hasEmail": "mailto:gis@kr-karlovarsky.cz"
       },
       "accessLevel": "public",
       "spatial": "12.1754,49.9607,13.1624,50.3715",
@@ -1933,7 +1933,7 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/datasets/0fbcd94c27344fef86d2dafde1230761_0"
+          "accessURL": "https://www.datazapad.cz/datasets/Kakraj::matriční-úřady-karlovarského-kraje"
         },
         {
           "@type": "dcat:Distribution",
@@ -2628,7 +2628,7 @@
         "Mikroregiony"
       ],
       "issued": "2025-10-29T08:49:24.000Z",
-      "modified": "2025-10-29T09:09:22.000Z",
+      "modified": "2025-10-30T07:17:46.000Z",
       "publisher": {
         "name": "Krajský úřad Karlovarského kraje"
       },
@@ -2670,6 +2670,13 @@
           },
           "distFormat": {
             "formatName": "Feature Service"
+          }
+        },
+        "mdMaint": {
+          "maintFreq": {
+            "MaintFreqCd": {
+              "@_value": "009"
+            }
           }
         },
         "Esri": {
@@ -4299,7 +4306,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=17a673b7147d45ba8744904cae6afdbb&sublayer=0",
-      "landingPage": "https://www.datazapad.cz/datasets/17a673b7147d45ba8744904cae6afdbb_0",
+      "landingPage": "https://www.datazapad.cz/datasets/Kakraj::seznam-obcí-karlovarského-kraje",
       "title": "Seznam obcí Karlovarského kraje",
       "description": "Polygonová vrstva obcí Karlovarského kraje publikovaná pro účely open dat. Polygony jsou vymezeny hranicemi obcí. Data obsahují o<div><ul><li>názvu úřadu</li><li>adresu úřadu (ulice a číslo popisné, PSČ, kód adresního místa RÚIAN, příslušnou poštu)</li><li>telefon, mail, webové stránky a datovou schránku obce</li><li>IČO</li><li>příslušné ORP, okres</li><li>další údaje z RÚIAN (status obce, ID transakce v RÚIAN apod.)</li></ul><div>Sloupec PointGeometry (alias WKT (S-JTSK)) obsahuje WKT souřadnice obecního (resp. městského) úřadu v systému JTSK. </div></div>",
       "keyword": [
@@ -4309,14 +4316,14 @@
         "obecní úřad"
       ],
       "issued": "2024-09-16T06:49:43.000Z",
-      "modified": "2025-03-26T14:19:26.000Z",
+      "modified": "2025-10-30T07:22:21.000Z",
       "publisher": {
         "name": "Krajský úřad Karlovarského kraje"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
         "fn": "Karlovarsky.Kraj",
-        "hasEmail": "{{orgContactEmail}}"
+        "hasEmail": "mailto:gis@kr-karlovarsky.cz"
       },
       "accessLevel": "public",
       "spatial": "12.0906,49.8904,13.3018,50.4603",
@@ -4514,6 +4521,13 @@
             }
           }
         },
+        "mdMaint": {
+          "maintFreq": {
+            "MaintFreqCd": {
+              "@_value": "009"
+            }
+          }
+        },
         "@_xml:lang": "cs"
       },
       "distribution": [
@@ -4522,7 +4536,7 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/datasets/17a673b7147d45ba8744904cae6afdbb_0"
+          "accessURL": "https://www.datazapad.cz/datasets/Kakraj::seznam-obcí-karlovarského-kraje"
         },
         {
           "@type": "dcat:Distribution",
@@ -5708,8 +5722,8 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=2c8293e475994414b4210f9ba00813f9&sublayer=0",
-      "landingPage": "https://www.datazapad.cz/datasets/Kakraj::mas-dle-příslušnosti-jednoltivých-obcí-v-karlovarském-kraji-",
-      "title": "MAS dle příslušnosti jednoltivých obcí v Karlovarském kraji ",
+      "landingPage": "https://www.datazapad.cz/datasets/Kakraj::mas-dle-příslušnosti-jednotlivých-obcí-v-karlovarském-kraji-",
+      "title": "MAS dle příslušnosti jednotlivých obcí v Karlovarském kraji ",
       "description": "<p>Datová sada obsahuje především polygony obcí Karlovarského kraje. Atribut “MAS” &nbsp;obsahuje informaci o působení obce v místní akční skupině. Vrstva dále obsahuje obce Ústeckého a Plzeňského kraje, které jsou zapojeny v MAS Karlovarského kraje. Vrstva je polygonová, v souřadnicovém systému S-JTSK.&nbsp;</p>",
       "keyword": [
         "Karlovarský kraj",
@@ -5758,6 +5772,13 @@
           },
           "distFormat": {
             "formatName": "Feature Service"
+          }
+        },
+        "mdMaint": {
+          "maintFreq": {
+            "MaintFreqCd": {
+              "@_value": "009"
+            }
           }
         },
         "Esri": {
@@ -5946,7 +5967,7 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/datasets/Kakraj::mas-dle-příslušnosti-jednoltivých-obcí-v-karlovarském-kraji-"
+          "accessURL": "https://www.datazapad.cz/datasets/Kakraj::mas-dle-příslušnosti-jednotlivých-obcí-v-karlovarském-kraji-"
         },
         {
           "@type": "dcat:Distribution",
@@ -9236,7 +9257,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=52b5d92f7aff4e6282d6838ff338c76b&sublayer=0",
-      "landingPage": "https://www.datazapad.cz/datasets/52b5d92f7aff4e6282d6838ff338c76b_0",
+      "landingPage": "https://www.datazapad.cz/datasets/Kakraj::obce-s-rozšířenou-působností-karlovarského-kraje",
       "title": "Obce s rozšířenou působností Karlovarského kraje",
       "description": "<div style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'><div style='margin-bottom:3rem;'><div style='overflow:auto; max-width:100%; display:inherit;'>Datová sada obsahuje tyto údaje: název ORP, kód ORP, výčet obcí v daném ORP (ve formátu CSV), počet obcí v ORP, adresní bod úřadu a souřadnice adresního místa úřadu v systémech S-JTSK a WGS84 ve formátu WKT. </div><div>Vrstva je polygonová, v souřadnicovém systému WGS84. </div></div></div><div style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'></div><div style='margin-bottom:3rem; display:inherit; font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'><div style='margin-bottom:3rem; display:inherit;'></div></div>",
       "keyword": [
@@ -9244,14 +9265,14 @@
         "ORP"
       ],
       "issued": "2025-03-26T12:18:36.000Z",
-      "modified": "2025-03-26T14:23:09.000Z",
+      "modified": "2025-10-30T07:21:32.000Z",
       "publisher": {
         "name": "Krajský úřad Karlovarského kraje"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
         "fn": "Karlovarsky.Kraj",
-        "hasEmail": "{{orgContactEmail}}"
+        "hasEmail": "mailto:gis@kr-karlovarsky.cz"
       },
       "accessLevel": "public",
       "spatial": "12.0907,49.8905,13.3018,50.4604",
@@ -9272,6 +9293,13 @@
           "distTranOps": {
             "onLineSrc": {
               "linkage": "https://geo-ags.kr-karlovarsky.cz/arcgis/rest/services/Hosted/ObceDleORP/FeatureServer"
+            }
+          }
+        },
+        "mdMaint": {
+          "maintFreq": {
+            "MaintFreqCd": {
+              "@_value": "009"
             }
           }
         },
@@ -9430,7 +9458,7 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/datasets/52b5d92f7aff4e6282d6838ff338c76b_0"
+          "accessURL": "https://www.datazapad.cz/datasets/Kakraj::obce-s-rozšířenou-působností-karlovarského-kraje"
         },
         {
           "@type": "dcat:Distribution",
@@ -21841,11 +21869,12 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=d3184b2f488f4d099bd56c84ace5ffd0&sublayer=0",
-      "landingPage": "https://www.datazapad.cz/datasets/d3184b2f488f4d099bd56c84ace5ffd0_0",
+      "landingPage": "https://www.datazapad.cz/datasets/Kakraj::školská-poradenská-zařízení-v-karlovarském-kraji",
       "title": "Školská poradenská zařízení v Karlovarském kraji",
       "description": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(76,76,76);font-family:&quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;font-size:15px;\"><span style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\">Datová vrstva obsahuje údaje o školních poradenských zařízeních (speciálně pedagogická centra a pedadogicko-psychologické poradny) na území Karlovarského kraje.</span></span></p><div style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);color:rgb(76, 76, 76);font-family:&quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;font-size:15px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\"></div><div style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);color:rgb(76, 76, 76);font-family:&quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;font-size:15px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\">Obsahuje atributy:</div><div style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);color:rgb(76, 76, 76);font-family:&quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;font-size:15px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\"><ul><li>název organizace</li><li>adresu včetně adresního místa dle číselníku RÚIAN</li><li>typ zařízení</li><li>IČO a RED-IZO</li><li>informace o zřizovateli</li><li>datovou schránku</li></ul></div>",
       "keyword": [
-        "Karlovarský kraj"
+        "Karlovarský kraj",
+        "školství"
       ],
       "issued": "2025-05-30T06:17:11.000Z",
       "modified": "2025-05-30T08:29:45.000Z",
@@ -21855,7 +21884,7 @@
       "contactPoint": {
         "@type": "vcard:Contact",
         "fn": "Karlovarsky.Kraj",
-        "hasEmail": "{{orgContactEmail}}"
+        "hasEmail": "mailto:gis@kr-karlovarsky.cz"
       },
       "accessLevel": "public",
       "spatial": "12.1843,49.9608,12.9461,50.3057",
@@ -21978,7 +22007,10 @@
             }
           },
           "searchKeys": {
-            "keyword": "Karlovarský kraj"
+            "keyword": [
+              "Karlovarský kraj",
+              "školství"
+            ]
           },
           "idPoC": {
             "rpCntInfo": {
@@ -22056,7 +22088,7 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/datasets/d3184b2f488f4d099bd56c84ace5ffd0_0"
+          "accessURL": "https://www.datazapad.cz/datasets/Kakraj::školská-poradenská-zařízení-v-karlovarském-kraji"
         },
         {
           "@type": "dcat:Distribution",
