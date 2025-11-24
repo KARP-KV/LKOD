@@ -12666,6 +12666,41 @@
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
           "accessURL": "https://www.datazapad.cz/api/download/v1/items/5e900a28dedd446aa8ae18d49ac88d70/kml?layers=3"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "File Geodatabase",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/5e900a28dedd446aa8ae18d49ac88d70/filegdb?layers=3"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Feature Collection",
+          "format": "TXT",
+          "mediaType": "text/plain",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/5e900a28dedd446aa8ae18d49ac88d70/featureCollection?layers=3"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Excel",
+          "format": "XLSX",
+          "mediaType": "application/vnd.ms-excel",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/5e900a28dedd446aa8ae18d49ac88d70/excel?layers=3"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoPackage",
+          "format": "GPKG",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/5e900a28dedd446aa8ae18d49ac88d70/geoPackage?layers=3"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "SQLite Geodatabase",
+          "format": "GDB",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/5e900a28dedd446aa8ae18d49ac88d70/sqlite?layers=3"
         }
       ],
       "theme": [
@@ -17648,6 +17683,342 @@
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
           "accessURL": "https://www.datazapad.cz/api/download/v1/items/94c4d284041c4412af231e96fe66cf6b/kml?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=979283f4b7ec4b778b8eed7aab6917c3&sublayer=0",
+      "landingPage": "https://www.datazapad.cz/datasets/979283f4b7ec4b778b8eed7aab6917c3_0",
+      "title": "Autobusové zastávky v Karlovarském kraji",
+      "description": "<p>Datová sada obsahuje kromě prostorové lokalizace autobusových zastávek integrovaného dopravního systému na území Karlovarského kraje také číslo zastávky a stanoviště. Souřadnicový systém je použit WGS 1984.</p><p>Zdrojem dat je Koordinátor integrovaného dopravního systému Karlovarského kraje, p.o.</p>",
+      "keyword": [
+        "autobusová zastávka",
+        "zastávka",
+        "Karlovarský kraj"
+      ],
+      "issued": "2025-11-24T11:16:03.000Z",
+      "modified": "2025-11-24T11:18:31.244Z",
+      "publisher": {
+        "name": "Koordinátor integrovaného dopravního systému"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "pavla.brabencova_karp",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "12.1445,49.9176,13.2732,50.4283",
+      "license": "https://creativecommons.org/licenses/by/4.0",
+      "category": [
+        "Veřejná doprava a silnice"
+      ],
+      "metadata": {
+        "mdLang": {
+          "languageCode": {
+            "@_Sync": "FALSE",
+            "@_value": "cze"
+          }
+        },
+        "mdContact": {
+          "rpCntInfo": {
+            "cntAddress": {
+              "eMailAdd": "pavla.brabencova@kickk.cz"
+            }
+          },
+          "role": {
+            "RoleCd": {
+              "@_value": "007"
+            }
+          },
+          "rpOrgName": "Krajské inovační centrum Karlovarského kraje, p.o."
+        },
+        "mdDateSt": {
+          "@_Sync": "FALSE",
+          "#value": "2025-11-24"
+        },
+        "Esri": {
+          "ArcGISFormat": 1,
+          "CreaTime": 12133900,
+          "ArcGISProfile": "INSPIRE",
+          "DataProperties": {
+            "itemProps": {
+              "portalDetails": {
+                "thumbnailURL": "https://www.arcgis.com/sharing/rest/content/items/979283f4b7ec4b778b8eed7aab6917c3/info/thumbnail/thumbnail1763983403590.png"
+              }
+            }
+          },
+          "CreaDate": 20251124,
+          "SyncOnce": "TRUE"
+        },
+        "mdTimeSt": "12:32:58",
+        "dqInfo": {
+          "dataLineage": {
+            "statement": "Data Koordinátora integrovaného dopravního systému Karlovarského kraj, p.o. a Krajského inovačního centra Karlovarského kraje, p.o."
+          },
+          "dqScope": {
+            "scpLvl": {
+              "ScopeCd": {
+                "@_value": "005"
+              }
+            }
+          },
+          "report": {
+            "measResult": {
+              "ConResult": {
+                "conSpec": {
+                  "date": {
+                    "pubDate": "2010-12-08T00:00:00"
+                  },
+                  "resTitle": {
+                    "@_Sync": "FALSE",
+                    "#value": "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "mdHrLv": {
+          "ScopeCd": {
+            "@_value": "005"
+          }
+        },
+        "dataIdInfo": {
+          "idAbs": "<p>Datová sada obsahuje kromě prostorové lokalizace autobusových zastávek integrovaného dopravního systému na území Karlovarského kraje také číslo zastávky a stanoviště. Souřadnicový systém je použit WGS 1984.</p><p>Zdrojem dat je Koordinátor integrovaného dopravního systému Karlovarského kraje, p.o.</p>",
+          "idCredit": "Koordinátor integrovaného dopravního systému Karlovarského kraje, p.o.",
+          "dataLang": {
+            "languageCode": {
+              "@_Sync": "FALSE",
+              "@_value": "cze"
+            }
+          },
+          "idPurp": "Přehled autobusových zastávek integrovaného dopravního systému na území Karlovarského kraje.",
+          "tpCat": {
+            "TopicCatCd": {
+              "@_value": "018"
+            }
+          },
+          "dataExt": {
+            "geoEle": {
+              "GeoBndBox": {
+                "eastBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 13.273228
+                },
+                "southBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 49.917595
+                },
+                "northBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 50.428318
+                },
+                "westBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 12.144455
+                }
+              }
+            }
+          },
+          "idCitation": {
+            "date": {
+              "pubDate": "2025-11-24T12:31:16"
+            },
+            "resTitle": {
+              "@_Sync": "FALSE",
+              "#value": "Autobusové zastávky v Karlovarském kraji"
+            },
+            "citId": {
+              "identCode": "publication"
+            }
+          },
+          "themeKeys": {
+            "thesaName": {
+              "date": {
+                "pubDate": "2008-06-01T00:00:00"
+              },
+              "resTitle": {
+                "@_Sync": "FALSE",
+                "#value": "GEMET - INSPIRE themes, version 1.0"
+              }
+            },
+            "keyword": [
+              "autobusová zastávka",
+              "zastávka",
+              "Karlovarský kraj"
+            ]
+          },
+          "spatRpType": {
+            "SpatRepTypCd": {
+              "@_Sync": "FALSE",
+              "@_value": "003"
+            }
+          },
+          "dataChar": {
+            "CharSetCd": {
+              "@_Sync": "FALSE",
+              "@_value": "004"
+            }
+          },
+          "searchKeys": {
+            "keyword": [
+              "autobusová zastávka",
+              "zastávka",
+              "Karlovarský kraj"
+            ]
+          },
+          "idPoC": {
+            "rpCntInfo": {
+              "cntAddress": {
+                "eMailAdd": "pavla.brabencova@kickk.cz"
+              }
+            },
+            "role": {
+              "RoleCd": {
+                "@_value": "007"
+              }
+            },
+            "rpOrgName": "Koordinátor integrovaného dopravního systému"
+          },
+          "resConst": [
+            {
+              "LegConsts": {
+                "inspireAccessUseConditions": {
+                  "ConditionsAccUseCd": {
+                    "@_value": "001"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "inspirePublicAccessLimits": {
+                  "PublicAccessCd": {
+                    "@_value": "001"
+                  }
+                }
+              }
+            },
+            {
+              "Consts": {
+                "useLimit": "<p>CC BY 4.0</p>"
+              }
+            }
+          ]
+        },
+        "refSysInfo": {
+          "RefSystem": {
+            "refSysID": {
+              "identCode": {
+                "@_Sync": "FALSE",
+                "@_code": "GCS_WGS_1984"
+              }
+            }
+          }
+        },
+        "mdChar": {
+          "CharSetCd": {
+            "@_Sync": "FALSE",
+            "@_value": "004"
+          }
+        },
+        "distInfo": {
+          "distTranOps": {
+            "onLineSrc": {
+              "linkage": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Autobusov%C3%A9_zast%C3%A1vky_v_Karlovarsk%C3%A9m_kraji/FeatureServer"
+            }
+          }
+        },
+        "mdMaint": {
+          "maintFreq": {
+            "MaintFreqCd": {
+              "@_value": "009"
+            }
+          }
+        },
+        "@_xml:lang": "cs"
+      },
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datazapad.cz/datasets/979283f4b7ec4b778b8eed7aab6917c3_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Autobusov%C3%A9_zast%C3%A1vky_v_Karlovarsk%C3%A9m_kraji/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/979283f4b7ec4b778b8eed7aab6917c3/csv?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/979283f4b7ec4b778b8eed7aab6917c3/shapefile?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/979283f4b7ec4b778b8eed7aab6917c3/geojson?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/979283f4b7ec4b778b8eed7aab6917c3/kml?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "File Geodatabase",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/979283f4b7ec4b778b8eed7aab6917c3/filegdb?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Feature Collection",
+          "format": "TXT",
+          "mediaType": "text/plain",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/979283f4b7ec4b778b8eed7aab6917c3/featureCollection?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Excel",
+          "format": "XLSX",
+          "mediaType": "application/vnd.ms-excel",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/979283f4b7ec4b778b8eed7aab6917c3/excel?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoPackage",
+          "format": "GPKG",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/979283f4b7ec4b778b8eed7aab6917c3/geoPackage?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "SQLite Geodatabase",
+          "format": "GDB",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/979283f4b7ec4b778b8eed7aab6917c3/sqlite?layers=0"
         }
       ],
       "theme": [
