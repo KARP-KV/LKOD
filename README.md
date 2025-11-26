@@ -7,7 +7,42 @@
 
 ## Overview
 
-![](./docs/lifecycle1.png)
+```mermaid
+flowchart TB
+    subgraph External
+        VISITORS["VISITOR(S)"]
+        NKOD["NKOD<br/>data.gov.cz"]
+    end
+
+    subgraph Management
+        EDITORS["EDITOR(S)"]
+        DATAKHK["DATAKV<br/>(ARCGIS)<br/>datazapad.cz"]
+    end
+
+    subgraph Pipeline
+        APPLICATION["APPLICATION"]
+        LKOD["LKOD<br/>open.datazapad.cz"]
+        BUILD["BUILD"]
+        DEPLOY["DEPLOY"]
+    end
+
+    subgraph GitHub
+        SOURCE["SOURCE CODE"]
+        GH["GITHUB"]
+        ACTIONS["GITHUB ACTIONS<br/>CRON"]
+    end
+
+    EDITORS -->|manage| DATAKHK
+    VISITORS -->|visit| DATAKHK
+    DATAKHK -->|fetch → transform → store| APPLICATION
+    APPLICATION --> LKOD
+    LKOD --> BUILD
+    BUILD --> DEPLOY
+    NKOD -->|download| LKOD
+    ACTIONS -->|run| DEPLOY
+    SOURCE -->|push code| GH
+    GH -->|dispatch| ACTIONS
+```
 
 ## Development
 
