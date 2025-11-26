@@ -47,5 +47,9 @@ export const META_LKOD = {
 		'012': 'UNKNOWN',
 	} as Record<string, string>,
 	excludedDatasets: [
+	],
+	excludePrefix: [
+		'https://www.datazapad.cz/documents/',
+		'https://www.datazapad.cz/apps/',
 	]
 }

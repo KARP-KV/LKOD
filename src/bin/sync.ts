@@ -16,6 +16,8 @@ async function syncArcgis(): Promise<any> {
 	arcgis.dataset = _(arcgis.dataset)
 		// Filter out excluded datasets
 		.filter((dataset: any) => !CONFIG.META_LKOD.excludedDatasets.includes(parseArcgisIdentifier(dataset.identifier)))
+		// Filter out datasets by landingPage prefix
+		.filter((dataset: any) => !CONFIG.META_LKOD.excludePrefix.some(prefix => dataset.landingPage?.startsWith(prefix)))
 		// Order by ID (to prevent git changes)
 		.orderBy('identifier')
 		.value();
