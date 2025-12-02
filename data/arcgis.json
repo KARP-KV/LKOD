@@ -2499,7 +2499,10 @@
       "accessLevel": "public",
       "spatial": "12.2670,49.8745,13.1823,50.4730",
       "license": "https://creativecommons.org/publicdomain/zero/1.0",
-      "category": [],
+      "category": [
+        "Kraj a dotace",
+        "Správní oblasti, chráněná pásma, regulovaná území a jednotky podávající hlášení"
+      ],
       "metadata": {
         "mdLang": {
           "languageCode": {
@@ -5371,7 +5374,10 @@
       "accessLevel": "public",
       "spatial": "12.2349,49.7007,13.7524,50.5515",
       "license": "https://creativecommons.org/publicdomain/zero/1.0",
-      "category": [],
+      "category": [
+        "Kraj a dotace",
+        "Správní oblasti, chráněná pásma, regulovaná území a jednotky podávající hlášení"
+      ],
       "metadata": {
         "mdLang": {
           "languageCode": {
@@ -7214,24 +7220,22 @@
     },
     {
       "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=3f9c9a95272e40d1a24e2711515e3d4d&sublayer=0",
-      "landingPage": "https://www.datazapad.cz/datasets/3f9c9a95272e40d1a24e2711515e3d4d_0",
+      "identifier": "https://www.arcgis.com/home/item.html?id=3f9c9a95272e40d1a24e2711515e3d4d&sublayer=3",
+      "landingPage": "https://www.datazapad.cz/datasets/3f9c9a95272e40d1a24e2711515e3d4d_3",
       "title": "Aktuální projekty Karlovarského kraje v oblasti rozvoje regionu a územního plánování",
-      "description": "Datová sada obsahuje typ projektu, operační program, registrační číslo projektu, žadatele a příjemce podpory a rovněž webové stránky projektu.<div>Poskytovatelem dat je Krajský úřad Karlovarského kraje.</div>",
+      "description": "<p>Datová sada obsahuje kromě seznamu aktuálních projektů Karlovarského kraje v oblasti rozvoje regionu a územního plánování také typ projektu, operační program, registrační číslo projektu, žadatele a příjemce podpory a webové stránky projektu. Souřadnicový systém je použit WGS 1984.</p><div>Poskytovatelem dat je Krajský úřad Karlovarského kraje.</div>",
       "keyword": [
         "investiční",
         "Karlovarský kraj",
         "neinvestiční",
         "projekt",
-        "projekty",
-        "strategické",
         "strategický",
         "aktuální"
       ],
       "issued": "2024-11-25T10:54:09.000Z",
-      "modified": "2024-11-25T10:54:47.508Z",
+      "modified": "2025-12-02T13:00:52.000Z",
       "publisher": {
-        "name": "Karlovarská agentura rozvoje podnikání, p.o."
+        "name": "Krajský úřad Karlovarského kraje"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -7247,37 +7251,46 @@
       "metadata": {
         "mdLang": {
           "languageCode": {
+            "@_Sync": "FALSE",
             "@_value": "cze"
           }
         },
         "mdContact": {
           "rpCntInfo": {
             "cntAddress": {
-              "eMailAdd": "info@datazapad.cz"
+              "eMailAdd": "pavla.brabencova@kickk.cz"
             }
           },
-          "rpOrgName": "Karlovarská agentura rozvoje podnikání, p.o.",
           "role": {
             "RoleCd": {
               "@_value": "007"
             }
-          }
+          },
+          "rpOrgName": "Krajské inovační centrum Karlovarského kraje, p.o."
         },
-        "mdDateSt": "2024-11-25",
+        "mdDateSt": {
+          "@_Sync": "FALSE",
+          "#value": "2025-12-02"
+        },
         "Esri": {
           "ArcGISFormat": 1,
-          "CreaTime": 11440000,
+          "CreaTime": 11430900,
           "ArcGISProfile": "INSPIRE",
-          "ArcGISstyle": "INSPIRE Metadata Directive",
-          "ModDate": 20250213,
           "CreaDate": 20241125,
-          "ModTime": 12071699,
-          "SyncOnce": "TRUE",
-          "MapLyrSync": false,
-          "PublishStatus": "editor:esri.dijit.metadata.editor"
+          "SyncOnce": "TRUE"
         },
-        "mdTimeSt": "12:12:17.56",
+        "mdTimeSt": "13:03:27",
         "dqInfo": {
+          "dataLineage": {
+            "statement": "Data Krajského úřadu Karlovarského kraje a Krajského inovačního centra Karlovarského kraje, p.o."
+          },
+          "dqScope": {
+            "scpLvl": {
+              "ScopeCd": {
+                "@_value": "005"
+              }
+            }
+          },
           "report": {
             "measResult": {
               "ConResult": {
@@ -7285,7 +7298,10 @@
                   "date": {
                     "pubDate": "2010-12-08T00:00:00"
                   },
-                  "resTitle": "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                  "resTitle": {
+                    "@_Sync": "FALSE",
+                    "#value": "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                  }
                 }
               }
             }
@@ -7297,44 +7313,50 @@
           }
         },
         "dataIdInfo": {
-          "idAbs": "Datová sada obsahuje typ projektu, operační program, registrační číslo projektu, žadatele a příjemce podpory a rovněž webové stránky projektu.<div>Poskytovatelem dat je Krajský úřad Karlovarského kraje.</div>",
+          "idAbs": "<p>Datová sada obsahuje kromě seznamu aktuálních projektů Karlovarského kraje v oblasti rozvoje regionu a územního plánování také typ projektu, operační program, registrační číslo projektu, žadatele a příjemce podpory a webové stránky projektu. Souřadnicový systém je použit WGS 1984.</p><div>Poskytovatelem dat je Krajský úřad Karlovarského kraje.</div>",
           "idCredit": "Krajský úřad Karlovarského kraje",
           "dataLang": {
-            "countryCode": {
-              "@_value": "CZ"
-            },
             "languageCode": {
+              "@_Sync": "FALSE",
               "@_value": "cze"
             }
           },
           "idPurp": "Seznam aktuální investičních, neinvestičních a strategických projektů Karlovarského kraje v oblasti rozvoje regionu a územního plánování.",
-          "tpCat": [
-            {
-              "TopicCatCd": {
-                "@_value": "015"
-              }
-            },
-            {
-              "TopicCatCd": {
-                "@_value": "016"
-              }
+          "tpCat": {
+            "TopicCatCd": {
+              "@_value": "016"
             }
-          ],
+          },
           "dataExt": {
             "geoEle": {
               "GeoBndBox": {
-                "eastBL": 13.375239,
-                "southBL": 49.872965,
-                "northBL": 50.467431,
-                "westBL": 12.061078
+                "eastBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 13.33789
+                },
+                "southBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 49.851894
+                },
+                "northBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 50.499247
+                },
+                "westBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 12.22067
+                }
               }
             }
           },
           "idCitation": {
             "date": {
-              "pubDate": "2024-11-25T12:13:42.669+01:00"
+              "reviseDate": "2025-12-02T13:00:52"
             },
-            "resTitle": "Aktuální projekty Karlovarského kraje v oblasti rozvoje regionu a územního plánování",
+            "resTitle": {
+              "@_Sync": "FALSE",
+              "#value": "Aktuální projekty Karlovarského kraje v oblasti rozvoje regionu a územního plánování"
+            },
             "citId": {
               "identCode": "publication"
             }
@@ -7344,40 +7366,28 @@
               "date": {
                 "pubDate": "2008-06-01T00:00:00"
               },
-              "resTitle": "GEMET - INSPIRE themes, version 1.0"
+              "resTitle": {
+                "@_Sync": "FALSE",
+                "#value": "GEMET - INSPIRE themes, version 1.0"
+              }
             },
             "keyword": [
               "projekt",
-              "projekty",
               "Karlovarský kraj",
               "investiční",
               "neinvestiční",
-              "strategický",
-              "strategické"
+              "strategický"
             ]
-          },
-          "resMaint": {
-            "maintScp": {
-              "ScopeCd": {
-                "@_value": "001"
-              }
-            },
-            "usrDefFreq": {
-              "duration": "Podle potřeby"
-            },
-            "maintFreq": {
-              "MaintFreqCd": {
-                "@_value": "009"
-              }
-            }
           },
           "spatRpType": {
             "SpatRepTypCd": {
+              "@_Sync": "FALSE",
               "@_value": "003"
             }
           },
           "dataChar": {
             "CharSetCd": {
+              "@_Sync": "FALSE",
               "@_value": "004"
             }
           },
@@ -7387,8 +7397,6 @@
               "Karlovarský kraj",
               "neinvestiční",
               "projekt",
-              "projekty",
-              "strategické",
               "strategický",
               "aktuální"
             ]
@@ -7396,25 +7404,19 @@
           "idPoC": {
             "rpCntInfo": {
               "cntAddress": {
-                "eMailAdd": "info@datazapad.cz"
+                "eMailAdd": "pavla.brabencova@kickk.cz"
               }
             },
-            "rpOrgName": "Karlovarská agentura rozvoje podnikání, p.o.",
             "role": {
               "RoleCd": {
                 "@_value": "007"
               }
-            }
+            },
+            "rpOrgName": "Krajský úřad Karlovarského kraje"
           },
           "resConst": [
             {
               "LegConsts": {
-                "useConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
-                "othConsts": "Jiná omezení",
                 "inspireAccessUseConditions": {
                   "ConditionsAccUseCd": {
                     "@_value": "001"
@@ -7424,12 +7426,6 @@
             },
             {
               "LegConsts": {
-                "othConsts": "Jiná omezení",
-                "accessConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
                 "inspirePublicAccessLimits": {
                   "PublicAccessCd": {
                     "@_value": "001"
@@ -7448,17 +7444,18 @@
           "RefSystem": {
             "refSysID": {
               "identCode": {
-                "@_code": "WGS84"
+                "@_Sync": "FALSE",
+                "@_code": "GCS_WGS_1984"
               }
             }
           }
         },
         "mdChar": {
           "CharSetCd": {
+            "@_Sync": "FALSE",
             "@_value": "004"
           }
         },
-        "mdFileID": "1732533137755r2314456703190526",
         "distInfo": {
           "distTranOps": {
             "onLineSrc": {
@@ -7467,12 +7464,9 @@
           }
         },
         "mdMaint": {
-          "usrDefFreq": {
-            "duration": "Podle potřeby"
-          },
           "maintFreq": {
             "MaintFreqCd": {
-              "@_value": "009"
+              "@_value": "008"
             }
           }
         },
@@ -7484,42 +7478,77 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/datasets/3f9c9a95272e40d1a24e2711515e3d4d_0"
+          "accessURL": "https://www.datazapad.cz/datasets/3f9c9a95272e40d1a24e2711515e3d4d_3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "ArcGIS GeoService",
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
-          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Projekty_Karlovarsk%C3%A9ho_kraje_v_oblasti_rozvoje_regionu_a_%C3%BAzemn%C3%ADho_pl%C3%A1nov%C3%A1n%C3%AD_WFL1/FeatureServer/0"
+          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Projekty_Karlovarsk%C3%A9ho_kraje_v_oblasti_rozvoje_regionu_a_%C3%BAzemn%C3%ADho_pl%C3%A1nov%C3%A1n%C3%AD_WFL1/FeatureServer/3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "CSV",
           "format": "CSV",
           "mediaType": "text/csv",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/3f9c9a95272e40d1a24e2711515e3d4d/csv?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/3f9c9a95272e40d1a24e2711515e3d4d/csv?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Shapefile",
           "format": "ZIP",
           "mediaType": "application/zip",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/3f9c9a95272e40d1a24e2711515e3d4d/shapefile?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/3f9c9a95272e40d1a24e2711515e3d4d/shapefile?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "GeoJSON",
           "format": "GeoJSON",
           "mediaType": "application/vnd.geo+json",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/3f9c9a95272e40d1a24e2711515e3d4d/geojson?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/3f9c9a95272e40d1a24e2711515e3d4d/geojson?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "KML",
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/3f9c9a95272e40d1a24e2711515e3d4d/kml?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/3f9c9a95272e40d1a24e2711515e3d4d/kml?layers=3"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "File Geodatabase",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/3f9c9a95272e40d1a24e2711515e3d4d/filegdb?layers=3"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Feature Collection",
+          "format": "TXT",
+          "mediaType": "text/plain",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/3f9c9a95272e40d1a24e2711515e3d4d/featureCollection?layers=3"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Excel",
+          "format": "XLSX",
+          "mediaType": "application/vnd.ms-excel",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/3f9c9a95272e40d1a24e2711515e3d4d/excel?layers=3"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoPackage",
+          "format": "GPKG",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/3f9c9a95272e40d1a24e2711515e3d4d/geoPackage?layers=3"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "SQLite Geodatabase",
+          "format": "GDB",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/3f9c9a95272e40d1a24e2711515e3d4d/sqlite?layers=3"
         }
       ],
       "theme": [
