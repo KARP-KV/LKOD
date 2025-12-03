@@ -343,6 +343,43 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=02ff52be52434a68918e32f9468417da",
+      "landingPage": "https://www.datazapad.cz/pages/02ff52be52434a68918e32f9468417da",
+      "title": "Další výstupy - Sklářský a keramický průmysl v Karlovarském kraji",
+      "description": "{{description}}",
+      "keyword": [
+        ""
+      ],
+      "issued": "2025-08-25T12:35:54.000Z",
+      "modified": "2025-12-03T13:46:51.000Z",
+      "publisher": {
+        "name": "{{source}}"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "jan.sklepek@karp-kv.cz",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "",
+      "category": [],
+      "metadata": "{{metadata.metadata}}",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datazapad.cz/pages/02ff52be52434a68918e32f9468417da"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=037f7b55d2d34fa88fd63bf2d2903839&sublayer=3",
       "landingPage": "https://www.datazapad.cz/datasets/037f7b55d2d34fa88fd63bf2d2903839_3",
       "title": "Přírodní pozoruhodnosti v Karlovarském kraji",
