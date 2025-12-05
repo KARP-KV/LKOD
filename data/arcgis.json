@@ -351,7 +351,7 @@
         ""
       ],
       "issued": "2025-08-25T12:35:54.000Z",
-      "modified": "2025-12-03T13:46:51.000Z",
+      "modified": "2025-12-05T07:45:26.000Z",
       "publisher": {
         "name": "{{source}}"
       },
@@ -361,7 +361,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "12.0662,49.8981,13.3076,50.4539",
       "license": "",
       "category": [],
       "metadata": "{{metadata.metadata}}",
@@ -10024,20 +10024,19 @@
     },
     {
       "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=59e913758bea4217b37caaf525459eeb&sublayer=0",
-      "landingPage": "https://www.datazapad.cz/datasets/59e913758bea4217b37caaf525459eeb_0",
+      "identifier": "https://www.arcgis.com/home/item.html?id=59e913758bea4217b37caaf525459eeb&sublayer=3",
+      "landingPage": "https://www.datazapad.cz/datasets/59e913758bea4217b37caaf525459eeb_3",
       "title": "Ukončené projekty Karlovarského kraje v oblasti rozvoje regionu a územního plánování",
-      "description": "<p>Datová sada obsahuje informace o projektech, ve kterých byl Karlovarský kraj zainteresován (buď jako příjemce dotace a žadatel o dotaci nebo jako partner projektu). Informace jsou vedeny o termínu zahájení a ukončení projektu, roli Karlovarského kraje, registrační číslo projektu, spolufinancování EU a operačním programu.</p>",
+      "description": "<p>Datová sada obsahuje informace o ukončených projektech v oblasti rozvoje regionu a územního plánování, ve kterých byl Karlovarský kraj zainteresován (buď jako příjemce dotace a žadatel o dotaci nebo jako partner projektu). Informace jsou vedeny o termínu zahájení a ukončení projektu, roli Karlovarského kraje, registrační číslo projektu, spolufinancování EU a operačním programu. Souřadnicový systém je použit WGS 1984.</p><p>Poskytovatelem dat je Krajský úřad Karlovarského kraje.</p>",
       "keyword": [
-        "projekty",
-        "projekty Karlovarského kraje",
         "Karlovarský kraj",
-        "ukončené projekty",
         "regionální rozvoj",
-        "územní plánování"
+        "územní plánování",
+        "projekt",
+        "ukončený"
       ],
       "issued": "2024-12-19T10:06:20.000Z",
-      "modified": "2025-04-01T08:55:35.064Z",
+      "modified": "2025-12-05T10:42:25.000Z",
       "publisher": {
         "name": "Krajský úřad Karlovarského kraje"
       },
@@ -10055,37 +10054,39 @@
       "metadata": {
         "mdLang": {
           "languageCode": {
+            "@_Sync": "FALSE",
             "@_value": "cze"
           }
         },
         "mdContact": {
           "rpCntInfo": {
             "cntAddress": {
-              "eMailAdd": "info@datazapad.cz"
+              "eMailAdd": "pavla.brabencova@kickk.cz"
             }
           },
-          "rpOrgName": "Karlovarská agentura rozvoje podnikání, p.o.",
           "role": {
             "RoleCd": {
               "@_value": "007"
             }
-          }
+          },
+          "rpOrgName": "Krajské inovační centrum Karlovarského kraje, p.o."
         },
-        "mdDateSt": "2024-12-19",
+        "mdDateSt": {
+          "@_Sync": "FALSE",
+          "#value": "2025-12-05"
+        },
         "Esri": {
           "ArcGISFormat": 1,
-          "CreaTime": 10550400,
+          "CreaTime": 10540400,
           "ArcGISProfile": "INSPIRE",
-          "ArcGISstyle": "INSPIRE Metadata Directive",
-          "ModDate": 20250213,
           "CreaDate": 20241219,
-          "ModTime": 12115401,
-          "SyncOnce": "TRUE",
-          "MapLyrSync": false,
-          "PublishStatus": "editor:esri.dijit.metadata.editor"
+          "SyncOnce": "TRUE"
         },
-        "mdTimeSt": "11:12:57.97",
+        "mdTimeSt": "10:43:51",
         "dqInfo": {
+          "dataLineage": {
+            "statement": "Data Krajského úřadu Karlovarského kraje a Krajského inovačního centra Karlovarského kraje, p.o."
+          },
           "dqScope": {
             "scpLvl": {
               "ScopeCd": {
@@ -10100,7 +10101,10 @@
                   "date": {
                     "pubDate": "2010-12-08T00:00:00"
                   },
-                  "resTitle": "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                  "resTitle": {
+                    "@_Sync": "FALSE",
+                    "#value": "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                  }
                 }
               }
             }
@@ -10112,44 +10116,50 @@
           }
         },
         "dataIdInfo": {
-          "idAbs": "<p>Datová sada obsahuje informace o projektech, ve kterých byl Karlovarský kraj zainteresován (buď jako příjemce dotace a žadatel o dotaci nebo jako partner projektu). Informace jsou vedeny o termínu zahájení a ukončení projektu, roli Karlovarského kraje, registrační číslo projektu, spolufinancování EU a operačním programu.</p>",
+          "idAbs": "<p>Datová sada obsahuje informace o ukončených projektech v oblasti rozvoje regionu a územního plánování, ve kterých byl Karlovarský kraj zainteresován (buď jako příjemce dotace a žadatel o dotaci nebo jako partner projektu). Informace jsou vedeny o termínu zahájení a ukončení projektu, roli Karlovarského kraje, registrační číslo projektu, spolufinancování EU a operačním programu. Souřadnicový systém je použit WGS 1984.</p><p>Poskytovatelem dat je Krajský úřad Karlovarského kraje.</p>",
           "idCredit": "Krajský úřad Karlovarského kraje",
           "dataLang": {
-            "countryCode": {
-              "@_value": "CZ"
-            },
             "languageCode": {
+              "@_Sync": "FALSE",
               "@_value": "cze"
             }
           },
           "idPurp": "Seznam ukončených projektů Karlovarského kraje v oblasti rozvoje regionu a územního plánování",
-          "tpCat": [
-            {
-              "TopicCatCd": {
-                "@_value": "015"
-              }
-            },
-            {
-              "TopicCatCd": {
-                "@_value": "016"
-              }
+          "tpCat": {
+            "TopicCatCd": {
+              "@_value": "016"
             }
-          ],
+          },
           "dataExt": {
             "geoEle": {
               "GeoBndBox": {
-                "eastBL": 13.32141,
-                "southBL": 49.87137,
-                "northBL": 50.485268,
-                "westBL": 12.086087
+                "eastBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 13.11267
+                },
+                "southBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 49.84481
+                },
+                "northBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 50.481773
+                },
+                "westBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 12.22067
+                }
               }
             }
           },
           "idCitation": {
             "date": {
-              "pubDate": "2024-12-19T11:13:53.882+01:00"
+              "reviseDate": "2025-12-05T10:42:25"
             },
-            "resTitle": "Ukončené projekty Karlovarského kraje v oblasti rozvoje regionu a územního plánování",
+            "resTitle": {
+              "@_Sync": "FALSE",
+              "#value": "Ukončené projekty Karlovarského kraje v oblasti regionálního rozvoje a územního plánování"
+            },
             "citId": {
               "identCode": "publication"
             }
@@ -10159,66 +10169,56 @@
               "date": {
                 "pubDate": "2008-06-01T00:00:00"
               },
-              "resTitle": "GEMET - INSPIRE themes, version 1.0"
+              "resTitle": {
+                "@_Sync": "FALSE",
+                "#value": "GEMET - INSPIRE themes, version 1.0"
+              }
             },
             "keyword": [
-              "projekty",
-              "projekty Karlovarského kraje",
+              "projekt",
+              "ukončený",
               "Karlovarský kraj",
-              "ukončené projekty",
-              "rozvoj regionu",
+              "regionální rozvoj",
               "územní plánování"
             ]
           },
-          "resMaint": {
-            "maintScp": {
-              "ScopeCd": {
-                "@_value": "001"
-              }
-            },
-            "maintFreq": {
-              "MaintFreqCd": {
-                "@_value": "008"
-              }
+          "spatRpType": {
+            "SpatRepTypCd": {
+              "@_Sync": "FALSE",
+              "@_value": "003"
             }
           },
           "dataChar": {
             "CharSetCd": {
+              "@_Sync": "FALSE",
               "@_value": "004"
             }
           },
           "searchKeys": {
             "keyword": [
-              "projekty",
-              "projekty Karlovarského kraje",
               "Karlovarský kraj",
-              "ukončené projekty",
               "regionální rozvoj",
-              "územní plánování"
+              "územní plánování",
+              "projekt",
+              "ukončený"
             ]
           },
           "idPoC": {
             "rpCntInfo": {
               "cntAddress": {
-                "eMailAdd": "pavla.brabencova@karp-kv.cz"
+                "eMailAdd": "pavla.brabencova@kickk.cz"
               }
             },
-            "rpOrgName": "Krajský úřad Karlovarského kraje",
             "role": {
               "RoleCd": {
                 "@_value": "007"
               }
-            }
+            },
+            "rpOrgName": "Krajský úřad Karlovarského kraje"
           },
           "resConst": [
             {
               "LegConsts": {
-                "useConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
-                "othConsts": "Jiná omezení",
                 "inspireAccessUseConditions": {
                   "ConditionsAccUseCd": {
                     "@_value": "001"
@@ -10228,12 +10228,6 @@
             },
             {
               "LegConsts": {
-                "othConsts": "Jiná omezení",
-                "accessConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
                 "inspirePublicAccessLimits": {
                   "PublicAccessCd": {
                     "@_value": "001"
@@ -10252,17 +10246,18 @@
           "RefSystem": {
             "refSysID": {
               "identCode": {
-                "@_code": "WGS84"
+                "@_Sync": "FALSE",
+                "@_code": "GCS_WGS_1984"
               }
             }
           }
         },
         "mdChar": {
           "CharSetCd": {
+            "@_Sync": "FALSE",
             "@_value": "004"
           }
         },
-        "mdFileID": "1734603178189r5620261866026361",
         "distInfo": {
           "distTranOps": {
             "onLineSrc": {
@@ -10271,6 +10266,11 @@
           }
         },
         "mdMaint": {
+          "maintScp": {
+            "ScopeCd": {
+              "@_value": "001"
+            }
+          },
           "maintFreq": {
             "MaintFreqCd": {
               "@_value": "008"
@@ -10285,77 +10285,77 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/datasets/59e913758bea4217b37caaf525459eeb_0"
+          "accessURL": "https://www.datazapad.cz/datasets/59e913758bea4217b37caaf525459eeb_3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "ArcGIS GeoService",
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
-          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Ukon%C4%8Den%C3%A9_projekty_KVK_v_oblasti_RR_WFL1/FeatureServer/0"
+          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Ukon%C4%8Den%C3%A9_projekty_KVK_v_oblasti_RR_WFL1/FeatureServer/3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "CSV",
           "format": "CSV",
           "mediaType": "text/csv",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/59e913758bea4217b37caaf525459eeb/csv?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/59e913758bea4217b37caaf525459eeb/csv?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Shapefile",
           "format": "ZIP",
           "mediaType": "application/zip",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/59e913758bea4217b37caaf525459eeb/shapefile?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/59e913758bea4217b37caaf525459eeb/shapefile?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "GeoJSON",
           "format": "GeoJSON",
           "mediaType": "application/vnd.geo+json",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/59e913758bea4217b37caaf525459eeb/geojson?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/59e913758bea4217b37caaf525459eeb/geojson?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "KML",
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/59e913758bea4217b37caaf525459eeb/kml?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/59e913758bea4217b37caaf525459eeb/kml?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "File Geodatabase",
           "format": "ZIP",
           "mediaType": "application/zip",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/59e913758bea4217b37caaf525459eeb/filegdb?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/59e913758bea4217b37caaf525459eeb/filegdb?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Feature Collection",
           "format": "TXT",
           "mediaType": "text/plain",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/59e913758bea4217b37caaf525459eeb/featureCollection?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/59e913758bea4217b37caaf525459eeb/featureCollection?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Excel",
           "format": "XLSX",
           "mediaType": "application/vnd.ms-excel",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/59e913758bea4217b37caaf525459eeb/excel?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/59e913758bea4217b37caaf525459eeb/excel?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "GeoPackage",
           "format": "GPKG",
           "mediaType": "application/geopackage+sqlite3",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/59e913758bea4217b37caaf525459eeb/geoPackage?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/59e913758bea4217b37caaf525459eeb/geoPackage?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "SQLite Geodatabase",
           "format": "GDB",
           "mediaType": "application/geopackage+sqlite3",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/59e913758bea4217b37caaf525459eeb/sqlite?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/59e913758bea4217b37caaf525459eeb/sqlite?layers=3"
         }
       ],
       "theme": [
@@ -11299,41 +11299,6 @@
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
           "accessURL": "https://www.datazapad.cz/api/download/v1/items/5b6083d1a59d46c59d26717b31e991d1/kml?layers=3"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "File Geodatabase",
-          "format": "ZIP",
-          "mediaType": "application/zip",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/5b6083d1a59d46c59d26717b31e991d1/filegdb?layers=3"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "Feature Collection",
-          "format": "TXT",
-          "mediaType": "text/plain",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/5b6083d1a59d46c59d26717b31e991d1/featureCollection?layers=3"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "Excel",
-          "format": "XLSX",
-          "mediaType": "application/vnd.ms-excel",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/5b6083d1a59d46c59d26717b31e991d1/excel?layers=3"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "GeoPackage",
-          "format": "GPKG",
-          "mediaType": "application/geopackage+sqlite3",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/5b6083d1a59d46c59d26717b31e991d1/geoPackage?layers=3"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "SQLite Geodatabase",
-          "format": "GDB",
-          "mediaType": "application/geopackage+sqlite3",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/5b6083d1a59d46c59d26717b31e991d1/sqlite?layers=3"
         }
       ],
       "theme": [
@@ -11909,41 +11874,6 @@
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
           "accessURL": "https://www.datazapad.cz/api/download/v1/items/5e900a28dedd446aa8ae18d49ac88d70/kml?layers=3"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "File Geodatabase",
-          "format": "ZIP",
-          "mediaType": "application/zip",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/5e900a28dedd446aa8ae18d49ac88d70/filegdb?layers=3"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "Feature Collection",
-          "format": "TXT",
-          "mediaType": "text/plain",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/5e900a28dedd446aa8ae18d49ac88d70/featureCollection?layers=3"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "Excel",
-          "format": "XLSX",
-          "mediaType": "application/vnd.ms-excel",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/5e900a28dedd446aa8ae18d49ac88d70/excel?layers=3"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "GeoPackage",
-          "format": "GPKG",
-          "mediaType": "application/geopackage+sqlite3",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/5e900a28dedd446aa8ae18d49ac88d70/geoPackage?layers=3"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "SQLite Geodatabase",
-          "format": "GDB",
-          "mediaType": "application/geopackage+sqlite3",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/5e900a28dedd446aa8ae18d49ac88d70/sqlite?layers=3"
         }
       ],
       "theme": [
@@ -17009,41 +16939,6 @@
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
           "accessURL": "https://www.datazapad.cz/api/download/v1/items/98d26c1b1c8f4bd49850af82a19a7f58/kml?layers=3"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "File Geodatabase",
-          "format": "ZIP",
-          "mediaType": "application/zip",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/98d26c1b1c8f4bd49850af82a19a7f58/filegdb?layers=3"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "Feature Collection",
-          "format": "TXT",
-          "mediaType": "text/plain",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/98d26c1b1c8f4bd49850af82a19a7f58/featureCollection?layers=3"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "Excel",
-          "format": "XLSX",
-          "mediaType": "application/vnd.ms-excel",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/98d26c1b1c8f4bd49850af82a19a7f58/excel?layers=3"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "GeoPackage",
-          "format": "GPKG",
-          "mediaType": "application/geopackage+sqlite3",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/98d26c1b1c8f4bd49850af82a19a7f58/geoPackage?layers=3"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "SQLite Geodatabase",
-          "format": "GDB",
-          "mediaType": "application/geopackage+sqlite3",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/98d26c1b1c8f4bd49850af82a19a7f58/sqlite?layers=3"
         }
       ],
       "theme": [
