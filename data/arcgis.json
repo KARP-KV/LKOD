@@ -6,6 +6,310 @@
   "dataset": [
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=01509286281c4bb994748444d79a1815&sublayer=0",
+      "landingPage": "https://www.datazapad.cz/datasets/01509286281c4bb994748444d79a1815_0",
+      "title": "Maloplošná zvláště chráněná území v Karlovarském kraji",
+      "description": "<p>Polygonová vrstva maloplošných zvláště chráněných území, která leží na území Karlovarského kraje. Datová sada obsahuje název území, informace o kódu území a kategorii, typu ochranného pásma, kategorii dle Mezinárodního svazu ochrany přírody a rozlohu. Souřadnicový systém je použit JTSK. Poskytovatelem dat je Krajský úřad Karlovarského kraje, odbor životního prostředí a zemědělství.</p><p>Použité zkratky: PP - přírodní památka; PR - přírodní rezervace; NPP - národní přírodní památka; NPR - národní přírodní rezervace; VYH - vyhlášené; ZAK - ze zákona.</p><p>Kategorie IUCN (Mezinárodního svazu ochrany přírody): Ia - přísně chráněná přírodní rezervace; III - přírodní památka nebo charakteristický rys; IV - území péče o biotopy nebo druhy.</p>",
+      "keyword": [
+        "Karlovarský kraj",
+        "zvláště chráněná území",
+        "chráněná území",
+        "maloplošná"
+      ],
+      "issued": "2025-12-02T10:06:29.000Z",
+      "modified": "2025-12-08T11:16:31.031Z",
+      "publisher": {
+        "name": "Krajský úřad Karlovarského kraje"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "pavla.brabencova_karp",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "12.0903,49.8662,13.3251,50.4738",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0",
+      "category": [
+        "Kraj a dotace"
+      ],
+      "metadata": {
+        "mdLang": {
+          "languageCode": {
+            "@_Sync": "FALSE",
+            "@_value": "cze"
+          }
+        },
+        "mdContact": {
+          "rpCntInfo": {
+            "cntAddress": {
+              "eMailAdd": "pavla.brabencova@kickk.cz"
+            }
+          },
+          "role": {
+            "RoleCd": {
+              "@_value": "007"
+            }
+          },
+          "rpOrgName": "Krajské inovační centrum Karlovarského kraje, p.o."
+        },
+        "mdDateSt": {
+          "@_Sync": "FALSE",
+          "#value": "2025-12-08"
+        },
+        "Esri": {
+          "ArcGISFormat": 1,
+          "CreaTime": 11033100,
+          "ArcGISProfile": "INSPIRE",
+          "DataProperties": {
+            "itemProps": {
+              "portalDetails": {
+                "thumbnailURL": "https://www.arcgis.com/sharing/rest/content/items/01509286281c4bb994748444d79a1815/info/thumbnail/thumbnail1765191026880.png"
+              }
+            }
+          },
+          "CreaDate": 20251202,
+          "SyncOnce": "TRUE"
+        },
+        "mdTimeSt": "12:10:19",
+        "dqInfo": {
+          "dataLineage": {
+            "statement": "Data Krajského úřadu Karlovarského kraje"
+          },
+          "dqScope": {
+            "scpLvl": {
+              "ScopeCd": {
+                "@_value": "005"
+              }
+            }
+          },
+          "report": {
+            "measResult": {
+              "ConResult": {
+                "conSpec": {
+                  "date": {
+                    "pubDate": "2010-12-08T00:00:00"
+                  },
+                  "resTitle": {
+                    "@_Sync": "FALSE",
+                    "#value": "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "mdHrLv": {
+          "ScopeCd": {
+            "@_value": "005"
+          }
+        },
+        "dataIdInfo": {
+          "idAbs": "<p>Polygonová vrstva maloplošných zvláště chráněných území, která leží na území Karlovarského kraje. Datová sada obsahuje název území, informace o kódu území a kategorii, typu ochranného pásma, kategorii dle Mezinárodního svazu ochrany přírody a rozlohu. Souřadnicový systém je použit JTSK. Poskytovatelem dat je Krajský úřad Karlovarského kraje, odbor životního prostředí a zemědělství.</p><p>Použité zkratky: PP - přírodní památka; PR - přírodní rezervace; NPP - národní přírodní památka; NPR - národní přírodní rezervace; VYH - vyhlášené; ZAK - ze zákona.</p><p>Kategorie IUCN (Mezinárodního svazu ochrany přírody): Ia - přísně chráněná přírodní rezervace; III - přírodní památka nebo charakteristický rys; IV - území péče o biotopy nebo druhy.</p>",
+          "idCredit": "Odbor životního prostředí a zemědělství, Krajský úřad Karlovarského kraje",
+          "dataExt": {
+            "geoEle": {
+              "GeoBndBox": {
+                "eastBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 13.325095
+                },
+                "southBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 49.866168
+                },
+                "northBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 50.473766
+                },
+                "westBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 12.090272
+                }
+              }
+            }
+          },
+          "idCitation": {
+            "date": {
+              "pubDate": "2025-12-08T12:08:30"
+            },
+            "resTitle": {
+              "@_Sync": "FALSE",
+              "#value": "Maloplošná zvláště chráněná území v Karlovarském kraji"
+            },
+            "citId": {
+              "identCode": "publication"
+            }
+          },
+          "dataLang": {
+            "languageCode": {
+              "@_Sync": "FALSE",
+              "@_value": "cze"
+            }
+          },
+          "themeKeys": {
+            "thesaName": {
+              "date": {
+                "pubDate": "2008-06-01T00:00:00"
+              },
+              "resTitle": {
+                "@_Sync": "FALSE",
+                "#value": "GEMET - INSPIRE themes, version 1.0"
+              }
+            },
+            "keyword": [
+              "maloplošná",
+              "zvláště chráněná území",
+              "Karlovarský kraj"
+            ]
+          },
+          "idPurp": "Přehled maloplošných zvláště chráněných území na území Karlovarského kraje.",
+          "dataChar": {
+            "CharSetCd": {
+              "@_Sync": "FALSE",
+              "@_value": "004"
+            }
+          },
+          "tpCat": [
+            {
+              "TopicCatCd": {
+                "@_value": "002"
+              }
+            },
+            {
+              "TopicCatCd": {
+                "@_value": "007"
+              }
+            }
+          ],
+          "searchKeys": {
+            "keyword": [
+              "Karlovarský kraj",
+              "zvláště chráněná území",
+              "chráněná území",
+              "maloplošná"
+            ]
+          },
+          "idPoC": {
+            "rpCntInfo": {
+              "cntAddress": {
+                "eMailAdd": "pavla.brabencova@kickk.cz"
+              }
+            },
+            "role": {
+              "RoleCd": {
+                "@_value": "007"
+              }
+            },
+            "rpOrgName": "Krajský úřad Karlovarského kraje"
+          },
+          "resConst": [
+            {
+              "LegConsts": {
+                "inspireAccessUseConditions": {
+                  "ConditionsAccUseCd": {
+                    "@_value": "001"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "inspirePublicAccessLimits": {
+                  "PublicAccessCd": {
+                    "@_value": "001"
+                  }
+                }
+              }
+            },
+            {
+              "Consts": {
+                "useLimit": "<p>CC0 1.0</p>"
+              }
+            }
+          ]
+        },
+        "refSysInfo": {
+          "RefSystem": {
+            "refSysID": {
+              "identCode": {
+                "@_Sync": "FALSE",
+                "@_code": "S_JTSK_Krovak_East_North"
+              }
+            }
+          }
+        },
+        "mdChar": {
+          "CharSetCd": {
+            "@_Sync": "FALSE",
+            "@_value": "004"
+          }
+        },
+        "distInfo": {
+          "distTranOps": {
+            "onLineSrc": {
+              "linkage": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Zvl%C3%A1%C5%A1t%C4%9B_chr%C3%A1n%C4%9Bn%C3%A1_%C3%BAzem%C3%AD_v_Karlovarsk%C3%A9m_kraji_WFL1/FeatureServer"
+            }
+          }
+        },
+        "mdMaint": {
+          "maintFreq": {
+            "MaintFreqCd": {
+              "@_value": "008"
+            }
+          }
+        },
+        "@_xml:lang": "cs"
+      },
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datazapad.cz/datasets/01509286281c4bb994748444d79a1815_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Zvl%C3%A1%C5%A1t%C4%9B_chr%C3%A1n%C4%9Bn%C3%A1_%C3%BAzem%C3%AD_v_Karlovarsk%C3%A9m_kraji_WFL1/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/01509286281c4bb994748444d79a1815/csv?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/01509286281c4bb994748444d79a1815/shapefile?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/01509286281c4bb994748444d79a1815/geojson?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/01509286281c4bb994748444d79a1815/kml?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=01fcf68eb2054fb3ab99af6aa34af6e4&sublayer=3",
       "landingPage": "https://www.datazapad.cz/datasets/01fcf68eb2054fb3ab99af6aa34af6e4_3",
       "title": "Seznam strategických dokumentů Karlovarského kraje",
