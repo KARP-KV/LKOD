@@ -21,24 +21,5 @@
   "prvek_rúian": [
     "https://linked.cuzk.cz/resource/ruian/vusc/51"
   ],
-  "distribuce": [
-    {
-      "typ": "Distribuce",
-      "iri": "https://www.datazapad.cz/pages/02ff52be52434a68918e32f9468417da",
-      "název": {
-        "cs": "ArcGIS Hub Dataset"
-      },
-      "soubor_ke_stažení": "https://www.datazapad.cz/pages/02ff52be52434a68918e32f9468417da",
-      "přístupové_url": "https://www.datazapad.cz/pages/02ff52be52434a68918e32f9468417da",
-      "typ_média": "http://www.iana.org/assignments/media-types/text/html",
-      "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
-      "podmínky_užití": {
-        "typ": "Specifikace podmínek užití",
-        "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
-        "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
-        "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
-        "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
-      }
-    }
-  ]
+  "distribuce": []
 }

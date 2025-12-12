@@ -28,42 +28,6 @@
   "distribuce": [
     {
       "typ": "Distribuce",
-      "iri": "https://www.datazapad.cz/datasets/Kakraj::svazky-obcí-dle-příslušnosti-jednotlivých-obcí-v-karlovarském-kraji",
-      "název": {
-        "cs": "ArcGIS Hub Dataset"
-      },
-      "soubor_ke_stažení": "https://www.datazapad.cz/datasets/Kakraj::svazky-obcí-dle-příslušnosti-jednotlivých-obcí-v-karlovarském-kraji",
-      "přístupové_url": "https://www.datazapad.cz/datasets/Kakraj::svazky-obcí-dle-příslušnosti-jednotlivých-obcí-v-karlovarském-kraji",
-      "typ_média": "http://www.iana.org/assignments/media-types/text/html",
-      "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
-      "podmínky_užití": {
-        "typ": "Specifikace podmínek užití",
-        "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
-        "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
-        "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
-        "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
-      }
-    },
-    {
-      "typ": "Distribuce",
-      "iri": "https://geo-ags.kr-karlovarsky.cz/arcgis/rest/services/OpenData/ObceDleSvazku/MapServer/0",
-      "název": {
-        "cs": "ArcGIS GeoService"
-      },
-      "soubor_ke_stažení": "https://geo-ags.kr-karlovarsky.cz/arcgis/rest/services/OpenData/ObceDleSvazku/MapServer/0",
-      "přístupové_url": "https://geo-ags.kr-karlovarsky.cz/arcgis/rest/services/OpenData/ObceDleSvazku/MapServer/0",
-      "typ_média": "http://www.iana.org/assignments/media-types/application/json",
-      "formát": "http://publications.europa.eu/resource/authority/file-type/JSON",
-      "podmínky_užití": {
-        "typ": "Specifikace podmínek užití",
-        "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
-        "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
-        "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
-        "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
-      }
-    },
-    {
-      "typ": "Distribuce",
       "iri": "https://www.datazapad.cz/api/download/v1/items/113ff94189844161b0b4b590e155793a/csv?layers=0",
       "název": {
         "cs": "CSV"
@@ -106,8 +70,8 @@
       },
       "soubor_ke_stažení": "https://www.datazapad.cz/api/download/v1/items/113ff94189844161b0b4b590e155793a/geojson?layers=0",
       "přístupové_url": "https://www.datazapad.cz/api/download/v1/items/113ff94189844161b0b4b590e155793a/geojson?layers=0",
-      "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.geo+json",
-      "formát": "http://publications.europa.eu/resource/authority/file-type/GEOJSON",
+      "typ_média": "http://www.iana.org/assignments/media-types/application/json",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/JSON",
       "podmínky_užití": {
         "typ": "Specifikace podmínek užití",
         "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
