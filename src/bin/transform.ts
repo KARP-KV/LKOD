@@ -72,8 +72,26 @@ import * as CONFIG from "../../config.ts";
 
 		// Distributions
 		for await (const arcgisDistribution of arcgisDataset.distribution) {
+			const rules = CONFIG.META_LKOD.rules;
+
+			// Filter by media type
+			if (rules.excludeMediaTypes.includes(arcgisDistribution.mediaType)) {
+				continue;
+			}
+
+			// Filter by title
+			if (rules.excludeDistributionTitles.includes(arcgisDistribution.title)) {
+				continue;
+			}
+
+			// Transform media type if needed
+			let rawMediaType = arcgisDistribution.mediaType;
+			if (rules.transformMediaTypes[rawMediaType]) {
+				rawMediaType = rules.transformMediaTypes[rawMediaType];
+			}
+
 			const distribution: Partial<Lkod.DatasetDistribution> = {};
-			const mediaType = detectMediaType(arcgisDistribution.mediaType);
+			const mediaType = detectMediaType(rawMediaType);
 
 			distribution['typ'] = 'Distribuce';
 			distribution['iri'] = arcgisDistribution.accessURL;

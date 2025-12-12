@@ -48,10 +48,23 @@ export const META_LKOD = {
 		'011': 'NEVER',
 		'012': 'UNKNOWN',
 	} as Record<string, string>,
-	excludedDatasets: [
-	],
-	excludePrefix: [
-		'https://www.datazapad.cz/documents/',
-		'https://www.datazapad.cz/apps/',
-	]
+	rules: {
+		// Dataset-level filtering
+		excludeDatasets: [],
+		excludeDatasetPrefix: [
+			'https://www.datazapad.cz/documents/',
+			'https://www.datazapad.cz/apps/',
+		],
+		// Distribution-level filtering
+		excludeMediaTypes: [
+			'text/html',
+		],
+		excludeDistributionTitles: [
+			'ArcGIS GeoService',
+		],
+		// Media type transformations (from → to)
+		transformMediaTypes: {
+			'application/vnd.geo+json': 'application/json',
+		} as Record<string, string>,
+	}
 }
