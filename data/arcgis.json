@@ -16390,10 +16390,10 @@
     },
     {
       "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=94c4d284041c4412af231e96fe66cf6b&sublayer=0",
-      "landingPage": "https://www.datazapad.cz/datasets/94c4d284041c4412af231e96fe66cf6b_0",
+      "identifier": "https://www.arcgis.com/home/item.html?id=94c4d284041c4412af231e96fe66cf6b&sublayer=3",
+      "landingPage": "https://www.datazapad.cz/datasets/94c4d284041c4412af231e96fe66cf6b_3",
       "title": "Kina a kinosály v Karlovarském kraji",
-      "description": "<p>Přehled kin a kinosálů kromě souřadnicové specifikace umístění kina obsahuje rovněž informace o typu kina, popis kina, webové stránky a kontaktní e-mail a telefonní číslo. Souřadnicový systém je WGS 1984.</p><div>Poskytovatelem dat je Karlovarská agentura rozvoje podnikání, p.o.</div>",
+      "description": "<p>Datová sada s přehledem kin a kinosálů v Karlovarském kraji kromě souřadnicové specifikace umístění kina obsahuje rovněž informace o typu kina, popis kina, webové stránky a kontaktní e-mail a telefonní číslo. Souřadnicový systém je použit WGS 1984.</p><div>Poskytovatelem dat je Krajské inovační centrum Karlovarského kraje, p.o.</div>",
       "keyword": [
         "kino",
         "kinosál",
@@ -16401,9 +16401,9 @@
         "Karlovarský kraj"
       ],
       "issued": "2025-04-28T10:32:44.000Z",
-      "modified": "2025-04-28T10:32:55.247Z",
+      "modified": "2025-12-15T12:41:40.000Z",
       "publisher": {
-        "name": "Karlovarská agentura rozvoje podnikání, p.o."
+        "name": "Krajské inovační centrum Karlovarského kraje"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -16411,7 +16411,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "12.1868,49.9581,12.9490,50.3246",
+      "spatial": "12.1868,49.9658,12.9490,50.3660",
       "license": "https://creativecommons.org/licenses/by/4.0",
       "category": [
         "Kultura a cestovní ruch"
@@ -16419,13 +16419,14 @@
       "metadata": {
         "mdLang": {
           "languageCode": {
+            "@_Sync": "FALSE",
             "@_value": "cze"
           }
         },
         "mdContact": {
           "rpCntInfo": {
             "cntAddress": {
-              "eMailAdd": "pavla.brabencova@karp-kv.cz"
+              "eMailAdd": "pavla.brabencova@kickk.cz"
             }
           },
           "role": {
@@ -16433,31 +16434,24 @@
               "@_value": "007"
             }
           },
-          "rpOrgName": "Karlovarská agentura rozvoje podnikání, p.o."
+          "rpOrgName": "Krajské inovační centrum Karlovarského kraje, p.o."
         },
-        "distInfo": {
-          "distTranOps": {
-            "onLineSrc": {
-              "linkage": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Kina_a_kinos%C3%A1ly_v_Karlovarsk%C3%A9m_kraji_WFL1/FeatureServer"
-            }
-          }
+        "mdDateSt": {
+          "@_Sync": "FALSE",
+          "#value": "2025-12-15"
         },
-        "mdMaint": {
-          "maintFreq": {
-            "MaintFreqCd": {
-              "@_value": "009"
-            }
-          }
-        },
-        "mdDateSt": "2025-04-28",
         "Esri": {
           "ArcGISFormat": 1,
-          "CreaTime": 12234800,
+          "CreaTime": 12121100,
           "ArcGISProfile": "INSPIRE",
           "CreaDate": 20250428,
           "SyncOnce": "TRUE"
         },
+        "mdTimeSt": "12:42:48",
         "dqInfo": {
+          "dataLineage": {
+            "statement": "Data Krajského inovačního centra Karlovarského kraje, p.o."
+          },
           "dqScope": {
             "scpLvl": {
               "ScopeCd": {
@@ -16472,47 +16466,72 @@
                   "date": {
                     "pubDate": "2010-12-08T00:00:00"
                   },
-                  "resTitle": "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                  "resTitle": {
+                    "@_Sync": "FALSE",
+                    "#value": "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                  }
                 }
               }
             }
           }
         },
-        "@_xml:lang": "cs",
         "mdHrLv": {
           "ScopeCd": {
             "@_value": "005"
           }
         },
         "dataIdInfo": {
-          "idAbs": "<p>Přehled kin a kinosálů kromě souřadnicové specifikace umístění kina obsahuje rovněž informace o typu kina, popis kina, webové stránky a kontaktní e-mail a telefonní číslo. Souřadnicový systém je WGS 1984.</p><div>Poskytovatelem dat je Karlovarská agentura rozvoje podnikání, p.o.</div>",
-          "idCredit": "Karlovarská agentura rozvoje podnikání, p.o.",
+          "idAbs": "<p>Datová sada s přehledem kin a kinosálů v Karlovarském kraji kromě souřadnicové specifikace umístění kina obsahuje rovněž informace o typu kina, popis kina, webové stránky a kontaktní e-mail a telefonní číslo. Souřadnicový systém je použit WGS 1984.</p><div>Poskytovatelem dat je Krajské inovační centrum Karlovarského kraje, p.o.</div>",
+          "idCredit": "Krajské inovační centrum Karlovarského kraje, p.o.",
           "dataLang": {
             "languageCode": {
+              "@_Sync": "FALSE",
               "@_value": "cze"
             }
           },
           "idPurp": "Datová sada obsahuje přehled kin a kinosálů v Karlovarském kraji.",
-          "tpCat": {
-            "TopicCatCd": {
-              "@_value": "016"
+          "tpCat": [
+            {
+              "TopicCatCd": {
+                "@_value": "016"
+              }
+            },
+            {
+              "TopicCatCd": {
+                "@_value": "017"
+              }
             }
-          },
+          ],
           "dataExt": {
             "geoEle": {
               "GeoBndBox": {
-                "eastBL": 12.957275,
-                "southBL": 49.951054,
-                "northBL": 50.333416,
-                "westBL": 12.167532
+                "eastBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 12.949035
+                },
+                "southBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 49.965793
+                },
+                "northBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 50.366031
+                },
+                "westBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 12.186758
+                }
               }
             }
           },
           "idCitation": {
             "date": {
-              "pubDate": "2025-04-28T12:45:22"
+              "reviseDate": "2025-12-15T12:41:40"
             },
-            "resTitle": "Kina a kinosály v Karlovarském kraji",
+            "resTitle": {
+              "@_Sync": "FALSE",
+              "#value": "Kina a kinosály v Karlovarském kraji"
+            },
             "citId": {
               "identCode": "publication"
             }
@@ -16522,21 +16541,26 @@
               "date": {
                 "pubDate": "2008-06-01T00:00:00"
               },
-              "resTitle": "GEMET - INSPIRE themes, version 1.0"
+              "resTitle": {
+                "@_Sync": "FALSE",
+                "#value": "GEMET - INSPIRE themes, version 1.0"
+              }
             },
             "keyword": [
-              "Karlovarský kraj",
+              "kino",
               "kinosál",
-              "letní kino"
+              "Karlovarský kraj"
             ]
           },
           "spatRpType": {
             "SpatRepTypCd": {
+              "@_Sync": "FALSE",
               "@_value": "003"
             }
           },
           "dataChar": {
             "CharSetCd": {
+              "@_Sync": "FALSE",
               "@_value": "004"
             }
           },
@@ -16551,7 +16575,7 @@
           "idPoC": {
             "rpCntInfo": {
               "cntAddress": {
-                "eMailAdd": "pavla.brabencova@karp-kv.cz"
+                "eMailAdd": "pavla.brabencova@kickk.cz"
               }
             },
             "role": {
@@ -16559,7 +16583,7 @@
                 "@_value": "007"
               }
             },
-            "rpOrgName": "Karlovarská agentura rozvoje podnikání, p.o."
+            "rpOrgName": "Krajské inovační centrum Karlovarského kraje"
           },
           "resConst": [
             {
@@ -16591,6 +16615,7 @@
           "RefSystem": {
             "refSysID": {
               "identCode": {
+                "@_Sync": "FALSE",
                 "@_code": "GCS_WGS_1984"
               }
             }
@@ -16598,9 +16623,25 @@
         },
         "mdChar": {
           "CharSetCd": {
+            "@_Sync": "FALSE",
             "@_value": "004"
           }
-        }
+        },
+        "distInfo": {
+          "distTranOps": {
+            "onLineSrc": {
+              "linkage": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Kina_a_kinos%C3%A1ly_v_Karlovarsk%C3%A9m_kraji_WFL1/FeatureServer"
+            }
+          }
+        },
+        "mdMaint": {
+          "maintFreq": {
+            "MaintFreqCd": {
+              "@_value": "008"
+            }
+          }
+        },
+        "@_xml:lang": "cs"
       },
       "distribution": [
         {
@@ -16608,42 +16649,42 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/datasets/94c4d284041c4412af231e96fe66cf6b_0"
+          "accessURL": "https://www.datazapad.cz/datasets/94c4d284041c4412af231e96fe66cf6b_3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "ArcGIS GeoService",
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
-          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Kina_a_kinos%C3%A1ly_v_Karlovarsk%C3%A9m_kraji_WFL1/FeatureServer/0"
+          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Kina_a_kinos%C3%A1ly_v_Karlovarsk%C3%A9m_kraji_WFL1/FeatureServer/3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "CSV",
           "format": "CSV",
           "mediaType": "text/csv",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/94c4d284041c4412af231e96fe66cf6b/csv?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/94c4d284041c4412af231e96fe66cf6b/csv?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Shapefile",
           "format": "ZIP",
           "mediaType": "application/zip",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/94c4d284041c4412af231e96fe66cf6b/shapefile?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/94c4d284041c4412af231e96fe66cf6b/shapefile?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "GeoJSON",
           "format": "GeoJSON",
           "mediaType": "application/vnd.geo+json",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/94c4d284041c4412af231e96fe66cf6b/geojson?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/94c4d284041c4412af231e96fe66cf6b/geojson?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "KML",
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/94c4d284041c4412af231e96fe66cf6b/kml?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/94c4d284041c4412af231e96fe66cf6b/kml?layers=3"
         }
       ],
       "theme": [
