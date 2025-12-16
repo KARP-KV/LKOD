@@ -1,0 +1,27 @@
+{
+  "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+  "iri": "https://open.datazapad.cz/bad1ca41fefe4ac6914e436cecc54d1f.jsonld",
+  "typ": "Datová sada",
+  "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891168",
+  "název": {
+    "cs": "RIM: Počet studentů na pobočkách VŠ"
+  },
+  "popis": {
+    "cs": ""
+  },
+  "klíčové_slovo": {
+    "cs": [
+      "chytrý region",
+      "smart",
+      "bariéra"
+    ]
+  },
+  "téma": [
+    "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
+  ],
+  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+  "prvek_rúian": [
+    "https://linked.cuzk.cz/resource/ruian/vusc/51"
+  ],
+  "distribuce": []
+}
