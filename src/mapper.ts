@@ -7,6 +7,8 @@ export function detectMediaType(type: string): Lib.MediaType {
 			return { fileType: 'HTML', mediaType: 'text/html' };
 		case "text/csv":
 			return { fileType: 'CSV', mediaType: 'text/csv' };
+		case "text/plain":
+			return { fileType: 'TXT', mediaType: 'text/plain' };
 		case "application/json":
 			return { fileType: 'JSON', mediaType: 'application/json' };
 		case "application/zip":
@@ -15,6 +17,14 @@ export function detectMediaType(type: string): Lib.MediaType {
 			return { fileType: 'GEOJSON', mediaType: 'application/vnd.geo+json' };
 		case "application/vnd.google-earth.kml+xml":
 			return { fileType: 'KML', mediaType: 'application/vnd.google-earth.kml+xml' };
+		case "application/geopackage+sqlite3":
+			return { fileType: 'GPKG', mediaType: 'application/geopackage+sqlite3' };
+		case "application/vnd.ms-excel":
+			return { fileType: 'XLSX', mediaType: 'application/vnd.ms-excel' };
+		case "application/vnd.ogc.wfs_xml":
+			return { fileType: 'XML', mediaType: 'application/vnd.ogc.wfs_xml' };
+		case "application/vnd.ogc.wms_xml":
+			return { fileType: 'XML', mediaType: 'application/vnd.ogc.wms_xml' };
 		default: {
 			return { fileType: 'UNKNOWN', mediaType: 'unknown' };
 		}
