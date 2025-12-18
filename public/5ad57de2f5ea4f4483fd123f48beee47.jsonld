@@ -124,8 +124,8 @@
       },
       "soubor_ke_stažení": "https://www.datazapad.cz/api/download/v1/items/5ad57de2f5ea4f4483fd123f48beee47/featureCollection?layers=3",
       "přístupové_url": "https://www.datazapad.cz/api/download/v1/items/5ad57de2f5ea4f4483fd123f48beee47/featureCollection?layers=3",
-      "typ_média": "http://www.iana.org/assignments/media-types/unknown",
-      "formát": "http://publications.europa.eu/resource/authority/file-type/UNKNOWN",
+      "typ_média": "http://www.iana.org/assignments/media-types/text/plain",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/TXT",
       "podmínky_užití": {
         "typ": "Specifikace podmínek užití",
         "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
@@ -142,8 +142,8 @@
       },
       "soubor_ke_stažení": "https://www.datazapad.cz/api/download/v1/items/5ad57de2f5ea4f4483fd123f48beee47/excel?layers=3",
       "přístupové_url": "https://www.datazapad.cz/api/download/v1/items/5ad57de2f5ea4f4483fd123f48beee47/excel?layers=3",
-      "typ_média": "http://www.iana.org/assignments/media-types/unknown",
-      "formát": "http://publications.europa.eu/resource/authority/file-type/UNKNOWN",
+      "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.ms-excel",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/XLSX",
       "podmínky_užití": {
         "typ": "Specifikace podmínek užití",
         "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
@@ -160,8 +160,8 @@
       },
       "soubor_ke_stažení": "https://www.datazapad.cz/api/download/v1/items/5ad57de2f5ea4f4483fd123f48beee47/geoPackage?layers=3",
       "přístupové_url": "https://www.datazapad.cz/api/download/v1/items/5ad57de2f5ea4f4483fd123f48beee47/geoPackage?layers=3",
-      "typ_média": "http://www.iana.org/assignments/media-types/unknown",
-      "formát": "http://publications.europa.eu/resource/authority/file-type/UNKNOWN",
+      "typ_média": "http://www.iana.org/assignments/media-types/application/geopackage+sqlite3",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/GPKG",
       "podmínky_užití": {
         "typ": "Specifikace podmínek užití",
         "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
@@ -178,8 +178,8 @@
       },
       "soubor_ke_stažení": "https://www.datazapad.cz/api/download/v1/items/5ad57de2f5ea4f4483fd123f48beee47/sqlite?layers=3",
       "přístupové_url": "https://www.datazapad.cz/api/download/v1/items/5ad57de2f5ea4f4483fd123f48beee47/sqlite?layers=3",
-      "typ_média": "http://www.iana.org/assignments/media-types/unknown",
-      "formát": "http://publications.europa.eu/resource/authority/file-type/UNKNOWN",
+      "typ_média": "http://www.iana.org/assignments/media-types/application/geopackage+sqlite3",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/GPKG",
       "podmínky_užití": {
         "typ": "Specifikace podmínek užití",
         "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",

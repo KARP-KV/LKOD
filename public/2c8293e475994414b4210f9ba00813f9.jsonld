@@ -32,8 +32,8 @@
       },
       "soubor_ke_stažení": "https://geo-ags.kr-karlovarsky.cz/arcgis/services/OpenData/ObceDleMAS/MapServer/WFSServer?request=GetCapabilities&service=WFS",
       "přístupové_url": "https://geo-ags.kr-karlovarsky.cz/arcgis/services/OpenData/ObceDleMAS/MapServer/WFSServer?request=GetCapabilities&service=WFS",
-      "typ_média": "http://www.iana.org/assignments/media-types/unknown",
-      "formát": "http://publications.europa.eu/resource/authority/file-type/UNKNOWN",
+      "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.ogc.wfs_xml",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/XML",
       "podmínky_užití": {
         "typ": "Specifikace podmínek užití",
         "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
@@ -50,8 +50,8 @@
       },
       "soubor_ke_stažení": "https://geo-ags.kr-karlovarsky.cz/arcgis/services/OpenData/ObceDleMAS/MapServer/WMSServer?request=GetCapabilities&service=WMS",
       "přístupové_url": "https://geo-ags.kr-karlovarsky.cz/arcgis/services/OpenData/ObceDleMAS/MapServer/WMSServer?request=GetCapabilities&service=WMS",
-      "typ_média": "http://www.iana.org/assignments/media-types/unknown",
-      "formát": "http://publications.europa.eu/resource/authority/file-type/UNKNOWN",
+      "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.ogc.wms_xml",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/XML",
       "podmínky_užití": {
         "typ": "Specifikace podmínek užití",
         "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
