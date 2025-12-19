@@ -10005,6 +10005,45 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=57c8b30a84554342869c647db610e4e0",
+      "landingPage": "https://www.datazapad.cz/pages/57c8b30a84554342869c647db610e4e0",
+      "title": "Publikační plán",
+      "description": "Zajímá Vás, jaké datové sady pro Vás připravujeme k otevření a kdy je v katalogu otevřených dat budete moci najít? Vše naleznete v našem publikačním plánu, který pravidelně aktualizujeme.",
+      "keyword": [
+        "publikační plán",
+        "otevřená data",
+        "katalog otevřených dat"
+      ],
+      "issued": "2023-10-27T05:23:47.000Z",
+      "modified": "2025-12-19T09:49:43.000Z",
+      "publisher": {
+        "name": "{{source}}"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "jan.sklepek@karp-kv.cz",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent:computeSpatialProperty}}",
+      "license": "",
+      "category": [],
+      "metadata": "{{metadata.metadata}}",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datazapad.cz/pages/57c8b30a84554342869c647db610e4e0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=58bc30d273d84926bc4e817aabca9321&sublayer=3",
       "landingPage": "https://www.datazapad.cz/datasets/58bc30d273d84926bc4e817aabca9321_3",
       "title": "Golfová hřiště v Karlovarském kraji",
