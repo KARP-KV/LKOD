@@ -7567,6 +7567,43 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=4a9dd0013fe34e74bc76698c88e4bd0b",
+      "landingPage": "https://www.datazapad.cz/pages/4a9dd0013fe34e74bc76698c88e4bd0b",
+      "title": "Profil regionu - Ekonomická sféra - 01 - Ekonomický potenciál",
+      "description": "",
+      "keyword": [
+        ""
+      ],
+      "issued": "2024-08-26T12:27:41.000Z",
+      "modified": "2025-12-09T08:58:00.000Z",
+      "publisher": {
+        "name": "{{source}}"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "jan.sklepek@karp-kv.cz",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "12.0940,48.5525,18.8574,51.0581",
+      "license": "",
+      "category": [],
+      "metadata": "{{metadata.metadata}}",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datazapad.cz/pages/4a9dd0013fe34e74bc76698c88e4bd0b"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=4d8d7284782049ee826b794af25cbc05&sublayer=3",
       "landingPage": "https://www.datazapad.cz/datasets/4d8d7284782049ee826b794af25cbc05_3",
       "title": "Obecní živnostenské úřady Karlovarského kraje",

@@ -45,6 +45,7 @@
     "https://open.datazapad.cz/387d1403bddb48b09ba4e3cd3b7894f8.jsonld",
     "https://open.datazapad.cz/3f9c9a95272e40d1a24e2711515e3d4d.jsonld",
     "https://open.datazapad.cz/464108d64a93430083119bfb0845af3c.jsonld",
+    "https://open.datazapad.cz/4a9dd0013fe34e74bc76698c88e4bd0b.jsonld",
     "https://open.datazapad.cz/4d8d7284782049ee826b794af25cbc05.jsonld",
     "https://open.datazapad.cz/52658b60dacf474f80cf5bb7c8004cc6.jsonld",
     "https://open.datazapad.cz/52b5d92f7aff4e6282d6838ff338c76b.jsonld",
@@ -2858,6 +2859,31 @@
           }
         }
       ]
+    },
+    {
+      "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+      "iri": "https://open.datazapad.cz/4a9dd0013fe34e74bc76698c88e4bd0b.jsonld",
+      "typ": "Datová sada",
+      "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891168",
+      "název": {
+        "cs": "Profil regionu - Ekonomická sféra - 01 - Ekonomický potenciál"
+      },
+      "popis": {
+        "cs": ""
+      },
+      "klíčové_slovo": {
+        "cs": [
+          ""
+        ]
+      },
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "prvek_rúian": [
+        "https://linked.cuzk.cz/resource/ruian/vusc/51"
+      ],
+      "distribuce": []
     },
     {
       "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
