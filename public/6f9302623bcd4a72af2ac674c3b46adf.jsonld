@@ -4,10 +4,10 @@
   "typ": "Datová sada",
   "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891168",
   "název": {
-    "cs": "Záměr počtu přijímaných uchazečů pro školní rok 2024/2025 v Karlovarském kraji"
+    "cs": "Záměr počtu přijímaných uchazečů středních škol v Karlovarském kraji pro školní rok 2024/2025"
   },
   "popis": {
-    "cs": "Datová sada obsahuje informace typu délka, druh a forma vzdělávání, záměr počtu přijímaných uchazečů, dále rovněž kontaktní údaje na školu - telefonní kontakt, e-mailový kontakt a webové stránky školy."
+    "cs": "Záměr počtu přijímaných uchazečů středních škol pro školní rok 2024/2025 v Karlovarském kraji, jejichž zřizovatelem je Karlovarský kraj. Datová sada obsahuje informace typu délka, druh a forma vzdělávání, záměr počtu přijímaných uchazečů, dále rovněž webové stránky školy a prostorovou lokalizaci školy. Souřadnicový systém je použit WGS 1984.&nbsp;Poskytovatelem zdroje dat je Krajský úřad Karlovarského kraje, odbor školství, mládeže a tělovýchovy."
   },
   "klíčové_slovo": {
     "cs": [
@@ -26,7 +26,7 @@
     "http://publications.europa.eu/resource/authority/data-theme/EDUC",
     "http://publications.europa.eu/resource/authority/data-theme/TECH"
   ],
-  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/NEVER",
   "prvek_rúian": [
     "https://linked.cuzk.cz/resource/ruian/vusc/51"
   ],

@@ -12530,8 +12530,8 @@
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=6f9302623bcd4a72af2ac674c3b46adf&sublayer=0",
       "landingPage": "https://www.datazapad.cz/datasets/6f9302623bcd4a72af2ac674c3b46adf_0",
-      "title": "Záměr počtu přijímaných uchazečů pro školní rok 2024/2025 v Karlovarském kraji",
-      "description": "<p>Datová sada obsahuje informace typu délka, druh a forma vzdělávání, záměr počtu přijímaných uchazečů, dále rovněž kontaktní údaje na školu - telefonní kontakt, e-mailový kontakt a webové stránky školy.</p>",
+      "title": "Záměr počtu přijímaných uchazečů středních škol v Karlovarském kraji pro školní rok 2024/2025",
+      "description": "<p>Záměr počtu přijímaných uchazečů středních škol pro školní rok 2024/2025 v Karlovarském kraji, jejichž zřizovatelem je Karlovarský kraj. Datová sada obsahuje informace typu délka, druh a forma vzdělávání, záměr počtu přijímaných uchazečů, dále rovněž webové stránky školy a prostorovou lokalizaci školy. Souřadnicový systém je použit WGS 1984.&nbsp;</p><p>Poskytovatelem zdroje dat je Krajský úřad Karlovarského kraje, odbor školství, mládeže a tělovýchovy.</p>",
       "keyword": [
         "přijímaní uchazeči",
         "vyšší odborná škola",
@@ -12546,7 +12546,7 @@
       "issued": "2024-04-16T07:07:08.000Z",
       "modified": "2025-12-29T08:38:56.400Z",
       "publisher": {
-        "name": "Karlovarská agentura rozvoje podnikání, p.o."
+        "name": "Krajský úřad Karlovarského kraje"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -12568,21 +12568,13 @@
         "mdContact": {
           "rpCntInfo": {
             "cntAddress": {
-              "eMailAdd": "pavla.brabencova@karp-kv.cz"
+              "eMailAdd": "pavla.brabencova@kickk.cz"
             }
           },
           "rpOrgName": "Karlovarská agentura rozvoje podnikání, p.o.",
           "role": {
             "RoleCd": {
               "@_value": "007"
-            }
-          }
-        },
-        "mdFileID": "1713252557892r13938577594470614",
-        "distInfo": {
-          "distTranOps": {
-            "onLineSrc": {
-              "linkage": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Z%C3%A1m%C4%9Br_po%C4%8Dtu_p%C5%99ij%C3%ADman%C3%BDch_uchaze%C4%8D%C5%AF_pro_%C5%A1koln%C3%AD_rok_2024_2025_WFL1/FeatureServer"
             }
           }
         },
@@ -12621,14 +12613,13 @@
             }
           }
         },
-        "@_xml:lang": "cs",
         "mdHrLv": {
           "ScopeCd": {
             "@_value": "005"
           }
         },
         "dataIdInfo": {
-          "idAbs": "<p>Datová sada obsahuje informace typu délka, druh a forma vzdělávání, záměr počtu přijímaných uchazečů, dále rovněž kontaktní údaje na školu - telefonní kontakt, e-mailový kontakt a webové stránky školy.</p>",
+          "idAbs": "<p>Záměr počtu přijímaných uchazečů středních škol pro školní rok 2024/2025 v Karlovarském kraji, jejichž zřizovatelem je Karlovarský kraj. Datová sada obsahuje informace typu délka, druh a forma vzdělávání, záměr počtu přijímaných uchazečů, dále rovněž webové stránky školy a prostorovou lokalizaci školy. Souřadnicový systém je použit WGS 1984.&nbsp;</p><p>Poskytovatelem zdroje dat je Krajský úřad Karlovarského kraje, odbor školství, mládeže a tělovýchovy.</p>",
           "idCredit": "Krajský úřad Karlovarského kraje",
           "dataLang": {
             "countryCode": {
@@ -12638,7 +12629,7 @@
               "@_value": "cze"
             }
           },
-          "idPurp": "Záměr počtu přijímaných uchazečů středních škol, vyšších odborných škol, nástaveb a ostatních forem pro školní rok 2024/2025 v Karlovarském kraji.",
+          "idPurp": "Záměr počtu přijímaných uchazečů středních škol v Karlovarském kraji pro školní rok 2024/2025, jejichž zřizovatelem je Karlovarský kraj.",
           "tpCat": {
             "TopicCatCd": {
               "@_value": "016"
@@ -12659,7 +12650,10 @@
               "pubDate": "2024-04-16T09:30:33.292+02:00",
               "createDate": "2024-04-16T09:30:36.216+02:00"
             },
-            "resTitle": "Záměr počtu přijímaných uchazečů pro školní rok 2024/2025 v Karlovarském kraji",
+            "resTitle": {
+              "@_Sync": "FALSE",
+              "#value": "Záměr počtu přijímaných uchazečů středních škol v Karlovarském kraji pro školní rok 2024/2025"
+            },
             "citId": {
               "identCode": "publication"
             }
@@ -12708,10 +12702,10 @@
           "idPoC": {
             "rpCntInfo": {
               "cntAddress": {
-                "eMailAdd": "pavla.brabencova@karp-kv.cz"
+                "eMailAdd": "pavla.brabencova@kickk.cz"
               }
             },
-            "rpOrgName": "Karlovarská agentura rozvoje podnikání, p.o.",
+            "rpOrgName": "Krajský úřad Karlovarského kraje",
             "role": {
               "RoleCd": {
                 "@_value": "007"
@@ -12756,11 +12750,37 @@
             }
           ]
         },
+        "refSysInfo": {
+          "RefSystem": {
+            "refSysID": {
+              "identCode": {
+                "@_Sync": "FALSE",
+                "@_code": "GCS_WGS_1984"
+              }
+            }
+          }
+        },
         "mdChar": {
           "CharSetCd": {
             "@_value": "004"
           }
-        }
+        },
+        "mdFileID": "1713252557892r13938577594470614",
+        "distInfo": {
+          "distTranOps": {
+            "onLineSrc": {
+              "linkage": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Z%C3%A1m%C4%9Br_po%C4%8Dtu_p%C5%99ij%C3%ADman%C3%BDch_uchaze%C4%8D%C5%AF_pro_%C5%A1koln%C3%AD_rok_2024_2025_WFL1/FeatureServer"
+            }
+          }
+        },
+        "mdMaint": {
+          "maintFreq": {
+            "MaintFreqCd": {
+              "@_value": "011"
+            }
+          }
+        },
+        "@_xml:lang": "cs"
       },
       "distribution": [
         {
@@ -15355,6 +15375,312 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=9332e5a45e0d4dd999bef99a6f51fd40&sublayer=0",
+      "landingPage": "https://www.datazapad.cz/datasets/9332e5a45e0d4dd999bef99a6f51fd40_0",
+      "title": "Záměr počtu přijímaných uchazečů středních škol v Karlovarském kraji pro školní rok 2026/2027",
+      "description": "<p>Datová sada obsahuje předběžné záměry počtu přijímaných uchazečů středních škol v Karlovarském kraji pro školní rok 2026/2027 s uvedením názvu školy, IZO, IČO, právní formu, vlastnictví/zřizovatele, adresu, prostorovou lokalizaci školy a informace o názvu oboru, druhu, délky a formy vzdělávání. Souřadnicový systém je použit WGS 1984.</p><p>Poskytovatelem zdroje dat je Krajský úřad Karlovarského kraje, odbor školství, mládeže a tělovýchovy.</p>",
+      "keyword": [
+        "přijímací řízení",
+        "střední škola",
+        "Karlovarský kraj",
+        "záměr počtu",
+        "příjímaný uchazeč"
+      ],
+      "issued": "2026-01-19T11:25:45.000Z",
+      "modified": "2026-01-19T11:25:48.054Z",
+      "publisher": {
+        "name": "Krajský úřad Karlovarského kraje"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "pavla.brabencova_karp",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "12.1835,49.9622,13.1601,50.3324",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0",
+      "category": [
+        "Školství a výzkum"
+      ],
+      "metadata": {
+        "mdLang": {
+          "languageCode": {
+            "@_Sync": "FALSE",
+            "@_value": "cze"
+          }
+        },
+        "mdContact": {
+          "rpCntInfo": {
+            "cntAddress": {
+              "eMailAdd": "pavla.brabencova@kickk.cz"
+            }
+          },
+          "role": {
+            "RoleCd": {
+              "@_value": "007"
+            }
+          },
+          "rpOrgName": "Krajské inovační centrum Karlovarského kraje, p.o."
+        },
+        "mdDateSt": {
+          "@_Sync": "FALSE",
+          "#value": "2026-01-19"
+        },
+        "Esri": {
+          "ArcGISFormat": 1,
+          "CreaTime": 12190800,
+          "ArcGISProfile": "INSPIRE",
+          "DataProperties": {
+            "itemProps": {
+              "portalDetails": {
+                "thumbnailURL": "https://www.arcgis.com/sharing/rest/content/items/9332e5a45e0d4dd999bef99a6f51fd40/info/thumbnail/thumbnail1768822144268.png"
+              }
+            }
+          },
+          "CreaDate": 20260119,
+          "SyncOnce": "TRUE"
+        },
+        "mdTimeSt": "12:40:14",
+        "dqInfo": {
+          "dataLineage": {
+            "statement": "Data Krajského úřadu Karlovarského kraje, odboru školství, mládeže a tělovýchovy a Krajského inovačního centra Karlovarského kraje, p.o."
+          },
+          "dqScope": {
+            "scpLvl": {
+              "ScopeCd": {
+                "@_value": "005"
+              }
+            }
+          },
+          "report": {
+            "measResult": {
+              "ConResult": {
+                "conSpec": {
+                  "date": {
+                    "pubDate": "2010-12-08T00:00:00"
+                  },
+                  "resTitle": {
+                    "@_Sync": "FALSE",
+                    "#value": "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "mdHrLv": {
+          "ScopeCd": {
+            "@_value": "005"
+          }
+        },
+        "dataIdInfo": {
+          "idAbs": "<p>Datová sada obsahuje předběžné záměry počtu přijímaných uchazečů středních škol v Karlovarském kraji pro školní rok 2026/2027 s uvedením názvu školy, IZO, IČO, právní formu, vlastnictví/zřizovatele, adresu, prostorovou lokalizaci školy a informace o názvu oboru, druhu, délky a formy vzdělávání. Souřadnicový systém je použit WGS 1984.</p><p>Poskytovatelem zdroje dat je Krajský úřad Karlovarského kraje, odbor školství, mládeže a tělovýchovy.</p>",
+          "idCredit": "Krajský úřad Karlovarského kraje, odbor školství, mládeže a tělovýchovy",
+          "dataLang": {
+            "languageCode": {
+              "@_Sync": "FALSE",
+              "@_value": "cze"
+            }
+          },
+          "idPurp": "Předběžný záměr počtu přijímaných uchazečů středních škol v Karlovarském kraji pro školní rok 2026/2027, jejichž zřizovatelem je Karlovarský kraj i ostatní zřizovatelé.",
+          "tpCat": {
+            "TopicCatCd": {
+              "@_value": "016"
+            }
+          },
+          "dataExt": {
+            "geoEle": {
+              "GeoBndBox": {
+                "eastBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 13.16005
+                },
+                "southBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 49.962248
+                },
+                "northBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 50.33237
+                },
+                "westBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 12.183502
+                }
+              }
+            }
+          },
+          "idCitation": {
+            "date": {
+              "pubDate": "2026-01-19T12:38:16"
+            },
+            "resTitle": {
+              "@_Sync": "FALSE",
+              "#value": "Záměr počtu přijímaných uchazečů středních škol v Karlovarském kraji pro školní rok 2026/2027"
+            },
+            "citId": {
+              "identCode": "publication"
+            }
+          },
+          "themeKeys": {
+            "thesaName": {
+              "date": {
+                "pubDate": "2008-06-01T00:00:00"
+              },
+              "resTitle": {
+                "@_Sync": "FALSE",
+                "#value": "GEMET - INSPIRE themes, version 1.0"
+              }
+            },
+            "keyword": [
+              "střední škola",
+              "přijímací řízení",
+              "Karlovarský kraj",
+              "záměr počtu přijímaných uchazečů"
+            ]
+          },
+          "spatRpType": {
+            "SpatRepTypCd": {
+              "@_Sync": "FALSE",
+              "@_value": "003"
+            }
+          },
+          "dataChar": {
+            "CharSetCd": {
+              "@_Sync": "FALSE",
+              "@_value": "004"
+            }
+          },
+          "searchKeys": {
+            "keyword": [
+              "přijímací řízení",
+              "střední škola",
+              "Karlovarský kraj",
+              "záměr počtu",
+              "příjímaný uchazeč"
+            ]
+          },
+          "idPoC": {
+            "rpCntInfo": {
+              "cntAddress": {
+                "eMailAdd": "pavla.brabencova@kickk.cz"
+              }
+            },
+            "role": {
+              "RoleCd": {
+                "@_value": "007"
+              }
+            },
+            "rpOrgName": "Krajský úřad Karlovarského kraje"
+          },
+          "resConst": [
+            {
+              "LegConsts": {
+                "inspireAccessUseConditions": {
+                  "ConditionsAccUseCd": {
+                    "@_value": "001"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "inspirePublicAccessLimits": {
+                  "PublicAccessCd": {
+                    "@_value": "001"
+                  }
+                }
+              }
+            },
+            {
+              "Consts": {
+                "useLimit": "<p>CC0 1.0</p>"
+              }
+            }
+          ]
+        },
+        "refSysInfo": {
+          "RefSystem": {
+            "refSysID": {
+              "identCode": {
+                "@_Sync": "FALSE",
+                "@_code": "GCS_WGS_1984"
+              }
+            }
+          }
+        },
+        "mdChar": {
+          "CharSetCd": {
+            "@_Sync": "FALSE",
+            "@_value": "004"
+          }
+        },
+        "distInfo": {
+          "distTranOps": {
+            "onLineSrc": {
+              "linkage": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Z%C3%A1m%C4%9Br_po%C4%8Dtu_p%C5%99ij%C3%ADman%C3%BDch_uchaze%C4%8D%C5%AF_2026_2027_WFL1/FeatureServer"
+            }
+          }
+        },
+        "mdMaint": {
+          "maintFreq": {
+            "MaintFreqCd": {
+              "@_value": "011"
+            }
+          }
+        },
+        "@_xml:lang": "cs"
+      },
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datazapad.cz/datasets/9332e5a45e0d4dd999bef99a6f51fd40_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Z%C3%A1m%C4%9Br_po%C4%8Dtu_p%C5%99ij%C3%ADman%C3%BDch_uchaze%C4%8D%C5%AF_2026_2027_WFL1/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/9332e5a45e0d4dd999bef99a6f51fd40/csv?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/9332e5a45e0d4dd999bef99a6f51fd40/shapefile?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/9332e5a45e0d4dd999bef99a6f51fd40/geojson?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/9332e5a45e0d4dd999bef99a6f51fd40/kml?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=94c4d284041c4412af231e96fe66cf6b&sublayer=3",
       "landingPage": "https://www.datazapad.cz/datasets/94c4d284041c4412af231e96fe66cf6b_3",
       "title": "Kina a kinosály v Karlovarském kraji",
@@ -17625,8 +17951,8 @@
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=b69266abf22c4baa9fabeb437449c1e8&sublayer=0",
       "landingPage": "https://www.datazapad.cz/datasets/b69266abf22c4baa9fabeb437449c1e8_0",
-      "title": "Záměr počtu přijímaných uchazečů pro školní rok 2025/2026",
-      "description": "<p>Datová sada obsahuje informace o škole, oboru a počtu přijímaných uchazečů školami v Karlovarském kraji (střední školy, Gymnázia a vyšší odborné školy). Poskytovatelem dat je Krajský úřad Karlovarského kraje.</p>",
+      "title": "Záměr počtu přijímaných uchazečů středních škol v Karlovarském kraji pro školní rok 2025/2026",
+      "description": "<p>Záměr počtu přijímaných uchazečů středních škol v Karlovarském kraji pro školní rok 2025/2026, jejichž zřizovatelem je Karlovarský kraj. Datová sada obsahuje informace o škole, oboru a počtu přijímaných uchazečů školami v Karlovarském kraji a rovněž prostorovou lokalizaci školy. Souřadnicový systém je použit WGS 1984.&nbsp;</p><p>Poskytovatelem zdroje dat je Krajský úřad Karlovarského kraje, odbor školství, mládeže a tělovýchovy.</p>",
       "keyword": [
         "záměr počtu",
         "Karlovarský kraj",
@@ -17661,7 +17987,7 @@
         "mdContact": {
           "rpCntInfo": {
             "cntAddress": {
-              "eMailAdd": "pavla.brabencova@karp-kv.cz"
+              "eMailAdd": "pavla.brabencova@kickk.cz"
             }
           },
           "rpOrgName": "Karlovarská agentura rozvoje podnikání, p.o.",
@@ -17712,7 +18038,7 @@
           }
         },
         "dataIdInfo": {
-          "idAbs": "<p>Datová sada obsahuje informace o škole, oboru a počtu přijímaných uchazečů školami v Karlovarském kraji (střední školy, Gymnázia a vyšší odborné školy). Poskytovatelem dat je Krajský úřad Karlovarského kraje.</p>",
+          "idAbs": "<p>Záměr počtu přijímaných uchazečů středních škol v Karlovarském kraji pro školní rok 2025/2026, jejichž zřizovatelem je Karlovarský kraj. Datová sada obsahuje informace o škole, oboru a počtu přijímaných uchazečů školami v Karlovarském kraji a rovněž prostorovou lokalizaci školy. Souřadnicový systém je použit WGS 1984.&nbsp;</p><p>Poskytovatelem zdroje dat je Krajský úřad Karlovarského kraje, odbor školství, mládeže a tělovýchovy.</p>",
           "idCredit": "Krajský úřad Karlovarského kraje",
           "dataLang": {
             "countryCode": {
@@ -17722,7 +18048,7 @@
               "@_value": "cze"
             }
           },
-          "idPurp": "Záměr počtu přijímaných uchazečů školami pro školní rok 2025/2026 v Karlovarském kraji.",
+          "idPurp": "Záměr počtu přijímaných uchazečů středních škol v Karlovarském kraji pro školní rok 2025/2026, jejichž zřizovatelem je Karlovarský kraj.",
           "tpCat": {
             "TopicCatCd": {
               "@_value": "016"
@@ -17742,7 +18068,10 @@
             "date": {
               "pubDate": "2025-01-17T12:46:34.590+01:00"
             },
-            "resTitle": "Záměr počtu přijímaných uchazečů pro školní rok 2025/2026",
+            "resTitle": {
+              "@_Sync": "FALSE",
+              "#value": "Záměr počtu přijímaných uchazečů středních škol v Karlovarském kraji pro školní rok 2025/2026"
+            },
             "citId": {
               "identCode": "publication"
             }
@@ -17776,6 +18105,12 @@
               }
             }
           },
+          "spatRpType": {
+            "SpatRepTypCd": {
+              "@_Sync": "FALSE",
+              "@_value": "003"
+            }
+          },
           "dataChar": {
             "CharSetCd": {
               "@_value": "004"
@@ -17795,7 +18130,7 @@
           "idPoC": {
             "rpCntInfo": {
               "cntAddress": {
-                "eMailAdd": "pavla.brabencova@karp-kv.cz"
+                "eMailAdd": "pavla.brabencova@kickk.cz"
               }
             },
             "rpOrgName": "Krajský úřad Karlovarského kraje",
@@ -17847,7 +18182,8 @@
           "RefSystem": {
             "refSysID": {
               "identCode": {
-                "@_code": "WGS84"
+                "@_Sync": "FALSE",
+                "@_code": "GCS_WGS_1984"
               }
             }
           }
@@ -17868,7 +18204,7 @@
         "mdMaint": {
           "maintFreq": {
             "MaintFreqCd": {
-              "@_value": "008"
+              "@_value": "011"
             }
           }
         },

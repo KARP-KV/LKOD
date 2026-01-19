@@ -74,6 +74,7 @@
     "https://open.datazapad.cz/8ae1f28fc17f4918a0dba74bb11797ff.jsonld",
     "https://open.datazapad.cz/903168d407624e57a43cb4ab9bc97620.jsonld",
     "https://open.datazapad.cz/90441fa783444e1ead5ad71464504d6a.jsonld",
+    "https://open.datazapad.cz/9332e5a45e0d4dd999bef99a6f51fd40.jsonld",
     "https://open.datazapad.cz/94c4d284041c4412af231e96fe66cf6b.jsonld",
     "https://open.datazapad.cz/979283f4b7ec4b778b8eed7aab6917c3.jsonld",
     "https://open.datazapad.cz/98d26c1b1c8f4bd49850af82a19a7f58.jsonld",
@@ -4662,10 +4663,10 @@
       "typ": "Datová sada",
       "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891168",
       "název": {
-        "cs": "Záměr počtu přijímaných uchazečů pro školní rok 2024/2025 v Karlovarském kraji"
+        "cs": "Záměr počtu přijímaných uchazečů středních škol v Karlovarském kraji pro školní rok 2024/2025"
       },
       "popis": {
-        "cs": "Datová sada obsahuje informace typu délka, druh a forma vzdělávání, záměr počtu přijímaných uchazečů, dále rovněž kontaktní údaje na školu - telefonní kontakt, e-mailový kontakt a webové stránky školy."
+        "cs": "Záměr počtu přijímaných uchazečů středních škol pro školní rok 2024/2025 v Karlovarském kraji, jejichž zřizovatelem je Karlovarský kraj. Datová sada obsahuje informace typu délka, druh a forma vzdělávání, záměr počtu přijímaných uchazečů, dále rovněž webové stránky školy a prostorovou lokalizaci školy. Souřadnicový systém je použit WGS 1984.&nbsp;Poskytovatelem zdroje dat je Krajský úřad Karlovarského kraje, odbor školství, mládeže a tělovýchovy."
       },
       "klíčové_slovo": {
         "cs": [
@@ -4684,7 +4685,7 @@
         "http://publications.europa.eu/resource/authority/data-theme/EDUC",
         "http://publications.europa.eu/resource/authority/data-theme/TECH"
       ],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/NEVER",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/51"
       ],
@@ -5685,6 +5686,109 @@
     },
     {
       "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+      "iri": "https://open.datazapad.cz/9332e5a45e0d4dd999bef99a6f51fd40.jsonld",
+      "typ": "Datová sada",
+      "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891168",
+      "název": {
+        "cs": "Záměr počtu přijímaných uchazečů středních škol v Karlovarském kraji pro školní rok 2026/2027"
+      },
+      "popis": {
+        "cs": "Datová sada obsahuje předběžné záměry počtu přijímaných uchazečů středních škol v Karlovarském kraji pro školní rok 2026/2027 s uvedením názvu školy, IZO, IČO, právní formu, vlastnictví/zřizovatele, adresu, prostorovou lokalizaci školy a informace o názvu oboru, druhu, délky a formy vzdělávání. Souřadnicový systém je použit WGS 1984.Poskytovatelem zdroje dat je Krajský úřad Karlovarského kraje, odbor školství, mládeže a tělovýchovy."
+      },
+      "klíčové_slovo": {
+        "cs": [
+          "přijímací řízení",
+          "střední škola",
+          "Karlovarský kraj",
+          "záměr počtu",
+          "příjímaný uchazeč"
+        ]
+      },
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/EDUC",
+        "http://publications.europa.eu/resource/authority/data-theme/TECH"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/NEVER",
+      "prvek_rúian": [
+        "https://linked.cuzk.cz/resource/ruian/vusc/51"
+      ],
+      "distribuce": [
+        {
+          "typ": "Distribuce",
+          "iri": "https://www.datazapad.cz/api/download/v1/items/9332e5a45e0d4dd999bef99a6f51fd40/csv?layers=0",
+          "název": {
+            "cs": "CSV"
+          },
+          "soubor_ke_stažení": "https://www.datazapad.cz/api/download/v1/items/9332e5a45e0d4dd999bef99a6f51fd40/csv?layers=0",
+          "přístupové_url": "https://www.datazapad.cz/api/download/v1/items/9332e5a45e0d4dd999bef99a6f51fd40/csv?layers=0",
+          "typ_média": "http://www.iana.org/assignments/media-types/text/csv",
+          "formát": "http://publications.europa.eu/resource/authority/file-type/CSV",
+          "podmínky_užití": {
+            "typ": "Specifikace podmínek užití",
+            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+          }
+        },
+        {
+          "typ": "Distribuce",
+          "iri": "https://www.datazapad.cz/api/download/v1/items/9332e5a45e0d4dd999bef99a6f51fd40/shapefile?layers=0",
+          "název": {
+            "cs": "Shapefile"
+          },
+          "soubor_ke_stažení": "https://www.datazapad.cz/api/download/v1/items/9332e5a45e0d4dd999bef99a6f51fd40/shapefile?layers=0",
+          "přístupové_url": "https://www.datazapad.cz/api/download/v1/items/9332e5a45e0d4dd999bef99a6f51fd40/shapefile?layers=0",
+          "typ_média": "http://www.iana.org/assignments/media-types/application/zip",
+          "formát": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+          "podmínky_užití": {
+            "typ": "Specifikace podmínek užití",
+            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+          }
+        },
+        {
+          "typ": "Distribuce",
+          "iri": "https://www.datazapad.cz/api/download/v1/items/9332e5a45e0d4dd999bef99a6f51fd40/geojson?layers=0",
+          "název": {
+            "cs": "GeoJSON"
+          },
+          "soubor_ke_stažení": "https://www.datazapad.cz/api/download/v1/items/9332e5a45e0d4dd999bef99a6f51fd40/geojson?layers=0",
+          "přístupové_url": "https://www.datazapad.cz/api/download/v1/items/9332e5a45e0d4dd999bef99a6f51fd40/geojson?layers=0",
+          "typ_média": "http://www.iana.org/assignments/media-types/application/json",
+          "formát": "http://publications.europa.eu/resource/authority/file-type/JSON",
+          "podmínky_užití": {
+            "typ": "Specifikace podmínek užití",
+            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+          }
+        },
+        {
+          "typ": "Distribuce",
+          "iri": "https://www.datazapad.cz/api/download/v1/items/9332e5a45e0d4dd999bef99a6f51fd40/kml?layers=0",
+          "název": {
+            "cs": "KML"
+          },
+          "soubor_ke_stažení": "https://www.datazapad.cz/api/download/v1/items/9332e5a45e0d4dd999bef99a6f51fd40/kml?layers=0",
+          "přístupové_url": "https://www.datazapad.cz/api/download/v1/items/9332e5a45e0d4dd999bef99a6f51fd40/kml?layers=0",
+          "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.google-earth.kml+xml",
+          "formát": "http://publications.europa.eu/resource/authority/file-type/KML",
+          "podmínky_užití": {
+            "typ": "Specifikace podmínek užití",
+            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+          }
+        }
+      ]
+    },
+    {
+      "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
       "iri": "https://open.datazapad.cz/94c4d284041c4412af231e96fe66cf6b.jsonld",
       "typ": "Datová sada",
       "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891168",
@@ -6512,10 +6616,10 @@
       "typ": "Datová sada",
       "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891168",
       "název": {
-        "cs": "Záměr počtu přijímaných uchazečů pro školní rok 2025/2026"
+        "cs": "Záměr počtu přijímaných uchazečů středních škol v Karlovarském kraji pro školní rok 2025/2026"
       },
       "popis": {
-        "cs": "Datová sada obsahuje informace o škole, oboru a počtu přijímaných uchazečů školami v Karlovarském kraji (střední školy, Gymnázia a vyšší odborné školy). Poskytovatelem dat je Krajský úřad Karlovarského kraje."
+        "cs": "Záměr počtu přijímaných uchazečů středních škol v Karlovarském kraji pro školní rok 2025/2026, jejichž zřizovatelem je Karlovarský kraj. Datová sada obsahuje informace o škole, oboru a počtu přijímaných uchazečů školami v Karlovarském kraji a rovněž prostorovou lokalizaci školy. Souřadnicový systém je použit WGS 1984.&nbsp;Poskytovatelem zdroje dat je Krajský úřad Karlovarského kraje, odbor školství, mládeže a tělovýchovy."
       },
       "klíčové_slovo": {
         "cs": [
@@ -6532,7 +6636,7 @@
         "http://publications.europa.eu/resource/authority/data-theme/EDUC",
         "http://publications.europa.eu/resource/authority/data-theme/TECH"
       ],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/NEVER",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/51"
       ],
