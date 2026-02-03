@@ -2920,23 +2920,23 @@
     },
     {
       "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=11796bcb67ee47bd8d38c0ec271b2787&sublayer=0",
-      "landingPage": "https://www.datazapad.cz/datasets/11796bcb67ee47bd8d38c0ec271b2787_0",
+      "identifier": "https://www.arcgis.com/home/item.html?id=11796bcb67ee47bd8d38c0ec271b2787&sublayer=3",
+      "landingPage": "https://www.datazapad.cz/datasets/11796bcb67ee47bd8d38c0ec271b2787_3",
       "title": "Seznam škol a školských zařízení do stupně VOŠ v Karlovarském kraji",
-      "description": "<div><span style='font-family:Avenir Next W01, Avenir Next W00, Avenir Next, Avenir, Helvetica Neue, sans-serif;font-size:16px;'>Seznam obsahuje kontakty - telefonický, e-mailový a webové stránky školy (pokud jsou školou realizovány). Uveden je samozřejmě typ školy a specifikace vlastnictví.Poskytovatelem dat je Krajský úřad Karlovarského kraje.</span></div>",
+      "description": "<div><span style='font-family:Avenir Next W01, Avenir Next W00, Avenir Next, Avenir, Helvetica Neue, sans-serif; font-size:16px;'>Datová sada s přehledem </span><span style='background-color:rgb(255,255,255); color:rgb(20,20,20); font-family:&quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'><span style='display:inline !important; float:none; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; text-align:start; text-decoration-color:initial; text-decoration-style:initial; text-indent:0px; text-transform:none; word-spacing:0px;'>školských zařízení a škol od stupně mateřských škol do stupně vyšších odborných škol v Karlovarském kraji</span></span><span style='font-family:Avenir Next W01, Avenir Next W00, Avenir Next, Avenir, Helvetica Neue, sans-serif; font-size:16px;'> obsahuje kromě prostorové lokalizace výkonu činnosti školského zařízení (vedení) také kontakty - telefonický, e-mailový, webové stránky zařízení, IZO (identifikační znad organizace) ředitelství, IČO, typ školského zařízení a specifikace vlastnictví. Souřadnicový systém je použit WGS 1984.&nbsp;</span></div><div><span style='font-family:Avenir Next W01, Avenir Next W00, Avenir Next, Avenir, Helvetica Neue, sans-serif; font-size:16px;'>Poskytovatelem dat je Krajský úřad Karlovarského kraje.</span></div>",
       "keyword": [
         "školská zařízení",
-        "školy",
         "Karlovarský kraj",
-        "mateřská škola",
-        "základní škola",
-        "střední škola",
-        "základní umělecká škola",
-        "vyšší odborná škola",
-        "dům dětí a mládeže"
+        "dům dětí a mládeže",
+        "škola",
+        "mateřská",
+        "základní",
+        "střední",
+        "vyšší odborná",
+        "základní umělecká"
       ],
       "issued": "2024-01-16T10:50:25.000Z",
-      "modified": "2025-01-24T09:51:00.245Z",
+      "modified": "2026-02-03T10:37:00.000Z",
       "publisher": {
         "name": "Krajský úřad Karlovarského kraje"
       },
@@ -2946,7 +2946,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "12.1723,49.9188,13.2552,50.4289",
+      "spatial": "12.1723,49.9188,13.2552,50.4278",
       "license": "CCO 1.0",
       "category": [
         "Školství a výzkum"
@@ -2954,37 +2954,46 @@
       "metadata": {
         "mdLang": {
           "languageCode": {
+            "@_Sync": "FALSE",
             "@_value": "cze"
           }
         },
         "mdContact": {
           "rpCntInfo": {
             "cntAddress": {
-              "eMailAdd": "pavla.brabencova@gmail.com"
+              "eMailAdd": "pavla.brabencova@kickk.cz"
             }
           },
-          "rpOrgName": "Karlovarská agentura rozvoje podnikání, p.o.",
           "role": {
             "RoleCd": {
               "@_value": "007"
             }
-          }
+          },
+          "rpOrgName": "Krajské inovační centrum Karlovarského kraje, p.o."
         },
-        "mdDateSt": "2025-01-24",
+        "mdDateSt": {
+          "@_Sync": "FALSE",
+          "#value": "2026-02-03"
+        },
         "Esri": {
           "ArcGISFormat": 1,
           "CreaTime": 11350800,
           "ArcGISProfile": "INSPIRE",
-          "ArcGISstyle": "INSPIRE Metadata Directive",
-          "ModDate": 20250213,
           "CreaDate": 20240116,
-          "ModTime": 12090045,
-          "SyncOnce": "TRUE",
-          "MapLyrSync": false,
-          "PublishStatus": "editor:esri.dijit.metadata.editor"
+          "SyncOnce": "TRUE"
         },
-        "mdTimeSt": "10:50:21.07",
+        "mdTimeSt": "10:38:31",
         "dqInfo": {
+          "dataLineage": {
+            "statement": "Data Krajského úřadu Karlovarského kraje, odboru školství, mládeže a tělovýchovy a Krajského inovačního centra Karlovarského kraje, p.o."
+          },
+          "dqScope": {
+            "scpLvl": {
+              "ScopeCd": {
+                "@_value": "005"
+              }
+            }
+          },
           "report": {
             "measResult": {
               "ConResult": {
@@ -2992,7 +3001,10 @@
                   "date": {
                     "pubDate": "2010-12-08T00:00:00"
                   },
-                  "resTitle": "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                  "resTitle": {
+                    "@_Sync": "FALSE",
+                    "#value": "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                  }
                 }
               }
             }
@@ -3004,13 +3016,11 @@
           }
         },
         "dataIdInfo": {
-          "idAbs": "<div><span style='font-family:Avenir Next W01, Avenir Next W00, Avenir Next, Avenir, Helvetica Neue, sans-serif;font-size:16px;'>Seznam obsahuje kontakty - telefonický, e-mailový a webové stránky školy (pokud jsou školou realizovány). Uveden je samozřejmě typ školy a specifikace vlastnictví.Poskytovatelem dat je Krajský úřad Karlovarského kraje.</span></div>",
+          "idAbs": "<div><span style='font-family:Avenir Next W01, Avenir Next W00, Avenir Next, Avenir, Helvetica Neue, sans-serif; font-size:16px;'>Datová sada s přehledem </span><span style='background-color:rgb(255,255,255); color:rgb(20,20,20); font-family:&quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'><span style='display:inline !important; float:none; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; text-align:start; text-decoration-color:initial; text-decoration-style:initial; text-indent:0px; text-transform:none; word-spacing:0px;'>školských zařízení a škol od stupně mateřských škol do stupně vyšších odborných škol v Karlovarském kraji</span></span><span style='font-family:Avenir Next W01, Avenir Next W00, Avenir Next, Avenir, Helvetica Neue, sans-serif; font-size:16px;'> obsahuje kromě prostorové lokalizace výkonu činnosti školského zařízení (vedení) také kontakty - telefonický, e-mailový, webové stránky zařízení, IZO (identifikační znad organizace) ředitelství, IČO, typ školského zařízení a specifikace vlastnictví. Souřadnicový systém je použit WGS 1984.&nbsp;</span></div><div><span style='font-family:Avenir Next W01, Avenir Next W00, Avenir Next, Avenir, Helvetica Neue, sans-serif; font-size:16px;'>Poskytovatelem dat je Krajský úřad Karlovarského kraje.</span></div>",
           "idCredit": "Krajský úřad Karlovarského kraje",
           "dataLang": {
-            "countryCode": {
-              "@_value": "CZ"
-            },
             "languageCode": {
+              "@_Sync": "FALSE",
               "@_value": "cze"
             }
           },
@@ -3023,18 +3033,33 @@
           "dataExt": {
             "geoEle": {
               "GeoBndBox": {
-                "eastBL": 13.310173,
-                "southBL": 49.89047,
-                "northBL": 50.456903,
-                "westBL": 12.125577
+                "eastBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 13.255241
+                },
+                "southBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 49.918774
+                },
+                "northBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 50.427836
+                },
+                "westBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 12.172269
+                }
               }
             }
           },
           "idCitation": {
             "date": {
-              "reviseDate": "2025-01-24T10:51:00.245+01:00"
+              "reviseDate": "2026-02-03T10:37:00"
             },
-            "resTitle": "Seznam škol a školských zařízení v Karlovarském kraji",
+            "resTitle": {
+              "@_Sync": "FALSE",
+              "#value": "Seznam škol a školských zařízení do stupně VOŠ v Karlovarském kraji"
+            },
             "citId": {
               "identCode": "publication"
             }
@@ -3044,74 +3069,58 @@
               "date": {
                 "pubDate": "2008-06-01T00:00:00"
               },
-              "resTitle": "GEMET - INSPIRE themes, version 1.0"
+              "resTitle": {
+                "@_Sync": "FALSE",
+                "#value": "GEMET - INSPIRE themes, version 1.0"
+              }
             },
             "keyword": [
-              "školská zařízení",
-              "školy",
-              "Karlovarský kraj",
-              "mateřská škola",
-              "základní škola",
-              "střední škola",
-              "základní umělecká škola",
-              "vyšší odborná škola",
-              "dům dětí a mládeže",
-              "jídelna",
-              "škola"
+              "škola",
+              "školské zařízení",
+              "Karlovarský kraj"
             ]
           },
-          "resMaint": {
-            "maintScp": {
-              "ScopeCd": {
-                "@_value": "001"
-              }
-            },
-            "maintFreq": {
-              "MaintFreqCd": {
-                "@_value": "009"
-              }
+          "spatRpType": {
+            "SpatRepTypCd": {
+              "@_Sync": "FALSE",
+              "@_value": "003"
             }
           },
           "dataChar": {
             "CharSetCd": {
+              "@_Sync": "FALSE",
               "@_value": "004"
             }
           },
           "searchKeys": {
             "keyword": [
               "školská zařízení",
-              "školy",
               "Karlovarský kraj",
-              "mateřská škola",
-              "základní škola",
-              "střední škola",
-              "základní umělecká škola",
-              "vyšší odborná škola",
-              "dům dětí a mládeže"
+              "dům dětí a mládeže",
+              "škola",
+              "mateřská",
+              "základní",
+              "střední",
+              "vyšší odborná",
+              "základní umělecká"
             ]
           },
           "idPoC": {
             "rpCntInfo": {
               "cntAddress": {
-                "eMailAdd": "pavla.brabencova@karp-kv.cz"
+                "eMailAdd": "pavla.brabencova@kickk.cz"
               }
             },
-            "rpOrgName": "Krajský úřad Karlovarského kraje",
             "role": {
               "RoleCd": {
                 "@_value": "007"
               }
-            }
+            },
+            "rpOrgName": "Krajský úřad Karlovarského kraje"
           },
           "resConst": [
             {
               "LegConsts": {
-                "useConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
-                "othConsts": "Jiná omezení",
                 "inspireAccessUseConditions": {
                   "ConditionsAccUseCd": {
                     "@_value": "001"
@@ -3121,12 +3130,6 @@
             },
             {
               "LegConsts": {
-                "othConsts": "Jiná omezení",
-                "accessConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
                 "inspirePublicAccessLimits": {
                   "PublicAccessCd": {
                     "@_value": "001"
@@ -3145,17 +3148,18 @@
           "RefSystem": {
             "refSysID": {
               "identCode": {
-                "@_code": "WGS84"
+                "@_Sync": "FALSE",
+                "@_code": "GCS_WGS_1984"
               }
             }
           }
         },
         "mdChar": {
           "CharSetCd": {
+            "@_Sync": "FALSE",
             "@_value": "004"
           }
         },
-        "mdFileID": "1737712221354r9636257619848734",
         "distInfo": {
           "distTranOps": {
             "onLineSrc": {
@@ -3166,7 +3170,7 @@
         "mdMaint": {
           "maintFreq": {
             "MaintFreqCd": {
-              "@_value": "009"
+              "@_value": "008"
             }
           }
         },
@@ -3178,42 +3182,42 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/datasets/11796bcb67ee47bd8d38c0ec271b2787_0"
+          "accessURL": "https://www.datazapad.cz/datasets/11796bcb67ee47bd8d38c0ec271b2787_3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "ArcGIS GeoService",
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
-          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Seznam_%C5%A1kol_a_%C5%A1kolsk%C3%BDch_za%C5%99%C3%ADzen%C3%AD_v_KVK__bez_V%C5%A0__WFL1/FeatureServer/0"
+          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Seznam_%C5%A1kol_a_%C5%A1kolsk%C3%BDch_za%C5%99%C3%ADzen%C3%AD_v_KVK__bez_V%C5%A0__WFL1/FeatureServer/3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "CSV",
           "format": "CSV",
           "mediaType": "text/csv",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/11796bcb67ee47bd8d38c0ec271b2787/csv?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/11796bcb67ee47bd8d38c0ec271b2787/csv?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Shapefile",
           "format": "ZIP",
           "mediaType": "application/zip",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/11796bcb67ee47bd8d38c0ec271b2787/shapefile?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/11796bcb67ee47bd8d38c0ec271b2787/shapefile?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "GeoJSON",
           "format": "GeoJSON",
           "mediaType": "application/vnd.geo+json",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/11796bcb67ee47bd8d38c0ec271b2787/geojson?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/11796bcb67ee47bd8d38c0ec271b2787/geojson?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "KML",
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/11796bcb67ee47bd8d38c0ec271b2787/kml?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/11796bcb67ee47bd8d38c0ec271b2787/kml?layers=3"
         }
       ],
       "theme": [
@@ -4947,21 +4951,19 @@
     },
     {
       "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=25589e2554f54259b200f4adb547db54&sublayer=3",
-      "landingPage": "https://www.datazapad.cz/datasets/25589e2554f54259b200f4adb547db54_3",
+      "identifier": "https://www.arcgis.com/home/item.html?id=25589e2554f54259b200f4adb547db54&sublayer=0",
+      "landingPage": "https://www.datazapad.cz/datasets/25589e2554f54259b200f4adb547db54_0",
       "title": "Seznam vysokých škol působících v Karlovarském kraji",
-      "description": "Datová sada obsahuje přehled vysokých škol působících v Karlovarském kraji prostřednictvím poboček či středisek. Uvedeny jsou adresy poboček, kontaktní údaje (telefon, e-mail) a lokalizace poboček. <div>Poskytovatelem podkladů datové sady je Krajský úřad Karlovarského kraje.</div>",
+      "description": "<p>Datová sada obsahuje přehled vysokých škol působících v Karlovarském kraji prostřednictvím poboček či středisek, jejich identifikační číslo, sídlo, adresa pobočky, kontaktní údaje (telefon, e-mail), webová stránka a prostorová lokalizace poboček. Souřadnicový systém je použit WGS 1984.</p><div>Poskytovatelem původních dat je Krajský úřad Karlovarského kraje, odbor školství, mládeže a tělovýchovy.</div>",
       "keyword": [
         "Karlovarský kraj",
         "pobočka vysoké školy",
         "univerzita",
         "vysoká škola",
-        "vysoké školy",
-        "škola",
-        "školy"
+        "škola"
       ],
       "issued": "2025-01-28T10:49:09.000Z",
-      "modified": "2025-02-11T09:33:34.134Z",
+      "modified": "2026-02-03T13:30:13.000Z",
       "publisher": {
         "name": "Krajský úřad Karlovarského kraje"
       },
@@ -4979,37 +4981,46 @@
       "metadata": {
         "mdLang": {
           "languageCode": {
+            "@_Sync": "FALSE",
             "@_value": "cze"
           }
         },
         "mdContact": {
           "rpCntInfo": {
             "cntAddress": {
-              "eMailAdd": "pavla.brabencova@karp-kv.cz"
+              "eMailAdd": "pavla.brabencova@kickk.cz"
             }
           },
-          "rpOrgName": "Karlovarská agentura rozvoje podnikání, p.o.",
           "role": {
             "RoleCd": {
               "@_value": "007"
             }
-          }
+          },
+          "rpOrgName": "Krajské inovační centrum Karlovarského kraje, p.o."
         },
-        "mdDateSt": "2025-02-11",
+        "mdDateSt": {
+          "@_Sync": "FALSE",
+          "#value": "2026-02-03"
+        },
         "Esri": {
           "ArcGISFormat": 1,
           "CreaTime": 11415000,
           "ArcGISProfile": "INSPIRE",
-          "ArcGISstyle": "INSPIRE Metadata Directive",
-          "ModDate": 20250213,
           "CreaDate": 20250128,
-          "ModTime": 11591999,
-          "SyncOnce": "TRUE",
-          "MapLyrSync": false,
-          "PublishStatus": "editor:esri.dijit.metadata.editor"
+          "SyncOnce": "TRUE"
         },
-        "mdTimeSt": "10:32:52.42",
+        "mdTimeSt": "13:31:43",
         "dqInfo": {
+          "dataLineage": {
+            "statement": "Data Krajského úřadu Karlovarského kraje, odboru školství, mládeže a tělovýchovy a Krajského inovačního centra Karlovarského kraje, p.o."
+          },
+          "dqScope": {
+            "scpLvl": {
+              "ScopeCd": {
+                "@_value": "005"
+              }
+            }
+          },
           "report": {
             "measResult": {
               "ConResult": {
@@ -5017,7 +5028,10 @@
                   "date": {
                     "pubDate": "2010-12-08T00:00:00"
                   },
-                  "resTitle": "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                  "resTitle": {
+                    "@_Sync": "FALSE",
+                    "#value": "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                  }
                 }
               }
             }
@@ -5029,17 +5043,15 @@
           }
         },
         "dataIdInfo": {
-          "idAbs": "Datová sada obsahuje přehled vysokých škol působících v Karlovarském kraji prostřednictvím poboček či středisek. Uvedeny jsou adresy poboček, kontaktní údaje (telefon, e-mail) a lokalizace poboček. <div>Poskytovatelem podkladů datové sady je Krajský úřad Karlovarského kraje.</div>",
+          "idAbs": "<p>Datová sada obsahuje přehled vysokých škol působících v Karlovarském kraji prostřednictvím poboček či středisek, jejich identifikační číslo, sídlo, adresa pobočky, kontaktní údaje (telefon, e-mail), webová stránka a prostorová lokalizace poboček. Souřadnicový systém je použit WGS 1984.</p><div>Poskytovatelem původních dat je Krajský úřad Karlovarského kraje, odbor školství, mládeže a tělovýchovy.</div>",
           "idCredit": "Krajský úřad Karlovarského kraje",
           "dataLang": {
-            "countryCode": {
-              "@_value": "CZ"
-            },
             "languageCode": {
+              "@_Sync": "FALSE",
               "@_value": "cze"
             }
           },
-          "idPurp": "Seznam vysokých škol, které mají pobočky či střediska v Karlovarském kraji.",
+          "idPurp": "Přehled vysokých škol, které působí v Karlovarském kraji prostřednictvím poboček či středisek.",
           "tpCat": {
             "TopicCatCd": {
               "@_value": "016"
@@ -5048,18 +5060,33 @@
           "dataExt": {
             "geoEle": {
               "GeoBndBox": {
-                "eastBL": 12.917482,
-                "southBL": 50.064773,
-                "northBL": 50.256427,
-                "westBL": 12.320094
+                "eastBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 12.873537
+                },
+                "southBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 50.076232
+                },
+                "northBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 50.230958
+                },
+                "westBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 12.364039
+                }
               }
             }
           },
           "idCitation": {
             "date": {
-              "reviseDate": "2025-02-11T10:33:34.134+01:00"
+              "reviseDate": "2026-02-03T13:30:13"
             },
-            "resTitle": "Seznam vysokých škol působících v Karlovarském kraji",
+            "resTitle": {
+              "@_Sync": "FALSE",
+              "#value": "Seznam vysokých škol působících v Karlovarském kraji"
+            },
             "citId": {
               "identCode": "publication"
             }
@@ -5069,32 +5096,26 @@
               "date": {
                 "pubDate": "2008-06-01T00:00:00"
               },
-              "resTitle": "GEMET - INSPIRE themes, version 1.0"
+              "resTitle": {
+                "@_Sync": "FALSE",
+                "#value": "GEMET - INSPIRE themes, version 1.0"
+              }
             },
             "keyword": [
               "vysoká škola",
-              "vysoké školy",
-              "škola",
-              "školy",
-              "pobočka vysoké školy",
               "Karlovarský kraj",
-              "univerzita"
+              "pobočka"
             ]
           },
-          "resMaint": {
-            "maintScp": {
-              "ScopeCd": {
-                "@_value": "001"
-              }
-            },
-            "maintFreq": {
-              "MaintFreqCd": {
-                "@_value": "009"
-              }
+          "spatRpType": {
+            "SpatRepTypCd": {
+              "@_Sync": "FALSE",
+              "@_value": "003"
             }
           },
           "dataChar": {
             "CharSetCd": {
+              "@_Sync": "FALSE",
               "@_value": "004"
             }
           },
@@ -5104,33 +5125,25 @@
               "pobočka vysoké školy",
               "univerzita",
               "vysoká škola",
-              "vysoké školy",
-              "škola",
-              "školy"
+              "škola"
             ]
           },
           "idPoC": {
             "rpCntInfo": {
               "cntAddress": {
-                "eMailAdd": "pavla.brabencova@karp-kv.cz"
+                "eMailAdd": "pavla.brabencova@kickk.cz"
               }
             },
-            "rpOrgName": "Krajský úřad Karlovarského kraje",
             "role": {
               "RoleCd": {
                 "@_value": "007"
               }
-            }
+            },
+            "rpOrgName": "Krajský úřad Karlovarského kraje"
           },
           "resConst": [
             {
               "LegConsts": {
-                "useConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
-                "othConsts": "Jiná omezení",
                 "inspireAccessUseConditions": {
                   "ConditionsAccUseCd": {
                     "@_value": "001"
@@ -5140,12 +5153,6 @@
             },
             {
               "LegConsts": {
-                "othConsts": "Jiná omezení",
-                "accessConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
                 "inspirePublicAccessLimits": {
                   "PublicAccessCd": {
                     "@_value": "001"
@@ -5164,17 +5171,18 @@
           "RefSystem": {
             "refSysID": {
               "identCode": {
-                "@_code": "WGS84"
+                "@_Sync": "FALSE",
+                "@_code": "GCS_WGS_1984"
               }
             }
           }
         },
         "mdChar": {
           "CharSetCd": {
+            "@_Sync": "FALSE",
             "@_value": "004"
           }
         },
-        "mdFileID": "1739266372622r4737635162711302",
         "distInfo": {
           "distTranOps": {
             "onLineSrc": {
@@ -5185,7 +5193,7 @@
         "mdMaint": {
           "maintFreq": {
             "MaintFreqCd": {
-              "@_value": "009"
+              "@_value": "008"
             }
           }
         },
@@ -5197,42 +5205,42 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/datasets/25589e2554f54259b200f4adb547db54_3"
+          "accessURL": "https://www.datazapad.cz/datasets/25589e2554f54259b200f4adb547db54_0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "ArcGIS GeoService",
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
-          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Seznam_vysok%C3%BDch_%C5%A1kol_p%C5%AFsob%C3%ADc%C3%ADch_v_Karlovarsk%C3%A9m_kraji_WFL1/FeatureServer/3"
+          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Seznam_vysok%C3%BDch_%C5%A1kol_p%C5%AFsob%C3%ADc%C3%ADch_v_Karlovarsk%C3%A9m_kraji_WFL1/FeatureServer/0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "CSV",
           "format": "CSV",
           "mediaType": "text/csv",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/25589e2554f54259b200f4adb547db54/csv?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/25589e2554f54259b200f4adb547db54/csv?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Shapefile",
           "format": "ZIP",
           "mediaType": "application/zip",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/25589e2554f54259b200f4adb547db54/shapefile?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/25589e2554f54259b200f4adb547db54/shapefile?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "GeoJSON",
           "format": "GeoJSON",
           "mediaType": "application/vnd.geo+json",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/25589e2554f54259b200f4adb547db54/geojson?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/25589e2554f54259b200f4adb547db54/geojson?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "KML",
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/25589e2554f54259b200f4adb547db54/kml?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/25589e2554f54259b200f4adb547db54/kml?layers=0"
         }
       ],
       "theme": [
