@@ -9636,7 +9636,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "",
       "license": "",
       "category": [],
       "metadata": "{{metadata.metadata}}",
@@ -9649,9 +9649,7 @@
           "accessURL": "https://www.datazapad.cz/pages/57c8b30a84554342869c647db610e4e0"
         }
       ],
-      "theme": [
-        "geospatial"
-      ]
+      "theme": ""
     },
     {
       "@type": "dcat:Dataset",
