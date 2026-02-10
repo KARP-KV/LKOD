@@ -4951,24 +4951,20 @@
     },
     {
       "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=2293df931dc548668292c933ab7d4a6d&sublayer=0",
-      "landingPage": "https://www.datazapad.cz/datasets/2293df931dc548668292c933ab7d4a6d_0",
+      "identifier": "https://www.arcgis.com/home/item.html?id=2293df931dc548668292c933ab7d4a6d&sublayer=3",
+      "landingPage": "https://www.datazapad.cz/datasets/2293df931dc548668292c933ab7d4a6d_3",
       "title": "Seznam MAS v Karlovarském kraji",
-      "description": "<p>Datová sada obsahuje data o místních akčních skupinách (MAS) působících v Karlovarském kraji - identifikační číslo, sídlo, číslo datové schránky, kontaktní telefon a e-mail, adresní bod a lokaci kontaktního místa MAS. Datová sada obsahuje rovněž výpis členských obcí a jejich počet.</p><div>Poskytovatelem dat je Karlovarská agentura rozvoje podnikání, p.o.</div>",
+      "description": "<p>Datová sada obsahuje přehled místních akčních skupin (MAS) registrovaných a působících v Karlovarském kraji. Obsahuje informace o MAS - název, identifikační číslo, sídlo, adresní bod, ID datové schránky, webové stránky, výpis členských obcí a jejich počet, kontaktní telefon a e-mail a přesnou prostorovou lokaci kontaktního místa MAS. Souřadnicový systém je použit WGS 1984.</p><div>Poskytovatelem dat je Krajské inovační centrum Karlovarského kraje, p.o.</div>",
       "keyword": [
         "MAS",
         "místní akční skupina",
-        "místní akční skupiny",
         "Karlovarský kraj",
-        "obce",
-        "místní skupina",
-        "místní skupiny",
-        "akční skupiny"
+        "zájmové sdružení"
       ],
       "issued": "2025-02-04T09:12:07.000Z",
-      "modified": "2025-12-29T08:31:47.928Z",
+      "modified": "2026-02-10T10:23:03.000Z",
       "publisher": {
-        "name": "Karlovarská agentura rozvoje podnikání, p.o."
+        "name": "Krajské inovační centrum Karlovarského kraje"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -4976,7 +4972,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "12.3720,49.9822,13.4079,50.3067",
+      "spatial": "12.3720,49.9822,13.4079,50.3082",
       "license": "https://creativecommons.org/licenses/by/4.0",
       "category": [
         "Kraj a dotace"
@@ -4984,37 +4980,46 @@
       "metadata": {
         "mdLang": {
           "languageCode": {
+            "@_Sync": "FALSE",
             "@_value": "cze"
           }
         },
         "mdContact": {
           "rpCntInfo": {
             "cntAddress": {
-              "eMailAdd": "pavla.brabencova@karp-kv.cz"
+              "eMailAdd": "pavla.brabencova@kickk.cz"
             }
           },
-          "rpOrgName": "Karlovarská agentura rozvoje podnikání, p.o.",
           "role": {
             "RoleCd": {
               "@_value": "007"
             }
-          }
+          },
+          "rpOrgName": "Krajské inovační centrum Karlovarského kraje, p.o."
         },
-        "mdDateSt": "2025-02-04",
+        "mdDateSt": {
+          "@_Sync": "FALSE",
+          "#value": "2026-02-10"
+        },
         "Esri": {
           "ArcGISFormat": 1,
-          "CreaTime": 9512500,
+          "CreaTime": 9493400,
           "ArcGISProfile": "INSPIRE",
-          "ArcGISstyle": "INSPIRE Metadata Directive",
-          "ModDate": 20250213,
           "CreaDate": 20250204,
-          "ModTime": 11561921,
-          "SyncOnce": "TRUE",
-          "MapLyrSync": false,
-          "PublishStatus": "editor:esri.dijit.metadata.editor"
+          "SyncOnce": "TRUE"
         },
-        "mdTimeSt": "10:24:47.72",
+        "mdTimeSt": "10:27:54",
         "dqInfo": {
+          "dataLineage": {
+            "statement": "Data Krajského inovačního centra Karlovarského kraje, p.o."
+          },
+          "dqScope": {
+            "scpLvl": {
+              "ScopeCd": {
+                "@_value": "005"
+              }
+            }
+          },
           "report": {
             "measResult": {
               "ConResult": {
@@ -5022,7 +5027,10 @@
                   "date": {
                     "pubDate": "2010-12-08T00:00:00"
                   },
-                  "resTitle": "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                  "resTitle": {
+                    "@_Sync": "FALSE",
+                    "#value": "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                  }
                 }
               }
             }
@@ -5034,39 +5042,45 @@
           }
         },
         "dataIdInfo": {
-          "idAbs": "<p>Datová sada obsahuje data o místních akčních skupinách (MAS) působících v Karlovarském kraji - identifikační číslo, sídlo, číslo datové schránky, kontaktní telefon a e-mail, adresní bod a lokaci kontaktního místa MAS. Datová sada obsahuje rovněž výpis členských obcí a jejich počet.</p><div>Poskytovatelem dat je Karlovarská agentura rozvoje podnikání, p.o.</div>",
-          "idCredit": "Karlovarská agentura rozvoje podnikání, p.o.",
-          "dataLang": {
-            "countryCode": {
-              "@_value": "CZ"
-            },
-            "languageCode": {
-              "@_value": "cze"
-            }
-          },
-          "idPurp": "Seznam místních akčních skupin působících na území Karlovarského kraje.",
-          "tpCat": {
-            "TopicCatCd": {
-              "@_value": "016"
-            }
-          },
+          "idAbs": "<p>Datová sada obsahuje přehled místních akčních skupin (MAS) registrovaných a působících v Karlovarském kraji. Obsahuje informace o MAS - název, identifikační číslo, sídlo, adresní bod, ID datové schránky, webové stránky, výpis členských obcí a jejich počet, kontaktní telefon a e-mail a přesnou prostorovou lokaci kontaktního místa MAS. Souřadnicový systém je použit WGS 1984.</p><div>Poskytovatelem dat je Krajské inovační centrum Karlovarského kraje, p.o.</div>",
           "dataExt": {
             "geoEle": {
               "GeoBndBox": {
-                "eastBL": 13.454575,
-                "southBL": 49.964501,
-                "northBL": 50.341766,
-                "westBL": 12.319807
+                "eastBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 13.407883
+                },
+                "southBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 49.982165
+                },
+                "northBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 50.30815
+                },
+                "westBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 12.371992
+                }
               }
             }
           },
           "idCitation": {
             "date": {
-              "pubDate": "2025-02-04T10:25:31.283+01:00"
+              "reviseDate": "2026-02-10T10:23:03"
             },
-            "resTitle": "Seznam MAS v Karlovarském kraji",
+            "resTitle": {
+              "@_Sync": "FALSE",
+              "#value": "Seznam MAS v Karlovarském kraji"
+            },
             "citId": {
               "identCode": "publication"
+            }
+          },
+          "dataLang": {
+            "languageCode": {
+              "@_Sync": "FALSE",
+              "@_value": "cze"
             }
           },
           "themeKeys": {
@@ -5074,75 +5088,59 @@
               "date": {
                 "pubDate": "2008-06-01T00:00:00"
               },
-              "resTitle": "GEMET - INSPIRE themes, version 1.0"
+              "resTitle": {
+                "@_Sync": "FALSE",
+                "#value": "GEMET - INSPIRE themes, version 1.0"
+              }
             },
             "keyword": [
               "MAS",
               "místní akční skupina",
-              "místní akční skupiny",
-              "Karlovarský kraj",
-              "obce",
-              "místní skupina",
-              "místní skupiny",
-              "akční skupiny"
+              "Karlovarský kraj"
             ]
           },
-          "resMaint": {
-            "maintScp": {
-              "ScopeCd": {
-                "@_value": "001"
-              }
-            },
-            "maintFreq": {
-              "MaintFreqCd": {
-                "@_value": "009"
-              }
-            }
-          },
+          "idPurp": "Přehled místních akčních skupin registrovaných a působících na území Karlovarského kraje.",
           "spatRpType": {
             "SpatRepTypCd": {
+              "@_Sync": "FALSE",
               "@_value": "003"
             }
           },
           "dataChar": {
             "CharSetCd": {
+              "@_Sync": "FALSE",
               "@_value": "004"
+            }
+          },
+          "tpCat": {
+            "TopicCatCd": {
+              "@_value": "016"
             }
           },
           "searchKeys": {
             "keyword": [
               "MAS",
               "místní akční skupina",
-              "místní akční skupiny",
               "Karlovarský kraj",
-              "obce",
-              "místní skupina",
-              "místní skupiny",
-              "akční skupiny"
+              "zájmové sdružení"
             ]
           },
           "idPoC": {
             "rpCntInfo": {
               "cntAddress": {
-                "eMailAdd": "pavla.brabencova@karp-kv.cz"
+                "eMailAdd": "pavla.brabencova@kickk.cz"
               }
             },
-            "rpOrgName": "Karlovarská agentura rozvoje podnikání, p.o.",
             "role": {
               "RoleCd": {
                 "@_value": "007"
               }
-            }
+            },
+            "rpOrgName": "Krajské inovační centrum Karlovarského kraje"
           },
           "resConst": [
             {
               "LegConsts": {
-                "useConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
-                "othConsts": "Jiná omezení",
                 "inspireAccessUseConditions": {
                   "ConditionsAccUseCd": {
                     "@_value": "001"
@@ -5152,12 +5150,6 @@
             },
             {
               "LegConsts": {
-                "othConsts": "Jiná omezení",
-                "accessConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
                 "inspirePublicAccessLimits": {
                   "PublicAccessCd": {
                     "@_value": "001"
@@ -5176,6 +5168,7 @@
           "RefSystem": {
             "refSysID": {
               "identCode": {
+                "@_Sync": "FALSE",
                 "@_code": "GCS_WGS_1984"
               }
             }
@@ -5183,10 +5176,10 @@
         },
         "mdChar": {
           "CharSetCd": {
+            "@_Sync": "FALSE",
             "@_value": "004"
           }
         },
-        "mdFileID": "1738661087949r3334781894836545",
         "distInfo": {
           "distTranOps": {
             "onLineSrc": {
@@ -5197,7 +5190,7 @@
         "mdMaint": {
           "maintFreq": {
             "MaintFreqCd": {
-              "@_value": "009"
+              "@_value": "008"
             }
           }
         },
@@ -5209,42 +5202,42 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/datasets/2293df931dc548668292c933ab7d4a6d_0"
+          "accessURL": "https://www.datazapad.cz/datasets/2293df931dc548668292c933ab7d4a6d_3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "ArcGIS GeoService",
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
-          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Seznam_MAS_v_Karlovarsk%C3%A9m_kraji_WFL1/FeatureServer/0"
+          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Seznam_MAS_v_Karlovarsk%C3%A9m_kraji_WFL1/FeatureServer/3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "CSV",
           "format": "CSV",
           "mediaType": "text/csv",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/2293df931dc548668292c933ab7d4a6d/csv?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/2293df931dc548668292c933ab7d4a6d/csv?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Shapefile",
           "format": "ZIP",
           "mediaType": "application/zip",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/2293df931dc548668292c933ab7d4a6d/shapefile?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/2293df931dc548668292c933ab7d4a6d/shapefile?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "GeoJSON",
           "format": "GeoJSON",
           "mediaType": "application/vnd.geo+json",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/2293df931dc548668292c933ab7d4a6d/geojson?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/2293df931dc548668292c933ab7d4a6d/geojson?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "KML",
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/2293df931dc548668292c933ab7d4a6d/kml?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/2293df931dc548668292c933ab7d4a6d/kml?layers=3"
         }
       ],
       "theme": [
