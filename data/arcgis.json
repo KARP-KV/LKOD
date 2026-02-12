@@ -13741,8 +13741,8 @@
     },
     {
       "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=72aa9de6abc94f949f3959e70e0d241d&sublayer=3",
-      "landingPage": "https://www.datazapad.cz/datasets/72aa9de6abc94f949f3959e70e0d241d_3",
+      "identifier": "https://www.arcgis.com/home/item.html?id=72aa9de6abc94f949f3959e70e0d241d&sublayer=0",
+      "landingPage": "https://www.datazapad.cz/datasets/72aa9de6abc94f949f3959e70e0d241d_0",
       "title": "Lékařská a lékárenská pohotovostní služba v Karlovarském kraji",
       "description": "<p><span style=\"font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif;font-size:14px;\">Datová sada obsahuje časovou a místní specifikaci lékařské pohotovostní služby pro děti, dospělé, stomatologickou a chirurgickou pohotovostní službu (chirurgickou pohotovostní službu pouze v Mariánských Lázních) a lékárenskou pohotovostní službu pro Karlovarský kraj. Souřadnicový systém je použit WGS 1984.</span></p><p><span style=\"font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif;font-size:14px;\">Zdrojem dat je Krajský úřad Karlovarského kraje.</span></p>",
       "keyword": [
@@ -13752,10 +13752,11 @@
         "lékárenská",
         "pohotovost",
         "zubní pohotovost",
-        "on-line pohotovost"
+        "on-line pohotovost",
+        "pohotovostní služba"
       ],
       "issued": "2024-02-15T08:55:43.000Z",
-      "modified": "2025-12-18T10:18:27.000Z",
+      "modified": "2026-02-12T11:45:18.000Z",
       "publisher": {
         "name": "Krajský úřad Karlovarského kraje"
       },
@@ -13792,7 +13793,7 @@
         },
         "mdDateSt": {
           "@_Sync": "FALSE",
-          "#value": "2025-12-18"
+          "#value": "2026-02-12"
         },
         "Esri": {
           "ArcGISFormat": 1,
@@ -13801,7 +13802,7 @@
           "CreaDate": 20240215,
           "SyncOnce": "TRUE"
         },
-        "mdTimeSt": "10:20:19",
+        "mdTimeSt": "11:46:58",
         "dqInfo": {
           "dataLineage": {
             "statement": "Data Krajského úřadu Karlovarského kraje a Krajského inovačního centra Karlovarského kraje, p.o."
@@ -13844,11 +13845,18 @@
             }
           },
           "idPurp": "Seznam lékařských a lékárenských pohotovostních služeb v Karlovarském kraji.",
-          "tpCat": {
-            "TopicCatCd": {
-              "@_value": "009"
+          "tpCat": [
+            {
+              "TopicCatCd": {
+                "@_value": "009"
+              }
+            },
+            {
+              "TopicCatCd": {
+                "@_value": "016"
+              }
             }
-          },
+          ],
           "dataExt": {
             "geoEle": {
               "GeoBndBox": {
@@ -13873,7 +13881,7 @@
           },
           "idCitation": {
             "date": {
-              "reviseDate": "2025-12-18T10:18:27"
+              "reviseDate": "2026-02-12T11:45:18"
             },
             "resTitle": {
               "@_Sync": "FALSE",
@@ -13894,11 +13902,11 @@
               }
             },
             "keyword": [
-              "lékařská",
-              "lékárenská",
-              "pohotovost",
+              "Karlovarský kraj",
               "pohotovostní služba",
-              "Karlovarský kraj"
+              "lékařská pohotovost",
+              "lékárenská pohotovost",
+              "pohotovost"
             ]
           },
           "spatRpType": {
@@ -13921,7 +13929,8 @@
               "lékárenská",
               "pohotovost",
               "zubní pohotovost",
-              "on-line pohotovost"
+              "on-line pohotovost",
+              "pohotovostní služba"
             ]
           },
           "idPoC": {
@@ -13989,7 +13998,7 @@
         "mdMaint": {
           "maintFreq": {
             "MaintFreqCd": {
-              "@_value": "009"
+              "@_value": "006"
             }
           }
         },
@@ -14001,42 +14010,42 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/datasets/72aa9de6abc94f949f3959e70e0d241d_3"
+          "accessURL": "https://www.datazapad.cz/datasets/72aa9de6abc94f949f3959e70e0d241d_0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "ArcGIS GeoService",
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
-          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/L%C3%A9ka%C5%99sk%C3%A1_a_l%C3%A9k%C3%A1rensk%C3%A1_pohotovostn%C3%AD_slu%C5%BEba_v_KVK_v_r__2024_WFL1/FeatureServer/3"
+          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/L%C3%A9ka%C5%99sk%C3%A1_a_l%C3%A9k%C3%A1rensk%C3%A1_pohotovostn%C3%AD_slu%C5%BEba_v_KVK_v_r__2024_WFL1/FeatureServer/0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "CSV",
           "format": "CSV",
           "mediaType": "text/csv",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/72aa9de6abc94f949f3959e70e0d241d/csv?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/72aa9de6abc94f949f3959e70e0d241d/csv?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Shapefile",
           "format": "ZIP",
           "mediaType": "application/zip",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/72aa9de6abc94f949f3959e70e0d241d/shapefile?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/72aa9de6abc94f949f3959e70e0d241d/shapefile?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "GeoJSON",
           "format": "GeoJSON",
           "mediaType": "application/vnd.geo+json",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/72aa9de6abc94f949f3959e70e0d241d/geojson?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/72aa9de6abc94f949f3959e70e0d241d/geojson?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "KML",
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/72aa9de6abc94f949f3959e70e0d241d/kml?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/72aa9de6abc94f949f3959e70e0d241d/kml?layers=0"
         }
       ],
       "theme": [
@@ -17746,21 +17755,21 @@
     },
     {
       "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=b073abb685724bb88e1b560fe774edcd&sublayer=0",
-      "landingPage": "https://www.datazapad.cz/datasets/b073abb685724bb88e1b560fe774edcd_0",
+      "identifier": "https://www.arcgis.com/home/item.html?id=b073abb685724bb88e1b560fe774edcd&sublayer=3",
+      "landingPage": "https://www.datazapad.cz/datasets/b073abb685724bb88e1b560fe774edcd_3",
       "title": "Zájmová sdružení právnických osob (s obcemi) v Karlovarském kraji",
-      "description": "<p>Datová sada obsahuje přehled zájmových sdružení právnických osob registrovaných na území Karlovarského kraje, v nichž jsou členy také obce (neobsahuje zájmová sdružení právnických osob, které jsou založeny pouze právnickými osobami bez účasti obcí). Datová sada uvádí kromě specifikace umístění sdružení, rovněž údaje typu název, kontaktní údaje, webové stránky, vznik sdružení a členové sdružení.</p><div>Poskytovatelem dat je Karlovarská agentura rozvoje podnikání, p.o.</div>",
+      "description": "<p>Datová sada obsahuje přehled zájmových sdružení právnických osob registrovaných na území Karlovarského kraje, jejichž členy jsou obce (neobsahuje zájmová sdružení právnických osob, které jsou založeny pouze právnickými osobami bez účasti obcí). Datová sada uvádí kromě přesně specifikace prostorové lokalizace sdružení, rovněž údaje typu název, identifikační číslo organizace, sídlo, datum vzniku sdružení a jeho účel, počet členů a výpis členů sdružení, kontaktní údaje, webové stránky. Souřadnicový systém je použit WGS 1984.</p><div>Poskytovatelem dat je Krajské inovační centrum Karlovarského kraje, p.o.</div>",
       "keyword": [
-        "Zájmová sdružení",
         "Karlovarský kraj",
         "sdružení obcí",
         "sdružení právnických osob",
-        "obce"
+        "zájmové sdružení",
+        "obec"
       ],
       "issued": "2025-03-25T07:31:17.000Z",
-      "modified": "2025-12-29T08:38:00.158Z",
+      "modified": "2026-02-12T10:38:26.000Z",
       "publisher": {
-        "name": "Karlovarská agentura rozvoje podnikání, p.o."
+        "name": "Krajské inovační centrum Karlovarského kraje"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -17776,32 +17785,39 @@
       "metadata": {
         "mdLang": {
           "languageCode": {
+            "@_Sync": "FALSE",
             "@_value": "cze"
           }
         },
         "mdContact": {
           "rpCntInfo": {
             "cntAddress": {
-              "eMailAdd": "pavla.brabencova@karp-kv.cz"
+              "eMailAdd": "pavla.brabencova@kickk.cz"
             }
           },
-          "rpOrgName": "Karlovarská agentura rozvoje podnikání, p.o."
+          "role": {
+            "RoleCd": {
+              "@_value": "007"
+            }
+          },
+          "rpOrgName": "Krajské inovační centrum Karlovarského kraje"
         },
-        "mdDateSt": "2025-03-25",
+        "mdDateSt": {
+          "@_Sync": "FALSE",
+          "#value": "2026-02-12"
+        },
         "Esri": {
           "ArcGISFormat": 1,
-          "CreaTime": 8113100,
+          "CreaTime": 8082600,
           "ArcGISProfile": "INSPIRE",
-          "DataProperties": {
-            "itemProps": {
-              "imsContentType": 2
-            }
-          },
           "CreaDate": 20250325,
           "SyncOnce": "TRUE"
         },
-        "mdTimeSt": "11:29:33",
+        "mdTimeSt": "10:39:35",
         "dqInfo": {
+          "dataLineage": {
+            "statement": "Data Krajského inovačního centra Karlovarského kraje, p.o."
+          },
           "dqScope": {
             "scpLvl": {
               "ScopeCd": {
@@ -17816,7 +17832,10 @@
                   "date": {
                     "pubDate": "2010-12-08T00:00:00"
                   },
-                  "resTitle": "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                  "resTitle": {
+                    "@_Sync": "FALSE",
+                    "#value": "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                  }
                 }
               }
             }
@@ -17828,17 +17847,15 @@
           }
         },
         "dataIdInfo": {
-          "idAbs": "<p>Datová sada obsahuje přehled zájmových sdružení právnických osob registrovaných na území Karlovarského kraje, v nichž jsou členy také obce (neobsahuje zájmová sdružení právnických osob, které jsou založeny pouze právnickými osobami bez účasti obcí). Datová sada uvádí kromě specifikace umístění sdružení, rovněž údaje typu název, kontaktní údaje, webové stránky, vznik sdružení a členové sdružení.</p><div>Poskytovatelem dat je Karlovarská agentura rozvoje podnikání, p.o.</div>",
+          "idAbs": "<p>Datová sada obsahuje přehled zájmových sdružení právnických osob registrovaných na území Karlovarského kraje, jejichž členy jsou obce (neobsahuje zájmová sdružení právnických osob, které jsou založeny pouze právnickými osobami bez účasti obcí). Datová sada uvádí kromě přesně specifikace prostorové lokalizace sdružení, rovněž údaje typu název, identifikační číslo organizace, sídlo, datum vzniku sdružení a jeho účel, počet členů a výpis členů sdružení, kontaktní údaje, webové stránky. Souřadnicový systém je použit WGS 1984.</p><div>Poskytovatelem dat je Krajské inovační centrum Karlovarského kraje, p.o.</div>",
           "idCredit": "Karlovarská agentura rozvoje podnikání, p.o.",
           "dataLang": {
-            "countryCode": {
-              "@_value": "CZ"
-            },
             "languageCode": {
+              "@_Sync": "FALSE",
               "@_value": "cze"
             }
           },
-          "idPurp": "Seznam zájmových sdružení právnických osob registrovaných na území Karlovarského kraje, v nichž jsou členy také obce.",
+          "idPurp": "Seznam zájmových sdružení právnických osob registrovaných na území Karlovarského kraje, jejichž členy jsou obce.",
           "tpCat": {
             "TopicCatCd": {
               "@_value": "016"
@@ -17847,18 +17864,33 @@
           "dataExt": {
             "geoEle": {
               "GeoBndBox": {
-                "eastBL": 13.297832,
-                "southBL": 50.059109,
-                "northBL": 50.455969,
-                "westBL": 12.48345
+                "eastBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 13.25114
+                },
+                "southBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 50.083789
+                },
+                "northBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 50.427982
+                },
+                "westBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 12.521902
+                }
               }
             }
           },
           "idCitation": {
             "date": {
-              "pubDate": "2025-03-25T08:54:43"
+              "reviseDate": "2026-02-12T10:38:26"
             },
-            "resTitle": "Zájmová sdružení právnických osob v Karlovarském kraji",
+            "resTitle": {
+              "@_Sync": "FALSE",
+              "#value": "Zájmová sdružení právnických osob (s obcemi) v Karlovarském kraji"
+            },
             "citId": {
               "identCode": "publication"
             }
@@ -17868,41 +17900,50 @@
               "date": {
                 "pubDate": "2008-06-01T00:00:00"
               },
-              "resTitle": "GEMET - INSPIRE themes, version 1.0"
+              "resTitle": {
+                "@_Sync": "FALSE",
+                "#value": "GEMET - INSPIRE themes, version 1.0"
+              }
             },
             "keyword": [
-              "zájmová sdružení",
-              "Karlovarský  kraj",
-              "sdružení právnických osob",
-              "obce"
+              "Karlovarský kraj",
+              "Zájmové sdružení",
+              "obec"
             ]
           },
           "spatRpType": {
             "SpatRepTypCd": {
+              "@_Sync": "FALSE",
               "@_value": "003"
             }
           },
           "dataChar": {
             "CharSetCd": {
+              "@_Sync": "FALSE",
               "@_value": "004"
             }
           },
           "searchKeys": {
             "keyword": [
-              "Zájmová sdružení",
               "Karlovarský kraj",
               "sdružení obcí",
               "sdružení právnických osob",
-              "obce"
+              "zájmové sdružení",
+              "obec"
             ]
           },
           "idPoC": {
             "rpCntInfo": {
               "cntAddress": {
-                "eMailAdd": "pavla.brabencova@karp-kv.cz"
+                "eMailAdd": "pavla.brabencova@kickk.cz"
               }
             },
-            "rpOrgName": "Karlovarská agentura rozvoje podnikání, p.o."
+            "role": {
+              "RoleCd": {
+                "@_value": "007"
+              }
+            },
+            "rpOrgName": "Krajské inovační centrum Karlovarského kraje"
           },
           "resConst": [
             {
@@ -17934,6 +17975,7 @@
           "RefSystem": {
             "refSysID": {
               "identCode": {
+                "@_Sync": "FALSE",
                 "@_code": "GCS_WGS_1984"
               }
             }
@@ -17941,6 +17983,7 @@
         },
         "mdChar": {
           "CharSetCd": {
+            "@_Sync": "FALSE",
             "@_value": "004"
           }
         },
@@ -17952,14 +17995,9 @@
           }
         },
         "mdMaint": {
-          "maintScp": {
-            "ScopeCd": {
-              "@_value": "001"
-            }
-          },
           "maintFreq": {
             "MaintFreqCd": {
-              "@_value": "009"
+              "@_value": "008"
             }
           }
         },
@@ -17971,42 +18009,42 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/datasets/b073abb685724bb88e1b560fe774edcd_0"
+          "accessURL": "https://www.datazapad.cz/datasets/b073abb685724bb88e1b560fe774edcd_3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "ArcGIS GeoService",
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
-          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Z%C3%A1jmov%C3%A1_sdru%C5%BEen%C3%AD_p_o__KVK_WFL1/FeatureServer/0"
+          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Z%C3%A1jmov%C3%A1_sdru%C5%BEen%C3%AD_p_o__KVK_WFL1/FeatureServer/3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "CSV",
           "format": "CSV",
           "mediaType": "text/csv",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/b073abb685724bb88e1b560fe774edcd/csv?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/b073abb685724bb88e1b560fe774edcd/csv?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Shapefile",
           "format": "ZIP",
           "mediaType": "application/zip",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/b073abb685724bb88e1b560fe774edcd/shapefile?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/b073abb685724bb88e1b560fe774edcd/shapefile?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "GeoJSON",
           "format": "GeoJSON",
           "mediaType": "application/vnd.geo+json",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/b073abb685724bb88e1b560fe774edcd/geojson?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/b073abb685724bb88e1b560fe774edcd/geojson?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "KML",
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/b073abb685724bb88e1b560fe774edcd/kml?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/b073abb685724bb88e1b560fe774edcd/kml?layers=3"
         }
       ],
       "theme": [

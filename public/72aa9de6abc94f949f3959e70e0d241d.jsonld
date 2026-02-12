@@ -17,25 +17,26 @@
       "lékárenská",
       "pohotovost",
       "zubní pohotovost",
-      "on-line pohotovost"
+      "on-line pohotovost",
+      "pohotovostní služba"
     ]
   },
   "téma": [
     "http://publications.europa.eu/resource/authority/data-theme/HEAL"
   ],
-  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/OTHER",
+  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/QUARTERLY",
   "prvek_rúian": [
     "https://linked.cuzk.cz/resource/ruian/vusc/51"
   ],
   "distribuce": [
     {
       "typ": "Distribuce",
-      "iri": "https://www.datazapad.cz/api/download/v1/items/72aa9de6abc94f949f3959e70e0d241d/csv?layers=3",
+      "iri": "https://www.datazapad.cz/api/download/v1/items/72aa9de6abc94f949f3959e70e0d241d/csv?layers=0",
       "název": {
         "cs": "CSV"
       },
-      "soubor_ke_stažení": "https://www.datazapad.cz/api/download/v1/items/72aa9de6abc94f949f3959e70e0d241d/csv?layers=3",
-      "přístupové_url": "https://www.datazapad.cz/api/download/v1/items/72aa9de6abc94f949f3959e70e0d241d/csv?layers=3",
+      "soubor_ke_stažení": "https://www.datazapad.cz/api/download/v1/items/72aa9de6abc94f949f3959e70e0d241d/csv?layers=0",
+      "přístupové_url": "https://www.datazapad.cz/api/download/v1/items/72aa9de6abc94f949f3959e70e0d241d/csv?layers=0",
       "typ_média": "http://www.iana.org/assignments/media-types/text/csv",
       "formát": "http://publications.europa.eu/resource/authority/file-type/CSV",
       "podmínky_užití": {
@@ -48,12 +49,12 @@
     },
     {
       "typ": "Distribuce",
-      "iri": "https://www.datazapad.cz/api/download/v1/items/72aa9de6abc94f949f3959e70e0d241d/shapefile?layers=3",
+      "iri": "https://www.datazapad.cz/api/download/v1/items/72aa9de6abc94f949f3959e70e0d241d/shapefile?layers=0",
       "název": {
         "cs": "Shapefile"
       },
-      "soubor_ke_stažení": "https://www.datazapad.cz/api/download/v1/items/72aa9de6abc94f949f3959e70e0d241d/shapefile?layers=3",
-      "přístupové_url": "https://www.datazapad.cz/api/download/v1/items/72aa9de6abc94f949f3959e70e0d241d/shapefile?layers=3",
+      "soubor_ke_stažení": "https://www.datazapad.cz/api/download/v1/items/72aa9de6abc94f949f3959e70e0d241d/shapefile?layers=0",
+      "přístupové_url": "https://www.datazapad.cz/api/download/v1/items/72aa9de6abc94f949f3959e70e0d241d/shapefile?layers=0",
       "typ_média": "http://www.iana.org/assignments/media-types/application/zip",
       "formát": "http://publications.europa.eu/resource/authority/file-type/ZIP",
       "podmínky_užití": {
@@ -66,12 +67,12 @@
     },
     {
       "typ": "Distribuce",
-      "iri": "https://www.datazapad.cz/api/download/v1/items/72aa9de6abc94f949f3959e70e0d241d/geojson?layers=3",
+      "iri": "https://www.datazapad.cz/api/download/v1/items/72aa9de6abc94f949f3959e70e0d241d/geojson?layers=0",
       "název": {
         "cs": "GeoJSON"
       },
-      "soubor_ke_stažení": "https://www.datazapad.cz/api/download/v1/items/72aa9de6abc94f949f3959e70e0d241d/geojson?layers=3",
-      "přístupové_url": "https://www.datazapad.cz/api/download/v1/items/72aa9de6abc94f949f3959e70e0d241d/geojson?layers=3",
+      "soubor_ke_stažení": "https://www.datazapad.cz/api/download/v1/items/72aa9de6abc94f949f3959e70e0d241d/geojson?layers=0",
+      "přístupové_url": "https://www.datazapad.cz/api/download/v1/items/72aa9de6abc94f949f3959e70e0d241d/geojson?layers=0",
       "typ_média": "http://www.iana.org/assignments/media-types/application/json",
       "formát": "http://publications.europa.eu/resource/authority/file-type/JSON",
       "podmínky_užití": {
@@ -84,12 +85,12 @@
     },
     {
       "typ": "Distribuce",
-      "iri": "https://www.datazapad.cz/api/download/v1/items/72aa9de6abc94f949f3959e70e0d241d/kml?layers=3",
+      "iri": "https://www.datazapad.cz/api/download/v1/items/72aa9de6abc94f949f3959e70e0d241d/kml?layers=0",
       "název": {
         "cs": "KML"
       },
-      "soubor_ke_stažení": "https://www.datazapad.cz/api/download/v1/items/72aa9de6abc94f949f3959e70e0d241d/kml?layers=3",
-      "přístupové_url": "https://www.datazapad.cz/api/download/v1/items/72aa9de6abc94f949f3959e70e0d241d/kml?layers=3",
+      "soubor_ke_stažení": "https://www.datazapad.cz/api/download/v1/items/72aa9de6abc94f949f3959e70e0d241d/kml?layers=0",
+      "přístupové_url": "https://www.datazapad.cz/api/download/v1/items/72aa9de6abc94f949f3959e70e0d241d/kml?layers=0",
       "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.google-earth.kml+xml",
       "formát": "http://publications.europa.eu/resource/authority/file-type/KML",
       "podmínky_užití": {
