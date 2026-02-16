@@ -1476,10 +1476,10 @@
     },
     {
       "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=0e9821be72914b65ac6e9ccf37c8ea56&sublayer=0",
-      "landingPage": "https://www.datazapad.cz/datasets/0e9821be72914b65ac6e9ccf37c8ea56_0",
+      "identifier": "https://www.arcgis.com/home/item.html?id=0e9821be72914b65ac6e9ccf37c8ea56&sublayer=3",
+      "landingPage": "https://www.datazapad.cz/datasets/0e9821be72914b65ac6e9ccf37c8ea56_3",
       "title": "Mikroregiony v Karlovarském kraji",
-      "description": "<p>Datová sada obsahuje název mikroregionu, jeho identifikační číslo, právní formu, sídlo, datum vzniku, kód adresy, účel mikroregionu, výpis a počet členů, webovou stránku, kontaktní telefon a e-mail, a rovněž přesnou specifikaci místa kanceláře mikroregionu. Použitý souřadnicový systém je WGS 1984.</p><div>Původním zdrojem dat je Krajský úřad Karlovarského kraje.</div>",
+      "description": "<p><span style=\"color:#000000;font-size:14px;\">Datová sada obsahuje kromě přehledu mikroregionů (</span><span style=\"background-color:rgb(255,255,255);color:#000000;font-family:&quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif;font-size:14px;\"><span style=\"display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-indent:0px;text-transform:none;word-spacing:0px;\">dobrovolné svazky obcí, zájmová sdružení právnických osob, v nichž jsou členy také obce, a místní akční skupiny - se sídlem v Karlovarském kraji) také</span></span><span style=\"color:#000000;font-size:14px;\"> název mikroregionu, jeho identifikační číslo, právní formu, sídlo, datum vzniku, kód adresy, účel mikroregionu, výpis a počet členů, webovou stránku, kontaktní telefon a e-mail, a rovněž přesnou prostorovou specifikaci místa kanceláře mikroregionu. Použitý souřadnicový systém je WGS 1984.</span></p><div><span style=\"color:#000000;\">Původním zdrojem dat je Krajský úřad Karlovarského kraje.</span></div>",
       "keyword": [
         "mikroregion",
         "Karlovarský kraj",
@@ -1488,9 +1488,9 @@
         "místní akční skupina"
       ],
       "issued": "2025-06-17T07:57:43.000Z",
-      "modified": "2025-06-17T07:57:46.536Z",
+      "modified": "2026-02-16T13:34:22.000Z",
       "publisher": {
-        "name": "Karlovarská agentura rozvoje podnikání, p.o."
+        "name": "Krajský úřad Karlovarského kraje"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -1504,10 +1504,16 @@
         "Kraj a dotace"
       ],
       "metadata": {
+        "mdLang": {
+          "languageCode": {
+            "@_Sync": "FALSE",
+            "@_value": "cze"
+          }
+        },
         "mdContact": {
           "rpCntInfo": {
             "cntAddress": {
-              "eMailAdd": "pavla.brabencova@karp-kv.cz"
+              "eMailAdd": "pavla.brabencova@kickk.cz"
             }
           },
           "role": {
@@ -1515,33 +1521,23 @@
               "@_value": "007"
             }
           },
-          "rpOrgName": "Karlovarská agentura rozvoje podnikání, p.o."
+          "rpOrgName": "Krajské inovační centrum Karlovarského kraje, p.o."
         },
-        "distInfo": {
-          "distTranOps": {
-            "onLineSrc": {
-              "linkage": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Mikroregiony_v_Karlovarsk%C3%A9m_kraji_WFL1/FeatureServer"
-            }
-          }
+        "mdDateSt": {
+          "@_Sync": "FALSE",
+          "#value": "2026-02-16"
         },
-        "mdMaint": {
-          "maintFreq": {
-            "MaintFreqCd": {
-              "@_value": "009"
-            }
-          }
-        },
-        "mdDateSt": "2025-06-17",
         "Esri": {
           "ArcGISFormat": 1,
-          "CreaTime": 9471200,
+          "CreaTime": 9460100,
           "ArcGISProfile": "INSPIRE",
           "CreaDate": 20250617,
           "SyncOnce": "TRUE"
         },
+        "mdTimeSt": "13:35:39",
         "dqInfo": {
           "dataLineage": {
-            "statement": "Původním zdrojem je Krajský úřad Karlovarského kraje"
+            "statement": "Data Krajského úřadu Karlovarského kraje a Krajského inovačního centra Karlovarského kraje, p.o."
           },
           "dqScope": {
             "scpLvl": {
@@ -1557,27 +1553,30 @@
                   "date": {
                     "pubDate": "2010-12-08T00:00:00"
                   },
-                  "resTitle": "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                  "resTitle": {
+                    "@_Sync": "FALSE",
+                    "#value": "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                  }
                 }
               }
             }
           }
         },
-        "@_xml:lang": "cs",
         "mdHrLv": {
           "ScopeCd": {
             "@_value": "005"
           }
         },
         "dataIdInfo": {
-          "idAbs": "<p>Datová sada obsahuje název mikroregionu, jeho identifikační číslo, právní formu, sídlo, datum vzniku, kód adresy, účel mikroregionu, výpis a počet členů, webovou stránku, kontaktní telefon a e-mail, a rovněž přesnou specifikaci místa kanceláře mikroregionu. Použitý souřadnicový systém je WGS 1984.</p><div>Původním zdrojem dat je Krajský úřad Karlovarského kraje.</div>",
+          "idAbs": "<p><span style=\"color:#000000;font-size:14px;\">Datová sada obsahuje kromě přehledu mikroregionů (</span><span style=\"background-color:rgb(255,255,255);color:#000000;font-family:&quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif;font-size:14px;\"><span style=\"display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-indent:0px;text-transform:none;word-spacing:0px;\">dobrovolné svazky obcí, zájmová sdružení právnických osob, v nichž jsou členy také obce, a místní akční skupiny - se sídlem v Karlovarském kraji) také</span></span><span style=\"color:#000000;font-size:14px;\"> název mikroregionu, jeho identifikační číslo, právní formu, sídlo, datum vzniku, kód adresy, účel mikroregionu, výpis a počet členů, webovou stránku, kontaktní telefon a e-mail, a rovněž přesnou prostorovou specifikaci místa kanceláře mikroregionu. Použitý souřadnicový systém je WGS 1984.</span></p><div><span style=\"color:#000000;\">Původním zdrojem dat je Krajský úřad Karlovarského kraje.</span></div>",
           "idCredit": "Krajský úřad Karlovarského kraje",
           "dataLang": {
             "languageCode": {
+              "@_Sync": "FALSE",
               "@_value": "cze"
             }
           },
-          "idPurp": "Přehled mikroregionů - svazků obcí, zájmových sdružení právnických osob (v nichž jsou členy také obce) a místní akční skupiny - se sídlem v Karlovarském kraji.",
+          "idPurp": "Přehled mikroregionů - dobrovolných svazků obcí, zájmových sdružení právnických osob (v nichž jsou členy také obce) a místních akčních skupin - se sídlem v Karlovarském kraji.",
           "tpCat": {
             "TopicCatCd": {
               "@_value": "016"
@@ -1586,18 +1585,33 @@
           "dataExt": {
             "geoEle": {
               "GeoBndBox": {
-                "eastBL": 13.432602,
-                "southBL": 49.957827,
-                "northBL": 50.461215,
-                "westBL": 12.16829
+                "eastBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 13.407883
+                },
+                "southBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 49.963128
+                },
+                "northBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 50.427982
+                },
+                "westBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 12.190263
+                }
               }
             }
           },
           "idCitation": {
             "date": {
-              "pubDate": "2025-06-17T10:24:46"
+              "reviseDate": "2026-02-16T13:34:22"
             },
-            "resTitle": "Mikroregiony v Karlovarském kraji",
+            "resTitle": {
+              "@_Sync": "FALSE",
+              "#value": "Mikroregiony v Karlovarském kraji"
+            },
             "citId": {
               "identCode": "publication"
             }
@@ -1607,23 +1621,28 @@
               "date": {
                 "pubDate": "2008-06-01T00:00:00"
               },
-              "resTitle": "GEMET - INSPIRE themes, version 1.0"
+              "resTitle": {
+                "@_Sync": "FALSE",
+                "#value": "GEMET - INSPIRE themes, version 1.0"
+              }
             },
             "keyword": [
               "mikroregion",
               "Karlovarský kraj",
               "svazek obcí",
               "zájmové sdružení",
-              "místní akční skupina"
+              "obec"
             ]
           },
           "spatRpType": {
             "SpatRepTypCd": {
+              "@_Sync": "FALSE",
               "@_value": "003"
             }
           },
           "dataChar": {
             "CharSetCd": {
+              "@_Sync": "FALSE",
               "@_value": "004"
             }
           },
@@ -1639,7 +1658,7 @@
           "idPoC": {
             "rpCntInfo": {
               "cntAddress": {
-                "eMailAdd": "pavla.brabencova@karp-kv.cz"
+                "eMailAdd": "pavla.brabencova@kickk.cz"
               }
             },
             "role": {
@@ -1647,7 +1666,7 @@
                 "@_value": "007"
               }
             },
-            "rpOrgName": "Karlovarská agentura rozvoje podnikání, p.o."
+            "rpOrgName": "Krajský úřad Karlovarského kraje"
           },
           "resConst": [
             {
@@ -1679,6 +1698,7 @@
           "RefSystem": {
             "refSysID": {
               "identCode": {
+                "@_Sync": "FALSE",
                 "@_code": "GCS_WGS_1984"
               }
             }
@@ -1686,9 +1706,25 @@
         },
         "mdChar": {
           "CharSetCd": {
+            "@_Sync": "FALSE",
             "@_value": "004"
           }
-        }
+        },
+        "distInfo": {
+          "distTranOps": {
+            "onLineSrc": {
+              "linkage": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Mikroregiony_v_Karlovarsk%C3%A9m_kraji_WFL1/FeatureServer"
+            }
+          }
+        },
+        "mdMaint": {
+          "maintFreq": {
+            "MaintFreqCd": {
+              "@_value": "008"
+            }
+          }
+        },
+        "@_xml:lang": "cs"
       },
       "distribution": [
         {
@@ -1696,42 +1732,42 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/datasets/0e9821be72914b65ac6e9ccf37c8ea56_0"
+          "accessURL": "https://www.datazapad.cz/datasets/0e9821be72914b65ac6e9ccf37c8ea56_3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "ArcGIS GeoService",
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
-          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Mikroregiony_v_Karlovarsk%C3%A9m_kraji_WFL1/FeatureServer/0"
+          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Mikroregiony_v_Karlovarsk%C3%A9m_kraji_WFL1/FeatureServer/3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "CSV",
           "format": "CSV",
           "mediaType": "text/csv",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/0e9821be72914b65ac6e9ccf37c8ea56/csv?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/0e9821be72914b65ac6e9ccf37c8ea56/csv?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Shapefile",
           "format": "ZIP",
           "mediaType": "application/zip",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/0e9821be72914b65ac6e9ccf37c8ea56/shapefile?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/0e9821be72914b65ac6e9ccf37c8ea56/shapefile?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "GeoJSON",
           "format": "GeoJSON",
           "mediaType": "application/vnd.geo+json",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/0e9821be72914b65ac6e9ccf37c8ea56/geojson?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/0e9821be72914b65ac6e9ccf37c8ea56/geojson?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "KML",
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/0e9821be72914b65ac6e9ccf37c8ea56/kml?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/0e9821be72914b65ac6e9ccf37c8ea56/kml?layers=3"
         }
       ],
       "theme": [
@@ -21243,10 +21279,10 @@
     },
     {
       "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=dbe7041a35494dbe8e01fd86694faed8&sublayer=0",
-      "landingPage": "https://www.datazapad.cz/datasets/dbe7041a35494dbe8e01fd86694faed8_0",
-      "title": "Seznam svazků obcí v Karlovarském kraji",
-      "description": "<p>Dobrovolné svazky obcí jsou formou spolupráce mezi obcemi s různým zaměřením a specifickými cíli (např. technická infrastruktura, nakládání s odpady, vodní hospodářství, zemědělství, obnova venkova, životní prostředí a příroda). Datová sada obsahuje název, identifikační číslo, sídlo svazku, kód adresy sídla, webovou stránku, kontaktní e-mail, kontaktní telefon, číslo datové schránky a přesnou specifikaci místa kanceláře, dále také seznam členských obcí v Karlovarském kraji a mimo Karlovarský kraj a celkový počet členů. Použitý souřadnicový systém je WGS 1984.</p><p>Zdroj dat poskytl Krajský úřad Karlovarského kraje.</p>",
+      "identifier": "https://www.arcgis.com/home/item.html?id=dbe7041a35494dbe8e01fd86694faed8&sublayer=3",
+      "landingPage": "https://www.datazapad.cz/datasets/dbe7041a35494dbe8e01fd86694faed8_3",
+      "title": "Dobrovolné svazky obcí Karlovarského kraje",
+      "description": "<p>Dobrovolné svazky obcí jsou formou spolupráce mezi obcemi s různým zaměřením a specifickými cíli (např. technická infrastruktura, nakládání s odpady, vodní hospodářství, zemědělství, obnova venkova, životní prostředí a příroda). Datová sada obsahuje přehled dobrovolných svazků obcí v Karlovarském kraji, jeho název, identifikační číslo, sídlo svazku, kód adresy sídla, webovou stránku, kontaktní e-mail, kontaktní telefon, číslo datové schránky a přesnou prostorovou lokalizaci místa kanceláře, dále také seznam členských obcí v Karlovarském kraji a mimo Karlovarský kraj a celkový počet členů. Použitý souřadnicový systém je WGS 1984.</p><p>Zdrojem dat je Krajský úřad Karlovarského kraje.</p>",
       "keyword": [
         "svazek obcí",
         "mikroregion",
@@ -21255,7 +21291,7 @@
         "dobrovolný svazek obcí"
       ],
       "issued": "2024-11-04T10:08:40.000Z",
-      "modified": "2025-06-17T12:14:25.000Z",
+      "modified": "2026-02-16T13:17:18.000Z",
       "publisher": {
         "name": "Krajský úřad Karlovarského kraje"
       },
@@ -21273,13 +21309,14 @@
       "metadata": {
         "mdLang": {
           "languageCode": {
+            "@_Sync": "FALSE",
             "@_value": "cze"
           }
         },
         "mdContact": {
           "rpCntInfo": {
             "cntAddress": {
-              "eMailAdd": "pavla.brabencova@karp-kv.cz"
+              "eMailAdd": "pavla.brabencova@kickk.cz"
             }
           },
           "role": {
@@ -21287,23 +21324,12 @@
               "@_value": "007"
             }
           },
-          "rpOrgName": "Karlovarská agentura rozvoje podnikání, p.o."
+          "rpOrgName": "Krajské inovační centrum Karlovarského kraje, p.o."
         },
-        "distInfo": {
-          "distTranOps": {
-            "onLineSrc": {
-              "linkage": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Seznam_svazk%C5%AF_obc%C3%AD_v_Karlovarsk%C3%A9m_kraji_WFL1/FeatureServer"
-            }
-          }
+        "mdDateSt": {
+          "@_Sync": "FALSE",
+          "#value": "2026-02-16"
         },
-        "mdMaint": {
-          "maintFreq": {
-            "MaintFreqCd": {
-              "@_value": "009"
-            }
-          }
-        },
-        "mdDateSt": "2025-06-17",
         "Esri": {
           "ArcGISFormat": 1,
           "CreaTime": 11060300,
@@ -21311,9 +21337,10 @@
           "CreaDate": 20241104,
           "SyncOnce": "TRUE"
         },
+        "mdTimeSt": "13:19:24",
         "dqInfo": {
           "dataLineage": {
-            "statement": "Zdroj dat je Krajský úřad Karlovarského kraje"
+            "statement": "Data Krajského úřadu Karlovarského kraje a Krajského inovačního centra Karlovarského kraje, p.o."
           },
           "dqScope": {
             "scpLvl": {
@@ -21329,23 +21356,26 @@
                   "date": {
                     "pubDate": "2010-12-08T00:00:00"
                   },
-                  "resTitle": "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                  "resTitle": {
+                    "@_Sync": "FALSE",
+                    "#value": "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                  }
                 }
               }
             }
           }
         },
-        "@_xml:lang": "cs",
         "mdHrLv": {
           "ScopeCd": {
             "@_value": "005"
           }
         },
         "dataIdInfo": {
-          "idAbs": "<p>Dobrovolné svazky obcí jsou formou spolupráce mezi obcemi s různým zaměřením a specifickými cíli (např. technická infrastruktura, nakládání s odpady, vodní hospodářství, zemědělství, obnova venkova, životní prostředí a příroda). Datová sada obsahuje název, identifikační číslo, sídlo svazku, kód adresy sídla, webovou stránku, kontaktní e-mail, kontaktní telefon, číslo datové schránky a přesnou specifikaci místa kanceláře, dále také seznam členských obcí v Karlovarském kraji a mimo Karlovarský kraj a celkový počet členů. Použitý souřadnicový systém je WGS 1984.</p><p>Zdroj dat poskytl Krajský úřad Karlovarského kraje.</p>",
+          "idAbs": "<p>Dobrovolné svazky obcí jsou formou spolupráce mezi obcemi s různým zaměřením a specifickými cíli (např. technická infrastruktura, nakládání s odpady, vodní hospodářství, zemědělství, obnova venkova, životní prostředí a příroda). Datová sada obsahuje přehled dobrovolných svazků obcí v Karlovarském kraji, jeho název, identifikační číslo, sídlo svazku, kód adresy sídla, webovou stránku, kontaktní e-mail, kontaktní telefon, číslo datové schránky a přesnou prostorovou lokalizaci místa kanceláře, dále také seznam členských obcí v Karlovarském kraji a mimo Karlovarský kraj a celkový počet členů. Použitý souřadnicový systém je WGS 1984.</p><p>Zdrojem dat je Krajský úřad Karlovarského kraje.</p>",
           "idCredit": "Krajský úřad Karlovarského kraje",
           "dataLang": {
             "languageCode": {
+              "@_Sync": "FALSE",
               "@_value": "cze"
             }
           },
@@ -21358,18 +21388,33 @@
           "dataExt": {
             "geoEle": {
               "GeoBndBox": {
-                "eastBL": 13.19804,
-                "southBL": 49.954293,
-                "northBL": 50.374788,
-                "westBL": 12.173784
+                "eastBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 13.162334
+                },
+                "southBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 49.963128
+                },
+                "northBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 50.366029
+                },
+                "westBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 12.190263
+                }
               }
             }
           },
           "idCitation": {
             "date": {
-              "reviseDate": "2025-06-17T12:14:25"
+              "reviseDate": "2026-02-16T13:17:18"
             },
-            "resTitle": "Seznam svazků obcí v Karlovarském kraji",
+            "resTitle": {
+              "@_Sync": "FALSE",
+              "#value": "Dobrovolné svazky obcí Karlovarského kraje"
+            },
             "citId": {
               "identCode": "publication"
             }
@@ -21379,23 +21424,27 @@
               "date": {
                 "pubDate": "2008-06-01T00:00:00"
               },
-              "resTitle": "GEMET - INSPIRE themes, version 1.0"
+              "resTitle": {
+                "@_Sync": "FALSE",
+                "#value": "GEMET - INSPIRE themes, version 1.0"
+              }
             },
             "keyword": [
               "Karlovarský kraj",
+              "dobrovolný",
               "svazek obcí",
-              "dobrovolný svazek obcí",
-              "obec",
-              "mikroregion"
+              "obec"
             ]
           },
           "spatRpType": {
             "SpatRepTypCd": {
+              "@_Sync": "FALSE",
               "@_value": "003"
             }
           },
           "dataChar": {
             "CharSetCd": {
+              "@_Sync": "FALSE",
               "@_value": "004"
             }
           },
@@ -21411,7 +21460,7 @@
           "idPoC": {
             "rpCntInfo": {
               "cntAddress": {
-                "eMailAdd": "pavla.brabencova@karp-kv.cz"
+                "eMailAdd": "pavla.brabencova@kickk.cz"
               }
             },
             "role": {
@@ -21451,6 +21500,7 @@
           "RefSystem": {
             "refSysID": {
               "identCode": {
+                "@_Sync": "FALSE",
                 "@_code": "GCS_WGS_1984"
               }
             }
@@ -21458,9 +21508,25 @@
         },
         "mdChar": {
           "CharSetCd": {
+            "@_Sync": "FALSE",
             "@_value": "004"
           }
-        }
+        },
+        "distInfo": {
+          "distTranOps": {
+            "onLineSrc": {
+              "linkage": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Seznam_svazk%C5%AF_obc%C3%AD_v_Karlovarsk%C3%A9m_kraji_WFL1/FeatureServer"
+            }
+          }
+        },
+        "mdMaint": {
+          "maintFreq": {
+            "MaintFreqCd": {
+              "@_value": "008"
+            }
+          }
+        },
+        "@_xml:lang": "cs"
       },
       "distribution": [
         {
@@ -21468,42 +21534,42 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/datasets/dbe7041a35494dbe8e01fd86694faed8_0"
+          "accessURL": "https://www.datazapad.cz/datasets/dbe7041a35494dbe8e01fd86694faed8_3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "ArcGIS GeoService",
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
-          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Seznam_svazk%C5%AF_obc%C3%AD_v_Karlovarsk%C3%A9m_kraji_WFL1/FeatureServer/0"
+          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Seznam_svazk%C5%AF_obc%C3%AD_v_Karlovarsk%C3%A9m_kraji_WFL1/FeatureServer/3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "CSV",
           "format": "CSV",
           "mediaType": "text/csv",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/dbe7041a35494dbe8e01fd86694faed8/csv?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/dbe7041a35494dbe8e01fd86694faed8/csv?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Shapefile",
           "format": "ZIP",
           "mediaType": "application/zip",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/dbe7041a35494dbe8e01fd86694faed8/shapefile?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/dbe7041a35494dbe8e01fd86694faed8/shapefile?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "GeoJSON",
           "format": "GeoJSON",
           "mediaType": "application/vnd.geo+json",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/dbe7041a35494dbe8e01fd86694faed8/geojson?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/dbe7041a35494dbe8e01fd86694faed8/geojson?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "KML",
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/dbe7041a35494dbe8e01fd86694faed8/kml?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/dbe7041a35494dbe8e01fd86694faed8/kml?layers=3"
         }
       ],
       "theme": [
