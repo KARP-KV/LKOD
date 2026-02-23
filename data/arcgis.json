@@ -1787,7 +1787,7 @@
         "úřad"
       ],
       "issued": "2024-07-09T05:50:23.000Z",
-      "modified": "2025-03-26T14:37:49.000Z",
+      "modified": "2025-10-30T07:21:03.000Z",
       "publisher": {
         "name": "Krajský úřad Karlovarského kraje"
       },
@@ -8843,7 +8843,7 @@
         "ORP"
       ],
       "issued": "2025-03-26T12:18:36.000Z",
-      "modified": "2025-10-30T07:21:32.000Z",
+      "modified": "2025-10-30T07:21:39.000Z",
       "publisher": {
         "name": "Krajský úřad Karlovarského kraje"
       },
@@ -21924,7 +21924,7 @@
       "identifier": "https://www.arcgis.com/home/item.html?id=f98f8248cdf140ad84649976f2d6f499&sublayer=0",
       "landingPage": "https://www.datazapad.cz/datasets/f98f8248cdf140ad84649976f2d6f499_0",
       "title": "Inovační infrastruktury Karlovarského kraje",
-      "description": "<p>Datová sada obsahuje kromě umístění inovačních infrastruktur také název společnosti (provozovatele), jeho IČO, sídlo, právní formu, kód adresy, číslo datové schránky a webové stránky. Souřadnicový systém je použit WGS 1984.</p><p><span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'>Zdrojem dat je Krajské inovační centrum Karlovarského kraje, příspěvková organizace.</span></p>",
+      "description": "<p>Datová sada obsahuje kromě umístění inovačních infrastruktur také název společnosti (provozovatele), jeho IČO, sídlo, právní formu, kód adresy, číslo datové schránky a webové stránky. Souřadnicový systém je použit WGS 1984.</p><p>Zdrojem dat je Krajské inovační centrum Karlovarského kraje, příspěvková organizace.</p>",
       "keyword": [
         "Karlovarský  kraj",
         "inovace",
@@ -22023,7 +22023,7 @@
           }
         },
         "dataIdInfo": {
-          "idAbs": "<p>Datová sada obsahuje kromě umístění inovačních infrastruktur také název společnosti (provozovatele), jeho IČO, sídlo, právní formu, kód adresy, číslo datové schránky a webové stránky. Souřadnicový systém je použit WGS 1984.</p><p><span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'>Zdrojem dat je Krajské inovační centrum Karlovarského kraje, příspěvková organizace.</span></p>",
+          "idAbs": "<p>Datová sada obsahuje kromě umístění inovačních infrastruktur také název společnosti (provozovatele), jeho IČO, sídlo, právní formu, kód adresy, číslo datové schránky a webové stránky. Souřadnicový systém je použit WGS 1984.</p><p>Zdrojem dat je Krajské inovační centrum Karlovarského kraje, příspěvková organizace.</p>",
           "idCredit": "Krajské inovační centrum Karlovarského kraje",
           "dataLang": {
             "languageCode": {
