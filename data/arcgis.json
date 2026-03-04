@@ -22699,6 +22699,43 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=d23b861d6ecd441b81e05637b78b435f",
+      "landingPage": "https://www.datazapad.cz/pages/d23b861d6ecd441b81e05637b78b435f",
+      "title": "Profil regionu - Sociální sféra - 01 - Obyvatelstvo - 18 - Vzdělání",
+      "description": "{{description}}",
+      "keyword": [
+        ""
+      ],
+      "issued": "2025-09-22T06:00:32.000Z",
+      "modified": "2026-03-03T14:25:21.000Z",
+      "publisher": {
+        "name": "{{source}}"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "jan.sklepek@karp-kv.cz",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "12.0940,48.5525,18.8574,51.0581",
+      "license": "",
+      "category": [],
+      "metadata": "{{metadata.metadata}}",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datazapad.cz/pages/d23b861d6ecd441b81e05637b78b435f"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=d27fb764c5a642e2bf2f8c134cbdeca2&sublayer=3",
       "landingPage": "https://www.datazapad.cz/datasets/d27fb764c5a642e2bf2f8c134cbdeca2_3",
       "title": "Obecní živnostenské úřady Karlovarského kraje dle územní příslušnosti obcí",
@@ -24298,6 +24335,41 @@
       "theme": [
         "geospatial"
       ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=f423022bb27d431084dc7873cc3bce38",
+      "landingPage": "https://www.datazapad.cz/pages/f423022bb27d431084dc7873cc3bce38",
+      "title": "Profil regionu - Sociální sféra - 01 - Obyvatelstvo - 01 - Osídlení",
+      "description": "{{description}}",
+      "keyword": [
+        ""
+      ],
+      "issued": "2025-09-17T11:35:41.000Z",
+      "modified": "2026-03-03T14:28:43.000Z",
+      "publisher": {
+        "name": "{{source}}"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "jan.sklepek@karp-kv.cz",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "",
+      "license": "",
+      "category": [],
+      "metadata": "{{metadata.metadata}}",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datazapad.cz/pages/f423022bb27d431084dc7873cc3bce38"
+        }
+      ],
+      "theme": ""
     },
     {
       "@type": "dcat:Dataset",
