@@ -7,7 +7,7 @@
     "cs": "Nemocnice v Karlovarském kraji"
   },
   "popis": {
-    "cs": "Datová sada obsahuje kromě souřadnic umístění nemocnice rovněž IČO, právní forma, sídlo nemocnice, kód adresního místa, kontaktní údaje (číslo datové schránky, e-mail, telefon) vč. adres nemocnic v Karlovarském kraji. Uvedeny jsou nemocnice zřízené Karlovarským krajem i nemocnice soukromé.Poskytovatelem zdroje dat je Krajský úřad Karlovarského kraje."
+    "cs": "Datová sada obsahuje přesnou prostorovou lokalizaci nemocnic v Karlovarském kraji a dále název nemocnice, zřizovatele, identifikační číslo, právní formu, sídlo nemocnice, kód adresy, kontaktní údaje (číslo datové schránky, kontaktní e-mail, telefonní kontakt). Uvedeny jsou nemocnice zřízené Karlovarským krajem i nemocnice soukromé. Souřadnicový systém je použit WGS 1984.Poskytovatelem zdroje dat je Krajské inovační centrum Karlovarského kraje, p.o."
   },
   "klíčové_slovo": {
     "cs": [
@@ -19,7 +19,7 @@
   "téma": [
     "http://publications.europa.eu/resource/authority/data-theme/HEAL"
   ],
-  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/OTHER",
+  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
   "prvek_rúian": [
     "https://linked.cuzk.cz/resource/ruian/vusc/51"
   ],
