@@ -1,0 +1,27 @@
+{
+  "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+  "iri": "https://open.datazapad.cz/c97598555f314fbba01c650ed469d963.jsonld",
+  "typ": "Datová sada",
+  "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891168",
+  "název": {
+    "cs": "Další výstupy - Lázně očima hostů"
+  },
+  "popis": {
+    "cs": "Socioekonomický průzkum mezi tuzemskými lázeňskými hosty a potenciálními klienty lázní, kterého se účastnilo přes 3000 respondentů. Výsledky byly zpracovány jednak do podoby 14 odborných článků doplněných o interaktivní vizuály a dále 2 souhrnných zpráv."
+  },
+  "klíčové_slovo": {
+    "cs": [
+      "lázně",
+      "lázeňství",
+      "cestovní ruch"
+    ]
+  },
+  "téma": [
+    "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
+  ],
+  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+  "prvek_rúian": [
+    "https://linked.cuzk.cz/resource/ruian/vusc/51"
+  ],
+  "distribuce": []
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+  "iri": "https://open.datazapad.cz/2ebd7f10b8a04bfbbb15094adde03cdb.jsonld",
+  "typ": "Datová sada",
+  "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891168",
+  "název": {
+    "cs": "Otevřená data"
+  },
+  "popis": {
+    "cs": "Otevřená data jsou připravena tak, aby byla jednoduše použita programátory pro další zpracování a jejich součástí je i dokumentace."
+  },
+  "klíčové_slovo": {
+    "cs": [
+      "otevřená data",
+      "katalog otevřených dat",
+      "publikační plán"
+    ]
+  },
+  "téma": [
+    "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
+  ],
+  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+  "prvek_rúian": [
+    "https://linked.cuzk.cz/resource/ruian/vusc/51"
+  ],
+  "distribuce": []
+}
