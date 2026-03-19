@@ -23,6 +23,7 @@
     "https://open.datazapad.cz/02ff52be52434a68918e32f9468417da.jsonld",
     "https://open.datazapad.cz/037f7b55d2d34fa88fd63bf2d2903839.jsonld",
     "https://open.datazapad.cz/03dbe5719ab64960ae70ee90af4790c6.jsonld",
+    "https://open.datazapad.cz/050289682e224b04974a85706e73684c.jsonld",
     "https://open.datazapad.cz/0ddb05a36f0c4b319975df6a4b1ed90e.jsonld",
     "https://open.datazapad.cz/0e9821be72914b65ac6e9ccf37c8ea56.jsonld",
     "https://open.datazapad.cz/0fbcd94c27344fef86d2dafde1230761.jsonld",
@@ -33,8 +34,10 @@
     "https://open.datazapad.cz/135900efd11e4df1865987b57428eb9f.jsonld",
     "https://open.datazapad.cz/1384c78c4e6846219a9829cd07c81f60.jsonld",
     "https://open.datazapad.cz/142875a7b4ba49769393c8a3b80cca6d.jsonld",
+    "https://open.datazapad.cz/16fbf76687ae40efa475a7966060f5a2.jsonld",
     "https://open.datazapad.cz/17a673b7147d45ba8744904cae6afdbb.jsonld",
     "https://open.datazapad.cz/17bcbad043604328affa7409f0606522.jsonld",
+    "https://open.datazapad.cz/197708c381db4dd0b8d687c7e45194c4.jsonld",
     "https://open.datazapad.cz/197c67d6a8604a78a57335fcabe4b4d2.jsonld",
     "https://open.datazapad.cz/1e64adf22f8448a693f638c9f1334dc9.jsonld",
     "https://open.datazapad.cz/2293df931dc548668292c933ab7d4a6d.jsonld",
@@ -47,11 +50,13 @@
     "https://open.datazapad.cz/2fe4d27ac10341f6bd2b4ea6380a2599.jsonld",
     "https://open.datazapad.cz/33161ea69c8b46b9b0499f0c6156bab3.jsonld",
     "https://open.datazapad.cz/33e73d16a5774b6e806ca537adf45560.jsonld",
+    "https://open.datazapad.cz/34a5385932b94979a6ae3bd8fda051d2.jsonld",
     "https://open.datazapad.cz/367e694987ab4990a0bcbb98bc400e12.jsonld",
     "https://open.datazapad.cz/371221f80ed145b2a562ee98ec321acb.jsonld",
     "https://open.datazapad.cz/3727aefc159e47fd8cb9d70432ab7397.jsonld",
     "https://open.datazapad.cz/387d1403bddb48b09ba4e3cd3b7894f8.jsonld",
     "https://open.datazapad.cz/3f9c9a95272e40d1a24e2711515e3d4d.jsonld",
+    "https://open.datazapad.cz/40df77b4ad874615a17cd510e1c8fd47.jsonld",
     "https://open.datazapad.cz/464108d64a93430083119bfb0845af3c.jsonld",
     "https://open.datazapad.cz/4778ca01993746968a32f8287e652f20.jsonld",
     "https://open.datazapad.cz/4a9dd0013fe34e74bc76698c88e4bd0b.jsonld",
@@ -78,6 +83,7 @@
     "https://open.datazapad.cz/6f9302623bcd4a72af2ac674c3b46adf.jsonld",
     "https://open.datazapad.cz/6fb15a0f28fe41d083ac150dc7405171.jsonld",
     "https://open.datazapad.cz/72aa9de6abc94f949f3959e70e0d241d.jsonld",
+    "https://open.datazapad.cz/742ad79cab2a4636bcd4aded1357dbcf.jsonld",
     "https://open.datazapad.cz/785fbd982147426ca275496791930eb8.jsonld",
     "https://open.datazapad.cz/7974da466d594bdea7953f3542ef5ca9.jsonld",
     "https://open.datazapad.cz/7b7bcebede7844d1a15794f761590b43.jsonld",
@@ -85,6 +91,7 @@
     "https://open.datazapad.cz/8456fb9ab03846d9bb3801b81f8d0985.jsonld",
     "https://open.datazapad.cz/8a71d71444f14acd8d43023ce9c3fb95.jsonld",
     "https://open.datazapad.cz/8ae1f28fc17f4918a0dba74bb11797ff.jsonld",
+    "https://open.datazapad.cz/8be8303e4600408888da5a0c47cba67f.jsonld",
     "https://open.datazapad.cz/8dc6c116fcf0438cb1326f9ad91a918e.jsonld",
     "https://open.datazapad.cz/903168d407624e57a43cb4ab9bc97620.jsonld",
     "https://open.datazapad.cz/90441fa783444e1ead5ad71464504d6a.jsonld",
@@ -96,6 +103,7 @@
     "https://open.datazapad.cz/98d26c1b1c8f4bd49850af82a19a7f58.jsonld",
     "https://open.datazapad.cz/a193c3092bef4fa8b514761b421d9ee1.jsonld",
     "https://open.datazapad.cz/a80fbe6e01f742a8a0a7b507bfb3998f.jsonld",
+    "https://open.datazapad.cz/a8c8b7f3e043429eb9105d43c1c7a18e.jsonld",
     "https://open.datazapad.cz/aa8cfb17845941698fe954dcf9ff13fb.jsonld",
     "https://open.datazapad.cz/ab9bb3b7eb9d4e3a8519c8c2d985cfad.jsonld",
     "https://open.datazapad.cz/b073abb685724bb88e1b560fe774edcd.jsonld",
@@ -112,10 +120,15 @@
     "https://open.datazapad.cz/d130e2d3a13d4ca39b16761d2131619b.jsonld",
     "https://open.datazapad.cz/d23b861d6ecd441b81e05637b78b435f.jsonld",
     "https://open.datazapad.cz/d27fb764c5a642e2bf2f8c134cbdeca2.jsonld",
+    "https://open.datazapad.cz/d2a1dcc5181d41049b2a333d13a255ea.jsonld",
     "https://open.datazapad.cz/d3184b2f488f4d099bd56c84ace5ffd0.jsonld",
     "https://open.datazapad.cz/d51db8b1ac8f40b6adf214e67cbb6f30.jsonld",
+    "https://open.datazapad.cz/d7acd60e8ad4457a872789fbf1aa10a4.jsonld",
+    "https://open.datazapad.cz/d8761328642f49a79105864514bcca5b.jsonld",
     "https://open.datazapad.cz/dbe7041a35494dbe8e01fd86694faed8.jsonld",
+    "https://open.datazapad.cz/e60bba38c4be4ec8add7f9b830fad8e8.jsonld",
     "https://open.datazapad.cz/e7b8fdf0fa334a7ea6e3e235684e8d92.jsonld",
+    "https://open.datazapad.cz/e9343e4a00b84d828cc4026dd309bcb5.jsonld",
     "https://open.datazapad.cz/ee1612c042fb4cb1bb8d3527c69da2c1.jsonld",
     "https://open.datazapad.cz/ef261834498e445b93b7303df33d253f.jsonld",
     "https://open.datazapad.cz/f2c4a4a5421a47d08ddf0d10eccd71c7.jsonld",
@@ -921,6 +934,33 @@
           }
         }
       ]
+    },
+    {
+      "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+      "iri": "https://open.datazapad.cz/050289682e224b04974a85706e73684c.jsonld",
+      "typ": "Datová sada",
+      "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891168",
+      "název": {
+        "cs": "Další výstupy - Lázně očima hostů 5"
+      },
+      "popis": {
+        "cs": ""
+      },
+      "klíčové_slovo": {
+        "cs": [
+          "lázně",
+          "lázeňství",
+          "cestovní ruch"
+        ]
+      },
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "prvek_rúian": [
+        "https://linked.cuzk.cz/resource/ruian/vusc/51"
+      ],
+      "distribuce": []
     },
     {
       "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
@@ -2683,6 +2723,34 @@
     },
     {
       "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+      "iri": "https://open.datazapad.cz/16fbf76687ae40efa475a7966060f5a2.jsonld",
+      "typ": "Datová sada",
+      "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891168",
+      "název": {
+        "cs": "RIM: Potřebuje náš kraj vysokou školu?"
+      },
+      "popis": {
+        "cs": ""
+      },
+      "klíčové_slovo": {
+        "cs": [
+          "šablona stránky",
+          "layout",
+          "CSS třídy",
+          "komponenty"
+        ]
+      },
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "prvek_rúian": [
+        "https://linked.cuzk.cz/resource/ruian/vusc/51"
+      ],
+      "distribuce": []
+    },
+    {
+      "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
       "iri": "https://open.datazapad.cz/17a673b7147d45ba8744904cae6afdbb.jsonld",
       "typ": "Datová sada",
       "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891168",
@@ -2815,6 +2883,33 @@
       "klíčové_slovo": {
         "cs": [
           ""
+        ]
+      },
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "prvek_rúian": [
+        "https://linked.cuzk.cz/resource/ruian/vusc/51"
+      ],
+      "distribuce": []
+    },
+    {
+      "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+      "iri": "https://open.datazapad.cz/197708c381db4dd0b8d687c7e45194c4.jsonld",
+      "typ": "Datová sada",
+      "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891168",
+      "název": {
+        "cs": "Další výstupy - Lázně očima hostů 9"
+      },
+      "popis": {
+        "cs": ""
+      },
+      "klíčové_slovo": {
+        "cs": [
+          "lázně",
+          "lázeňství",
+          "cestovní ruch"
         ]
       },
       "téma": [
@@ -4417,6 +4512,31 @@
     },
     {
       "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+      "iri": "https://open.datazapad.cz/34a5385932b94979a6ae3bd8fda051d2.jsonld",
+      "typ": "Datová sada",
+      "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891168",
+      "název": {
+        "cs": "Další výstupy - Vyhodnocení předpokladů rozvoje chytré obce"
+      },
+      "popis": {
+        "cs": "Analýza zkoumá rozvojový potenciál obcí Karlovarského kraje v oblasti chytrého venkova. Nabízí analýzu klíčových oblastí, jako jsou plánování, financování, komunitní život nebo například projektová připravenost, a umožňuje obcím porovnávat výsledky."
+      },
+      "klíčové_slovo": {
+        "cs": [
+          "metodika"
+        ]
+      },
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "prvek_rúian": [
+        "https://linked.cuzk.cz/resource/ruian/vusc/51"
+      ],
+      "distribuce": []
+    },
+    {
+      "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
       "iri": "https://open.datazapad.cz/367e694987ab4990a0bcbb98bc400e12.jsonld",
       "typ": "Datová sada",
       "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891168",
@@ -5207,6 +5327,33 @@
           }
         }
       ]
+    },
+    {
+      "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+      "iri": "https://open.datazapad.cz/40df77b4ad874615a17cd510e1c8fd47.jsonld",
+      "typ": "Datová sada",
+      "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891168",
+      "název": {
+        "cs": "Další výstupy - Lázně očima hostů 3"
+      },
+      "popis": {
+        "cs": ""
+      },
+      "klíčové_slovo": {
+        "cs": [
+          "lázně",
+          "lázeňství",
+          "cestovní ruch"
+        ]
+      },
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "prvek_rúian": [
+        "https://linked.cuzk.cz/resource/ruian/vusc/51"
+      ],
+      "distribuce": []
     },
     {
       "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
@@ -9468,6 +9615,33 @@
     },
     {
       "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+      "iri": "https://open.datazapad.cz/742ad79cab2a4636bcd4aded1357dbcf.jsonld",
+      "typ": "Datová sada",
+      "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891168",
+      "název": {
+        "cs": "Další výstupy - Lázně očima hostů 7"
+      },
+      "popis": {
+        "cs": ""
+      },
+      "klíčové_slovo": {
+        "cs": [
+          "lázně",
+          "lázeňství",
+          "cestovní ruch"
+        ]
+      },
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "prvek_rúian": [
+        "https://linked.cuzk.cz/resource/ruian/vusc/51"
+      ],
+      "distribuce": []
+    },
+    {
+      "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
       "iri": "https://open.datazapad.cz/785fbd982147426ca275496791930eb8.jsonld",
       "typ": "Datová sada",
       "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891168",
@@ -10477,6 +10651,33 @@
           }
         }
       ]
+    },
+    {
+      "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+      "iri": "https://open.datazapad.cz/8be8303e4600408888da5a0c47cba67f.jsonld",
+      "typ": "Datová sada",
+      "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891168",
+      "název": {
+        "cs": "Další výstupy - Lázně očima hostů 8"
+      },
+      "popis": {
+        "cs": ""
+      },
+      "klíčové_slovo": {
+        "cs": [
+          "lázně",
+          "lázeňství",
+          "cestovní ruch"
+        ]
+      },
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "prvek_rúian": [
+        "https://linked.cuzk.cz/resource/ruian/vusc/51"
+      ],
+      "distribuce": []
     },
     {
       "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
@@ -12099,6 +12300,33 @@
           }
         }
       ]
+    },
+    {
+      "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+      "iri": "https://open.datazapad.cz/a8c8b7f3e043429eb9105d43c1c7a18e.jsonld",
+      "typ": "Datová sada",
+      "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891168",
+      "název": {
+        "cs": "Další výstupy - Lázně očima hostů 6"
+      },
+      "popis": {
+        "cs": ""
+      },
+      "klíčové_slovo": {
+        "cs": [
+          "lázně",
+          "lázeňství",
+          "cestovní ruch"
+        ]
+      },
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "prvek_rúian": [
+        "https://linked.cuzk.cz/resource/ruian/vusc/51"
+      ],
+      "distribuce": []
     },
     {
       "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
@@ -14190,6 +14418,33 @@
     },
     {
       "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+      "iri": "https://open.datazapad.cz/d2a1dcc5181d41049b2a333d13a255ea.jsonld",
+      "typ": "Datová sada",
+      "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891168",
+      "název": {
+        "cs": "Další výstupy - Lázně očima hostů 12"
+      },
+      "popis": {
+        "cs": ""
+      },
+      "klíčové_slovo": {
+        "cs": [
+          "lázně",
+          "lázeňství",
+          "cestovní ruch"
+        ]
+      },
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "prvek_rúian": [
+        "https://linked.cuzk.cz/resource/ruian/vusc/51"
+      ],
+      "distribuce": []
+    },
+    {
+      "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
       "iri": "https://open.datazapad.cz/d3184b2f488f4d099bd56c84ace5ffd0.jsonld",
       "typ": "Datová sada",
       "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891168",
@@ -14482,6 +14737,60 @@
     },
     {
       "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+      "iri": "https://open.datazapad.cz/d7acd60e8ad4457a872789fbf1aa10a4.jsonld",
+      "typ": "Datová sada",
+      "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891168",
+      "název": {
+        "cs": "Další výstupy - Lázně očima hostů 14"
+      },
+      "popis": {
+        "cs": ""
+      },
+      "klíčové_slovo": {
+        "cs": [
+          "lázně",
+          "lázeňství",
+          "cestovní ruch"
+        ]
+      },
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "prvek_rúian": [
+        "https://linked.cuzk.cz/resource/ruian/vusc/51"
+      ],
+      "distribuce": []
+    },
+    {
+      "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+      "iri": "https://open.datazapad.cz/d8761328642f49a79105864514bcca5b.jsonld",
+      "typ": "Datová sada",
+      "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891168",
+      "název": {
+        "cs": "Další výstupy - Lázně očima hostů 2"
+      },
+      "popis": {
+        "cs": ""
+      },
+      "klíčové_slovo": {
+        "cs": [
+          "lázně",
+          "lázeňství",
+          "cestovní ruch"
+        ]
+      },
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "prvek_rúian": [
+        "https://linked.cuzk.cz/resource/ruian/vusc/51"
+      ],
+      "distribuce": []
+    },
+    {
+      "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
       "iri": "https://open.datazapad.cz/dbe7041a35494dbe8e01fd86694faed8.jsonld",
       "typ": "Datová sada",
       "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891168",
@@ -14675,6 +14984,33 @@
     },
     {
       "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+      "iri": "https://open.datazapad.cz/e60bba38c4be4ec8add7f9b830fad8e8.jsonld",
+      "typ": "Datová sada",
+      "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891168",
+      "název": {
+        "cs": "Další výstupy - Lázně očima hostů 4"
+      },
+      "popis": {
+        "cs": ""
+      },
+      "klíčové_slovo": {
+        "cs": [
+          "lázně",
+          "lázeňství",
+          "cestovní ruch"
+        ]
+      },
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "prvek_rúian": [
+        "https://linked.cuzk.cz/resource/ruian/vusc/51"
+      ],
+      "distribuce": []
+    },
+    {
+      "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
       "iri": "https://open.datazapad.cz/e7b8fdf0fa334a7ea6e3e235684e8d92.jsonld",
       "typ": "Datová sada",
       "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891168",
@@ -14863,6 +15199,33 @@
           }
         }
       ]
+    },
+    {
+      "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+      "iri": "https://open.datazapad.cz/e9343e4a00b84d828cc4026dd309bcb5.jsonld",
+      "typ": "Datová sada",
+      "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891168",
+      "název": {
+        "cs": "Další výstupy - Lázně očima hostů 15"
+      },
+      "popis": {
+        "cs": ""
+      },
+      "klíčové_slovo": {
+        "cs": [
+          "lázně",
+          "lázeňství",
+          "cestovní ruch"
+        ]
+      },
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "prvek_rúian": [
+        "https://linked.cuzk.cz/resource/ruian/vusc/51"
+      ],
+      "distribuce": []
     },
     {
       "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",

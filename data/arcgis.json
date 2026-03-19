@@ -1383,6 +1383,45 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=050289682e224b04974a85706e73684c",
+      "landingPage": "https://www.datazapad.cz/pages/050289682e224b04974a85706e73684c",
+      "title": "Další výstupy - Lázně očima hostů 5",
+      "description": "",
+      "keyword": [
+        "lázně",
+        "lázeňství",
+        "cestovní ruch"
+      ],
+      "issued": "2024-02-01T11:34:08.000Z",
+      "modified": "2026-03-19T08:40:12.000Z",
+      "publisher": {
+        "name": "{{source}}"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "jan.sklepek@karp-kv.cz",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "12.0940,48.5525,18.8574,51.0581",
+      "license": "",
+      "category": [],
+      "metadata": "{{metadata.metadata}}",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datazapad.cz/pages/050289682e224b04974a85706e73684c"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=0ddb05a36f0c4b319975df6a4b1ed90e&sublayer=3",
       "landingPage": "https://www.datazapad.cz/datasets/0ddb05a36f0c4b319975df6a4b1ed90e_3",
       "title": "Pivovarnictví v Karlovarském kraji",
@@ -4590,6 +4629,46 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=16fbf76687ae40efa475a7966060f5a2",
+      "landingPage": "https://www.datazapad.cz/pages/16fbf76687ae40efa475a7966060f5a2",
+      "title": "RIM: Potřebuje náš kraj vysokou školu?",
+      "description": "",
+      "keyword": [
+        "šablona stránky",
+        "layout",
+        "CSS třídy",
+        "komponenty"
+      ],
+      "issued": "2026-03-19T12:38:31.000Z",
+      "modified": "2026-03-19T13:04:01.000Z",
+      "publisher": {
+        "name": "{{source}}"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "lukas.rozlilek@karp-kv.cz",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "12.0940,48.5525,18.8574,51.0581",
+      "license": "<p>Při používání této šablony se řiďte následujícími pravidly:</p><ol><li>Neměňte základní strukturu šablony, zejména rozložení sekcí, nadpisů a komponent.</li><li>Neodstraňujte ani neupravujte předdefinované CSS třídy, pokud není uvedeno jinak.</li><li>Dodržujte jednotný styl obsahu, zejména hierarchii nadpisů, délku textu a typ prvků (bloky, karty, obrázky).</li><li>Název a URL stránky nastavujte podle interních pravidel pro pojmenování a strukturu datových stránek.</li><li>Nepublikujte stránku, pokud obsahuje neúplné údaje, nevalidní komponenty nebo chybně formátovaný text.</li><li>Jakékoliv úpravy šablony (rozložení, CSS třídy, komponenty) smí provádět pouze správce dataportálu.</li></ol>",
+      "category": [],
+      "metadata": "{{metadata.metadata}}",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datazapad.cz/pages/16fbf76687ae40efa475a7966060f5a2"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=17a673b7147d45ba8744904cae6afdbb&sublayer=0",
       "landingPage": "https://www.datazapad.cz/datasets/Kakraj::seznam-obcí-karlovarského-kraje",
       "title": "Seznam obcí Karlovarského kraje",
@@ -4901,6 +4980,45 @@
           "format": "Web Page",
           "mediaType": "text/html",
           "accessURL": "https://www.datazapad.cz/pages/17bcbad043604328affa7409f0606522"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=197708c381db4dd0b8d687c7e45194c4",
+      "landingPage": "https://www.datazapad.cz/pages/197708c381db4dd0b8d687c7e45194c4",
+      "title": "Další výstupy - Lázně očima hostů 9",
+      "description": "",
+      "keyword": [
+        "lázně",
+        "lázeňství",
+        "cestovní ruch"
+      ],
+      "issued": "2024-02-01T11:40:39.000Z",
+      "modified": "2026-03-19T08:42:59.000Z",
+      "publisher": {
+        "name": "{{source}}"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "jan.sklepek@karp-kv.cz",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "12.0940,48.5525,18.8574,51.0581",
+      "license": "",
+      "category": [],
+      "metadata": "{{metadata.metadata}}",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datazapad.cz/pages/197708c381db4dd0b8d687c7e45194c4"
         }
       ],
       "theme": [
@@ -6243,7 +6361,7 @@
         ""
       ],
       "issued": "2023-11-10T10:16:23.000Z",
-      "modified": "2026-03-18T10:37:22.000Z",
+      "modified": "2026-03-19T08:30:33.000Z",
       "publisher": {
         "name": "{{source}}"
       },
@@ -7653,6 +7771,43 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=34a5385932b94979a6ae3bd8fda051d2",
+      "landingPage": "https://www.datazapad.cz/pages/34a5385932b94979a6ae3bd8fda051d2",
+      "title": "Další výstupy - Vyhodnocení předpokladů rozvoje chytré obce",
+      "description": "Analýza zkoumá rozvojový potenciál obcí Karlovarského kraje v oblasti chytrého venkova. Nabízí analýzu klíčových oblastí, jako jsou plánování, financování, komunitní život nebo například projektová připravenost, a umožňuje obcím porovnávat výsledky.",
+      "keyword": [
+        "metodika"
+      ],
+      "issued": "2024-11-05T09:08:55.000Z",
+      "modified": "2026-03-19T08:43:28.000Z",
+      "publisher": {
+        "name": "{{source}}"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "lukas.rozlilek@karp-kv.cz",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "12.0940,48.5525,18.8574,51.0581",
+      "license": "",
+      "category": [],
+      "metadata": "{{metadata.metadata}}",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datazapad.cz/pages/34a5385932b94979a6ae3bd8fda051d2"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=367e694987ab4990a0bcbb98bc400e12",
       "landingPage": "https://www.datazapad.cz/pages/367e694987ab4990a0bcbb98bc400e12",
       "title": "Kontakty, tým ",
@@ -8989,6 +9144,45 @@
           "format": "GDB",
           "mediaType": "application/geopackage+sqlite3",
           "accessURL": "https://www.datazapad.cz/api/download/v1/items/3f9c9a95272e40d1a24e2711515e3d4d/sqlite?layers=3"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=40df77b4ad874615a17cd510e1c8fd47",
+      "landingPage": "https://www.datazapad.cz/pages/40df77b4ad874615a17cd510e1c8fd47",
+      "title": "Další výstupy - Lázně očima hostů 3",
+      "description": "",
+      "keyword": [
+        "lázně",
+        "lázeňství",
+        "cestovní ruch"
+      ],
+      "issued": "2024-02-01T10:21:55.000Z",
+      "modified": "2026-03-19T08:38:40.000Z",
+      "publisher": {
+        "name": "{{source}}"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "jan.sklepek@karp-kv.cz",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "12.0940,48.5525,18.8574,51.0581",
+      "license": "",
+      "category": [],
+      "metadata": "{{metadata.metadata}}",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datazapad.cz/pages/40df77b4ad874615a17cd510e1c8fd47"
         }
       ],
       "theme": [
@@ -16304,6 +16498,45 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=742ad79cab2a4636bcd4aded1357dbcf",
+      "landingPage": "https://www.datazapad.cz/pages/742ad79cab2a4636bcd4aded1357dbcf",
+      "title": "Další výstupy - Lázně očima hostů 7",
+      "description": "",
+      "keyword": [
+        "lázně",
+        "lázeňství",
+        "cestovní ruch"
+      ],
+      "issued": "2024-02-01T11:37:10.000Z",
+      "modified": "2026-03-19T08:41:30.000Z",
+      "publisher": {
+        "name": "{{source}}"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "jan.sklepek@karp-kv.cz",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "12.0940,48.5525,18.8574,51.0581",
+      "license": "",
+      "category": [],
+      "metadata": "{{metadata.metadata}}",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datazapad.cz/pages/742ad79cab2a4636bcd4aded1357dbcf"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=785fbd982147426ca275496791930eb8&sublayer=3",
       "landingPage": "https://www.datazapad.cz/datasets/785fbd982147426ca275496791930eb8_3",
       "title": "Turistická informační centra v Karlovarském kraji",
@@ -17907,6 +18140,45 @@
           "format": "GDB",
           "mediaType": "application/geopackage+sqlite3",
           "accessURL": "https://www.datazapad.cz/api/download/v1/items/8ae1f28fc17f4918a0dba74bb11797ff/sqlite?layers=3"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=8be8303e4600408888da5a0c47cba67f",
+      "landingPage": "https://www.datazapad.cz/pages/8be8303e4600408888da5a0c47cba67f",
+      "title": "Další výstupy - Lázně očima hostů 8",
+      "description": "",
+      "keyword": [
+        "lázně",
+        "lázeňství",
+        "cestovní ruch"
+      ],
+      "issued": "2024-02-01T11:39:29.000Z",
+      "modified": "2026-03-19T08:42:22.000Z",
+      "publisher": {
+        "name": "{{source}}"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "jan.sklepek@karp-kv.cz",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "12.0940,48.5525,18.8574,51.0581",
+      "license": "",
+      "category": [],
+      "metadata": "{{metadata.metadata}}",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datazapad.cz/pages/8be8303e4600408888da5a0c47cba67f"
         }
       ],
       "theme": [
@@ -20643,6 +20915,45 @@
           "format": "GDB",
           "mediaType": "application/geopackage+sqlite3",
           "accessURL": "https://www.datazapad.cz/api/download/v1/items/a80fbe6e01f742a8a0a7b507bfb3998f/sqlite?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=a8c8b7f3e043429eb9105d43c1c7a18e",
+      "landingPage": "https://www.datazapad.cz/pages/a8c8b7f3e043429eb9105d43c1c7a18e",
+      "title": "Další výstupy - Lázně očima hostů 6",
+      "description": "",
+      "keyword": [
+        "lázně",
+        "lázeňství",
+        "cestovní ruch"
+      ],
+      "issued": "2024-02-01T11:35:53.000Z",
+      "modified": "2026-03-19T08:40:52.000Z",
+      "publisher": {
+        "name": "{{source}}"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "jan.sklepek@karp-kv.cz",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "12.0940,48.5525,18.8574,51.0581",
+      "license": "",
+      "category": [],
+      "metadata": "{{metadata.metadata}}",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datazapad.cz/pages/a8c8b7f3e043429eb9105d43c1c7a18e"
         }
       ],
       "theme": [
@@ -24121,6 +24432,45 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=d2a1dcc5181d41049b2a333d13a255ea",
+      "landingPage": "https://www.datazapad.cz/pages/d2a1dcc5181d41049b2a333d13a255ea",
+      "title": "Další výstupy - Lázně očima hostů 12",
+      "description": "",
+      "keyword": [
+        "lázně",
+        "lázeňství",
+        "cestovní ruch"
+      ],
+      "issued": "2024-02-01T11:44:28.000Z",
+      "modified": "2026-03-19T08:11:02.000Z",
+      "publisher": {
+        "name": "{{source}}"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "jan.sklepek@karp-kv.cz",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "12.0940,48.5525,18.8574,51.0581",
+      "license": "",
+      "category": [],
+      "metadata": "{{metadata.metadata}}",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datazapad.cz/pages/d2a1dcc5181d41049b2a333d13a255ea"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=d3184b2f488f4d099bd56c84ace5ffd0&sublayer=0",
       "landingPage": "https://www.datazapad.cz/datasets/Kakraj::školská-poradenská-zařízení-v-karlovarském-kraji",
       "title": "Školská poradenská zařízení v Karlovarském kraji",
@@ -24682,6 +25032,84 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=d7acd60e8ad4457a872789fbf1aa10a4",
+      "landingPage": "https://www.datazapad.cz/pages/d7acd60e8ad4457a872789fbf1aa10a4",
+      "title": "Další výstupy - Lázně očima hostů 14",
+      "description": "",
+      "keyword": [
+        "lázně",
+        "lázeňství",
+        "cestovní ruch"
+      ],
+      "issued": "2024-02-01T12:21:43.000Z",
+      "modified": "2026-03-19T08:35:51.000Z",
+      "publisher": {
+        "name": "{{source}}"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "jan.sklepek@karp-kv.cz",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "12.0940,48.5525,18.8574,51.0581",
+      "license": "",
+      "category": [],
+      "metadata": "{{metadata.metadata}}",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datazapad.cz/pages/d7acd60e8ad4457a872789fbf1aa10a4"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=d8761328642f49a79105864514bcca5b",
+      "landingPage": "https://www.datazapad.cz/pages/d8761328642f49a79105864514bcca5b",
+      "title": "Další výstupy - Lázně očima hostů 2",
+      "description": "",
+      "keyword": [
+        "lázně",
+        "lázeňství",
+        "cestovní ruch"
+      ],
+      "issued": "2024-02-01T10:19:37.000Z",
+      "modified": "2026-03-19T08:37:54.000Z",
+      "publisher": {
+        "name": "{{source}}"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "jan.sklepek@karp-kv.cz",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "12.0940,48.5525,18.8574,51.0581",
+      "license": "",
+      "category": [],
+      "metadata": "{{metadata.metadata}}",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datazapad.cz/pages/d8761328642f49a79105864514bcca5b"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=dbe7041a35494dbe8e01fd86694faed8&sublayer=3",
       "landingPage": "https://www.datazapad.cz/datasets/dbe7041a35494dbe8e01fd86694faed8_3",
       "title": "Dobrovolné svazky obcí Karlovarského kraje",
@@ -25008,6 +25436,45 @@
           "format": "GDB",
           "mediaType": "application/geopackage+sqlite3",
           "accessURL": "https://www.datazapad.cz/api/download/v1/items/dbe7041a35494dbe8e01fd86694faed8/sqlite?layers=3"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=e60bba38c4be4ec8add7f9b830fad8e8",
+      "landingPage": "https://www.datazapad.cz/pages/e60bba38c4be4ec8add7f9b830fad8e8",
+      "title": "Další výstupy - Lázně očima hostů 4",
+      "description": "",
+      "keyword": [
+        "lázně",
+        "lázeňství",
+        "cestovní ruch"
+      ],
+      "issued": "2024-02-01T11:32:12.000Z",
+      "modified": "2026-03-19T08:39:16.000Z",
+      "publisher": {
+        "name": "{{source}}"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "jan.sklepek@karp-kv.cz",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "12.0940,48.5525,18.8574,51.0581",
+      "license": "",
+      "category": [],
+      "metadata": "{{metadata.metadata}}",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datazapad.cz/pages/e60bba38c4be4ec8add7f9b830fad8e8"
         }
       ],
       "theme": [
@@ -25347,6 +25814,45 @@
           "format": "GDB",
           "mediaType": "application/geopackage+sqlite3",
           "accessURL": "https://www.datazapad.cz/api/download/v1/items/e7b8fdf0fa334a7ea6e3e235684e8d92/sqlite?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=e9343e4a00b84d828cc4026dd309bcb5",
+      "landingPage": "https://www.datazapad.cz/pages/e9343e4a00b84d828cc4026dd309bcb5",
+      "title": "Další výstupy - Lázně očima hostů 15",
+      "description": "",
+      "keyword": [
+        "lázně",
+        "lázeňství",
+        "cestovní ruch"
+      ],
+      "issued": "2024-02-01T12:19:15.000Z",
+      "modified": "2026-03-19T08:36:49.000Z",
+      "publisher": {
+        "name": "{{source}}"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "jan.sklepek@karp-kv.cz",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "12.0940,48.5525,18.8574,51.0581",
+      "license": "",
+      "category": [],
+      "metadata": "{{metadata.metadata}}",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datazapad.cz/pages/e9343e4a00b84d828cc4026dd309bcb5"
         }
       ],
       "theme": [
