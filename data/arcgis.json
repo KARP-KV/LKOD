@@ -4640,7 +4640,7 @@
         "komponenty"
       ],
       "issued": "2026-03-19T12:38:31.000Z",
-      "modified": "2026-03-20T12:51:06.000Z",
+      "modified": "2026-03-23T10:08:35.000Z",
       "publisher": {
         "name": "{{source}}"
       },
@@ -5682,6 +5682,298 @@
           "format": "GDB",
           "mediaType": "application/geopackage+sqlite3",
           "accessURL": "https://www.datazapad.cz/api/download/v1/items/1e64adf22f8448a693f638c9f1334dc9/sqlite?layers=3"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=2082ece6991c467295d15718759c5054&sublayer=0",
+      "landingPage": "https://www.datazapad.cz/datasets/Kakraj::služebny-policie-čr-v-karlovarském-kraji",
+      "title": "Služebny Policie ČR v Karlovarském kraji",
+      "description": "<p>Bodová vrstva reprezentuje rozmístění služeben Policie České republiky na území Karlovarského kraje.&nbsp;</p><p>Data obsahují informace o:&nbsp;</p><ul><li>názvu obvodního oddělení policie (OOP)</li><li>adrese ÚO (ulice, číslo popisné, PSČ, město)</li><li>emalové adrese</li><li>telefonním čísle&nbsp;</li><li>názvu příslušného územního odboru (ÚO)</li><li>názvu příslušného krajského ředitelství policie (KŘP)</li><li>kód adresního bodu RÚIAN</li></ul>",
+      "keyword": [
+        "Karlovarský kraj"
+      ],
+      "issued": "2026-03-23T11:55:09.000Z",
+      "modified": "2026-03-23T13:15:36.000Z",
+      "publisher": {
+        "name": "Krajský úřad Karlovarského kraje"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Karlovarsky.Kraj",
+        "hasEmail": "mailto:gis@kr-karlovarsky.cz"
+      },
+      "accessLevel": "public",
+      "spatial": "12.2665,49.9203,13.0888,50.3944",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0",
+      "category": [
+        "Kategorie",
+        "IZS a bezpečnost"
+      ],
+      "metadata": {
+        "mdLang": {
+          "languageCode": {
+            "@_Sync": "FALSE",
+            "@_value": "cze"
+          }
+        },
+        "mdContact": {
+          "rpCntInfo": {
+            "cntAddress": {
+              "eMailAdd": "tereza.marzova@kr-karlovarsky.cz"
+            }
+          },
+          "role": {
+            "RoleCd": {
+              "@_value": "007"
+            }
+          },
+          "rpOrgName": "Krajský úřad Karlovarského kraje"
+        },
+        "mdFileID": "2082ece6991c467295d15718759c5054",
+        "distInfo": {
+          "distTranOps": {
+            "onLineSrc": {
+              "linkage": "https://geo-ags.kr-karlovarsky.cz/arcgis/rest/services/Hosted/SluzebnyPCR/FeatureServer/0"
+            }
+          },
+          "distFormat": {
+            "formatName": "Feature Service"
+          }
+        },
+        "mdDateSt": {
+          "@_Sync": "FALSE",
+          "#value": "2026-03-23"
+        },
+        "Esri": {
+          "ArcGISFormat": 1,
+          "CreaTime": 11550900,
+          "ArcGISProfile": "INSPIRE",
+          "DataProperties": {
+            "itemProps": {
+              "portalDetails": {
+                "itemType": "Feature Service",
+                "resourceURL": "https://geo-ags.kr-karlovarsky.cz/arcgis/rest/services/Hosted/SluzebnyPCR/FeatureServer/0",
+                "itemDetailsURL": "https://www.arcgis.com/home/item.html?id=2082ece6991c467295d15718759c5054",
+                "itemIdentifier": "2082ece6991c467295d15718759c5054",
+                "thumbnailURL": "https://www.arcgis.com/sharing/rest/content/items/2082ece6991c467295d15718759c5054/info/thumbnail/thumbnail1774267455945.png"
+              }
+            }
+          },
+          "ModDate": 20260323,
+          "CreaDate": 20260323,
+          "ModTime": 11550900
+        },
+        "dqInfo": {
+          "dqScope": {
+            "scpLvl": {
+              "ScopeCd": {
+                "@_value": "005"
+              }
+            }
+          },
+          "report": {
+            "measResult": {
+              "ConResult": {
+                "conSpec": {
+                  "date": {
+                    "pubDate": "2010-12-08T00:00:00"
+                  },
+                  "resTitle": {
+                    "@_Sync": "FALSE",
+                    "#value": "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "@_xml:lang": "cs",
+        "mdHrLv": {
+          "ScopeCd": {
+            "@_value": "005"
+          }
+        },
+        "dataIdInfo": {
+          "idAbs": "<p>Bodová vrstva reprezentuje rozmístění služeben Policie České republiky na území Karlovarského kraje.&nbsp;</p><p>Data obsahují informace o:&nbsp;</p><ul><li>názvu obvodního oddělení policie (OOP)</li><li>adrese ÚO (ulice, číslo popisné, PSČ, město)</li><li>emalové adrese</li><li>telefonním čísle&nbsp;</li><li>názvu příslušného územního odboru (ÚO)</li><li>názvu příslušného krajského ředitelství policie (KŘP)</li><li>kód adresního bodu RÚIAN</li></ul>",
+          "idCredit": "Policie České republiky, Krajský úřad Karlovarského kraje",
+          "dataLang": {
+            "languageCode": {
+              "@_Sync": "FALSE",
+              "@_value": "cze"
+            }
+          },
+          "idPurp": "Přehled služeben Policie ČR v Karlovarském kraji.",
+          "tpCat": {
+            "TopicCatCd": {
+              "@_value": "016"
+            }
+          },
+          "dataExt": {
+            "geoEle": {
+              "GeoBndBox": {
+                "eastBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 13.1805
+                },
+                "southBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 49.9203
+                },
+                "exTypeCode": {
+                  "@_Sync": "TRUE",
+                  "#value": 1
+                },
+                "northBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 50.3944
+                },
+                "westBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 12.1677
+                }
+              }
+            }
+          },
+          "idCitation": {
+            "resTitle": "Služebny Policie ČR v Karlovarském kraji",
+            "citId": {
+              "identCode": "publication"
+            }
+          },
+          "themeKeys": {
+            "thesaName": {
+              "date": {
+                "pubDate": "2008-06-01T00:00:00",
+                "createDate": "2026-03-23T12:00:00"
+              },
+              "resTitle": {
+                "@_Sync": "FALSE",
+                "#value": "GEMET - INSPIRE themes, version 1.0"
+              }
+            },
+            "keyword": [
+              "Administrative units",
+              "Utility and governmental services"
+            ]
+          },
+          "spatRpType": {
+            "SpatRepTypCd": {
+              "@_Sync": "FALSE",
+              "@_value": "001"
+            }
+          },
+          "dataChar": {
+            "CharSetCd": {
+              "@_Sync": "FALSE",
+              "@_value": "004"
+            }
+          },
+          "searchKeys": {
+            "keyword": "Karlovarský kraj"
+          },
+          "idPoC": {
+            "rpCntInfo": {
+              "cntAddress": {
+                "eMailAdd": "tereza.marzova@kr-karlovarsky.cz"
+              }
+            },
+            "role": {
+              "RoleCd": {
+                "@_value": "007"
+              }
+            },
+            "rpOrgName": "Krajský úřad Karlovarského kraje"
+          },
+          "resConst": [
+            {
+              "LegConsts": {
+                "inspireAccessUseConditions": {
+                  "ConditionsAccUseCd": {
+                    "@_value": "001"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "inspirePublicAccessLimits": {
+                  "PublicAccessCd": {
+                    "@_value": "001"
+                  }
+                }
+              }
+            },
+            {
+              "Consts": {
+                "useLimit": "<p>CC0 1.0</p>"
+              }
+            }
+          ]
+        },
+        "refSysInfo": {
+          "RefSystem": {
+            "refSysID": {
+              "identCode": {
+                "@_Sync": "FALSE",
+                "@_code": "5514"
+              }
+            }
+          }
+        },
+        "mdChar": {
+          "CharSetCd": {
+            "@_Sync": "FALSE",
+            "@_value": "004"
+          }
+        }
+      },
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datazapad.cz/datasets/Kakraj::služebny-policie-čr-v-karlovarském-kraji"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://geo-ags.kr-karlovarsky.cz/arcgis/rest/services/Hosted/SluzebnyPCR/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/2082ece6991c467295d15718759c5054/csv?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/2082ece6991c467295d15718759c5054/shapefile?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/2082ece6991c467295d15718759c5054/geojson?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/2082ece6991c467295d15718759c5054/kml?layers=0"
         }
       ],
       "theme": [
