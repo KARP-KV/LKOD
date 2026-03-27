@@ -54,6 +54,7 @@ export const META_LKOD = {
 		excludeDatasetPrefix: [
 			'https://www.datazapad.cz/documents/',
 			'https://www.datazapad.cz/apps/',
+			'https://www.datazapad.cz/pages/',
 		],
 		// Distribution-level filtering
 		excludeMediaTypes: [
