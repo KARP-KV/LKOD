@@ -5506,7 +5506,7 @@
         "Karlovarský kraj"
       ],
       "issued": "2026-03-23T11:55:09.000Z",
-      "modified": "2026-03-23T13:15:36.000Z",
+      "modified": "2026-03-31T07:03:52.000Z",
       "publisher": {
         "name": "Krajský úřad Karlovarského kraje"
       },
@@ -5541,17 +5541,6 @@
             }
           },
           "rpOrgName": "Krajský úřad Karlovarského kraje"
-        },
-        "mdFileID": "2082ece6991c467295d15718759c5054",
-        "distInfo": {
-          "distTranOps": {
-            "onLineSrc": {
-              "linkage": "https://geo-ags.kr-karlovarsky.cz/arcgis/rest/services/Hosted/SluzebnyPCR/FeatureServer/0"
-            }
-          },
-          "distFormat": {
-            "formatName": "Feature Service"
-          }
         },
         "mdDateSt": {
           "@_Sync": "FALSE",
@@ -5600,7 +5589,6 @@
             }
           }
         },
-        "@_xml:lang": "cs",
         "mdHrLv": {
           "ScopeCd": {
             "@_value": "005"
@@ -5738,7 +5726,26 @@
             "@_Sync": "FALSE",
             "@_value": "004"
           }
-        }
+        },
+        "mdFileID": "2082ece6991c467295d15718759c5054",
+        "distInfo": {
+          "distTranOps": {
+            "onLineSrc": {
+              "linkage": "https://geo-ags.kr-karlovarsky.cz/arcgis/rest/services/Hosted/SluzebnyPCR/FeatureServer/0"
+            }
+          },
+          "distFormat": {
+            "formatName": "Feature Service"
+          }
+        },
+        "mdMaint": {
+          "maintFreq": {
+            "MaintFreqCd": {
+              "@_value": "009"
+            }
+          }
+        },
+        "@_xml:lang": "cs"
       },
       "distribution": [
         {
