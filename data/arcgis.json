@@ -17154,19 +17154,18 @@
     },
     {
       "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=8a71d71444f14acd8d43023ce9c3fb95&sublayer=0",
-      "landingPage": "https://www.datazapad.cz/datasets/8a71d71444f14acd8d43023ce9c3fb95_0",
+      "identifier": "https://www.arcgis.com/home/item.html?id=8a71d71444f14acd8d43023ce9c3fb95&sublayer=3",
+      "landingPage": "https://www.datazapad.cz/datasets/8a71d71444f14acd8d43023ce9c3fb95_3",
       "title": "Poskytovatelé sociálních služeb v Karlovarském kraji",
-      "description": "<p>Přehled obsahuje včetně názvu a IČ poskytovatele sociální služby rovněž identifikátor sociální služby, druh sociální služby a webové stránky poskytovatele sociální služby.</p><div>Poskytovatelem zdroje dat je Krajský úřad Karlovarského kraje.</div>",
+      "description": "<p>Datová sada s přehledem poskytovatelů sociálních služeb působících v Karlovarském kraji. Data uvedená u jednotlivých poskytovatelů: název poskytovatele, identifikační číslo, právní forma, sídlo, kód adresy, ID datové schránky, identifikátor a druh poskytované sociální služby, webová stránka a přesná lokalizace pobočky v Karlovarském kraji (v případě, že není pobočka v Karlovarském kraji, je uvedena kontaktní adresa mimo Karlovarský kraj). Souřadnicový systém je použit WGS 1984.</p><div>Poskytovatelem zdroje dat je Krajský úřad Karlovarského kraje.</div>",
       "keyword": [
         "poskytovatel",
         "Karlovarský kraj",
         "sociální",
-        "služba",
-        "sociální služba"
+        "služba"
       ],
       "issued": "2024-03-27T08:03:50.000Z",
-      "modified": "2025-04-03T11:00:34.000Z",
+      "modified": "2026-04-02T10:23:29.000Z",
       "publisher": {
         "name": "Krajský úřad Karlovarského kraje"
       },
@@ -17176,7 +17175,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "12.1903,49.7363,14.6365,50.6760",
+      "spatial": "12.1925,49.6640,16.1648,50.4172",
       "license": "https://creativecommons.org/publicdomain/zero/1.0",
       "category": [
         "Lidé a sociální služby"
@@ -17184,42 +17183,27 @@
       "metadata": {
         "mdLang": {
           "languageCode": {
+            "@_Sync": "FALSE",
             "@_value": "cze"
           }
         },
         "mdContact": {
           "rpCntInfo": {
             "cntAddress": {
-              "eMailAdd": "pavla.brabencova@karp-kv.cz"
+              "eMailAdd": "pavla.brabencova@kickk.cz"
             }
           },
-          "rpOrgName": "Karlovarská agentura rozvoje podnikání, p.o.",
           "role": {
             "RoleCd": {
               "@_value": "007"
             }
-          }
-        },
-        "distInfo": {
-          "distTranOps": {
-            "onLineSrc": {
-              "linkage": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Poskytovatel%C3%A9_soci%C3%A1ln%C3%ADch_slu%C5%BEeb_v_Karlovarsk%C3%A9m_kraji_WFL1/FeatureServer"
-            }
-          }
-        },
-        "mdMaint": {
-          "maintScp": {
-            "ScopeCd": {
-              "@_value": "001"
-            }
           },
-          "maintFreq": {
-            "MaintFreqCd": {
-              "@_value": "009"
-            }
-          }
+          "rpOrgName": "Krajské inovační centrum Karlovarského kraje, p.o."
         },
-        "mdDateSt": "2025-04-03",
+        "mdDateSt": {
+          "@_Sync": "FALSE",
+          "#value": "2026-04-02"
+        },
         "Esri": {
           "ArcGISFormat": 1,
           "CreaTime": 8583500,
@@ -17227,7 +17211,11 @@
           "CreaDate": 20240327,
           "SyncOnce": "TRUE"
         },
+        "mdTimeSt": "10:26:51",
         "dqInfo": {
+          "dataLineage": {
+            "statement": "Data Krajského úřadu Karlovarského kraje a Krajského inovačního centra Karlovarského kraje, p.o."
+          },
           "dqScope": {
             "scpLvl": {
               "ScopeCd": {
@@ -17242,47 +17230,72 @@
                   "date": {
                     "pubDate": "2010-12-08T00:00:00"
                   },
-                  "resTitle": "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                  "resTitle": {
+                    "@_Sync": "FALSE",
+                    "#value": "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                  }
                 }
               }
             }
           }
         },
-        "@_xml:lang": "cs",
         "mdHrLv": {
           "ScopeCd": {
             "@_value": "005"
           }
         },
         "dataIdInfo": {
-          "idAbs": "<p>Přehled obsahuje včetně názvu a IČ poskytovatele sociální služby rovněž identifikátor sociální služby, druh sociální služby a webové stránky poskytovatele sociální služby.</p><div>Poskytovatelem zdroje dat je Krajský úřad Karlovarského kraje.</div>",
+          "idAbs": "<p>Datová sada s přehledem poskytovatelů sociálních služeb působících v Karlovarském kraji. Data uvedená u jednotlivých poskytovatelů: název poskytovatele, identifikační číslo, právní forma, sídlo, kód adresy, ID datové schránky, identifikátor a druh poskytované sociální služby, webová stránka a přesná lokalizace pobočky v Karlovarském kraji (v případě, že není pobočka v Karlovarském kraji, je uvedena kontaktní adresa mimo Karlovarský kraj). Souřadnicový systém je použit WGS 1984.</p><div>Poskytovatelem zdroje dat je Krajský úřad Karlovarského kraje.</div>",
           "idCredit": "Krajský úřad Karlovarského kraje",
           "dataLang": {
             "languageCode": {
+              "@_Sync": "FALSE",
               "@_value": "cze"
             }
           },
           "idPurp": "Přehled poskytovatelů sociálních služeb působících v Karlovarském kraji.",
-          "tpCat": {
-            "TopicCatCd": {
-              "@_value": "016"
+          "tpCat": [
+            {
+              "TopicCatCd": {
+                "@_value": "009"
+              }
+            },
+            {
+              "TopicCatCd": {
+                "@_value": "016"
+              }
             }
-          },
+          ],
           "dataExt": {
             "geoEle": {
               "GeoBndBox": {
-                "eastBL": 14.636478,
-                "southBL": 49.736315,
-                "northBL": 50.676025,
-                "westBL": 12.190285
+                "eastBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 16.164753
+                },
+                "southBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 49.664034
+                },
+                "northBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 50.41717
+                },
+                "westBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 12.192479
+                }
               }
             }
           },
           "idCitation": {
             "date": {
-              "reviseDate": "2025-04-03T11:00:34"
+              "reviseDate": "2026-04-02T10:23:29"
             },
-            "resTitle": "Poskytovatelé sociálních služeb v Karlovarském kraji",
+            "resTitle": {
+              "@_Sync": "FALSE",
+              "#value": "Poskytovatelé sociálních služeb v Karlovarském kraji"
+            },
             "citId": {
               "identCode": "publication"
             }
@@ -17290,18 +17303,30 @@
           "themeKeys": {
             "thesaName": {
               "date": {
+                "reviseDate": "2026-04-02T10:22:17",
                 "pubDate": "2008-06-01T00:00:00"
               },
-              "resTitle": "GEMET - INSPIRE themes, version 1.0"
-            }
+              "resTitle": {
+                "@_Sync": "FALSE",
+                "#value": "GEMET - INSPIRE themes, version 1.0"
+              }
+            },
+            "keyword": [
+              "Karlovarský kraj",
+              "sociální",
+              "služba",
+              "poskytovatel"
+            ]
           },
           "spatRpType": {
             "SpatRepTypCd": {
+              "@_Sync": "FALSE",
               "@_value": "003"
             }
           },
           "dataChar": {
             "CharSetCd": {
+              "@_Sync": "FALSE",
               "@_value": "004"
             }
           },
@@ -17310,22 +17335,21 @@
               "poskytovatel",
               "Karlovarský kraj",
               "sociální",
-              "služba",
-              "sociální služba"
+              "služba"
             ]
           },
           "idPoC": {
             "rpCntInfo": {
               "cntAddress": {
-                "eMailAdd": "pavla.brabencova@karp-kv.cz"
+                "eMailAdd": "pavla.brabencova@kickk.cz"
               }
             },
-            "rpOrgName": "Krajský úřad Karlovarského kraje",
             "role": {
               "RoleCd": {
                 "@_value": "007"
               }
-            }
+            },
+            "rpOrgName": "Krajský úřad Karlovarského kraje"
           },
           "resConst": [
             {
@@ -17357,6 +17381,7 @@
           "RefSystem": {
             "refSysID": {
               "identCode": {
+                "@_Sync": "FALSE",
                 "@_code": "GCS_WGS_1984"
               }
             }
@@ -17364,9 +17389,25 @@
         },
         "mdChar": {
           "CharSetCd": {
+            "@_Sync": "FALSE",
             "@_value": "004"
           }
-        }
+        },
+        "distInfo": {
+          "distTranOps": {
+            "onLineSrc": {
+              "linkage": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Poskytovatel%C3%A9_soci%C3%A1ln%C3%ADch_slu%C5%BEeb_v_Karlovarsk%C3%A9m_kraji_WFL1/FeatureServer"
+            }
+          }
+        },
+        "mdMaint": {
+          "maintFreq": {
+            "MaintFreqCd": {
+              "@_value": "008"
+            }
+          }
+        },
+        "@_xml:lang": "cs"
       },
       "distribution": [
         {
@@ -17374,77 +17415,77 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/datasets/8a71d71444f14acd8d43023ce9c3fb95_0"
+          "accessURL": "https://www.datazapad.cz/datasets/8a71d71444f14acd8d43023ce9c3fb95_3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "ArcGIS GeoService",
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
-          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Poskytovatel%C3%A9_soci%C3%A1ln%C3%ADch_slu%C5%BEeb_v_Karlovarsk%C3%A9m_kraji_WFL1/FeatureServer/0"
+          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Poskytovatel%C3%A9_soci%C3%A1ln%C3%ADch_slu%C5%BEeb_v_Karlovarsk%C3%A9m_kraji_WFL1/FeatureServer/3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "CSV",
           "format": "CSV",
           "mediaType": "text/csv",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/8a71d71444f14acd8d43023ce9c3fb95/csv?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/8a71d71444f14acd8d43023ce9c3fb95/csv?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Shapefile",
           "format": "ZIP",
           "mediaType": "application/zip",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/8a71d71444f14acd8d43023ce9c3fb95/shapefile?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/8a71d71444f14acd8d43023ce9c3fb95/shapefile?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "GeoJSON",
           "format": "GeoJSON",
           "mediaType": "application/vnd.geo+json",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/8a71d71444f14acd8d43023ce9c3fb95/geojson?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/8a71d71444f14acd8d43023ce9c3fb95/geojson?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "KML",
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/8a71d71444f14acd8d43023ce9c3fb95/kml?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/8a71d71444f14acd8d43023ce9c3fb95/kml?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "File Geodatabase",
           "format": "ZIP",
           "mediaType": "application/zip",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/8a71d71444f14acd8d43023ce9c3fb95/filegdb?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/8a71d71444f14acd8d43023ce9c3fb95/filegdb?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Feature Collection",
           "format": "TXT",
           "mediaType": "text/plain",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/8a71d71444f14acd8d43023ce9c3fb95/featureCollection?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/8a71d71444f14acd8d43023ce9c3fb95/featureCollection?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Excel",
           "format": "XLSX",
           "mediaType": "application/vnd.ms-excel",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/8a71d71444f14acd8d43023ce9c3fb95/excel?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/8a71d71444f14acd8d43023ce9c3fb95/excel?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "GeoPackage",
           "format": "GPKG",
           "mediaType": "application/geopackage+sqlite3",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/8a71d71444f14acd8d43023ce9c3fb95/geoPackage?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/8a71d71444f14acd8d43023ce9c3fb95/geoPackage?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "SQLite Geodatabase",
           "format": "GDB",
           "mediaType": "application/geopackage+sqlite3",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/8a71d71444f14acd8d43023ce9c3fb95/sqlite?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/8a71d71444f14acd8d43023ce9c3fb95/sqlite?layers=3"
         }
       ],
       "theme": [
