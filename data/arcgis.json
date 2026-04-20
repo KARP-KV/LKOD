@@ -18457,8 +18457,8 @@
     },
     {
       "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=92327bf761e14d3c8cd169b7d65fa418&sublayer=0",
-      "landingPage": "https://www.datazapad.cz/datasets/92327bf761e14d3c8cd169b7d65fa418_0",
+      "identifier": "https://www.arcgis.com/home/item.html?id=92327bf761e14d3c8cd169b7d65fa418&sublayer=3",
+      "landingPage": "https://www.datazapad.cz/datasets/92327bf761e14d3c8cd169b7d65fa418_3",
       "title": "Přístupné prameny v Karlovarském kraji",
       "description": "<p>Datová sada obsahuje přehled veřejně přístupných a použitelných pramenů na území Karlovarského kraje. Informace obsažené k jednotlivým pramenům jsou název, typ, zdroj, přístupnost, dostupnost vody, webová stránka na www.estudanky.eu, jiné webové stránky a přesná prostorová lokalizace pramene. Souřadnicový systém je použit WGS 1984.</p><p>Primárním zdrojem dat je Národní registr pramenů a studánek, pro ověření primárního zdroje byly použity Wikipedie, <a target='_blank' href='https://www.mapy.com' rel='nofollow ugc noopener noreferrer'>www.mapy.com</a> a webové stránky měst Karlovy Vary, Mariánské Lázně, Františkovy Lázně, Lázně Kynžvart a další.</p><p>UPOZORNĚNÍ: Přírodní prameny nejsou sledovány z hlediska nezávadnosti a jejich konzumace je tedy na vlastní nebezpečí. Užívání lázeňských (léčebných) pramenů doporučujeme nejdříve konzultovat s lékařem.</p>",
       "keyword": [
@@ -18466,7 +18466,7 @@
         "Karlovarský kraj"
       ],
       "issued": "2026-04-16T10:13:02.000Z",
-      "modified": "2026-04-17T11:29:13.183Z",
+      "modified": "2026-04-20T10:36:08.000Z",
       "publisher": {
         "name": "Krajské inovační centrum Karlovarského kraje"
       },
@@ -18502,41 +18502,21 @@
           },
           "rpOrgName": "Krajské inovační centrum Karlovarského kraje, p.o."
         },
-        "distInfo": {
-          "distTranOps": {
-            "onLineSrc": {
-              "linkage": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/P%C5%99%C3%ADstupn%C3%A9_prameny_v_KK_WFL1/FeatureServer"
-            }
-          }
-        },
-        "mdMaint": {
-          "maintFreq": {
-            "MaintFreqCd": {
-              "@_value": "008"
-            }
-          }
-        },
         "mdDateSt": {
           "@_Sync": "FALSE",
-          "#value": "2026-04-16"
+          "#value": "2026-04-20"
         },
         "Esri": {
           "ArcGISFormat": 1,
-          "CreaTime": 12074500,
+          "CreaTime": 12083800,
           "ArcGISProfile": "INSPIRE",
-          "DataProperties": {
-            "itemProps": {
-              "portalDetails": {
-                "thumbnailURL": "https://www.arcgis.com/sharing/rest/content/items/92327bf761e14d3c8cd169b7d65fa418/info/thumbnail/thumbnail1776334715667.png"
-              }
-            }
-          },
           "CreaDate": 20260416,
           "SyncOnce": "TRUE"
         },
+        "mdTimeSt": "10:37:33",
         "dqInfo": {
           "dataLineage": {
-            "statement": "Data Národního registru pramenů a studánek a Krajského inovačního centra Karlovarského kraje"
+            "statement": "Data Národního registru pramenů a studánek a Krajského inovačního centra Karlovarského kraje, p.o."
           },
           "dqScope": {
             "scpLvl": {
@@ -18561,7 +18541,6 @@
             }
           }
         },
-        "@_xml:lang": "cs",
         "mdHrLv": {
           "ScopeCd": {
             "@_value": "005"
@@ -18606,7 +18585,7 @@
           },
           "idCitation": {
             "date": {
-              "pubDate": "2026-04-16T12:31:08"
+              "reviseDate": "2026-04-20T10:36:08"
             },
             "resTitle": {
               "@_Sync": "FALSE",
@@ -18619,8 +18598,8 @@
           "themeKeys": {
             "thesaName": {
               "date": {
-                "pubDate": "2008-06-01T00:00:00",
-                "createDate": "2026-04-16T12:30:34"
+                "reviseDate": "2026-04-20T10:35:32",
+                "pubDate": "2008-06-01T00:00:00"
               },
               "resTitle": {
                 "@_Sync": "FALSE",
@@ -18704,7 +18683,22 @@
             "@_Sync": "FALSE",
             "@_value": "004"
           }
-        }
+        },
+        "distInfo": {
+          "distTranOps": {
+            "onLineSrc": {
+              "linkage": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/P%C5%99%C3%ADstupn%C3%A9_prameny_v_KK_WFL1/FeatureServer"
+            }
+          }
+        },
+        "mdMaint": {
+          "maintFreq": {
+            "MaintFreqCd": {
+              "@_value": "008"
+            }
+          }
+        },
+        "@_xml:lang": "cs"
       },
       "distribution": [
         {
@@ -18712,77 +18706,77 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/datasets/92327bf761e14d3c8cd169b7d65fa418_0"
+          "accessURL": "https://www.datazapad.cz/datasets/92327bf761e14d3c8cd169b7d65fa418_3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "ArcGIS GeoService",
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
-          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/P%C5%99%C3%ADstupn%C3%A9_prameny_v_KK_WFL1/FeatureServer/0"
+          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/P%C5%99%C3%ADstupn%C3%A9_prameny_v_KK_WFL1/FeatureServer/3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "CSV",
           "format": "CSV",
           "mediaType": "text/csv",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/92327bf761e14d3c8cd169b7d65fa418/csv?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/92327bf761e14d3c8cd169b7d65fa418/csv?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Shapefile",
           "format": "ZIP",
           "mediaType": "application/zip",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/92327bf761e14d3c8cd169b7d65fa418/shapefile?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/92327bf761e14d3c8cd169b7d65fa418/shapefile?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "GeoJSON",
           "format": "GeoJSON",
           "mediaType": "application/vnd.geo+json",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/92327bf761e14d3c8cd169b7d65fa418/geojson?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/92327bf761e14d3c8cd169b7d65fa418/geojson?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "KML",
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/92327bf761e14d3c8cd169b7d65fa418/kml?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/92327bf761e14d3c8cd169b7d65fa418/kml?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "File Geodatabase",
           "format": "ZIP",
           "mediaType": "application/zip",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/92327bf761e14d3c8cd169b7d65fa418/filegdb?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/92327bf761e14d3c8cd169b7d65fa418/filegdb?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Feature Collection",
           "format": "TXT",
           "mediaType": "text/plain",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/92327bf761e14d3c8cd169b7d65fa418/featureCollection?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/92327bf761e14d3c8cd169b7d65fa418/featureCollection?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Excel",
           "format": "XLSX",
           "mediaType": "application/vnd.ms-excel",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/92327bf761e14d3c8cd169b7d65fa418/excel?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/92327bf761e14d3c8cd169b7d65fa418/excel?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "GeoPackage",
           "format": "GPKG",
           "mediaType": "application/geopackage+sqlite3",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/92327bf761e14d3c8cd169b7d65fa418/geoPackage?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/92327bf761e14d3c8cd169b7d65fa418/geoPackage?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "SQLite Geodatabase",
           "format": "GDB",
           "mediaType": "application/geopackage+sqlite3",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/92327bf761e14d3c8cd169b7d65fa418/sqlite?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/92327bf761e14d3c8cd169b7d65fa418/sqlite?layers=3"
         }
       ],
       "theme": [
