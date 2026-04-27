@@ -345,21 +345,22 @@
     },
     {
       "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=01fcf68eb2054fb3ab99af6aa34af6e4&sublayer=3",
-      "landingPage": "https://www.datazapad.cz/datasets/01fcf68eb2054fb3ab99af6aa34af6e4_3",
+      "identifier": "https://www.arcgis.com/home/item.html?id=01fcf68eb2054fb3ab99af6aa34af6e4&sublayer=0",
+      "landingPage": "https://www.datazapad.cz/datasets/01fcf68eb2054fb3ab99af6aa34af6e4_0",
       "title": "Seznam strategických dokumentů Karlovarského kraje",
-      "description": "<p><span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif;font-size:16px;'>Datová sada obsahuje uvedení platnosti dokumentů, oblasti působení, zákonného podkladu zpracování dokumentu a webový odkaz na dokument.</span></p><div><span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif;font-size:16px;'>Poskytovatelem dat je Karlovarská agentura rozvoje podnikání, p.o.</span></div>",
+      "description": "<p><span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'>Datová sada obsahuje přehled strategických a významných dokumentů, které realizoval Odbor regionálního rozvoje Krajského úřadu Karlovarského kraje. Přehled obsahuje dokumenty, které jsou uvedeny na Portálu strategických dokumentů ČR v Databázi strategií a další významné dokumenty (strategie, koncepce, plány), které jsou uvedeny na webových stránkách Krajského úřadu Karlovarského kraje. Informace uvedené u jednotlivých dokumentů: název dokumentu, druh dokumentu, výchozí legislativa, rok zahájení a ukončení platnosti dokumentu, oblast působnosti, webová stránka v Databázi strategií ČR (pokud je v ní dokument evidován), webová stránka na webu Karlovarského kraje, prostorová lokalizace Krajského úřadu Karlovarského kraje. Souřadnicový systém je použit WGS 1984.</span></p><p><span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'>Zdrojem dat je Krajský úřad Karlovarského kraje, odbor regionálního rozvoje.&nbsp;</span></p>",
       "keyword": [
         "strategie",
         "strategický dokument",
+        "Karlovarský kraj",
         "dokument",
-        "seznam",
-        "Karlovarský kraj"
+        "koncepce",
+        "plán"
       ],
       "issued": "2024-01-29T10:05:13.000Z",
-      "modified": "2025-04-01T09:59:18.000Z",
+      "modified": "2026-04-27T12:30:31.000Z",
       "publisher": {
-        "name": "Karlovarská agentura rozvoje podnikání, p.o."
+        "name": "Krajský úřad Karlovarského kraje"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -367,8 +368,8 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "12.8239,50.2186,12.8239,50.2186",
-      "license": "https://creativecommons.org/licenses/by/4.0",
+      "spatial": "12.8240,50.2185,12.8240,50.2185",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0",
       "category": [
         "Zdravotnictví a zdraví",
         "IZS a bezpečnost",
@@ -380,23 +381,27 @@
       "metadata": {
         "mdLang": {
           "languageCode": {
+            "@_Sync": "FALSE",
             "@_value": "cze"
           }
         },
         "mdContact": {
           "rpCntInfo": {
             "cntAddress": {
-              "eMailAdd": "pavla.brabencova@karp-kv.cz"
+              "eMailAdd": "pavla.brabencova@kickk.cz"
             }
           },
-          "rpOrgName": "Karlovarská agentura rozvoje podnikání, p.o.",
           "role": {
             "RoleCd": {
-              "@_value": "009"
+              "@_value": "007"
             }
-          }
+          },
+          "rpOrgName": "Krajské inovační centrum Karlovarského kraje, p.o."
         },
-        "mdDateSt": "2025-04-01",
+        "mdDateSt": {
+          "@_Sync": "FALSE",
+          "#value": "2026-04-27"
+        },
         "Esri": {
           "ArcGISFormat": 1,
           "CreaTime": 11030300,
@@ -404,8 +409,11 @@
           "CreaDate": 20240129,
           "SyncOnce": "TRUE"
         },
-        "mdTimeSt": "10:06:34",
+        "mdTimeSt": "12:31:45",
         "dqInfo": {
+          "dataLineage": {
+            "statement": "Data Krajského úřadu Karlovarského kraje"
+          },
           "dqScope": {
             "scpLvl": {
               "ScopeCd": {
@@ -420,7 +428,10 @@
                   "date": {
                     "pubDate": "2010-12-08T00:00:00"
                   },
-                  "resTitle": "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                  "resTitle": {
+                    "@_Sync": "FALSE",
+                    "#value": "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                  }
                 }
               }
             }
@@ -432,66 +443,50 @@
           }
         },
         "dataIdInfo": {
-          "idAbs": "<p><span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif;font-size:16px;'>Datová sada obsahuje uvedení platnosti dokumentů, oblasti působení, zákonného podkladu zpracování dokumentu a webový odkaz na dokument.</span></p><div><span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif;font-size:16px;'>Poskytovatelem dat je Karlovarská agentura rozvoje podnikání, p.o.</span></div>",
-          "idCredit": "Karlovarská agentura rozvoje podnikání, p.o.",
+          "idAbs": "<p><span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'>Datová sada obsahuje přehled strategických a významných dokumentů, které realizoval Odbor regionálního rozvoje Krajského úřadu Karlovarského kraje. Přehled obsahuje dokumenty, které jsou uvedeny na Portálu strategických dokumentů ČR v Databázi strategií a další významné dokumenty (strategie, koncepce, plány), které jsou uvedeny na webových stránkách Krajského úřadu Karlovarského kraje. Informace uvedené u jednotlivých dokumentů: název dokumentu, druh dokumentu, výchozí legislativa, rok zahájení a ukončení platnosti dokumentu, oblast působnosti, webová stránka v Databázi strategií ČR (pokud je v ní dokument evidován), webová stránka na webu Karlovarského kraje, prostorová lokalizace Krajského úřadu Karlovarského kraje. Souřadnicový systém je použit WGS 1984.</span></p><p><span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'>Zdrojem dat je Krajský úřad Karlovarského kraje, odbor regionálního rozvoje.&nbsp;</span></p>",
+          "idCredit": "Krajský úřad Karlovarského kraje, odbor regionálního rozvoje",
           "dataLang": {
             "languageCode": {
+              "@_Sync": "FALSE",
               "@_value": "cze"
             }
           },
-          "idPurp": "Seznam strategických dokumentů Karlovarského kraje v oblasti regionálního rozvoje, životního prostředí, dopravy, sociální oblasti, kultury, cestovního ruchu, památkové péče, školství a sportu, bezpečnosti a prevence, marketingu a ostatních vč. uvedení odkazů na tyto dokumenty.",
-          "tpCat": [
-            {
-              "TopicCatCd": {
-                "@_value": "016"
-              }
-            },
-            {
-              "TopicCatCd": {
-                "@_value": "019"
-              }
-            },
-            {
-              "TopicCatCd": {
-                "@_value": "018"
-              }
-            },
-            {
-              "TopicCatCd": {
-                "@_value": "017"
-              }
-            },
-            {
-              "TopicCatCd": {
-                "@_value": "009"
-              }
-            },
-            {
-              "TopicCatCd": {
-                "@_value": "007"
-              }
-            },
-            {
-              "TopicCatCd": {
-                "@_value": "005"
-              }
+          "idPurp": "Seznam strategických a významných dokumentů Karlovarského kraje, odboru regionálního rozvoje, Krajského úřadu Karlovarského kraje.",
+          "tpCat": {
+            "TopicCatCd": {
+              "@_value": "016"
             }
-          ],
+          },
           "dataExt": {
             "geoEle": {
               "GeoBndBox": {
-                "eastBL": 13.291742,
-                "southBL": 49.879592,
-                "northBL": 50.485036,
-                "westBL": 12.020074
+                "eastBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 13.11267
+                },
+                "southBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 49.72067
+                },
+                "northBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 50.61267
+                },
+                "westBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 12.22067
+                }
               }
             }
           },
           "idCitation": {
             "date": {
-              "reviseDate": "2025-04-01T09:59:18"
+              "reviseDate": "2026-04-27T12:30:31"
             },
-            "resTitle": "Seznam strategických dokumentů Karlovarského kraje",
+            "resTitle": {
+              "@_Sync": "FALSE",
+              "#value": "Seznam strategických dokumentů Karlovarského kraje"
+            },
             "citId": {
               "identCode": "publication"
             }
@@ -499,18 +494,28 @@
           "themeKeys": {
             "thesaName": {
               "date": {
+                "reviseDate": "2026-04-27T12:29:57",
                 "pubDate": "2008-06-01T00:00:00"
               },
-              "resTitle": "GEMET - INSPIRE themes, version 1.0"
-            }
+              "resTitle": {
+                "@_Sync": "FALSE",
+                "#value": "GEMET - INSPIRE themes, version 1.0"
+              }
+            },
+            "keyword": [
+              "Karlovarský kraj",
+              "strategický dokument"
+            ]
           },
           "spatRpType": {
             "SpatRepTypCd": {
+              "@_Sync": "FALSE",
               "@_value": "003"
             }
           },
           "dataChar": {
             "CharSetCd": {
+              "@_Sync": "FALSE",
               "@_value": "004"
             }
           },
@@ -518,23 +523,24 @@
             "keyword": [
               "strategie",
               "strategický dokument",
+              "Karlovarský kraj",
               "dokument",
-              "seznam",
-              "Karlovarský kraj"
+              "koncepce",
+              "plán"
             ]
           },
           "idPoC": {
             "rpCntInfo": {
               "cntAddress": {
-                "eMailAdd": "pavla.brabencova@karp-kv.cz"
+                "eMailAdd": "pavla.brabencova@kickk.cz"
               }
             },
-            "rpOrgName": "Karlovarská agentura rozvoje podnikání, p.o.",
             "role": {
               "RoleCd": {
                 "@_value": "007"
               }
-            }
+            },
+            "rpOrgName": "Krajský úřad Karlovarského kraje"
           },
           "resConst": [
             {
@@ -557,7 +563,7 @@
             },
             {
               "Consts": {
-                "useLimit": "CC BY 4.0"
+                "useLimit": "<p>CC0 1.0</p>"
               }
             }
           ]
@@ -566,6 +572,7 @@
           "RefSystem": {
             "refSysID": {
               "identCode": {
+                "@_Sync": "FALSE",
                 "@_code": "GCS_WGS_1984"
               }
             }
@@ -573,6 +580,7 @@
         },
         "mdChar": {
           "CharSetCd": {
+            "@_Sync": "FALSE",
             "@_value": "004"
           }
         },
@@ -584,11 +592,6 @@
           }
         },
         "mdMaint": {
-          "maintScp": {
-            "ScopeCd": {
-              "@_value": "001"
-            }
-          },
           "maintFreq": {
             "MaintFreqCd": {
               "@_value": "008"
@@ -603,77 +606,77 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/datasets/01fcf68eb2054fb3ab99af6aa34af6e4_3"
+          "accessURL": "https://www.datazapad.cz/datasets/01fcf68eb2054fb3ab99af6aa34af6e4_0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "ArcGIS GeoService",
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
-          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Seznam_strategick%C3%BDch_dokument%C5%AF_KVK_WFL1/FeatureServer/3"
+          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Seznam_strategick%C3%BDch_dokument%C5%AF_KVK_WFL1/FeatureServer/0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "CSV",
           "format": "CSV",
           "mediaType": "text/csv",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/01fcf68eb2054fb3ab99af6aa34af6e4/csv?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/01fcf68eb2054fb3ab99af6aa34af6e4/csv?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Shapefile",
           "format": "ZIP",
           "mediaType": "application/zip",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/01fcf68eb2054fb3ab99af6aa34af6e4/shapefile?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/01fcf68eb2054fb3ab99af6aa34af6e4/shapefile?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "GeoJSON",
           "format": "GeoJSON",
           "mediaType": "application/vnd.geo+json",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/01fcf68eb2054fb3ab99af6aa34af6e4/geojson?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/01fcf68eb2054fb3ab99af6aa34af6e4/geojson?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "KML",
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/01fcf68eb2054fb3ab99af6aa34af6e4/kml?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/01fcf68eb2054fb3ab99af6aa34af6e4/kml?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "File Geodatabase",
           "format": "ZIP",
           "mediaType": "application/zip",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/01fcf68eb2054fb3ab99af6aa34af6e4/filegdb?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/01fcf68eb2054fb3ab99af6aa34af6e4/filegdb?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Feature Collection",
           "format": "TXT",
           "mediaType": "text/plain",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/01fcf68eb2054fb3ab99af6aa34af6e4/featureCollection?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/01fcf68eb2054fb3ab99af6aa34af6e4/featureCollection?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Excel",
           "format": "XLSX",
           "mediaType": "application/vnd.ms-excel",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/01fcf68eb2054fb3ab99af6aa34af6e4/excel?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/01fcf68eb2054fb3ab99af6aa34af6e4/excel?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "GeoPackage",
           "format": "GPKG",
           "mediaType": "application/geopackage+sqlite3",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/01fcf68eb2054fb3ab99af6aa34af6e4/geoPackage?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/01fcf68eb2054fb3ab99af6aa34af6e4/geoPackage?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "SQLite Geodatabase",
           "format": "GDB",
           "mediaType": "application/geopackage+sqlite3",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/01fcf68eb2054fb3ab99af6aa34af6e4/sqlite?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/01fcf68eb2054fb3ab99af6aa34af6e4/sqlite?layers=0"
         }
       ],
       "theme": [
