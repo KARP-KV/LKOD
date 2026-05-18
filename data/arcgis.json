@@ -685,6 +685,354 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=023d09f19a0943c989fb25266161ddff&sublayer=0",
+      "landingPage": "https://www.datazapad.cz/datasets/023d09f19a0943c989fb25266161ddff_0",
+      "title": "Přírodní koupací místa s kontrolou kvality vody v Karlovarském kraji",
+      "description": "<p>Datová sada s přehledem přírodních koupacích míst s kontrolou kvality vody v Karlovarském kraji, jejichž kontrolu provádí Krajská hygienická stanice Karlovarského kraje. Informace, které obsahuje datová sada: název koupacího místa, typ, úče, vybavení, webová stránka s výsledky kontroly kvality vody a prostorová lokalizace koupacího místa. Souřadnicový systém je použit WGS 1984.</p><p>Zdrojem dat je Krajská hygienická stanice Karlovarského kraje a Krajské inovační centrum Karlovarského kraje, p.o.</p>",
+      "keyword": [
+        "koupací místo",
+        "koupaliště",
+        "přírodní",
+        "Karlovarský kraj"
+      ],
+      "issued": "2026-05-18T10:32:12.000Z",
+      "modified": "2026-05-18T10:49:40.391Z",
+      "publisher": {
+        "name": "Krajské inovační centrum Karlovarského kraje"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "pavla.brabencova_karp",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "12.3253,49.9431,13.1457,50.3321",
+      "license": "https://creativecommons.org/licenses/by/4.0",
+      "category": [
+        "Zdravotnictví a zdraví",
+        "Kultura a cestovní ruch"
+      ],
+      "metadata": {
+        "mdLang": {
+          "languageCode": {
+            "@_Sync": "FALSE",
+            "@_value": "cze"
+          }
+        },
+        "mdContact": {
+          "rpCntInfo": {
+            "cntAddress": {
+              "eMailAdd": "pavla.brabencova@kickk.cz"
+            }
+          },
+          "role": {
+            "RoleCd": {
+              "@_value": "007"
+            }
+          },
+          "rpOrgName": "Krajské inovační centrum Karlovarského kraje, p.o."
+        },
+        "mdDateSt": {
+          "@_Sync": "FALSE",
+          "#value": "2026-05-18"
+        },
+        "Esri": {
+          "ArcGISFormat": 1,
+          "CreaTime": 12274500,
+          "ArcGISProfile": "INSPIRE",
+          "DataProperties": {
+            "itemProps": {
+              "portalDetails": {
+                "thumbnailURL": "https://www.arcgis.com/sharing/rest/content/items/023d09f19a0943c989fb25266161ddff/info/thumbnail/thumbnail1779100810646.png"
+              }
+            }
+          },
+          "CreaDate": 20260518,
+          "SyncOnce": "TRUE"
+        },
+        "mdTimeSt": "12:48:21",
+        "dqInfo": {
+          "dataLineage": {
+            "statement": "Data Krajské hygienické stanice Karlovarského kraje a Krajského inovačního centra Karlovarského kraje, p.o."
+          },
+          "dqScope": {
+            "scpLvl": {
+              "ScopeCd": {
+                "@_value": "005"
+              }
+            }
+          },
+          "report": {
+            "measResult": {
+              "ConResult": {
+                "conSpec": {
+                  "date": {
+                    "pubDate": "2010-12-08T00:00:00"
+                  },
+                  "resTitle": {
+                    "@_Sync": "FALSE",
+                    "#value": "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "mdHrLv": {
+          "ScopeCd": {
+            "@_value": "005"
+          }
+        },
+        "dataIdInfo": {
+          "idAbs": "<p>Datová sada s přehledem přírodních koupacích míst s kontrolou kvality vody v Karlovarském kraji, jejichž kontrolu provádí Krajská hygienická stanice Karlovarského kraje. Informace, které obsahuje datová sada: název koupacího místa, typ, úče, vybavení, webová stránka s výsledky kontroly kvality vody a prostorová lokalizace koupacího místa. Souřadnicový systém je použit WGS 1984.</p><p>Zdrojem dat je Krajská hygienická stanice Karlovarského kraje a Krajské inovační centrum Karlovarského kraje, p.o.</p>",
+          "idCredit": "Krajská hygienická stanice Karlovarského kraje",
+          "dataLang": {
+            "languageCode": {
+              "@_Sync": "FALSE",
+              "@_value": "cze"
+            }
+          },
+          "idPurp": "Přehled přírodních koupacích míst s kontrolou kvality vody v Karlovarském kraji.",
+          "tpCat": [
+            {
+              "TopicCatCd": {
+                "@_value": "009"
+              }
+            },
+            {
+              "TopicCatCd": {
+                "@_value": "016"
+              }
+            }
+          ],
+          "dataExt": {
+            "geoEle": {
+              "GeoBndBox": {
+                "eastBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 13.145657
+                },
+                "southBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 49.943067
+                },
+                "northBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 50.332076
+                },
+                "westBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 12.325333
+                }
+              }
+            }
+          },
+          "idCitation": {
+            "date": {
+              "pubDate": "2026-05-18T12:47:07"
+            },
+            "resTitle": {
+              "@_Sync": "FALSE",
+              "#value": "Přírodní koupací místa s kontrolou kvality vody v Karlovarském kraji"
+            },
+            "citId": {
+              "identCode": "publication"
+            }
+          },
+          "themeKeys": {
+            "thesaName": {
+              "date": {
+                "pubDate": "2008-06-01T00:00:00",
+                "createDate": "2026-05-18T12:46:26"
+              },
+              "resTitle": {
+                "@_Sync": "FALSE",
+                "#value": "GEMET - INSPIRE themes, version 1.0"
+              }
+            },
+            "keyword": [
+              "přírodní",
+              "koupací místo",
+              "Karlovarský kraj",
+              "koupaliště"
+            ]
+          },
+          "spatRpType": {
+            "SpatRepTypCd": {
+              "@_Sync": "FALSE",
+              "@_value": "003"
+            }
+          },
+          "dataChar": {
+            "CharSetCd": {
+              "@_Sync": "FALSE",
+              "@_value": "004"
+            }
+          },
+          "searchKeys": {
+            "keyword": [
+              "koupací místo",
+              "koupaliště",
+              "přírodní",
+              "Karlovarský kraj"
+            ]
+          },
+          "idPoC": {
+            "rpCntInfo": {
+              "cntAddress": {
+                "eMailAdd": "pavla.brabencova@kickk.cz"
+              }
+            },
+            "role": {
+              "RoleCd": {
+                "@_value": "007"
+              }
+            },
+            "rpOrgName": "Krajské inovační centrum Karlovarského kraje"
+          },
+          "resConst": [
+            {
+              "LegConsts": {
+                "inspireAccessUseConditions": {
+                  "ConditionsAccUseCd": {
+                    "@_value": "001"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "inspirePublicAccessLimits": {
+                  "PublicAccessCd": {
+                    "@_value": "001"
+                  }
+                }
+              }
+            },
+            {
+              "Consts": {
+                "useLimit": "<p>CC BY 4.0</p>"
+              }
+            }
+          ]
+        },
+        "refSysInfo": {
+          "RefSystem": {
+            "refSysID": {
+              "identCode": {
+                "@_Sync": "FALSE",
+                "@_code": "GCS_WGS_1984"
+              }
+            }
+          }
+        },
+        "mdChar": {
+          "CharSetCd": {
+            "@_Sync": "FALSE",
+            "@_value": "004"
+          }
+        },
+        "distInfo": {
+          "distTranOps": {
+            "onLineSrc": {
+              "linkage": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/P%C5%99%C3%ADrodn%C3%AD_koupac%C3%AD_m%C3%ADsta_s_kontrolou_kvality_vody_WFL1/FeatureServer"
+            }
+          }
+        },
+        "mdMaint": {
+          "maintFreq": {
+            "MaintFreqCd": {
+              "@_value": "008"
+            }
+          }
+        },
+        "@_xml:lang": "cs"
+      },
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datazapad.cz/datasets/023d09f19a0943c989fb25266161ddff_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/P%C5%99%C3%ADrodn%C3%AD_koupac%C3%AD_m%C3%ADsta_s_kontrolou_kvality_vody_WFL1/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/023d09f19a0943c989fb25266161ddff/csv?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/023d09f19a0943c989fb25266161ddff/shapefile?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/023d09f19a0943c989fb25266161ddff/geojson?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/023d09f19a0943c989fb25266161ddff/kml?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "File Geodatabase",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/023d09f19a0943c989fb25266161ddff/filegdb?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Feature Collection",
+          "format": "TXT",
+          "mediaType": "text/plain",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/023d09f19a0943c989fb25266161ddff/featureCollection?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Excel",
+          "format": "XLSX",
+          "mediaType": "application/vnd.ms-excel",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/023d09f19a0943c989fb25266161ddff/excel?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoPackage",
+          "format": "GPKG",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/023d09f19a0943c989fb25266161ddff/geoPackage?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "SQLite Geodatabase",
+          "format": "GDB",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/023d09f19a0943c989fb25266161ddff/sqlite?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=037f7b55d2d34fa88fd63bf2d2903839&sublayer=3",
       "landingPage": "https://www.datazapad.cz/datasets/037f7b55d2d34fa88fd63bf2d2903839_3",
       "title": "Přírodní pozoruhodnosti v Karlovarském kraji",
