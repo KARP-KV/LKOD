@@ -23206,20 +23206,19 @@
     },
     {
       "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=c548528f8601499d894cc7556e679de6&sublayer=3",
-      "landingPage": "https://www.datazapad.cz/datasets/c548528f8601499d894cc7556e679de6_3",
+      "identifier": "https://www.arcgis.com/home/item.html?id=c548528f8601499d894cc7556e679de6&sublayer=0",
+      "landingPage": "https://www.datazapad.cz/datasets/c548528f8601499d894cc7556e679de6_0",
       "title": "Kulturní domy a centra v Karlovarském kraji",
-      "description": "<p>Datová sada obsahuje seznam kulturních domů a center v Karlovarském kraji s uvedením údajů o provozovateli, kontaktní údaje (telefonní číslo a e-mail, číslo datové schránky), webovou stránku, adresu místa kulturního domu vč. souřadnic. Souřadnicový systém je WGS 1984.</p><div><p>Poskytovatelem dat je Karlovarská agentura rozvoje podnikání, p.o.<br></p><div></div></div>",
+      "description": "<p>Datová sada obsahuje přehled kulturních domů a center na území Karlovarského kraje. Uvedena jsou data: název, adresa místa, poznámka k provozu, provozovatel (jeho identifikační číslo, právní forma, sídlo, kód adresy, ID datové schránky), webová stránka, kontaktní e-mail, kontaktní telefonní číslo a prostorová lokalizace. Souřadnicový systém je použit WGS 1984.</p><div><p>Poskytovatelem dat je Krajské inovační centrum Karlovarského kraje, p.o.</p><div>&nbsp;</div></div>",
       "keyword": [
         "kulturní dům",
         "kulturní centrum",
-        "kultura",
         "Karlovarský kraj"
       ],
       "issued": "2025-05-05T10:10:17.000Z",
-      "modified": "2025-05-13T12:11:41.000Z",
+      "modified": "2026-05-18T10:13:24.000Z",
       "publisher": {
-        "name": "Karlovarská agentura rozvoje podnikání, p.o."
+        "name": "Krajské inovační centrum Karlovarského kraje"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -23227,7 +23226,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "12.1866,50.0721,12.9494,50.3625",
+      "spatial": "12.1867,50.0721,12.9488,50.3625",
       "license": "https://creativecommons.org/licenses/by/4.0",
       "category": [
         "Kultura a cestovní ruch"
@@ -23235,13 +23234,14 @@
       "metadata": {
         "mdLang": {
           "languageCode": {
+            "@_Sync": "FALSE",
             "@_value": "cze"
           }
         },
         "mdContact": {
           "rpCntInfo": {
             "cntAddress": {
-              "eMailAdd": "pavla.brabencova@karp-kv.cz"
+              "eMailAdd": "pavla.brabencova@kickk.cz"
             }
           },
           "role": {
@@ -23249,23 +23249,12 @@
               "@_value": "007"
             }
           },
-          "rpOrgName": "Karlovarská agentura rozvoje podnikání, p.o."
+          "rpOrgName": "Krajské inovační centrum Karlovarského kraje, p.o."
         },
-        "distInfo": {
-          "distTranOps": {
-            "onLineSrc": {
-              "linkage": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Kulturn%C3%AD_domy_a_centra_v_KVK_WFL1/FeatureServer"
-            }
-          }
+        "mdDateSt": {
+          "@_Sync": "FALSE",
+          "#value": "2026-05-18"
         },
-        "mdMaint": {
-          "maintFreq": {
-            "MaintFreqCd": {
-              "@_value": "009"
-            }
-          }
-        },
-        "mdDateSt": "2025-05-13",
         "Esri": {
           "ArcGISFormat": 1,
           "CreaTime": 11551500,
@@ -23273,7 +23262,11 @@
           "CreaDate": 20250505,
           "SyncOnce": "TRUE"
         },
+        "mdTimeSt": "10:14:24",
         "dqInfo": {
+          "dataLineage": {
+            "statement": "Data Krajského inovačního centra Karlovarského kraje, p.o."
+          },
           "dqScope": {
             "scpLvl": {
               "ScopeCd": {
@@ -23288,27 +23281,30 @@
                   "date": {
                     "pubDate": "2010-12-08T00:00:00"
                   },
-                  "resTitle": "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                  "resTitle": {
+                    "@_Sync": "FALSE",
+                    "#value": "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                  }
                 }
               }
             }
           }
         },
-        "@_xml:lang": "cs",
         "mdHrLv": {
           "ScopeCd": {
             "@_value": "005"
           }
         },
         "dataIdInfo": {
-          "idAbs": "<p>Datová sada obsahuje seznam kulturních domů a center v Karlovarském kraji s uvedením údajů o provozovateli, kontaktní údaje (telefonní číslo a e-mail, číslo datové schránky), webovou stránku, adresu místa kulturního domu vč. souřadnic. Souřadnicový systém je WGS 1984.</p><div><p>Poskytovatelem dat je Karlovarská agentura rozvoje podnikání, p.o.<br></p><div></div></div>",
-          "idCredit": "Karlovarská agentura rozvoje podnikání, p.o.",
+          "idAbs": "<p>Datová sada obsahuje přehled kulturních domů a center na území Karlovarského kraje. Uvedena jsou data: název, adresa místa, poznámka k provozu, provozovatel (jeho identifikační číslo, právní forma, sídlo, kód adresy, ID datové schránky), webová stránka, kontaktní e-mail, kontaktní telefonní číslo a prostorová lokalizace. Souřadnicový systém je použit WGS 1984.</p><div><p>Poskytovatelem dat je Krajské inovační centrum Karlovarského kraje, p.o.</p><div>&nbsp;</div></div>",
+          "idCredit": "Krajské inovační centrum Karlovarského kraje, p.o.",
           "dataLang": {
             "languageCode": {
+              "@_Sync": "FALSE",
               "@_value": "cze"
             }
           },
-          "idPurp": "Přehled kulturních domů a kulturních center v Karlovarském kraji.",
+          "idPurp": "Přehled kulturních domů a kulturních center na území Karlovarského kraje.",
           "tpCat": {
             "TopicCatCd": {
               "@_value": "016"
@@ -23317,18 +23313,33 @@
           "dataExt": {
             "geoEle": {
               "GeoBndBox": {
-                "eastBL": 12.971367,
-                "southBL": 50.059749,
-                "northBL": 50.37303,
-                "westBL": 12.153672
+                "eastBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 12.948807
+                },
+                "southBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 50.07209
+                },
+                "northBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 50.362518
+                },
+                "westBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 12.186736
+                }
               }
             }
           },
           "idCitation": {
             "date": {
-              "reviseDate": "2025-05-13T12:11:41"
+              "reviseDate": "2026-05-18T10:13:24"
             },
-            "resTitle": "Kulturní domy a centra v Karlovarském kraji",
+            "resTitle": {
+              "@_Sync": "FALSE",
+              "#value": "Kulturní domy a centra v Karlovarském krajei"
+            },
             "citId": {
               "identCode": "publication"
             }
@@ -23336,22 +23347,29 @@
           "themeKeys": {
             "thesaName": {
               "date": {
+                "reviseDate": "2026-05-18T10:12:51",
                 "pubDate": "2008-06-01T00:00:00"
               },
-              "resTitle": "GEMET - INSPIRE themes, version 1.0"
+              "resTitle": {
+                "@_Sync": "FALSE",
+                "#value": "GEMET - INSPIRE themes, version 1.0"
+              }
             },
             "keyword": [
-              "kultura",
-              "kulturní domy a centra"
+              "kulturní dům",
+              "kulturní centrum",
+              "Karlovarský kraj"
             ]
           },
           "spatRpType": {
             "SpatRepTypCd": {
+              "@_Sync": "FALSE",
               "@_value": "003"
             }
           },
           "dataChar": {
             "CharSetCd": {
+              "@_Sync": "FALSE",
               "@_value": "004"
             }
           },
@@ -23359,14 +23377,13 @@
             "keyword": [
               "kulturní dům",
               "kulturní centrum",
-              "kultura",
               "Karlovarský kraj"
             ]
           },
           "idPoC": {
             "rpCntInfo": {
               "cntAddress": {
-                "eMailAdd": "pavla.brabencova@karp-kv.cz"
+                "eMailAdd": "pavla.brabencova@kickk.cz"
               }
             },
             "role": {
@@ -23374,7 +23391,7 @@
                 "@_value": "007"
               }
             },
-            "rpOrgName": "Karlovarská agentura rozvoje podnikání, p.o."
+            "rpOrgName": "Krajské inovační centrum Karlovarského kraje"
           },
           "resConst": [
             {
@@ -23406,6 +23423,7 @@
           "RefSystem": {
             "refSysID": {
               "identCode": {
+                "@_Sync": "FALSE",
                 "@_code": "GCS_WGS_1984"
               }
             }
@@ -23413,9 +23431,25 @@
         },
         "mdChar": {
           "CharSetCd": {
+            "@_Sync": "FALSE",
             "@_value": "004"
           }
-        }
+        },
+        "distInfo": {
+          "distTranOps": {
+            "onLineSrc": {
+              "linkage": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Kulturn%C3%AD_domy_a_centra_v_KVK_WFL1/FeatureServer"
+            }
+          }
+        },
+        "mdMaint": {
+          "maintFreq": {
+            "MaintFreqCd": {
+              "@_value": "008"
+            }
+          }
+        },
+        "@_xml:lang": "cs"
       },
       "distribution": [
         {
@@ -23423,77 +23457,77 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/datasets/c548528f8601499d894cc7556e679de6_3"
+          "accessURL": "https://www.datazapad.cz/datasets/c548528f8601499d894cc7556e679de6_0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "ArcGIS GeoService",
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
-          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Kulturn%C3%AD_domy_a_centra_v_KVK_WFL1/FeatureServer/3"
+          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Kulturn%C3%AD_domy_a_centra_v_KVK_WFL1/FeatureServer/0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "CSV",
           "format": "CSV",
           "mediaType": "text/csv",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/c548528f8601499d894cc7556e679de6/csv?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/c548528f8601499d894cc7556e679de6/csv?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Shapefile",
           "format": "ZIP",
           "mediaType": "application/zip",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/c548528f8601499d894cc7556e679de6/shapefile?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/c548528f8601499d894cc7556e679de6/shapefile?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "GeoJSON",
           "format": "GeoJSON",
           "mediaType": "application/vnd.geo+json",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/c548528f8601499d894cc7556e679de6/geojson?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/c548528f8601499d894cc7556e679de6/geojson?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "KML",
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/c548528f8601499d894cc7556e679de6/kml?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/c548528f8601499d894cc7556e679de6/kml?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "File Geodatabase",
           "format": "ZIP",
           "mediaType": "application/zip",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/c548528f8601499d894cc7556e679de6/filegdb?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/c548528f8601499d894cc7556e679de6/filegdb?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Feature Collection",
           "format": "TXT",
           "mediaType": "text/plain",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/c548528f8601499d894cc7556e679de6/featureCollection?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/c548528f8601499d894cc7556e679de6/featureCollection?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Excel",
           "format": "XLSX",
           "mediaType": "application/vnd.ms-excel",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/c548528f8601499d894cc7556e679de6/excel?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/c548528f8601499d894cc7556e679de6/excel?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "GeoPackage",
           "format": "GPKG",
           "mediaType": "application/geopackage+sqlite3",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/c548528f8601499d894cc7556e679de6/geoPackage?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/c548528f8601499d894cc7556e679de6/geoPackage?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "SQLite Geodatabase",
           "format": "GDB",
           "mediaType": "application/geopackage+sqlite3",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/c548528f8601499d894cc7556e679de6/sqlite?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/c548528f8601499d894cc7556e679de6/sqlite?layers=0"
         }
       ],
       "theme": [
