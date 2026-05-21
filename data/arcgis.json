@@ -21286,6 +21286,342 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=af6ba592d33945f384e41da14f381852&sublayer=0",
+      "landingPage": "https://www.datazapad.cz/datasets/af6ba592d33945f384e41da14f381852_0",
+      "title": "Přehled majetkových pasportů budov Karlovarského kraje",
+      "description": "<p><span style='color:rgb(0,0,0); font-size:14px;'>Datová sada obsahuje přehled pasportních údajů budov ve vlastnictví Karlovarského kraje shromážděných za období 2023–2026. U každé budovy jsou k dispozici základní identifikační, stavebně-technické a provozní vlastnosti objektu. Prostorová lokalizace všech budov je uvedena jednotně souřadnicemi sídla vlastníka, tj. Krajského úřadu Karlovarského kraje, v souřadnicovém systému WGS 84.&nbsp;</span></p><p><span style='color:rgb(0,0,0); font-size:14px;'>Zdrojem dat je Jednotný systém pro správu majetku Karlovarského kraje, přičemž data jsou aktualizována 1x ročně.</span></p>",
+      "keyword": [
+        "pasport",
+        "majetek",
+        "Karlovarský kraj"
+      ],
+      "issued": "2026-05-21T08:05:45.000Z",
+      "modified": "2026-05-21T08:19:32.070Z",
+      "publisher": {
+        "name": "Krajský úřad Karlovarského kraje"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "pavla.brabencova_karp",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "12.8240,50.2185,12.8240,50.2185",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0",
+      "category": [
+        "Kraj a dotace"
+      ],
+      "metadata": {
+        "mdLang": {
+          "languageCode": {
+            "@_Sync": "FALSE",
+            "@_value": "cze"
+          }
+        },
+        "mdContact": {
+          "rpCntInfo": {
+            "cntAddress": {
+              "eMailAdd": "pavla.brabencova@kickk.cz"
+            }
+          },
+          "role": {
+            "RoleCd": {
+              "@_value": "007"
+            }
+          },
+          "rpOrgName": "Krajské inovační centrum Karlovarského kraje, p.o."
+        },
+        "mdDateSt": {
+          "@_Sync": "FALSE",
+          "#value": "2026-05-21"
+        },
+        "Esri": {
+          "ArcGISFormat": 1,
+          "CreaTime": 9565100,
+          "ArcGISProfile": "INSPIRE",
+          "DataProperties": {
+            "itemProps": {
+              "portalDetails": {
+                "thumbnailURL": "https://www.arcgis.com/sharing/rest/content/items/af6ba592d33945f384e41da14f381852/info/thumbnail/thumbnail1779350973360.png"
+              }
+            }
+          },
+          "CreaDate": 20260521,
+          "SyncOnce": "TRUE"
+        },
+        "mdTimeSt": "10:17:38",
+        "dqInfo": {
+          "dataLineage": {
+            "statement": "Zdrojem dat je Jednotný systém pro správu majetku Karlovarského kraje"
+          },
+          "dqScope": {
+            "scpLvl": {
+              "ScopeCd": {
+                "@_value": "005"
+              }
+            }
+          },
+          "report": {
+            "measResult": {
+              "ConResult": {
+                "conSpec": {
+                  "date": {
+                    "pubDate": "2010-12-08T00:00:00"
+                  },
+                  "resTitle": {
+                    "@_Sync": "FALSE",
+                    "#value": "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "mdHrLv": {
+          "ScopeCd": {
+            "@_value": "005"
+          }
+        },
+        "dataIdInfo": {
+          "idAbs": "<p><span style='color:rgb(0,0,0); font-size:14px;'>Datová sada obsahuje přehled pasportních údajů budov ve vlastnictví Karlovarského kraje shromážděných za období 2023–2026. U každé budovy jsou k dispozici základní identifikační, stavebně-technické a provozní vlastnosti objektu. Prostorová lokalizace všech budov je uvedena jednotně souřadnicemi sídla vlastníka, tj. Krajského úřadu Karlovarského kraje, v souřadnicovém systému WGS 84.&nbsp;</span></p><p><span style='color:rgb(0,0,0); font-size:14px;'>Zdrojem dat je Jednotný systém pro správu majetku Karlovarského kraje, přičemž data jsou aktualizována 1x ročně.</span></p>",
+          "dataExt": {
+            "geoEle": {
+              "GeoBndBox": {
+                "eastBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 13.11267
+                },
+                "southBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 49.72067
+                },
+                "northBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 50.61267
+                },
+                "westBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 12.22067
+                }
+              }
+            }
+          },
+          "idCitation": {
+            "date": {
+              "pubDate": "2026-05-21T10:15:46"
+            },
+            "resTitle": {
+              "@_Sync": "FALSE",
+              "#value": "Přehled majetkových pasportů budov Karlovarského kraje"
+            },
+            "citId": {
+              "identCode": "publication"
+            }
+          },
+          "dataLang": {
+            "languageCode": {
+              "@_Sync": "FALSE",
+              "@_value": "cze"
+            }
+          },
+          "themeKeys": {
+            "thesaName": {
+              "date": {
+                "pubDate": "2008-06-01T00:00:00",
+                "createDate": "2026-05-21T10:14:47"
+              },
+              "resTitle": {
+                "@_Sync": "FALSE",
+                "#value": "GEMET - INSPIRE themes, version 1.0"
+              }
+            },
+            "keyword": [
+              "pasport",
+              "majetek",
+              "Karlovarský kraj"
+            ]
+          },
+          "idPurp": "Přehled pasportních údajů budov ve vlastnictví Karlovarského kraje shromážděných za období 2023–2026",
+          "spatRpType": {
+            "SpatRepTypCd": {
+              "@_Sync": "FALSE",
+              "@_value": "003"
+            }
+          },
+          "dataChar": {
+            "CharSetCd": {
+              "@_Sync": "FALSE",
+              "@_value": "004"
+            }
+          },
+          "tpCat": {
+            "TopicCatCd": {
+              "@_value": "017"
+            }
+          },
+          "searchKeys": {
+            "keyword": [
+              "pasport",
+              "majetek",
+              "Karlovarský kraj"
+            ]
+          },
+          "idPoC": {
+            "rpCntInfo": {
+              "cntAddress": {
+                "eMailAdd": "michal.kis@kr-karlovarsky.cz"
+              }
+            },
+            "role": {
+              "RoleCd": {
+                "@_value": "007"
+              }
+            },
+            "rpOrgName": "Krajský úřad Karlovarského kraje"
+          },
+          "resConst": [
+            {
+              "LegConsts": {
+                "inspireAccessUseConditions": {
+                  "ConditionsAccUseCd": {
+                    "@_value": "001"
+                  }
+                }
+              }
+            },
+            {
+              "LegConsts": {
+                "inspirePublicAccessLimits": {
+                  "PublicAccessCd": {
+                    "@_value": "001"
+                  }
+                }
+              }
+            },
+            {
+              "Consts": {
+                "useLimit": "<p>CC0 1.0</p>"
+              }
+            }
+          ]
+        },
+        "refSysInfo": {
+          "RefSystem": {
+            "refSysID": {
+              "identCode": {
+                "@_Sync": "FALSE",
+                "@_code": "GCS_WGS_84"
+              }
+            }
+          }
+        },
+        "mdChar": {
+          "CharSetCd": {
+            "@_Sync": "FALSE",
+            "@_value": "004"
+          }
+        },
+        "distInfo": {
+          "distTranOps": {
+            "onLineSrc": {
+              "linkage": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/P%C5%99ehled_majetkov%C3%BDch_pasport%C5%AF_KK_WFL1/FeatureServer"
+            }
+          }
+        },
+        "mdMaint": {
+          "maintFreq": {
+            "MaintFreqCd": {
+              "@_value": "008"
+            }
+          }
+        },
+        "@_xml:lang": "cs"
+      },
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datazapad.cz/datasets/af6ba592d33945f384e41da14f381852_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/P%C5%99ehled_majetkov%C3%BDch_pasport%C5%AF_KK_WFL1/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/af6ba592d33945f384e41da14f381852/csv?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/af6ba592d33945f384e41da14f381852/shapefile?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/af6ba592d33945f384e41da14f381852/geojson?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/af6ba592d33945f384e41da14f381852/kml?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "File Geodatabase",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/af6ba592d33945f384e41da14f381852/filegdb?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Feature Collection",
+          "format": "TXT",
+          "mediaType": "text/plain",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/af6ba592d33945f384e41da14f381852/featureCollection?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Excel",
+          "format": "XLSX",
+          "mediaType": "application/vnd.ms-excel",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/af6ba592d33945f384e41da14f381852/excel?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoPackage",
+          "format": "GPKG",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/af6ba592d33945f384e41da14f381852/geoPackage?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "SQLite Geodatabase",
+          "format": "GDB",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/af6ba592d33945f384e41da14f381852/sqlite?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=b073abb685724bb88e1b560fe774edcd&sublayer=3",
       "landingPage": "https://www.datazapad.cz/datasets/b073abb685724bb88e1b560fe774edcd_3",
       "title": "Zájmová sdružení právnických osob (s obcemi) v Karlovarském kraji",

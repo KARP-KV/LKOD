@@ -1,0 +1,191 @@
+{
+  "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+  "iri": "https://open.datazapad.cz/af6ba592d33945f384e41da14f381852.jsonld",
+  "typ": "Datová sada",
+  "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891168",
+  "název": {
+    "cs": "Přehled majetkových pasportů budov Karlovarského kraje"
+  },
+  "popis": {
+    "cs": "Datová sada obsahuje přehled pasportních údajů budov ve vlastnictví Karlovarského kraje shromážděných za období 2023–2026. U každé budovy jsou k dispozici základní identifikační, stavebně-technické a provozní vlastnosti objektu. Prostorová lokalizace všech budov je uvedena jednotně souřadnicemi sídla vlastníka, tj. Krajského úřadu Karlovarského kraje, v souřadnicovém systému WGS 84.&nbsp;Zdrojem dat je Jednotný systém pro správu majetku Karlovarského kraje, přičemž data jsou aktualizována 1x ročně."
+  },
+  "klíčové_slovo": {
+    "cs": [
+      "pasport",
+      "majetek",
+      "Karlovarský kraj"
+    ]
+  },
+  "téma": [
+    "http://publications.europa.eu/resource/authority/data-theme/REGI",
+    "http://publications.europa.eu/resource/authority/data-theme/GOVE"
+  ],
+  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
+  "prvek_rúian": [
+    "https://linked.cuzk.cz/resource/ruian/vusc/51"
+  ],
+  "distribuce": [
+    {
+      "typ": "Distribuce",
+      "iri": "https://www.datazapad.cz/api/download/v1/items/af6ba592d33945f384e41da14f381852/csv?layers=0",
+      "název": {
+        "cs": "CSV"
+      },
+      "soubor_ke_stažení": "https://www.datazapad.cz/api/download/v1/items/af6ba592d33945f384e41da14f381852/csv?layers=0",
+      "přístupové_url": "https://www.datazapad.cz/api/download/v1/items/af6ba592d33945f384e41da14f381852/csv?layers=0",
+      "typ_média": "http://www.iana.org/assignments/media-types/text/csv",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/CSV",
+      "podmínky_užití": {
+        "typ": "Specifikace podmínek užití",
+        "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+        "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+        "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+        "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+      }
+    },
+    {
+      "typ": "Distribuce",
+      "iri": "https://www.datazapad.cz/api/download/v1/items/af6ba592d33945f384e41da14f381852/shapefile?layers=0",
+      "název": {
+        "cs": "Shapefile"
+      },
+      "soubor_ke_stažení": "https://www.datazapad.cz/api/download/v1/items/af6ba592d33945f384e41da14f381852/shapefile?layers=0",
+      "přístupové_url": "https://www.datazapad.cz/api/download/v1/items/af6ba592d33945f384e41da14f381852/shapefile?layers=0",
+      "typ_média": "http://www.iana.org/assignments/media-types/application/zip",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+      "podmínky_užití": {
+        "typ": "Specifikace podmínek užití",
+        "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+        "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+        "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+        "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+      }
+    },
+    {
+      "typ": "Distribuce",
+      "iri": "https://www.datazapad.cz/api/download/v1/items/af6ba592d33945f384e41da14f381852/geojson?layers=0",
+      "název": {
+        "cs": "GeoJSON"
+      },
+      "soubor_ke_stažení": "https://www.datazapad.cz/api/download/v1/items/af6ba592d33945f384e41da14f381852/geojson?layers=0",
+      "přístupové_url": "https://www.datazapad.cz/api/download/v1/items/af6ba592d33945f384e41da14f381852/geojson?layers=0",
+      "typ_média": "http://www.iana.org/assignments/media-types/application/json",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/JSON",
+      "podmínky_užití": {
+        "typ": "Specifikace podmínek užití",
+        "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+        "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+        "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+        "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+      }
+    },
+    {
+      "typ": "Distribuce",
+      "iri": "https://www.datazapad.cz/api/download/v1/items/af6ba592d33945f384e41da14f381852/kml?layers=0",
+      "název": {
+        "cs": "KML"
+      },
+      "soubor_ke_stažení": "https://www.datazapad.cz/api/download/v1/items/af6ba592d33945f384e41da14f381852/kml?layers=0",
+      "přístupové_url": "https://www.datazapad.cz/api/download/v1/items/af6ba592d33945f384e41da14f381852/kml?layers=0",
+      "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.google-earth.kml+xml",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/KML",
+      "podmínky_užití": {
+        "typ": "Specifikace podmínek užití",
+        "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+        "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+        "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+        "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+      }
+    },
+    {
+      "typ": "Distribuce",
+      "iri": "https://www.datazapad.cz/api/download/v1/items/af6ba592d33945f384e41da14f381852/filegdb?layers=0",
+      "název": {
+        "cs": "File Geodatabase"
+      },
+      "soubor_ke_stažení": "https://www.datazapad.cz/api/download/v1/items/af6ba592d33945f384e41da14f381852/filegdb?layers=0",
+      "přístupové_url": "https://www.datazapad.cz/api/download/v1/items/af6ba592d33945f384e41da14f381852/filegdb?layers=0",
+      "typ_média": "http://www.iana.org/assignments/media-types/application/zip",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+      "podmínky_užití": {
+        "typ": "Specifikace podmínek užití",
+        "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+        "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+        "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+        "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+      }
+    },
+    {
+      "typ": "Distribuce",
+      "iri": "https://www.datazapad.cz/api/download/v1/items/af6ba592d33945f384e41da14f381852/featureCollection?layers=0",
+      "název": {
+        "cs": "Feature Collection"
+      },
+      "soubor_ke_stažení": "https://www.datazapad.cz/api/download/v1/items/af6ba592d33945f384e41da14f381852/featureCollection?layers=0",
+      "přístupové_url": "https://www.datazapad.cz/api/download/v1/items/af6ba592d33945f384e41da14f381852/featureCollection?layers=0",
+      "typ_média": "http://www.iana.org/assignments/media-types/text/plain",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/TXT",
+      "podmínky_užití": {
+        "typ": "Specifikace podmínek užití",
+        "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+        "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+        "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+        "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+      }
+    },
+    {
+      "typ": "Distribuce",
+      "iri": "https://www.datazapad.cz/api/download/v1/items/af6ba592d33945f384e41da14f381852/excel?layers=0",
+      "název": {
+        "cs": "Excel"
+      },
+      "soubor_ke_stažení": "https://www.datazapad.cz/api/download/v1/items/af6ba592d33945f384e41da14f381852/excel?layers=0",
+      "přístupové_url": "https://www.datazapad.cz/api/download/v1/items/af6ba592d33945f384e41da14f381852/excel?layers=0",
+      "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.ms-excel",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/XLSX",
+      "podmínky_užití": {
+        "typ": "Specifikace podmínek užití",
+        "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+        "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+        "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+        "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+      }
+    },
+    {
+      "typ": "Distribuce",
+      "iri": "https://www.datazapad.cz/api/download/v1/items/af6ba592d33945f384e41da14f381852/geoPackage?layers=0",
+      "název": {
+        "cs": "GeoPackage"
+      },
+      "soubor_ke_stažení": "https://www.datazapad.cz/api/download/v1/items/af6ba592d33945f384e41da14f381852/geoPackage?layers=0",
+      "přístupové_url": "https://www.datazapad.cz/api/download/v1/items/af6ba592d33945f384e41da14f381852/geoPackage?layers=0",
+      "typ_média": "http://www.iana.org/assignments/media-types/application/geopackage+sqlite3",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/GPKG",
+      "podmínky_užití": {
+        "typ": "Specifikace podmínek užití",
+        "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+        "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+        "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+        "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+      }
+    },
+    {
+      "typ": "Distribuce",
+      "iri": "https://www.datazapad.cz/api/download/v1/items/af6ba592d33945f384e41da14f381852/sqlite?layers=0",
+      "název": {
+        "cs": "SQLite Geodatabase"
+      },
+      "soubor_ke_stažení": "https://www.datazapad.cz/api/download/v1/items/af6ba592d33945f384e41da14f381852/sqlite?layers=0",
+      "přístupové_url": "https://www.datazapad.cz/api/download/v1/items/af6ba592d33945f384e41da14f381852/sqlite?layers=0",
+      "typ_média": "http://www.iana.org/assignments/media-types/application/geopackage+sqlite3",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/GPKG",
+      "podmínky_užití": {
+        "typ": "Specifikace podmínek užití",
+        "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+        "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+        "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+        "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+      }
+    }
+  ]
+}
