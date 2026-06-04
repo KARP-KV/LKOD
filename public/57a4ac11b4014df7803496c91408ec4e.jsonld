@@ -7,7 +7,7 @@
     "cs": "Stavební úřady v Karlovarském kraji dle katastrálních území"
   },
   "popis": {
-    "cs": "Datová sada obsahuje přehled katastrálních územi v Karlovarském kraji a jejich příslušnost ke stavebním úřadům. Data u jednotlivých katastrálních území: název k.ú., kód k.ú., název obce k.ú., kód obce, stavební úřad, umístění stavebního úřadu, název odboru, identifikační číslo, právní forma, název subjektu, sídlo, kód adresy, ID datové schránky, webová stránka příslušného stavebního úřadu a prostorovou specifikaciumístění stavebního úřadu. Souřadnicový systém je použit WGS 1984.Původním zdrojem dat je Krajský úřad Karlovarského kraje."
+    "cs": "Datová sada obsahuje přehled katastrálních územi v Karlovarském kraji a jejich příslušnost ke stavebním úřadům. Data u jednotlivých katastrálních území: název k.ú., kód k.ú., název obce k.ú., kód obce, stavební úřad, umístění stavebního úřadu, název odboru, identifikační číslo, právní forma, název subjektu, sídlo, kód adresy, ID datové schránky, webová stránka příslušného stavebního úřadu a prostorovou specifikaci umístění stavebního úřadu. Souřadnicový systém je použit WGS 1984.Původním zdrojem dat je Krajský úřad Karlovarského kraje."
   },
   "klíčové_slovo": {
     "cs": [
@@ -20,7 +20,7 @@
     "http://publications.europa.eu/resource/authority/data-theme/REGI",
     "http://publications.europa.eu/resource/authority/data-theme/GOVE"
   ],
-  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
   "prvek_rúian": [
     "https://linked.cuzk.cz/resource/ruian/vusc/51"
   ],
