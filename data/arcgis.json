@@ -2358,310 +2358,6 @@
     },
     {
       "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=0fbcd94c27344fef86d2dafde1230761&sublayer=0",
-      "landingPage": "https://www.datazapad.cz/datasets/Kakraj::matriční-úřady-karlovarského-kraje",
-      "title": "Matriční úřady Karlovarského kraje",
-      "description": "Vrstva matričních úřadů Karlovarského kraje pro účely publikace jako open data. Obsahuje název úřadu, adresu, telefon, úřední dny a úřední hodiny, adresu e-podatelny, kód adresního místa z RÚIAN, a souřadnicové umístění matričního úřadu.",
-      "keyword": [
-        "Karlovarský kraj",
-        "matrika",
-        "matriční úřady",
-        "úřad"
-      ],
-      "issued": "2024-07-09T05:50:23.000Z",
-      "modified": "2025-10-30T07:21:03.000Z",
-      "publisher": {
-        "name": "Krajský úřad Karlovarského kraje"
-      },
-      "contactPoint": {
-        "@type": "vcard:Contact",
-        "fn": "Karlovarsky.Kraj",
-        "hasEmail": "mailto:gis@kr-karlovarsky.cz"
-      },
-      "accessLevel": "public",
-      "spatial": "12.1754,49.9607,13.1624,50.3715",
-      "license": "https://creativecommons.org/publicdomain/zero/1.0",
-      "category": [
-        "Kategorie",
-        "Kraj a dotace"
-      ],
-      "metadata": {
-        "mdLang": {
-          "languageCode": {
-            "@_value": "cze"
-          }
-        },
-        "mdContact": {
-          "rpCntInfo": {
-            "cntAddress": {
-              "eMailAdd": "tereza.marzova@kr-karlovarsky.cz"
-            }
-          },
-          "rpOrgName": "Krajský úřad Karlovarského kraje",
-          "role": {
-            "RoleCd": {
-              "@_value": "007"
-            }
-          }
-        },
-        "mdDateSt": "2024-07-15",
-        "Esri": {
-          "ArcGISFormat": 1,
-          "CreaTime": 11374013,
-          "ArcGISProfile": "INSPIRE",
-          "ArcGISstyle": "INSPIRE Metadata Directive",
-          "ModDate": 20240715,
-          "CreaDate": 20240715,
-          "ModTime": 13201447,
-          "MapLyrSync": false,
-          "PublishStatus": "editor:esri.dijit.metadata.editor"
-        },
-        "mdTimeSt": "11:37:40.13",
-        "dqInfo": {
-          "report": {
-            "measResult": {
-              "ConResult": {
-                "conSpec": {
-                  "date": {
-                    "pubDate": "2010-12-08T00:00:00"
-                  },
-                  "resTitle": "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
-                }
-              }
-            }
-          }
-        },
-        "mdHrLv": {
-          "ScopeCd": {
-            "@_value": "005"
-          }
-        },
-        "dataIdInfo": {
-          "idAbs": "Vrstva matričních úřadů Karlovarského kraje pro účely publikace jako open data. Obsahuje název úřadu, adresu, telefon, úřední dny a úřední hodiny, adresu e-podatelny, kód adresního místa z RÚIAN, a souřadnicové umístění matričního úřadu.",
-          "idCredit": "Krajský úřad Karlovarského kraje",
-          "dataLang": {
-            "languageCode": {
-              "@_value": "cze"
-            }
-          },
-          "idPurp": "Přehled matričních úřadů na území Karlovarského kraje.",
-          "tpCat": {
-            "TopicCatCd": {
-              "@_value": "016"
-            }
-          },
-          "dataExt": {
-            "geoEle": {
-              "GeoBndBox": {
-                "eastBL": 13.1815,
-                "southBL": 49.9185,
-                "northBL": 50.4008,
-                "westBL": 12.1685
-              }
-            }
-          },
-          "idCitation": {
-            "date": {
-              "pubDate": "2024-07-12T12:00:00",
-              "createDate": "2024-07-15T00:00:00"
-            },
-            "resTitle": "Matriční úřady Karlovarského kraje",
-            "citId": {
-              "identCode": "publication"
-            }
-          },
-          "themeKeys": {
-            "thesaName": {
-              "date": {
-                "pubDate": "2008-06-01T00:00:00"
-              },
-              "resTitle": "GEMET - INSPIRE themes, version 1.0"
-            }
-          },
-          "resMaint": {
-            "maintFreq": {
-              "MaintFreqCd": {
-                "@_value": "009"
-              }
-            }
-          },
-          "dataChar": {
-            "CharSetCd": {
-              "@_value": "004"
-            }
-          },
-          "searchKeys": {
-            "keyword": [
-              "Karlovarský kraj",
-              "matrika",
-              "matriční úřady",
-              "úřad"
-            ]
-          },
-          "idPoC": {
-            "rpOrgName": "Krajský úřad Karlovarského kraje",
-            "role": {
-              "RoleCd": {
-                "@_value": "007"
-              }
-            }
-          },
-          "resConst": [
-            {
-              "Consts": {
-                "useLimit": "CC0 1.0"
-              }
-            },
-            {
-              "LegConsts": {
-                "othConsts": "Jiná omezení",
-                "accessConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                }
-              }
-            },
-            {
-              "LegConsts": {
-                "useConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
-                "othConsts": "Jiná omezení"
-              }
-            },
-            {
-              "LegConsts": {
-                "othConsts": "Jiná omezení",
-                "accessConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                }
-              }
-            },
-            {
-              "LegConsts": {
-                "useConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
-                "othConsts": "Jiná omezení"
-              }
-            },
-            {
-              "LegConsts": {
-                "othConsts": "Jiná omezení",
-                "accessConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                }
-              }
-            },
-            {
-              "LegConsts": {
-                "useConsts": {
-                  "RestrictCd": {
-                    "@_value": "008"
-                  }
-                },
-                "othConsts": "Jiná omezení"
-              }
-            }
-          ]
-        },
-        "refSysInfo": {
-          "RefSystem": {
-            "refSysID": {
-              "identCode": {
-                "@_code": "4326"
-              }
-            }
-          }
-        },
-        "mdChar": {
-          "CharSetCd": {
-            "@_value": "004"
-          }
-        },
-        "mdFileID": "0fbcd94c27344fef86d2dafde1230761",
-        "distInfo": {
-          "distTranOps": {
-            "onLineSrc": {
-              "linkage": "https://geoportal.kr-karlovarsky.cz/arcgis/rest/services/OpenData/MatricniUrady/MapServer/0"
-            }
-          }
-        },
-        "mdMaint": {
-          "maintFreq": {
-            "MaintFreqCd": {
-              "@_value": "009"
-            }
-          }
-        },
-        "@_xml:lang": "chb"
-      },
-      "distribution": [
-        {
-          "@type": "dcat:Distribution",
-          "title": "ArcGIS Hub Dataset",
-          "format": "Web Page",
-          "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/datasets/Kakraj::matriční-úřady-karlovarského-kraje"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "ArcGIS GeoService",
-          "format": "ArcGIS GeoServices REST API",
-          "mediaType": "application/json",
-          "accessURL": "https://geo-ags.kr-karlovarsky.cz/arcgis/rest/services/Hosted/Matricn%C3%ADUrady/FeatureServer/0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "CSV",
-          "format": "CSV",
-          "mediaType": "text/csv",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/0fbcd94c27344fef86d2dafde1230761/csv?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "Shapefile",
-          "format": "ZIP",
-          "mediaType": "application/zip",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/0fbcd94c27344fef86d2dafde1230761/shapefile?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "GeoJSON",
-          "format": "GeoJSON",
-          "mediaType": "application/vnd.geo+json",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/0fbcd94c27344fef86d2dafde1230761/geojson?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "KML",
-          "format": "KML",
-          "mediaType": "application/vnd.google-earth.kml+xml",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/0fbcd94c27344fef86d2dafde1230761/kml?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "File Geodatabase",
-          "format": "ZIP",
-          "mediaType": "application/zip",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/0fbcd94c27344fef86d2dafde1230761/filegdb?layers=0"
-        }
-      ],
-      "theme": [
-        "geospatial"
-      ]
-    },
-    {
-      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=0fc741fffbb44c31820304ec60cc2ff0&sublayer=3",
       "landingPage": "https://www.datazapad.cz/datasets/0fc741fffbb44c31820304ec60cc2ff0_3",
       "title": "Poskytovatelé pobytových sociálních služeb pro seniory v Karlovarském kraji",
@@ -24385,21 +24081,20 @@
     },
     {
       "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=c3a42c283f0649248326a0bbd7dc5cc3&sublayer=3",
-      "landingPage": "https://www.datazapad.cz/datasets/c3a42c283f0649248326a0bbd7dc5cc3_3",
-      "title": "Hrady v Karlovarském kraji",
-      "description": "<p>Datová sada rovněž obsahuje webové stránky s informacemi o památce, informaci o přístupnosti a vstupném, památkovou ochranu a přesnou specifikaci umístění. Souřadnicový systém je použit WGS 1984.</p><p>Původním zdrojem dat je <span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif;'>Živý kraj – Destinační agentura pro Karlovarský kraj, z.s.</span></p>",
+      "identifier": "https://www.arcgis.com/home/item.html?id=c3a42c283f0649248326a0bbd7dc5cc3&sublayer=0",
+      "landingPage": "https://www.datazapad.cz/datasets/c3a42c283f0649248326a0bbd7dc5cc3_0",
+      "title": "Hrady a jejich zříceniny v Karlovarském kraji",
+      "description": "<p>Datová sada obsahuje přehled hradů a jejich zřícenin na území Karlovarského kraje. Obsažená data: název, typ, památková ochrana, fáze ochrany, poznámka, informace o přístupnosti a vstupném, webová stránka s informacemi a prostorová lokalizace. Souřadnicový systém je použit WGS 1984.</p><p>Zdrojem dat je Krajské inovační centrum Karlovarského kraje, p.o.</p>",
       "keyword": [
         "hrad",
         "zřícenina",
         "tvrz",
-        "Karlovarský kraj",
-        "archeologická stopa"
+        "Karlovarský kraj"
       ],
       "issued": "2024-06-06T07:19:39.000Z",
-      "modified": "2025-06-24T08:23:37.000Z",
+      "modified": "2026-06-11T12:09:32.000Z",
       "publisher": {
-        "name": "Karlovarská agentura rozvoje podnikání, p.o."
+        "name": "Krajské inovační centrum Karlovarského kraje"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -24415,13 +24110,14 @@
       "metadata": {
         "mdLang": {
           "languageCode": {
+            "@_Sync": "FALSE",
             "@_value": "cze"
           }
         },
         "mdContact": {
           "rpCntInfo": {
             "cntAddress": {
-              "eMailAdd": "pavla.brabencova@karp-kv.cz"
+              "eMailAdd": "pavla.brabencova@kickk.cz"
             }
           },
           "role": {
@@ -24429,9 +24125,12 @@
               "@_value": "007"
             }
           },
-          "rpOrgName": "Karlovarská agentura rozvoje podnikání, p.o."
+          "rpOrgName": "Krajské inovační centrum Karlovarského kraje, p.o."
         },
-        "mdDateSt": "2025-06-24",
+        "mdDateSt": {
+          "@_Sync": "FALSE",
+          "#value": "2026-06-11"
+        },
         "Esri": {
           "ArcGISFormat": 1,
           "CreaTime": 9103600,
@@ -24439,8 +24138,11 @@
           "CreaDate": 20240606,
           "SyncOnce": "TRUE"
         },
-        "mdTimeSt": "08:24:57",
+        "mdTimeSt": "12:10:47",
         "dqInfo": {
+          "dataLineage": {
+            "statement": "Data Krajského inovačního centra Karlovarského kraje, p.o."
+          },
           "dqScope": {
             "scpLvl": {
               "ScopeCd": {
@@ -24455,7 +24157,10 @@
                   "date": {
                     "pubDate": "2010-12-08T00:00:00"
                   },
-                  "resTitle": "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                  "resTitle": {
+                    "@_Sync": "FALSE",
+                    "#value": "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                  }
                 }
               }
             }
@@ -24467,68 +24172,80 @@
           }
         },
         "dataIdInfo": {
-          "idAbs": "<p>Datová sada rovněž obsahuje webové stránky s informacemi o památce, informaci o přístupnosti a vstupném, památkovou ochranu a přesnou specifikaci umístění. Souřadnicový systém je použit WGS 1984.</p><p>Původním zdrojem dat je <span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif;'>Živý kraj – Destinační agentura pro Karlovarský kraj, z.s.</span></p>",
-          "idCredit": "Živý kraj – Destinační agentura pro Karlovarský kraj, z.s.",
-          "dataLang": {
-            "languageCode": {
-              "@_value": "cze"
-            }
-          },
-          "idPurp": "Přehled hradů a zřícenin hradů v Karlovarském kraji s uvedením specifikace typu památky.",
-          "tpCat": [
-            {
-              "TopicCatCd": {
-                "@_value": "016"
-              }
-            },
-            {
-              "TopicCatCd": {
-                "@_value": "017"
-              }
-            }
-          ],
+          "idAbs": "<p>Datová sada obsahuje přehled hradů a jejich zřícenin na území Karlovarského kraje. Obsažená data: název, typ, památková ochrana, fáze ochrany, poznámka, informace o přístupnosti a vstupném, webová stránka s informacemi a prostorová lokalizace. Souřadnicový systém je použit WGS 1984.</p><p>Zdrojem dat je Krajské inovační centrum Karlovarského kraje, p.o.</p>",
           "dataExt": {
             "geoEle": {
               "GeoBndBox": {
-                "eastBL": 13.045263000000093,
-                "southBL": 50.015336000000055,
-                "northBL": 50.36947600000008,
-                "westBL": 12.206811000000075
+                "eastBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 13.235269
+                },
+                "southBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 50.015336
+                },
+                "northBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 50.369476
+                },
+                "westBL": {
+                  "@_Sync": "FALSE",
+                  "#value": 12.206811
+                }
               }
             }
           },
           "idCitation": {
             "date": {
-              "reviseDate": "2025-06-24T08:23:37"
+              "reviseDate": "2026-06-11T12:09:32"
             },
-            "resTitle": "Hrady v Karlovarském kraji",
+            "resTitle": {
+              "@_Sync": "FALSE",
+              "#value": "Hrady a jejich zříceniny v Karlovarském kraji"
+            },
             "citId": {
               "identCode": "publication"
+            }
+          },
+          "dataLang": {
+            "languageCode": {
+              "@_Sync": "FALSE",
+              "@_value": "cze"
             }
           },
           "themeKeys": {
             "thesaName": {
               "date": {
+                "reviseDate": "2026-06-11T12:08:58",
                 "pubDate": "2008-06-01T00:00:00"
               },
-              "resTitle": "GEMET - INSPIRE themes, version 1.0"
+              "resTitle": {
+                "@_Sync": "FALSE",
+                "#value": "GEMET - INSPIRE themes, version 1.0"
+              }
             },
             "keyword": [
               "hrad",
-              "Karlovarský kraj",
-              "zříčenina",
-              "tvrz",
-              "zámek"
+              "zřícenina",
+              "Karlovarský kraj"
             ]
           },
+          "idPurp": "Přehled hradů a zřícenin hradů na území Karlovarského kraje.",
           "spatRpType": {
             "SpatRepTypCd": {
+              "@_Sync": "FALSE",
               "@_value": "003"
             }
           },
           "dataChar": {
             "CharSetCd": {
+              "@_Sync": "FALSE",
               "@_value": "004"
+            }
+          },
+          "tpCat": {
+            "TopicCatCd": {
+              "@_value": "017"
             }
           },
           "searchKeys": {
@@ -24536,14 +24253,13 @@
               "hrad",
               "zřícenina",
               "tvrz",
-              "Karlovarský kraj",
-              "archeologická stopa"
+              "Karlovarský kraj"
             ]
           },
           "idPoC": {
             "rpCntInfo": {
               "cntAddress": {
-                "eMailAdd": "pavla.brabencova@karp-kv.cz"
+                "eMailAdd": "pavla.brabencova@kickk.cz"
               }
             },
             "role": {
@@ -24551,7 +24267,7 @@
                 "@_value": "007"
               }
             },
-            "rpOrgName": "Karlovarská agentura rozvoje podnikání, p.o."
+            "rpOrgName": "Krajské inovační centrum Karlovarského kraje"
           },
           "resConst": [
             {
@@ -24583,6 +24299,7 @@
           "RefSystem": {
             "refSysID": {
               "identCode": {
+                "@_Sync": "FALSE",
                 "@_code": "GCS_WGS_1984"
               }
             }
@@ -24590,10 +24307,10 @@
         },
         "mdChar": {
           "CharSetCd": {
+            "@_Sync": "FALSE",
             "@_value": "004"
           }
         },
-        "mdFileID": "Hrady v Karlovarském kraji",
         "distInfo": {
           "distTranOps": {
             "onLineSrc": {
@@ -24608,8 +24325,7 @@
             }
           }
         },
-        "@_xml:lang": "cs",
-        "dataSetURI": "https://www.arcgis.com/sharing/rest/content/items/c3a42c283f0649248326a0bbd7dc5cc3/info/metadata/metadata.xml?format=default&output=html"
+        "@_xml:lang": "cs"
       },
       "distribution": [
         {
@@ -24617,77 +24333,77 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/datasets/c3a42c283f0649248326a0bbd7dc5cc3_3"
+          "accessURL": "https://www.datazapad.cz/datasets/c3a42c283f0649248326a0bbd7dc5cc3_0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "ArcGIS GeoService",
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
-          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Hrady__tvrze_a_z%C5%99%C3%ADceniny_v_Karlovarsk%C3%A9m_kraji_WFL1/FeatureServer/3"
+          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Hrady__tvrze_a_z%C5%99%C3%ADceniny_v_Karlovarsk%C3%A9m_kraji_WFL1/FeatureServer/0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "CSV",
           "format": "CSV",
           "mediaType": "text/csv",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/c3a42c283f0649248326a0bbd7dc5cc3/csv?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/c3a42c283f0649248326a0bbd7dc5cc3/csv?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Shapefile",
           "format": "ZIP",
           "mediaType": "application/zip",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/c3a42c283f0649248326a0bbd7dc5cc3/shapefile?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/c3a42c283f0649248326a0bbd7dc5cc3/shapefile?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "GeoJSON",
           "format": "GeoJSON",
           "mediaType": "application/vnd.geo+json",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/c3a42c283f0649248326a0bbd7dc5cc3/geojson?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/c3a42c283f0649248326a0bbd7dc5cc3/geojson?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "KML",
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/c3a42c283f0649248326a0bbd7dc5cc3/kml?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/c3a42c283f0649248326a0bbd7dc5cc3/kml?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "File Geodatabase",
           "format": "ZIP",
           "mediaType": "application/zip",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/c3a42c283f0649248326a0bbd7dc5cc3/filegdb?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/c3a42c283f0649248326a0bbd7dc5cc3/filegdb?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Feature Collection",
           "format": "TXT",
           "mediaType": "text/plain",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/c3a42c283f0649248326a0bbd7dc5cc3/featureCollection?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/c3a42c283f0649248326a0bbd7dc5cc3/featureCollection?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Excel",
           "format": "XLSX",
           "mediaType": "application/vnd.ms-excel",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/c3a42c283f0649248326a0bbd7dc5cc3/excel?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/c3a42c283f0649248326a0bbd7dc5cc3/excel?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "GeoPackage",
           "format": "GPKG",
           "mediaType": "application/geopackage+sqlite3",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/c3a42c283f0649248326a0bbd7dc5cc3/geoPackage?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/c3a42c283f0649248326a0bbd7dc5cc3/geoPackage?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "SQLite Geodatabase",
           "format": "GDB",
           "mediaType": "application/geopackage+sqlite3",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/c3a42c283f0649248326a0bbd7dc5cc3/sqlite?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/c3a42c283f0649248326a0bbd7dc5cc3/sqlite?layers=0"
         }
       ],
       "theme": [
