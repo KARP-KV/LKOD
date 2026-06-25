@@ -25088,16 +25088,15 @@
       "identifier": "https://www.arcgis.com/home/item.html?id=d27fb764c5a642e2bf2f8c134cbdeca2&sublayer=3",
       "landingPage": "https://www.datazapad.cz/datasets/d27fb764c5a642e2bf2f8c134cbdeca2_3",
       "title": "Obecní živnostenské úřady Karlovarského kraje dle územní příslušnosti obcí",
-      "description": "<p style='background-color:rgb(255, 255, 255); border:0px solid currentcolor; box-sizing:border-box; color:rgb(74, 74, 74); font-family:&quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; margin:0px 0px 1.5rem; text-align:start; text-decoration-color:initial; text-decoration-style:initial; text-indent:0px; text-transform:none; word-spacing:0px;'>Datová sada kromě územní specifikace umístění obecního živnostenského úřadu pro příslušnou obec obsahuje rovněž název, identifikační číslo, sídlo, kód adresy, číslo datové schránky, územní působnost pro obce, webové stránky, telefonní a e-mailové kontaktní údaje úřadu. Souřadnicový systém je použit WGS 1984.</p><p style='background-color:rgb(255, 255, 255); border:0px solid currentcolor; box-sizing:border-box; color:rgb(74, 74, 74); font-family:&quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; margin:0px 0px 1.5rem; text-align:start; text-decoration-color:initial; text-decoration-style:initial; text-indent:0px; text-transform:none; word-spacing:0px;'>Původním zdrojem dat je Krajský úřad Karlovarského kraje.</p>",
+      "description": "<p style='background-color:rgb(255, 255, 255); border:0px solid currentcolor; box-sizing:border-box; color:rgb(74, 74, 74); font-family:&quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; margin:0px 0px 1.5rem; text-align:start; text-decoration-color:initial; text-decoration-style:initial; text-indent:0px; text-transform:none; word-spacing:0px;'>Datová sada s přehledem obcí Karlovarského kraje s uvedením územní příslušnosti k příslušnému obecnímu živnostenského úřadu. <span style='background-color:rgb(255,255,255); color:rgb(74,74,74); font-family:&quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'><span style='display:inline !important; float:none; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; text-align:start; text-decoration-color:initial; text-decoration-style:initial; text-indent:0px; text-transform:none; word-spacing:0px;'>Informace uvedené k obcím: název obce a kód obce; informace k jednotlivým obecním živnostenským úřadům: název, sídlo úřadu, odbor, název subjektu, identifikační číslo, právní forma, sídlo, kód adresy, ID datové schránky, webové stránky, telefonní kontakt živnostenského úřadu, telefonní kontakt městského úřadu, kontaktní e-mail a prostorová lokalizace živnostenského úřadu. Souřadnicový systém je použit WGS 1984.</span></span></p><p style='background-color:rgb(255, 255, 255); border:0px solid currentcolor; box-sizing:border-box; color:rgb(74, 74, 74); font-family:&quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; margin:0px 0px 1.5rem; text-align:start; text-decoration-color:initial; text-decoration-style:initial; text-indent:0px; text-transform:none; word-spacing:0px;'>Původním zdrojem dat je Krajský úřad Karlovarského kraje.</p>",
       "keyword": [
         "živnostenský úřad",
         "Karlovarský kraj",
         "úřad",
-        "obecní živnostenský úřad",
         "obec"
       ],
       "issued": "2024-07-03T09:23:42.000Z",
-      "modified": "2025-07-01T10:14:18.000Z",
+      "modified": "2026-06-25T10:19:55.000Z",
       "publisher": {
         "name": "Krajský úřad Karlovarského kraje"
       },
@@ -25107,7 +25106,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "12.1903,49.9574,12.9405,50.3297",
+      "spatial": "12.1903,49.9574,12.9403,50.3297",
       "license": "https://creativecommons.org/publicdomain/zero/1.0",
       "category": [
         "Kraj a dotace"
@@ -25122,7 +25121,7 @@
         "mdContact": {
           "rpCntInfo": {
             "cntAddress": {
-              "eMailAdd": "pavla.brabencova@karp-kv.cz"
+              "eMailAdd": "pavla.brabencova@kickk.cz"
             }
           },
           "role": {
@@ -25130,7 +25129,7 @@
               "@_value": "007"
             }
           },
-          "rpOrgName": "Karlovarská agentura rozvoje podnikání, p.o."
+          "rpOrgName": "Krajské inovační centrum Karlovarského kraje, p.o."
         },
         "distInfo": {
           "distTranOps": {
@@ -25146,6 +25145,10 @@
             }
           }
         },
+        "mdDateSt": {
+          "@_Sync": "FALSE",
+          "#value": "2026-06-25"
+        },
         "Esri": {
           "ArcGISFormat": 1,
           "CreaTime": 11225600,
@@ -25155,7 +25158,7 @@
         },
         "dqInfo": {
           "dataLineage": {
-            "statement": "Data Krajského úřadu Karlovarského kraje a Karlovarské agentury rozvoje podnikání, p.o."
+            "statement": "Data Krajského úřadu Karlovarského kraje a Krajského inovačního centra Karlovarského kraje, p.o."
           },
           "dqScope": {
             "scpLvl": {
@@ -25187,7 +25190,7 @@
           }
         },
         "dataIdInfo": {
-          "idAbs": "<p style='background-color:rgb(255, 255, 255); border:0px solid currentcolor; box-sizing:border-box; color:rgb(74, 74, 74); font-family:&quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; margin:0px 0px 1.5rem; text-align:start; text-decoration-color:initial; text-decoration-style:initial; text-indent:0px; text-transform:none; word-spacing:0px;'>Datová sada kromě územní specifikace umístění obecního živnostenského úřadu pro příslušnou obec obsahuje rovněž název, identifikační číslo, sídlo, kód adresy, číslo datové schránky, územní působnost pro obce, webové stránky, telefonní a e-mailové kontaktní údaje úřadu. Souřadnicový systém je použit WGS 1984.</p><p style='background-color:rgb(255, 255, 255); border:0px solid currentcolor; box-sizing:border-box; color:rgb(74, 74, 74); font-family:&quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; margin:0px 0px 1.5rem; text-align:start; text-decoration-color:initial; text-decoration-style:initial; text-indent:0px; text-transform:none; word-spacing:0px;'>Původním zdrojem dat je Krajský úřad Karlovarského kraje.</p>",
+          "idAbs": "<p style='background-color:rgb(255, 255, 255); border:0px solid currentcolor; box-sizing:border-box; color:rgb(74, 74, 74); font-family:&quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; margin:0px 0px 1.5rem; text-align:start; text-decoration-color:initial; text-decoration-style:initial; text-indent:0px; text-transform:none; word-spacing:0px;'>Datová sada s přehledem obcí Karlovarského kraje s uvedením územní příslušnosti k příslušnému obecnímu živnostenského úřadu. <span style='background-color:rgb(255,255,255); color:rgb(74,74,74); font-family:&quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'><span style='display:inline !important; float:none; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; text-align:start; text-decoration-color:initial; text-decoration-style:initial; text-indent:0px; text-transform:none; word-spacing:0px;'>Informace uvedené k obcím: název obce a kód obce; informace k jednotlivým obecním živnostenským úřadům: název, sídlo úřadu, odbor, název subjektu, identifikační číslo, právní forma, sídlo, kód adresy, ID datové schránky, webové stránky, telefonní kontakt živnostenského úřadu, telefonní kontakt městského úřadu, kontaktní e-mail a prostorová lokalizace živnostenského úřadu. Souřadnicový systém je použit WGS 1984.</span></span></p><p style='background-color:rgb(255, 255, 255); border:0px solid currentcolor; box-sizing:border-box; color:rgb(74, 74, 74); font-family:&quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; margin:0px 0px 1.5rem; text-align:start; text-decoration-color:initial; text-decoration-style:initial; text-indent:0px; text-transform:none; word-spacing:0px;'>Původním zdrojem dat je Krajský úřad Karlovarského kraje.</p>",
           "idCredit": "Krajský úřad Karlovarského kraje",
           "dataLang": {
             "languageCode": {
@@ -25195,7 +25198,7 @@
               "@_value": "cze"
             }
           },
-          "idPurp": "Přehled obecních živnostenských úřadů v Karlovarském kraji uvedené pro územně příslušné obce Karlovarského kraje.",
+          "idPurp": "Přehled obcí Karlovarského kraje s uvedením územní příslušnosti k příslušnému obecnímu živnostenského úřadu.",
           "tpCat": {
             "TopicCatCd": {
               "@_value": "016"
@@ -25206,7 +25209,7 @@
               "GeoBndBox": {
                 "eastBL": {
                   "@_Sync": "FALSE",
-                  "#value": 12.9405
+                  "#value": 12.940323
                 },
                 "southBL": {
                   "@_Sync": "FALSE",
@@ -25218,18 +25221,18 @@
                 },
                 "westBL": {
                   "@_Sync": "FALSE",
-                  "#value": 12.19026
+                  "#value": 12.190271
                 }
               }
             }
           },
           "idCitation": {
             "date": {
-              "reviseDate": "2025-07-01T10:14:18"
+              "reviseDate": "2026-06-25T10:19:55"
             },
             "resTitle": {
               "@_Sync": "FALSE",
-              "#value": "Obecní živnostenské úřady Karlovarského kraje dle příslušnosti obcí"
+              "#value": "Obecní živnostenské úřady Karlovarského kraje dle územní příslušnosti obcí"
             },
             "citId": {
               "identCode": "publication"
@@ -25238,6 +25241,7 @@
           "themeKeys": {
             "thesaName": {
               "date": {
+                "reviseDate": "2026-06-25T10:19:03",
                 "pubDate": "2008-06-01T00:00:00"
               },
               "resTitle": {
@@ -25246,11 +25250,9 @@
               }
             },
             "keyword": [
-              "obec",
-              "obecní živnostenský úřad",
               "živnostenský úřad",
               "Karlovarský kraj",
-              "úřad"
+              "obec"
             ]
           },
           "spatRpType": {
@@ -25270,14 +25272,13 @@
               "živnostenský úřad",
               "Karlovarský kraj",
               "úřad",
-              "obecní živnostenský úřad",
               "obec"
             ]
           },
           "idPoC": {
             "rpCntInfo": {
               "cntAddress": {
-                "eMailAdd": "pavla.brabencova@karp-kv.cz"
+                "eMailAdd": "pavla.brabencova@kickk.cz"
               }
             },
             "role": {
@@ -25325,6 +25326,7 @@
         },
         "mdChar": {
           "CharSetCd": {
+            "@_Sync": "FALSE",
             "@_value": "004"
           }
         }

@@ -7,14 +7,13 @@
     "cs": "Obecní živnostenské úřady Karlovarského kraje dle územní příslušnosti obcí"
   },
   "popis": {
-    "cs": "Datová sada kromě územní specifikace umístění obecního živnostenského úřadu pro příslušnou obec obsahuje rovněž název, identifikační číslo, sídlo, kód adresy, číslo datové schránky, územní působnost pro obce, webové stránky, telefonní a e-mailové kontaktní údaje úřadu. Souřadnicový systém je použit WGS 1984.Původním zdrojem dat je Krajský úřad Karlovarského kraje."
+    "cs": "Datová sada s přehledem obcí Karlovarského kraje s uvedením územní příslušnosti k příslušnému obecnímu živnostenského úřadu. Informace uvedené k obcím: název obce a kód obce; informace k jednotlivým obecním živnostenským úřadům: název, sídlo úřadu, odbor, název subjektu, identifikační číslo, právní forma, sídlo, kód adresy, ID datové schránky, webové stránky, telefonní kontakt živnostenského úřadu, telefonní kontakt městského úřadu, kontaktní e-mail a prostorová lokalizace živnostenského úřadu. Souřadnicový systém je použit WGS 1984.Původním zdrojem dat je Krajský úřad Karlovarského kraje."
   },
   "klíčové_slovo": {
     "cs": [
       "živnostenský úřad",
       "Karlovarský kraj",
       "úřad",
-      "obecní živnostenský úřad",
       "obec"
     ]
   },
