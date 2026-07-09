@@ -2359,8 +2359,8 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=0fbcd94c27344fef86d2dafde1230761&sublayer=0",
-      "landingPage": "https://www.datazapad.cz/datasets/Kakraj::matriční-úřady-karlovarského-kraje-old",
-      "title": "Matriční úřady Karlovarského kraje   old",
+      "landingPage": "https://www.datazapad.cz/datasets/Kakraj::matriční-úřady-karlovarského-kraje-",
+      "title": "Matriční úřady Karlovarského kraje ",
       "description": "Vrstva matričních úřadů Karlovarského kraje pro účely publikace jako open data. Obsahuje název úřadu, adresu, telefon, úřední dny a úřední hodiny, adresu e-podatelny, kód adresního místa z RÚIAN, a souřadnicové umístění matričního úřadu.",
       "keyword": [
         "Karlovarský kraj",
@@ -2369,7 +2369,7 @@
         "úřad"
       ],
       "issued": "2024-07-09T05:50:23.000Z",
-      "modified": "2026-07-09T09:14:07.000Z",
+      "modified": "2026-07-09T10:40:25.000Z",
       "publisher": {
         "name": "Krajský úřad Karlovarského kraje"
       },
@@ -2611,7 +2611,7 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/datasets/Kakraj::matriční-úřady-karlovarského-kraje-old"
+          "accessURL": "https://www.datazapad.cz/datasets/Kakraj::matriční-úřady-karlovarského-kraje-"
         },
         {
           "@type": "dcat:Distribution",
