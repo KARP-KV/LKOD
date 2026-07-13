@@ -24057,22 +24057,21 @@
     },
     {
       "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=c3a31017e7ac4e8d8d75c6a1ed49bc03&sublayer=3",
-      "landingPage": "https://www.datazapad.cz/datasets/c3a31017e7ac4e8d8d75c6a1ed49bc03_3",
+      "identifier": "https://www.arcgis.com/home/item.html?id=c3a31017e7ac4e8d8d75c6a1ed49bc03&sublayer=0",
+      "landingPage": "https://www.datazapad.cz/datasets/c3a31017e7ac4e8d8d75c6a1ed49bc03_0",
       "title": "Historické vesnické soubory v Karlovarském kraji",
-      "description": "<p style='background-color:rgb(255, 255, 255); border:0px solid currentcolor; box-sizing:border-box; color:rgb(74, 74, 74); font-family:&quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; margin:0px 0px 1.5rem; text-align:start; text-decoration-color:initial; text-decoration-style:initial; text-indent:0px; text-transform:none; word-spacing:0px;'>Datová sada obsahuje kromě územní specifikace rovněž informace o katastrálních území, která spadají do příslušné památkové zóny či rezervace, informace o památkové ochraně, fáze památkové ochrany a krátký popis památkové zóny či rezervace. Souřadnicový systém je použit WGS 1984.</p><p style='background-color:rgb(255, 255, 255); border:0px solid currentcolor; box-sizing:border-box; color:rgb(74, 74, 74); font-family:&quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; margin:0px 0px 1.5rem; text-align:start; text-decoration-color:initial; text-decoration-style:initial; text-indent:0px; text-transform:none; word-spacing:0px;'>Původním zdrojem dat je Živý kraj - Destinační agentura pro Karlovarský kraj, z.s.</p>",
+      "description": "<p style=\"background-color:rgb(255, 255, 255); border:0px solid currentcolor; box-sizing:border-box; color:rgb(74, 74, 74); font-family:&quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; margin:0px 0px 1.5rem; text-align:start; text-decoration-color:initial; text-decoration-style:initial; text-indent:0px; text-transform:none; word-spacing:0px;\">Datová sada obsahuje přehled historických vesnických souborů - památkových zón a rezervací - na území Karlovarského kraje. Obsažené informace jednotlivých souborů: název, katastrální území spadající do příslušné památkové zóny či rezervace, informace o památkové ochraně, fáze památkové ochrany, anotace - krátký popis památkové zóny či rezervace a prostorová lokalizace (bodová) historického vesnického souboru. Souřadnicový systém je použit WGS 1984.</p><p style=\"background-color:rgb(255, 255, 255); border:0px solid currentcolor; box-sizing:border-box; color:rgb(74, 74, 74); font-family:&quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; margin:0px 0px 1.5rem; text-align:start; text-decoration-color:initial; text-decoration-style:initial; text-indent:0px; text-transform:none; word-spacing:0px;\">Zdrojem dat je Krajský úřad Karlovarského kraje.</p>",
       "keyword": [
-        "vesnické soubory",
-        "historické vesnické soubory",
         "Karlovarský kraj",
-        "historické vesnice",
         "památková zóna",
-        "památková rezervace"
+        "památková rezervace",
+        "historický",
+        "vesnický soubor"
       ],
       "issued": "2024-07-23T09:34:20.000Z",
-      "modified": "2025-07-08T12:05:50.000Z",
+      "modified": "2026-07-13T10:21:24.000Z",
       "publisher": {
-        "name": "Karlovarská agentura rozvoje podnikání, p.o."
+        "name": "Krajský úřad Karlovarského kraje"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -24080,8 +24079,8 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "12.3918,50.0005,13.0068,50.1938",
-      "license": "https://creativecommons.org/licenses/by/4.0",
+      "spatial": "12.3917,50.0005,13.0068,50.1872",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0",
       "category": [
         "Kultura a cestovní ruch"
       ],
@@ -24095,7 +24094,7 @@
         "mdContact": {
           "rpCntInfo": {
             "cntAddress": {
-              "eMailAdd": "pavla.brabencova@karp-kv.cz"
+              "eMailAdd": "pavla.brabencova@kickk.cz"
             }
           },
           "role": {
@@ -24103,23 +24102,30 @@
               "@_value": "007"
             }
           },
-          "rpOrgName": "Karlovarská agentura rozvoje podnikání, p.o."
+          "rpOrgName": "Krajské inovační centrum Karlovarského kraje, p.o."
         },
         "mdDateSt": {
           "@_Sync": "FALSE",
-          "#value": "2025-07-08"
+          "#value": "2026-07-13"
         },
         "Esri": {
           "ArcGISFormat": 1,
           "CreaTime": 11211400,
           "ArcGISProfile": "INSPIRE",
+          "DataProperties": {
+            "itemProps": {
+              "portalDetails": {
+                "thumbnailURL": "https://www.arcgis.com/sharing/rest/content/items/c3a31017e7ac4e8d8d75c6a1ed49bc03/info/thumbnail/thumbnail.png"
+              }
+            }
+          },
           "CreaDate": 20240723,
           "SyncOnce": "TRUE"
         },
-        "mdTimeSt": "12:07:20",
+        "mdTimeSt": "10:22:40",
         "dqInfo": {
           "dataLineage": {
-            "statement": "Data Živý kraj - Destinační agentura pro Karlovarský kraj, z.s. a Karlovarská agentura rozvoje podnikání, p.o."
+            "statement": "Data Krajského úřadu Karlovarského kraje a Krajského inovačního centra Karlovarského kraje, p.o."
           },
           "dqScope": {
             "scpLvl": {
@@ -24150,27 +24156,20 @@
           }
         },
         "dataIdInfo": {
-          "idAbs": "<p style='background-color:rgb(255, 255, 255); border:0px solid currentcolor; box-sizing:border-box; color:rgb(74, 74, 74); font-family:&quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; margin:0px 0px 1.5rem; text-align:start; text-decoration-color:initial; text-decoration-style:initial; text-indent:0px; text-transform:none; word-spacing:0px;'>Datová sada obsahuje kromě územní specifikace rovněž informace o katastrálních území, která spadají do příslušné památkové zóny či rezervace, informace o památkové ochraně, fáze památkové ochrany a krátký popis památkové zóny či rezervace. Souřadnicový systém je použit WGS 1984.</p><p style='background-color:rgb(255, 255, 255); border:0px solid currentcolor; box-sizing:border-box; color:rgb(74, 74, 74); font-family:&quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; margin:0px 0px 1.5rem; text-align:start; text-decoration-color:initial; text-decoration-style:initial; text-indent:0px; text-transform:none; word-spacing:0px;'>Původním zdrojem dat je Živý kraj - Destinační agentura pro Karlovarský kraj, z.s.</p>",
-          "idCredit": "Živý kraj - Destinační agentura pro Karlovarský kraj, z.s.",
+          "idAbs": "<p style=\"background-color:rgb(255, 255, 255); border:0px solid currentcolor; box-sizing:border-box; color:rgb(74, 74, 74); font-family:&quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; margin:0px 0px 1.5rem; text-align:start; text-decoration-color:initial; text-decoration-style:initial; text-indent:0px; text-transform:none; word-spacing:0px;\">Datová sada obsahuje přehled historických vesnických souborů - památkových zón a rezervací - na území Karlovarského kraje. Obsažené informace jednotlivých souborů: název, katastrální území spadající do příslušné památkové zóny či rezervace, informace o památkové ochraně, fáze památkové ochrany, anotace - krátký popis památkové zóny či rezervace a prostorová lokalizace (bodová) historického vesnického souboru. Souřadnicový systém je použit WGS 1984.</p><p style=\"background-color:rgb(255, 255, 255); border:0px solid currentcolor; box-sizing:border-box; color:rgb(74, 74, 74); font-family:&quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; margin:0px 0px 1.5rem; text-align:start; text-decoration-color:initial; text-decoration-style:initial; text-indent:0px; text-transform:none; word-spacing:0px;\">Zdrojem dat je Krajský úřad Karlovarského kraje.</p>",
+          "idCredit": "Krajský úřad Karlovarského kraje",
           "dataLang": {
             "languageCode": {
               "@_Sync": "FALSE",
               "@_value": "cze"
             }
           },
-          "idPurp": "Přehled historických vesnických souborů - památkových zón a rezervací - v Karlovarském kraji",
-          "tpCat": [
-            {
-              "TopicCatCd": {
-                "@_value": "016"
-              }
-            },
-            {
-              "TopicCatCd": {
-                "@_value": "017"
-              }
+          "idPurp": "Přehled historických vesnických souborů - památkových zón a rezervací - na území Karlovarského kraje.",
+          "tpCat": {
+            "TopicCatCd": {
+              "@_value": "017"
             }
-          ],
+          },
           "dataExt": {
             "geoEle": {
               "GeoBndBox": {
@@ -24184,18 +24183,18 @@
                 },
                 "northBL": {
                   "@_Sync": "FALSE",
-                  "#value": 50.19381
+                  "#value": 50.187188
                 },
                 "westBL": {
                   "@_Sync": "FALSE",
-                  "#value": 12.391816
+                  "#value": 12.391719
                 }
               }
             }
           },
           "idCitation": {
             "date": {
-              "reviseDate": "2025-07-08T12:05:50"
+              "reviseDate": "2026-07-13T10:21:24"
             },
             "resTitle": {
               "@_Sync": "FALSE",
@@ -24208,6 +24207,7 @@
           "themeKeys": {
             "thesaName": {
               "date": {
+                "reviseDate": "2026-07-13T10:20:52",
                 "pubDate": "2008-06-01T00:00:00"
               },
               "resTitle": {
@@ -24216,12 +24216,9 @@
               }
             },
             "keyword": [
-              "Karlovarský kraj",
+              "historický",
               "vesnický soubor",
-              "historický vesnický soubor",
-              "památková zóna",
-              "památková rezervace",
-              "vesnice"
+              "Karlovarský kraj"
             ]
           },
           "spatRpType": {
@@ -24238,18 +24235,17 @@
           },
           "searchKeys": {
             "keyword": [
-              "vesnické soubory",
-              "historické vesnické soubory",
               "Karlovarský kraj",
-              "historické vesnice",
               "památková zóna",
-              "památková rezervace"
+              "památková rezervace",
+              "historický",
+              "vesnický soubor"
             ]
           },
           "idPoC": {
             "rpCntInfo": {
               "cntAddress": {
-                "eMailAdd": "pavla.brabencova@karp-kv.cz"
+                "eMailAdd": "pavla.brabencova@kickk.cz"
               }
             },
             "role": {
@@ -24257,7 +24253,7 @@
                 "@_value": "007"
               }
             },
-            "rpOrgName": "Karlovarská agentura rozvoje podnikání, p.o."
+            "rpOrgName": "Krajský úřad Karlovarského kraje"
           },
           "resConst": [
             {
@@ -24280,7 +24276,7 @@
             },
             {
               "Consts": {
-                "useLimit": "<p>CC BY 4.0</p>"
+                "useLimit": "<p>CC0 1.0</p>"
               }
             }
           ]
@@ -24297,6 +24293,7 @@
         },
         "mdChar": {
           "CharSetCd": {
+            "@_Sync": "FALSE",
             "@_value": "004"
           }
         },
@@ -24322,77 +24319,77 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/datasets/c3a31017e7ac4e8d8d75c6a1ed49bc03_3"
+          "accessURL": "https://www.datazapad.cz/datasets/c3a31017e7ac4e8d8d75c6a1ed49bc03_0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "ArcGIS GeoService",
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
-          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Historick%C3%A9_vesnick%C3%A9_soubory_v_KVK_WFL1/FeatureServer/3"
+          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Historick%C3%A9_vesnick%C3%A9_soubory_v_KVK_WFL1/FeatureServer/0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "CSV",
           "format": "CSV",
           "mediaType": "text/csv",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/c3a31017e7ac4e8d8d75c6a1ed49bc03/csv?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/c3a31017e7ac4e8d8d75c6a1ed49bc03/csv?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Shapefile",
           "format": "ZIP",
           "mediaType": "application/zip",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/c3a31017e7ac4e8d8d75c6a1ed49bc03/shapefile?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/c3a31017e7ac4e8d8d75c6a1ed49bc03/shapefile?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "GeoJSON",
           "format": "GeoJSON",
           "mediaType": "application/vnd.geo+json",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/c3a31017e7ac4e8d8d75c6a1ed49bc03/geojson?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/c3a31017e7ac4e8d8d75c6a1ed49bc03/geojson?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "KML",
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/c3a31017e7ac4e8d8d75c6a1ed49bc03/kml?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/c3a31017e7ac4e8d8d75c6a1ed49bc03/kml?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "File Geodatabase",
           "format": "ZIP",
           "mediaType": "application/zip",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/c3a31017e7ac4e8d8d75c6a1ed49bc03/filegdb?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/c3a31017e7ac4e8d8d75c6a1ed49bc03/filegdb?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Feature Collection",
           "format": "TXT",
           "mediaType": "text/plain",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/c3a31017e7ac4e8d8d75c6a1ed49bc03/featureCollection?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/c3a31017e7ac4e8d8d75c6a1ed49bc03/featureCollection?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Excel",
           "format": "XLSX",
           "mediaType": "application/vnd.ms-excel",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/c3a31017e7ac4e8d8d75c6a1ed49bc03/excel?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/c3a31017e7ac4e8d8d75c6a1ed49bc03/excel?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "GeoPackage",
           "format": "GPKG",
           "mediaType": "application/geopackage+sqlite3",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/c3a31017e7ac4e8d8d75c6a1ed49bc03/geoPackage?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/c3a31017e7ac4e8d8d75c6a1ed49bc03/geoPackage?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "SQLite Geodatabase",
           "format": "GDB",
           "mediaType": "application/geopackage+sqlite3",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/c3a31017e7ac4e8d8d75c6a1ed49bc03/sqlite?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/c3a31017e7ac4e8d8d75c6a1ed49bc03/sqlite?layers=0"
         }
       ],
       "theme": [
