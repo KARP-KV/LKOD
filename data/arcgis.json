@@ -17422,21 +17422,20 @@
     },
     {
       "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=785fbd982147426ca275496791930eb8&sublayer=3",
-      "landingPage": "https://www.datazapad.cz/datasets/785fbd982147426ca275496791930eb8_3",
+      "identifier": "https://www.arcgis.com/home/item.html?id=785fbd982147426ca275496791930eb8&sublayer=0",
+      "landingPage": "https://www.datazapad.cz/datasets/785fbd982147426ca275496791930eb8_0",
       "title": "Turistická informační centra v Karlovarském kraji",
       "description": "<p>Datová sada obsahuje přesnou specifikace umístění centra, provozovatele centra - jeho název, IČO, právní formu, sídlo, kód adresy, číslo datové schránky, webové stránky a kontaktní údaje center (kontaktní telefon a kontaktní e-mail). Souřadnicový systém je použit WGS 1984.</p><p>Původním zdrojem dat je Živý kraj - Destinační agentura pro Karlovarský kraj, z.s.</p>",
       "keyword": [
         "informační centrum",
         "Karlovarský kraj",
         "turistické centrum",
-        "turistické informační centrum",
-        "centrum"
+        "turistické informační centrum"
       ],
       "issued": "2024-07-23T07:20:03.000Z",
-      "modified": "2025-07-10T11:31:12.000Z",
+      "modified": "2026-07-21T06:11:15.525Z",
       "publisher": {
-        "name": "Karlovarská agentura rozvoje podnikání, p.o."
+        "name": "{{source}}"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -17450,227 +17449,34 @@
         "Kultura a cestovní ruch"
       ],
       "metadata": {
-        "mdLang": {
-          "languageCode": {
-            "@_Sync": "FALSE",
-            "@_value": "cze"
-          }
-        },
-        "mdContact": {
-          "rpCntInfo": {
-            "cntAddress": {
-              "eMailAdd": "pavla.brabencova@karp-kv.cz"
-            }
-          },
-          "role": {
-            "RoleCd": {
-              "@_value": "007"
-            }
-          },
-          "rpOrgName": "Karlovarská agentura rozvoje podnikání, p.o."
-        },
-        "mdDateSt": {
-          "@_Sync": "FALSE",
-          "#value": "2025-07-10"
-        },
         "Esri": {
           "ArcGISFormat": 1,
           "CreaTime": 9094300,
-          "ArcGISProfile": "INSPIRE",
           "CreaDate": 20240723,
           "SyncOnce": "TRUE"
         },
-        "mdTimeSt": "11:32:36",
-        "dqInfo": {
-          "dataLineage": {
-            "statement": "Data Živý kraj - Destinační agentura pro Karlovarský kraj, z.s. a Karlovarská agentura rozvoje podnikání, p.o."
-          },
-          "dqScope": {
-            "scpLvl": {
-              "ScopeCd": {
-                "@_value": "005"
-              }
-            }
-          },
-          "report": {
-            "measResult": {
-              "ConResult": {
-                "conSpec": {
-                  "date": {
-                    "pubDate": "2010-12-08T00:00:00"
-                  },
-                  "resTitle": {
-                    "@_Sync": "FALSE",
-                    "#value": "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
-                  }
-                }
-              }
-            }
-          }
-        },
-        "mdHrLv": {
-          "ScopeCd": {
-            "@_value": "005"
-          }
-        },
+        "@_xml:lang": "cs",
         "dataIdInfo": {
           "idAbs": "<p>Datová sada obsahuje přesnou specifikace umístění centra, provozovatele centra - jeho název, IČO, právní formu, sídlo, kód adresy, číslo datové schránky, webové stránky a kontaktní údaje center (kontaktní telefon a kontaktní e-mail). Souřadnicový systém je použit WGS 1984.</p><p>Původním zdrojem dat je Živý kraj - Destinační agentura pro Karlovarský kraj, z.s.</p>",
           "idCredit": "Živý kraj – Destinační agentura pro Karlovarský kraj, z.s.",
-          "dataLang": {
-            "languageCode": {
-              "@_Sync": "FALSE",
-              "@_value": "cze"
-            }
+          "idCitation": {
+            "resTitle": "Mapa"
           },
           "idPurp": "Přehled turistických informačních center v Karlovarském kraji.",
-          "tpCat": {
-            "TopicCatCd": {
-              "@_value": "016"
-            }
-          },
-          "dataExt": {
-            "geoEle": {
-              "GeoBndBox": {
-                "eastBL": {
-                  "@_Sync": "FALSE",
-                  "#value": 13.161906
-                },
-                "southBL": {
-                  "@_Sync": "FALSE",
-                  "#value": 49.975322
-                },
-                "northBL": {
-                  "@_Sync": "FALSE",
-                  "#value": 50.428205
-                },
-                "westBL": {
-                  "@_Sync": "FALSE",
-                  "#value": 12.187303
-                }
-              }
-            }
-          },
-          "idCitation": {
-            "date": {
-              "reviseDate": "2025-07-10T11:31:12"
-            },
-            "resTitle": {
-              "@_Sync": "FALSE",
-              "#value": "Turistická informační centra v Karlovarském kraji"
-            },
-            "citId": {
-              "identCode": "publication"
-            }
-          },
-          "themeKeys": {
-            "thesaName": {
-              "date": {
-                "pubDate": "2008-06-01T00:00:00"
-              },
-              "resTitle": {
-                "@_Sync": "FALSE",
-                "#value": "GEMET - INSPIRE themes, version 1.0"
-              }
-            },
-            "keyword": [
-              "Karlovarský kraj",
-              "turistické centrum",
-              "informační centrum",
-              "infocentrum",
-              "turistické informační centrum",
-              "centrum"
-            ]
-          },
-          "spatRpType": {
-            "SpatRepTypCd": {
-              "@_Sync": "FALSE",
-              "@_value": "003"
-            }
-          },
-          "dataChar": {
-            "CharSetCd": {
-              "@_Sync": "FALSE",
-              "@_value": "004"
-            }
-          },
           "searchKeys": {
             "keyword": [
               "informační centrum",
               "Karlovarský kraj",
               "turistické centrum",
-              "turistické informační centrum",
-              "centrum"
+              "turistické informační centrum"
             ]
           },
-          "idPoC": {
-            "rpCntInfo": {
-              "cntAddress": {
-                "eMailAdd": "pavla.brabencova@karp-kv.cz"
-              }
-            },
-            "role": {
-              "RoleCd": {
-                "@_value": "007"
-              }
-            },
-            "rpOrgName": "Karlovarská agentura rozvoje podnikání, p.o."
-          },
-          "resConst": [
-            {
-              "LegConsts": {
-                "inspireAccessUseConditions": {
-                  "ConditionsAccUseCd": {
-                    "@_value": "001"
-                  }
-                }
-              }
-            },
-            {
-              "LegConsts": {
-                "inspirePublicAccessLimits": {
-                  "PublicAccessCd": {
-                    "@_value": "001"
-                  }
-                }
-              }
-            },
-            {
-              "Consts": {
-                "useLimit": "<p>CC BY 4.0</p>"
-              }
-            }
-          ]
-        },
-        "refSysInfo": {
-          "RefSystem": {
-            "refSysID": {
-              "identCode": {
-                "@_Sync": "FALSE",
-                "@_code": "GCS_WGS_1984"
-              }
+          "resConst": {
+            "Consts": {
+              "useLimit": "<p>CC BY 4.0</p>"
             }
           }
-        },
-        "mdChar": {
-          "CharSetCd": {
-            "@_value": "004"
-          }
-        },
-        "distInfo": {
-          "distTranOps": {
-            "onLineSrc": {
-              "linkage": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Turistick%C3%A1_informa%C4%8Dn%C3%AD_centra_KVK_WFL1/FeatureServer"
-            }
-          }
-        },
-        "mdMaint": {
-          "maintFreq": {
-            "MaintFreqCd": {
-              "@_value": "008"
-            }
-          }
-        },
-        "@_xml:lang": "cs"
+        }
       },
       "distribution": [
         {
@@ -17678,77 +17484,77 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/datasets/785fbd982147426ca275496791930eb8_3"
+          "accessURL": "https://www.datazapad.cz/datasets/785fbd982147426ca275496791930eb8_0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "ArcGIS GeoService",
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
-          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Turistick%C3%A1_informa%C4%8Dn%C3%AD_centra_KVK_WFL1/FeatureServer/3"
+          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Turistick%C3%A1_informa%C4%8Dn%C3%AD_centra_KVK_WFL1/FeatureServer/0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "CSV",
           "format": "CSV",
           "mediaType": "text/csv",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/785fbd982147426ca275496791930eb8/csv?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/785fbd982147426ca275496791930eb8/csv?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Shapefile",
           "format": "ZIP",
           "mediaType": "application/zip",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/785fbd982147426ca275496791930eb8/shapefile?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/785fbd982147426ca275496791930eb8/shapefile?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "GeoJSON",
           "format": "GeoJSON",
           "mediaType": "application/vnd.geo+json",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/785fbd982147426ca275496791930eb8/geojson?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/785fbd982147426ca275496791930eb8/geojson?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "KML",
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/785fbd982147426ca275496791930eb8/kml?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/785fbd982147426ca275496791930eb8/kml?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "File Geodatabase",
           "format": "ZIP",
           "mediaType": "application/zip",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/785fbd982147426ca275496791930eb8/filegdb?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/785fbd982147426ca275496791930eb8/filegdb?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Feature Collection",
           "format": "TXT",
           "mediaType": "text/plain",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/785fbd982147426ca275496791930eb8/featureCollection?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/785fbd982147426ca275496791930eb8/featureCollection?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Excel",
           "format": "XLSX",
           "mediaType": "application/vnd.ms-excel",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/785fbd982147426ca275496791930eb8/excel?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/785fbd982147426ca275496791930eb8/excel?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "GeoPackage",
           "format": "GPKG",
           "mediaType": "application/geopackage+sqlite3",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/785fbd982147426ca275496791930eb8/geoPackage?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/785fbd982147426ca275496791930eb8/geoPackage?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "SQLite Geodatabase",
           "format": "GDB",
           "mediaType": "application/geopackage+sqlite3",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/785fbd982147426ca275496791930eb8/sqlite?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/785fbd982147426ca275496791930eb8/sqlite?layers=0"
         }
       ],
       "theme": [
