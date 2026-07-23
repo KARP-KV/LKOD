@@ -27339,10 +27339,10 @@
     },
     {
       "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=fc44327a17e04959b7c5209d9ce32820&sublayer=0",
-      "landingPage": "https://www.datazapad.cz/datasets/fc44327a17e04959b7c5209d9ce32820_0",
+      "identifier": "https://www.arcgis.com/home/item.html?id=fc44327a17e04959b7c5209d9ce32820&sublayer=3",
+      "landingPage": "https://www.datazapad.cz/datasets/fc44327a17e04959b7c5209d9ce32820_3",
       "title": "Letiště v Karlovarském kraji",
-      "description": "<p><span style='color:rgb(59,59,59); font-family:Roboto, sans-serif; font-size:16px;'><span style='display:inline !important; float:none; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:0.2px; text-align:start; text-decoration-color:initial; text-decoration-style:initial; text-indent:0px; text-transform:none; word-spacing:0px;'>Datová sada obsahuje kromě prostorové lokalizace letišť na území Karlovarského kraje rovněž údaje o provozovateli letiště (název, IČO, sídlo, právní forma, kontaktní údaje - e-mail, telefon, číslo datové schránky) a informace o letišti (druh letiště, informace o dráze, nadmořské výšce letiště aj.). Souřadnicový systém je využit WGS 1984.&nbsp;</span></span></p><p><span style='color:rgb(59,59,59); font-family:Roboto, sans-serif; font-size:16px;'><span style='display:inline !important; float:none; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:0.2px; text-align:start; text-decoration-color:initial; text-decoration-style:initial; text-indent:0px; text-transform:none; word-spacing:0px;'>Zdrojem dat je Karlovarská agentura rozvoje podnikání, p.o.</span></span></p>",
+      "description": "<p><span style=\"color:rgb(59,59,59); font-family:Roboto, sans-serif; font-size:16px;\"><span style=\"display:inline !important; float:none; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:0.2px; text-align:start; text-decoration-color:initial; text-decoration-style:initial; text-indent:0px; text-transform:none; word-spacing:0px;\">Datová sada obsahuje p</span></span><span style=\"background-color:rgb(255,255,255); color:rgb(20,20,20); font-family:&quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;\"><span style=\"display:inline !important; float:none; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; text-align:start; text-decoration-color:initial; text-decoration-style:initial; text-indent:0px; text-transform:none; word-spacing:0px;\">řehled vnitrostátních, mezinárodních letišť a významných ploch pro sportovní létající zařízení na území Karlovarského kraje.</span></span><span style=\"color:rgb(59,59,59); font-family:Roboto, sans-serif; font-size:16px;\"><span style=\"display:inline !important; float:none; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:0.2px; text-align:start; text-decoration-color:initial; text-decoration-style:initial; text-indent:0px; text-transform:none; word-spacing:0px;\"> Uvedené údaje: název, provozovatel letiště, jeho název, identifikační číslo, sídlo, právní forma, kontaktní e-mail, telefonní kontakt, číslo datové schránky, webové stránky letiště, informace o letišti - kódy letiště, druh letiště, informace o dráze, nadmořská výška letiště, datum otevření a prostorová lokalizace letiště. Souřadnicový systém je využit WGS 1984.&nbsp;</span></span></p><p><span style=\"color:rgb(59,59,59); font-family:Roboto, sans-serif; font-size:16px;\"><span style=\"display:inline !important; float:none; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:0.2px; text-align:start; text-decoration-color:initial; text-decoration-style:initial; text-indent:0px; text-transform:none; word-spacing:0px;\">Zdrojem dat je Krajské inovační centrum Karlovarského kraje, p.o.</span></span></p>",
       "keyword": [
         "Karlovarský kraj",
         "letiště",
@@ -27351,9 +27351,9 @@
         "plocha pro sportovní létající zařízení"
       ],
       "issued": "2025-07-31T07:42:56.000Z",
-      "modified": "2026-02-26T10:12:27.523Z",
+      "modified": "2026-07-23T12:43:20.000Z",
       "publisher": {
-        "name": "Karlovarská agentura rozvoje podnikání, p.o."
+        "name": "Krajské inovační centrum Karlovarského kraje"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -27377,7 +27377,7 @@
         "mdContact": {
           "rpCntInfo": {
             "cntAddress": {
-              "eMailAdd": "pavla.brabencova_karp"
+              "eMailAdd": "pavla.brabencova@kickk.cz"
             }
           },
           "role": {
@@ -27385,30 +27385,30 @@
               "@_value": "007"
             }
           },
-          "rpOrgName": "Karlovarská agentura rozvoje podnikání, p.o."
+          "rpOrgName": "Krajské inovační centrum Karlovarského kraje, p.o."
         },
         "mdDateSt": {
           "@_Sync": "FALSE",
-          "#value": "2025-07-31"
+          "#value": "2026-07-23"
         },
         "Esri": {
           "ArcGISFormat": 1,
-          "CreaTime": 9364900,
+          "CreaTime": 9362000,
           "ArcGISProfile": "INSPIRE",
           "DataProperties": {
             "itemProps": {
               "portalDetails": {
-                "thumbnailURL": "https://www.arcgis.com/sharing/rest/content/items/fc44327a17e04959b7c5209d9ce32820/info/thumbnail/thumbnail1753948221260.png"
+                "thumbnailURL": "https://www.arcgis.com/sharing/rest/content/items/fc44327a17e04959b7c5209d9ce32820/info/thumbnail/thumbnail.png"
               }
             }
           },
           "CreaDate": 20250731,
           "SyncOnce": "TRUE"
         },
-        "mdTimeSt": "10:00:06",
+        "mdTimeSt": "12:44:24",
         "dqInfo": {
           "dataLineage": {
-            "statement": "Data Karlovarské agentury rozvoje podnikání, p.o."
+            "statement": "Data Krajského inovačního centra Karlovarského kraje, p.o."
           },
           "dqScope": {
             "scpLvl": {
@@ -27439,7 +27439,7 @@
           }
         },
         "dataIdInfo": {
-          "idAbs": "<p><span style='color:rgb(59,59,59); font-family:Roboto, sans-serif; font-size:16px;'><span style='display:inline !important; float:none; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:0.2px; text-align:start; text-decoration-color:initial; text-decoration-style:initial; text-indent:0px; text-transform:none; word-spacing:0px;'>Datová sada obsahuje kromě prostorové lokalizace letišť na území Karlovarského kraje rovněž údaje o provozovateli letiště (název, IČO, sídlo, právní forma, kontaktní údaje - e-mail, telefon, číslo datové schránky) a informace o letišti (druh letiště, informace o dráze, nadmořské výšce letiště aj.). Souřadnicový systém je využit WGS 1984.&nbsp;</span></span></p><p><span style='color:rgb(59,59,59); font-family:Roboto, sans-serif; font-size:16px;'><span style='display:inline !important; float:none; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:0.2px; text-align:start; text-decoration-color:initial; text-decoration-style:initial; text-indent:0px; text-transform:none; word-spacing:0px;'>Zdrojem dat je Karlovarská agentura rozvoje podnikání, p.o.</span></span></p>",
+          "idAbs": "<p><span style=\"color:rgb(59,59,59); font-family:Roboto, sans-serif; font-size:16px;\"><span style=\"display:inline !important; float:none; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:0.2px; text-align:start; text-decoration-color:initial; text-decoration-style:initial; text-indent:0px; text-transform:none; word-spacing:0px;\">Datová sada obsahuje p</span></span><span style=\"background-color:rgb(255,255,255); color:rgb(20,20,20); font-family:&quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;\"><span style=\"display:inline !important; float:none; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; text-align:start; text-decoration-color:initial; text-decoration-style:initial; text-indent:0px; text-transform:none; word-spacing:0px;\">řehled vnitrostátních, mezinárodních letišť a významných ploch pro sportovní létající zařízení na území Karlovarského kraje.</span></span><span style=\"color:rgb(59,59,59); font-family:Roboto, sans-serif; font-size:16px;\"><span style=\"display:inline !important; float:none; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:0.2px; text-align:start; text-decoration-color:initial; text-decoration-style:initial; text-indent:0px; text-transform:none; word-spacing:0px;\"> Uvedené údaje: název, provozovatel letiště, jeho název, identifikační číslo, sídlo, právní forma, kontaktní e-mail, telefonní kontakt, číslo datové schránky, webové stránky letiště, informace o letišti - kódy letiště, druh letiště, informace o dráze, nadmořská výška letiště, datum otevření a prostorová lokalizace letiště. Souřadnicový systém je využit WGS 1984.&nbsp;</span></span></p><p><span style=\"color:rgb(59,59,59); font-family:Roboto, sans-serif; font-size:16px;\"><span style=\"display:inline !important; float:none; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:0.2px; text-align:start; text-decoration-color:initial; text-decoration-style:initial; text-indent:0px; text-transform:none; word-spacing:0px;\">Zdrojem dat je Krajské inovační centrum Karlovarského kraje, p.o.</span></span></p>",
           "dataExt": {
             "geoEle": {
               "GeoBndBox": {
@@ -27464,7 +27464,7 @@
           },
           "idCitation": {
             "date": {
-              "pubDate": "2025-07-31T09:58:55"
+              "reviseDate": "2026-07-23T12:43:20"
             },
             "resTitle": {
               "@_Sync": "FALSE",
@@ -27483,6 +27483,7 @@
           "themeKeys": {
             "thesaName": {
               "date": {
+                "reviseDate": "2026-07-23T12:42:40",
                 "pubDate": "2008-06-01T00:00:00"
               },
               "resTitle": {
@@ -27492,10 +27493,12 @@
             },
             "keyword": [
               "Karlovarský kraj",
+              "vnitrostání",
+              "mezinárodní",
               "letiště"
             ]
           },
-          "idPurp": "Přehled vnitrostátních, mezinárodních letišť a ploch pro sportovní létající zařízení v Karlovarském kraji.",
+          "idPurp": "Přehled vnitrostátních, mezinárodních letišť a významných ploch pro sportovní létající zařízení na území Karlovarského kraje.",
           "spatRpType": {
             "SpatRepTypCd": {
               "@_Sync": "FALSE",
@@ -27508,18 +27511,11 @@
               "@_value": "004"
             }
           },
-          "tpCat": [
-            {
-              "TopicCatCd": {
-                "@_value": "017"
-              }
-            },
-            {
-              "TopicCatCd": {
-                "@_value": "018"
-              }
+          "tpCat": {
+            "TopicCatCd": {
+              "@_value": "017"
             }
-          ],
+          },
           "searchKeys": {
             "keyword": [
               "Karlovarský kraj",
@@ -27532,7 +27528,7 @@
           "idPoC": {
             "rpCntInfo": {
               "cntAddress": {
-                "eMailAdd": "pavla.brabencova_karp"
+                "eMailAdd": "pavla.brabencova@kickk.cz"
               }
             },
             "role": {
@@ -27540,7 +27536,7 @@
                 "@_value": "007"
               }
             },
-            "rpOrgName": "Karlovarská agentura rozvoje podnikání, p.o."
+            "rpOrgName": "Krajské inovační centrum Karlovarského kraje"
           },
           "resConst": [
             {
@@ -27580,6 +27576,7 @@
         },
         "mdChar": {
           "CharSetCd": {
+            "@_Sync": "FALSE",
             "@_value": "004"
           }
         },
@@ -27605,77 +27602,77 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/datasets/fc44327a17e04959b7c5209d9ce32820_0"
+          "accessURL": "https://www.datazapad.cz/datasets/fc44327a17e04959b7c5209d9ce32820_3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "ArcGIS GeoService",
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
-          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Leti%C5%A1t%C4%9B_v_Karlovarsk%C3%A9m_kraji_WFL1/FeatureServer/0"
+          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Leti%C5%A1t%C4%9B_v_Karlovarsk%C3%A9m_kraji_WFL1/FeatureServer/3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "CSV",
           "format": "CSV",
           "mediaType": "text/csv",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/fc44327a17e04959b7c5209d9ce32820/csv?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/fc44327a17e04959b7c5209d9ce32820/csv?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Shapefile",
           "format": "ZIP",
           "mediaType": "application/zip",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/fc44327a17e04959b7c5209d9ce32820/shapefile?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/fc44327a17e04959b7c5209d9ce32820/shapefile?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "GeoJSON",
           "format": "GeoJSON",
           "mediaType": "application/vnd.geo+json",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/fc44327a17e04959b7c5209d9ce32820/geojson?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/fc44327a17e04959b7c5209d9ce32820/geojson?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "KML",
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/fc44327a17e04959b7c5209d9ce32820/kml?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/fc44327a17e04959b7c5209d9ce32820/kml?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "File Geodatabase",
           "format": "ZIP",
           "mediaType": "application/zip",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/fc44327a17e04959b7c5209d9ce32820/filegdb?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/fc44327a17e04959b7c5209d9ce32820/filegdb?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Feature Collection",
           "format": "TXT",
           "mediaType": "text/plain",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/fc44327a17e04959b7c5209d9ce32820/featureCollection?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/fc44327a17e04959b7c5209d9ce32820/featureCollection?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Excel",
           "format": "XLSX",
           "mediaType": "application/vnd.ms-excel",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/fc44327a17e04959b7c5209d9ce32820/excel?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/fc44327a17e04959b7c5209d9ce32820/excel?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "GeoPackage",
           "format": "GPKG",
           "mediaType": "application/geopackage+sqlite3",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/fc44327a17e04959b7c5209d9ce32820/geoPackage?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/fc44327a17e04959b7c5209d9ce32820/geoPackage?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "SQLite Geodatabase",
           "format": "GDB",
           "mediaType": "application/geopackage+sqlite3",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/fc44327a17e04959b7c5209d9ce32820/sqlite?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/fc44327a17e04959b7c5209d9ce32820/sqlite?layers=3"
         }
       ],
       "theme": [
