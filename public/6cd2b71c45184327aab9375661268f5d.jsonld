@@ -7,21 +7,22 @@
     "cs": "Asistenční vouchery 2020 - 2022 v Karlovarském kraji"
   },
   "popis": {
-    "cs": "Datová sada obsahuje rovněž údaje o výši poskytnutých příspěvků, poskytnutí podpory a další podrobnosti o projektech žadatelů. Poskytovatel dat je Karlovarská agentura rozvoje podnikání, p.o."
+    "cs": "Datová sada obsahuje přehled žadatelů o asistenční voucher v letech 2020 - 2022 v Karlovarském kraji, obsahuje rovněž údaje o výši poskytnutých příspěvků, poskytnutí podpory a další podrobnosti o projektech žadatelů. Souřadnicový systém je použit WGS 84. Poskytovatelem dat je Krajské inovační centrum Karlovarského kraje, p.o."
   },
   "klíčové_slovo": {
     "cs": [
+      "Karlovarský kraj",
       "asistenční voucher",
       "voucher",
-      "Karlovarský kraj",
-      "žadatel"
+      "žadatel",
+      "dotace"
     ]
   },
   "téma": [
     "http://publications.europa.eu/resource/authority/data-theme/REGI",
     "http://publications.europa.eu/resource/authority/data-theme/GOVE"
   ],
-  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/NEVER",
   "prvek_rúian": [
     "https://linked.cuzk.cz/resource/ruian/vusc/51"
   ],

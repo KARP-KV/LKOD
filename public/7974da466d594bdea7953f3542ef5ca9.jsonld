@@ -7,7 +7,7 @@
     "cs": "Startovací vouchery v Karlovarském kraji v roce 2023"
   },
   "popis": {
-    "cs": "Datová sada obsahuje kromě místní specifikace sídla žadatele rovněž informace o poskytnutí voucheru, výši poskytnutých příspěvků, poskytnutí podpory a další podrobnosti o projektu žadatele a informace o žadateli - IČ, kontaktní e-mail. Použitý souřadnicový systém je WGS 1984.Poskytovatelem dat je Karlovarská agentura rozvoje podnikání, p.o."
+    "cs": "Datová sada obsahuje přehled žadatelů o startovací voucher v Karlovarském kraji v roce 2023. Datová sada rovněž obsahuje místní specifikaci sídla žadatele a informace o poskytnutí voucheru, výši poskytnutých příspěvků, poskytnutí podpory a další podrobnosti o projektu žadatele a informace o žadateli - identifikační číslo, kontaktní údaj. Použitý souřadnicový systém je WGS 1984.Poskytovatelem dat je Krajské inovační centrum Karlovarského kraje, p.o."
   },
   "klíčové_slovo": {
     "cs": [

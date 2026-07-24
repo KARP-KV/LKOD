@@ -4346,7 +4346,7 @@
         "cs": "Startovací vouchery v Karlovarském kraji v roce 2024"
       },
       "popis": {
-        "cs": "Datová sada obsahuje kromě místní specifikace sídla žadatele také informace o žadateli (IČ, kontaktní e-mail), výsledku žadatele vč. výše finanční podpory. Použitý souřadnicový systém je WGS 1984.Zdrojem dat je Karlovarská agentura rozvoje podnikání, p.o."
+        "cs": "Datová sada obsahuje přehled žadatelů o startovací voucher v Karlovarském kraji v roce 2024. Obsahuje informace o žadatelích - identifikační číslo, sídlo, kontaktní e-mail, výsledky žadatelů vč. uvedení výše finanční podpory. Použitý souřadnicový systém je WGS 1984.Zdrojem dat je Krajské inovační centrum Karlovarského kraje, p.o."
       },
       "klíčové_slovo": {
         "cs": [
@@ -5110,7 +5110,7 @@
         "cs": "Kreativní vouchery 2020 - 2022"
       },
       "popis": {
-        "cs": "Přehled žadatelů o kreativní voucher v Karlovarském kraji v letech 2020 až 2022. Datová sada obsahuje rovněž údaje o výši poskytnutých příspěvků, poskytnutí podpory a další podrobnosti o projektech žadatelů. Poskytovatel dat je Karlovarská agentura rozvoje podnikání, p.o."
+        "cs": "Datová sada obsahuje přehled žadatelů o kreativní voucher v Karlovarském kraji v letech 2020 až 2022, obsahuje rovněž údaje o výši poskytnutých příspěvků, poskytnutí podpory a další podrobnosti o projektech žadatelů. Souřadnicový systém je použit WGS 1984.Poskytovatelem dat je Krajské inovační centrum Karlovarského kraje, p.o."
       },
       "klíčové_slovo": {
         "cs": [
@@ -5126,7 +5126,7 @@
         "http://publications.europa.eu/resource/authority/data-theme/REGI",
         "http://publications.europa.eu/resource/authority/data-theme/GOVE"
       ],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/NEVER",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/51"
       ],
@@ -9052,21 +9052,22 @@
         "cs": "Asistenční vouchery 2020 - 2022 v Karlovarském kraji"
       },
       "popis": {
-        "cs": "Datová sada obsahuje rovněž údaje o výši poskytnutých příspěvků, poskytnutí podpory a další podrobnosti o projektech žadatelů. Poskytovatel dat je Karlovarská agentura rozvoje podnikání, p.o."
+        "cs": "Datová sada obsahuje přehled žadatelů o asistenční voucher v letech 2020 - 2022 v Karlovarském kraji, obsahuje rovněž údaje o výši poskytnutých příspěvků, poskytnutí podpory a další podrobnosti o projektech žadatelů. Souřadnicový systém je použit WGS 84. Poskytovatelem dat je Krajské inovační centrum Karlovarského kraje, p.o."
       },
       "klíčové_slovo": {
         "cs": [
+          "Karlovarský kraj",
           "asistenční voucher",
           "voucher",
-          "Karlovarský kraj",
-          "žadatel"
+          "žadatel",
+          "dotace"
         ]
       },
       "téma": [
         "http://publications.europa.eu/resource/authority/data-theme/REGI",
         "http://publications.europa.eu/resource/authority/data-theme/GOVE"
       ],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/NEVER",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/51"
       ],
@@ -10019,7 +10020,7 @@
         "cs": "Startovací vouchery v Karlovarském kraji v roce 2023"
       },
       "popis": {
-        "cs": "Datová sada obsahuje kromě místní specifikace sídla žadatele rovněž informace o poskytnutí voucheru, výši poskytnutých příspěvků, poskytnutí podpory a další podrobnosti o projektu žadatele a informace o žadateli - IČ, kontaktní e-mail. Použitý souřadnicový systém je WGS 1984.Poskytovatelem dat je Karlovarská agentura rozvoje podnikání, p.o."
+        "cs": "Datová sada obsahuje přehled žadatelů o startovací voucher v Karlovarském kraji v roce 2023. Datová sada rovněž obsahuje místní specifikaci sídla žadatele a informace o poskytnutí voucheru, výši poskytnutých příspěvků, poskytnutí podpory a další podrobnosti o projektu žadatele a informace o žadateli - identifikační číslo, kontaktní údaj. Použitý souřadnicový systém je WGS 1984.Poskytovatelem dat je Krajské inovační centrum Karlovarského kraje, p.o."
       },
       "klíčové_slovo": {
         "cs": [
@@ -13091,7 +13092,7 @@
         "cs": "Inovační vouchery 2020 - 2022"
       },
       "popis": {
-        "cs": "Datová sada obsahuje rovněž údaje o výši poskytnutých příspěvků, poskytnutí podpory a další podrobnosti o projektech žadatelů. Poskytovatelem dat je Karlovarská agentura rozvoje podnikání, p.o."
+        "cs": "Datová sada obsahuje přehled žadatelů o inovační voucher v Karlovarském kraji v letech 2012 až 2022, rovněž obsahuje údaje o výši poskytnutých příspěvků, poskytnutí podpory a další podrobnosti o projektech žadatelů. Souřadnicový systém je použit WGS 1984.Poskytovatelem dat je Krajské inovační centrum Karlovarského kraje, p.o."
       },
       "klíčové_slovo": {
         "cs": [
@@ -13107,7 +13108,7 @@
         "http://publications.europa.eu/resource/authority/data-theme/REGI",
         "http://publications.europa.eu/resource/authority/data-theme/GOVE"
       ],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/OTHER",
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/NEVER",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/51"
       ],
