@@ -3663,7 +3663,7 @@
       },
       "accessLevel": "public",
       "spatial": "12.1723,49.9188,13.2552,50.4278",
-      "license": "CCO 1.0",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0",
       "category": [
         "Školství a výzkum"
       ],
@@ -3855,7 +3855,7 @@
             },
             {
               "Consts": {
-                "useLimit": "CCO 1.0"
+                "useLimit": "<p>CC0 1.0</p>"
               }
             }
           ]
