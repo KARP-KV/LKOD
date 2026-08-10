@@ -27863,10 +27863,10 @@
     },
     {
       "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=f98f8248cdf140ad84649976f2d6f499&sublayer=0",
-      "landingPage": "https://www.datazapad.cz/datasets/f98f8248cdf140ad84649976f2d6f499_0",
+      "identifier": "https://www.arcgis.com/home/item.html?id=f98f8248cdf140ad84649976f2d6f499&sublayer=3",
+      "landingPage": "https://www.datazapad.cz/datasets/f98f8248cdf140ad84649976f2d6f499_3",
       "title": "Inovační infrastruktury Karlovarského kraje",
-      "description": "<p>Datová sada obsahuje kromě umístění inovačních infrastruktur také název společnosti (provozovatele), jeho IČO, sídlo, právní formu, kód adresy, číslo datové schránky a webové stránky. Souřadnicový systém je použit WGS 1984.</p><p>Zdrojem dat je Krajské inovační centrum Karlovarského kraje, příspěvková organizace.</p>",
+      "description": "<p>Datová sada obsahuje prostorovou lokalizaci umístění inovačních infrastruktur na území Karlovarského kraje (coworkingová centra, pobočky vysokých škol, podnikatelské inkubátory, výzkumné organizace, kulturní a kreativní centra, inovační centra a další významné organizace inovačního prostředí). Další obsažené informace: název inovační infrastruktury, popis, sektor, adresa místa, název subjektu, jeho identifikační číslo, sídlo, právní formu, kód adresy, číslo datové schránky, webové stránky, rok vzniku, typ instituce. Souřadnicový systém je použit WGS 1984.</p><p>Zdrojem dat je Krajské inovační centrum Karlovarského kraje, příspěvková organizace.</p>",
       "keyword": [
         "Karlovarský  kraj",
         "inovace",
@@ -27874,7 +27874,7 @@
         "inovační infrastruktura"
       ],
       "issued": "2023-12-07T07:26:16.000Z",
-      "modified": "2025-08-12T12:34:32.000Z",
+      "modified": "2026-08-10T12:53:35.000Z",
       "publisher": {
         "name": "Krajské inovační centrum Karlovarského kraje"
       },
@@ -27884,7 +27884,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "12.3640,50.0762,12.9472,50.2960",
+      "spatial": "12.3640,49.9732,12.9490,50.3092",
       "license": "https://creativecommons.org/licenses/by/4.0",
       "category": [
         "Ekonomika a trh práce",
@@ -27900,7 +27900,7 @@
         "mdContact": {
           "rpCntInfo": {
             "cntAddress": {
-              "eMailAdd": "pavla.brabencova@karp-kv.cz"
+              "eMailAdd": "pavla.brabencova@kickk.cz"
             }
           },
           "role": {
@@ -27908,32 +27908,30 @@
               "@_value": "007"
             }
           },
-          "rpOrgName": "Krajské inovační centrum Karlovarského kraje"
+          "rpOrgName": "Krajské inovační centrum Karlovarského kraje, p.o."
         },
-        "distInfo": {
-          "distTranOps": {
-            "onLineSrc": {
-              "linkage": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Mapa1_WFL1/FeatureServer"
-            }
-          }
-        },
-        "mdMaint": {
-          "maintFreq": {
-            "MaintFreqCd": {
-              "@_value": "008"
-            }
-          }
+        "mdDateSt": {
+          "@_Sync": "FALSE",
+          "#value": "2026-08-10"
         },
         "Esri": {
           "ArcGISFormat": 1,
           "CreaTime": 12023300,
           "ArcGISProfile": "INSPIRE",
+          "DataProperties": {
+            "itemProps": {
+              "portalDetails": {
+                "thumbnailURL": "https://www.arcgis.com/sharing/rest/content/items/f98f8248cdf140ad84649976f2d6f499/info/thumbnail/thumbnail.png"
+              }
+            }
+          },
           "CreaDate": 20231204,
           "SyncOnce": "TRUE"
         },
+        "mdTimeSt": "12:54:47",
         "dqInfo": {
           "dataLineage": {
-            "statement": "Krajské inovační centrum Karlovarského kraje, příspěvková organizace"
+            "statement": "Data Krajského inovačního centra Karlovarského kraje, příspěvkové organizace"
           },
           "dqScope": {
             "scpLvl": {
@@ -27958,14 +27956,13 @@
             }
           }
         },
-        "@_xml:lang": "cs",
         "mdHrLv": {
           "ScopeCd": {
             "@_value": "005"
           }
         },
         "dataIdInfo": {
-          "idAbs": "<p>Datová sada obsahuje kromě umístění inovačních infrastruktur také název společnosti (provozovatele), jeho IČO, sídlo, právní formu, kód adresy, číslo datové schránky a webové stránky. Souřadnicový systém je použit WGS 1984.</p><p>Zdrojem dat je Krajské inovační centrum Karlovarského kraje, příspěvková organizace.</p>",
+          "idAbs": "<p>Datová sada obsahuje prostorovou lokalizaci umístění inovačních infrastruktur na území Karlovarského kraje (coworkingová centra, pobočky vysokých škol, podnikatelské inkubátory, výzkumné organizace, kulturní a kreativní centra, inovační centra a další významné organizace inovačního prostředí). Další obsažené informace: název inovační infrastruktury, popis, sektor, adresa místa, název subjektu, jeho identifikační číslo, sídlo, právní formu, kód adresy, číslo datové schránky, webové stránky, rok vzniku, typ instituce. Souřadnicový systém je použit WGS 1984.</p><p>Zdrojem dat je Krajské inovační centrum Karlovarského kraje, příspěvková organizace.</p>",
           "idCredit": "Krajské inovační centrum Karlovarského kraje",
           "dataLang": {
             "languageCode": {
@@ -27973,7 +27970,7 @@
               "@_value": "cze"
             }
           },
-          "idPurp": "Datová sada s prostorovou lokalizací inovačních infrastruktur Karlovarského kraje - coworkingová centra, pobočky vysokých škol, podnikatelské inkubátory, vědeckotechnické parky, výzkumné organizace a další významné organizace inovačního prostředí Karlovarského kraje.",
+          "idPurp": "Datová sada s prostorovou lokalizací inovačních infrastruktur Karlovarského kraje - coworkingová centra, pobočky vysokých škol, podnikatelské inkubátory, výzkumné organizace, kulturní a kreativní centra, inovační centra a další významné organizace inovačního prostředí Karlovarského kraje.",
           "tpCat": {
             "TopicCatCd": {
               "@_value": "016"
@@ -27984,15 +27981,15 @@
               "GeoBndBox": {
                 "eastBL": {
                   "@_Sync": "FALSE",
-                  "#value": 12.947226
+                  "#value": 12.949027
                 },
                 "southBL": {
                   "@_Sync": "FALSE",
-                  "#value": 50.076232
+                  "#value": 49.973215
                 },
                 "northBL": {
                   "@_Sync": "FALSE",
-                  "#value": 50.296024
+                  "#value": 50.309174
                 },
                 "westBL": {
                   "@_Sync": "FALSE",
@@ -28003,7 +28000,7 @@
           },
           "idCitation": {
             "date": {
-              "reviseDate": "2025-08-12T12:34:32"
+              "reviseDate": "2026-08-10T12:53:35"
             },
             "resTitle": {
               "@_Sync": "FALSE",
@@ -28016,6 +28013,7 @@
           "themeKeys": {
             "thesaName": {
               "date": {
+                "reviseDate": "2026-08-10T12:53:03",
                 "pubDate": "2008-06-01T00:00:00"
               },
               "resTitle": {
@@ -28024,10 +28022,10 @@
               }
             },
             "keyword": [
-              "Inovační infrastruktura",
               "Karlovarský kraj",
-              "inovace",
-              "infrastruktura"
+              "inovační",
+              "infrastruktura",
+              "inovace"
             ]
           },
           "spatRpType": {
@@ -28053,7 +28051,7 @@
           "idPoC": {
             "rpCntInfo": {
               "cntAddress": {
-                "eMailAdd": "pavla.brabencova@karp-kv.cz"
+                "eMailAdd": "pavla.brabencova@kickk.cz"
               }
             },
             "role": {
@@ -28101,9 +28099,30 @@
         },
         "mdChar": {
           "CharSetCd": {
+            "@_Sync": "FALSE",
             "@_value": "004"
           }
-        }
+        },
+        "distInfo": {
+          "distTranOps": {
+            "onLineSrc": {
+              "linkage": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Mapa1_WFL1/FeatureServer"
+            }
+          }
+        },
+        "mdMaint": {
+          "maintScp": {
+            "ScopeCd": {
+              "@_value": "001"
+            }
+          },
+          "maintFreq": {
+            "MaintFreqCd": {
+              "@_value": "008"
+            }
+          }
+        },
+        "@_xml:lang": "cs"
       },
       "distribution": [
         {
@@ -28111,77 +28130,77 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/datasets/f98f8248cdf140ad84649976f2d6f499_0"
+          "accessURL": "https://www.datazapad.cz/datasets/f98f8248cdf140ad84649976f2d6f499_3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "ArcGIS GeoService",
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
-          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Mapa1_WFL1/FeatureServer/0"
+          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Mapa1_WFL1/FeatureServer/3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "CSV",
           "format": "CSV",
           "mediaType": "text/csv",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/f98f8248cdf140ad84649976f2d6f499/csv?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/f98f8248cdf140ad84649976f2d6f499/csv?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Shapefile",
           "format": "ZIP",
           "mediaType": "application/zip",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/f98f8248cdf140ad84649976f2d6f499/shapefile?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/f98f8248cdf140ad84649976f2d6f499/shapefile?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "GeoJSON",
           "format": "GeoJSON",
           "mediaType": "application/vnd.geo+json",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/f98f8248cdf140ad84649976f2d6f499/geojson?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/f98f8248cdf140ad84649976f2d6f499/geojson?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "KML",
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/f98f8248cdf140ad84649976f2d6f499/kml?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/f98f8248cdf140ad84649976f2d6f499/kml?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "File Geodatabase",
           "format": "ZIP",
           "mediaType": "application/zip",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/f98f8248cdf140ad84649976f2d6f499/filegdb?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/f98f8248cdf140ad84649976f2d6f499/filegdb?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Feature Collection",
           "format": "TXT",
           "mediaType": "text/plain",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/f98f8248cdf140ad84649976f2d6f499/featureCollection?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/f98f8248cdf140ad84649976f2d6f499/featureCollection?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Excel",
           "format": "XLSX",
           "mediaType": "application/vnd.ms-excel",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/f98f8248cdf140ad84649976f2d6f499/excel?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/f98f8248cdf140ad84649976f2d6f499/excel?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "GeoPackage",
           "format": "GPKG",
           "mediaType": "application/geopackage+sqlite3",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/f98f8248cdf140ad84649976f2d6f499/geoPackage?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/f98f8248cdf140ad84649976f2d6f499/geoPackage?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "SQLite Geodatabase",
           "format": "GDB",
           "mediaType": "application/geopackage+sqlite3",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/f98f8248cdf140ad84649976f2d6f499/sqlite?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/f98f8248cdf140ad84649976f2d6f499/sqlite?layers=3"
         }
       ],
       "theme": [
