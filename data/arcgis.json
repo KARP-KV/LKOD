@@ -15486,19 +15486,19 @@
     },
     {
       "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=5e92fe0bd817496eb38cd733543e56f8&sublayer=3",
-      "landingPage": "https://www.datazapad.cz/datasets/5e92fe0bd817496eb38cd733543e56f8_3",
+      "identifier": "https://www.arcgis.com/home/item.html?id=5e92fe0bd817496eb38cd733543e56f8&sublayer=0",
+      "landingPage": "https://www.datazapad.cz/datasets/5e92fe0bd817496eb38cd733543e56f8_0",
       "title": "Odborné organizace v cestovním ruchu a lázeňství v Karlovarském kraji",
-      "description": "<p>Datová sada obsahuje kromě přesného určení adresy místa organizace rovněž IČO, sídlo, kód adresy, ID datové schránky, webové stránky, kontaktní e-mail a telefon. Souřadnicový systém je použit WGS 1984.</p><p>Zdrojem dat je Krajský úřad Karlovarského kraje a Krajské inovační centrum Karlovarského kraje, příspěvková organizace.</p>",
+      "description": "<p>Datová sada obsahuje přehled odborných organizací v cestovním ruchu a lázeňství působících v Karlovarském kraji. Uvedená data: název, popis organizace, identifikační číslo, sídlo, kód adresy, ID datové schránky, webové stránky, kontaktní e-mail, telefonní kontakt a prostorová lokalizace adresy provozu organizace. Souřadnicový systém je použit WGS 1984.</p><p>Zdrojem dat je Krajský úřad Karlovarského kraje a Krajské inovační centrum Karlovarského kraje, příspěvková organizace.</p>",
       "keyword": [
         "Karlovarský kraj",
         "cestovní ruch",
         "lázeňství",
         "organizace",
-        "odborné organizace"
+        "odborné"
       ],
       "issued": "2024-08-06T10:56:12.000Z",
-      "modified": "2025-08-25T11:13:39.000Z",
+      "modified": "2026-08-11T11:00:35.000Z",
       "publisher": {
         "name": "Krajský úřad Karlovarského kraje"
       },
@@ -15508,7 +15508,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "5.8670,50.0730,14.4269,50.4935",
+      "spatial": "5.8670,49.9321,14.4267,50.4935",
       "license": "https://creativecommons.org/publicdomain/zero/1.0",
       "category": [
         "Kultura a cestovní ruch"
@@ -15535,16 +15535,23 @@
         },
         "mdDateSt": {
           "@_Sync": "FALSE",
-          "#value": "2025-08-25"
+          "#value": "2026-08-11"
         },
         "Esri": {
           "ArcGISFormat": 1,
           "CreaTime": 12481800,
           "ArcGISProfile": "INSPIRE",
+          "DataProperties": {
+            "itemProps": {
+              "portalDetails": {
+                "thumbnailURL": "https://www.arcgis.com/sharing/rest/content/items/5e92fe0bd817496eb38cd733543e56f8/info/thumbnail/thumbnail.png"
+              }
+            }
+          },
           "CreaDate": 20240806,
           "SyncOnce": "TRUE"
         },
-        "mdTimeSt": "11:16:59",
+        "mdTimeSt": "11:02:09",
         "dqInfo": {
           "dataLineage": {
             "statement": "Data Krajského úřadu Karlovarského kraje a Krajského inovačního centra Karlovarského kraje, příspěvkové organizace"
@@ -15578,7 +15585,7 @@
           }
         },
         "dataIdInfo": {
-          "idAbs": "<p>Datová sada obsahuje kromě přesného určení adresy místa organizace rovněž IČO, sídlo, kód adresy, ID datové schránky, webové stránky, kontaktní e-mail a telefon. Souřadnicový systém je použit WGS 1984.</p><p>Zdrojem dat je Krajský úřad Karlovarského kraje a Krajské inovační centrum Karlovarského kraje, příspěvková organizace.</p>",
+          "idAbs": "<p>Datová sada obsahuje přehled odborných organizací v cestovním ruchu a lázeňství působících v Karlovarském kraji. Uvedená data: název, popis organizace, identifikační číslo, sídlo, kód adresy, ID datové schránky, webové stránky, kontaktní e-mail, telefonní kontakt a prostorová lokalizace adresy provozu organizace. Souřadnicový systém je použit WGS 1984.</p><p>Zdrojem dat je Krajský úřad Karlovarského kraje a Krajské inovační centrum Karlovarského kraje, příspěvková organizace.</p>",
           "idCredit": "Krajský úřad Karlovarského kraje",
           "dataLang": {
             "languageCode": {
@@ -15597,11 +15604,11 @@
               "GeoBndBox": {
                 "eastBL": {
                   "@_Sync": "FALSE",
-                  "#value": 14.426932
+                  "#value": 14.426672
                 },
                 "southBL": {
                   "@_Sync": "FALSE",
-                  "#value": 50.073039
+                  "#value": 49.932106
                 },
                 "northBL": {
                   "@_Sync": "FALSE",
@@ -15616,7 +15623,7 @@
           },
           "idCitation": {
             "date": {
-              "reviseDate": "2025-08-25T11:13:39"
+              "reviseDate": "2026-08-11T11:00:35"
             },
             "resTitle": {
               "@_Sync": "FALSE",
@@ -15629,6 +15636,7 @@
           "themeKeys": {
             "thesaName": {
               "date": {
+                "reviseDate": "2026-08-11T10:59:57",
                 "pubDate": "2008-06-01T00:00:00"
               },
               "resTitle": {
@@ -15637,10 +15645,11 @@
               }
             },
             "keyword": [
+              "odborné",
+              "organizace",
               "cestovní ruch",
               "lázeňství",
-              "Karlovarský kraj",
-              "odborné organizace"
+              "Karlovarský kraj"
             ]
           },
           "spatRpType": {
@@ -15661,7 +15670,7 @@
               "cestovní ruch",
               "lázeňství",
               "organizace",
-              "odborné organizace"
+              "odborné"
             ]
           },
           "idPoC": {
@@ -15715,6 +15724,7 @@
         },
         "mdChar": {
           "CharSetCd": {
+            "@_Sync": "FALSE",
             "@_value": "004"
           }
         },
@@ -15740,77 +15750,77 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/datasets/5e92fe0bd817496eb38cd733543e56f8_3"
+          "accessURL": "https://www.datazapad.cz/datasets/5e92fe0bd817496eb38cd733543e56f8_0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "ArcGIS GeoService",
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
-          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Odborn%C3%A9_organizace_v_cestovn%C3%ADm_ruchu_a_l%C3%A1ze%C5%88stv%C3%AD_WFL1/FeatureServer/3"
+          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Odborn%C3%A9_organizace_v_cestovn%C3%ADm_ruchu_a_l%C3%A1ze%C5%88stv%C3%AD_WFL1/FeatureServer/0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "CSV",
           "format": "CSV",
           "mediaType": "text/csv",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/5e92fe0bd817496eb38cd733543e56f8/csv?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/5e92fe0bd817496eb38cd733543e56f8/csv?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Shapefile",
           "format": "ZIP",
           "mediaType": "application/zip",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/5e92fe0bd817496eb38cd733543e56f8/shapefile?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/5e92fe0bd817496eb38cd733543e56f8/shapefile?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "GeoJSON",
           "format": "GeoJSON",
           "mediaType": "application/vnd.geo+json",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/5e92fe0bd817496eb38cd733543e56f8/geojson?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/5e92fe0bd817496eb38cd733543e56f8/geojson?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "KML",
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/5e92fe0bd817496eb38cd733543e56f8/kml?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/5e92fe0bd817496eb38cd733543e56f8/kml?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "File Geodatabase",
           "format": "ZIP",
           "mediaType": "application/zip",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/5e92fe0bd817496eb38cd733543e56f8/filegdb?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/5e92fe0bd817496eb38cd733543e56f8/filegdb?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Feature Collection",
           "format": "TXT",
           "mediaType": "text/plain",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/5e92fe0bd817496eb38cd733543e56f8/featureCollection?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/5e92fe0bd817496eb38cd733543e56f8/featureCollection?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Excel",
           "format": "XLSX",
           "mediaType": "application/vnd.ms-excel",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/5e92fe0bd817496eb38cd733543e56f8/excel?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/5e92fe0bd817496eb38cd733543e56f8/excel?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "GeoPackage",
           "format": "GPKG",
           "mediaType": "application/geopackage+sqlite3",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/5e92fe0bd817496eb38cd733543e56f8/geoPackage?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/5e92fe0bd817496eb38cd733543e56f8/geoPackage?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "SQLite Geodatabase",
           "format": "GDB",
           "mediaType": "application/geopackage+sqlite3",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/5e92fe0bd817496eb38cd733543e56f8/sqlite?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/5e92fe0bd817496eb38cd733543e56f8/sqlite?layers=0"
         }
       ],
       "theme": [
