@@ -7,15 +7,17 @@
     "cs": "Výjezdové základny zdravotnické záchranné služby v Karlovarském kraji"
   },
   "popis": {
-    "cs": ""
+    "cs": "Bodová vrstva reprezentuje rozmístění výjezdových základen Zdravotnické záchranné služby Karlovarského kraje.&nbsp;Data obsahují informace o:&nbsp;městě, ve kterém se základna nacházípříslušném oblastním střediskuadrese základny včetně PSČkódu adresního místaprovozní době základny&nbsp;souřadnicích výjezdové základny (v systéměch JTSK a WGS84)"
   },
   "klíčové_slovo": {
-    "cs": []
+    "cs": [
+      "Karlovarský kraj"
+    ]
   },
   "téma": [
     "http://publications.europa.eu/resource/authority/data-theme/JUST"
   ],
-  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/OTHER",
   "prvek_rúian": [
     "https://linked.cuzk.cz/resource/ruian/vusc/51"
   ],
