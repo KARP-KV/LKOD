@@ -11220,6 +11220,81 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=4d7d80fc1d5f4f6bbb61a10b26d2a2aa&sublayer=0",
+      "landingPage": "https://www.datazapad.cz/datasets/Kakraj::výjezdové-základny-zdravotnické-záchranné-služby-v-karlovarském-kraji",
+      "title": "Výjezdové základny zdravotnické záchranné služby v Karlovarském kraji",
+      "description": "",
+      "keyword": [],
+      "issued": "2026-09-07T12:09:16.000Z",
+      "modified": "2026-09-07T12:09:39.000Z",
+      "publisher": {
+        "name": "Karlovarský kraj"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Karlovarsky.Kraj",
+        "hasEmail": "mailto:gis@kr-karlovarsky.cz"
+      },
+      "accessLevel": "public",
+      "spatial": "12.2664,49.9147,13.0913,50.3849",
+      "license": "",
+      "category": [
+        "Kategorie",
+        "Lidské zdraví a bezpečnost",
+        "IZS a bezpečnost",
+        "Veřejné služby a služby veřejné správy"
+      ],
+      "metadata": "{{metadata.metadata}}",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datazapad.cz/datasets/Kakraj::výjezdové-základny-zdravotnické-záchranné-služby-v-karlovarském-kraji"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://geo-ags.kr-karlovarsky.cz/arcgis/rest/services/Hosted/VyjezdoveZakladnyZZS/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/4d7d80fc1d5f4f6bbb61a10b26d2a2aa/csv?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/4d7d80fc1d5f4f6bbb61a10b26d2a2aa/shapefile?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/4d7d80fc1d5f4f6bbb61a10b26d2a2aa/geojson?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/4d7d80fc1d5f4f6bbb61a10b26d2a2aa/kml?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=4d8d7284782049ee826b794af25cbc05&sublayer=0",
       "landingPage": "https://www.datazapad.cz/datasets/4d8d7284782049ee826b794af25cbc05_0",
       "title": "Obecní živnostenské úřady v Karlovarském kraji",
