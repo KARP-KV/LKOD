@@ -11242,10 +11242,7 @@
       "spatial": "12.2664,49.9147,13.0913,50.3849",
       "license": "https://creativecommons.org/publicdomain/zero/1.0",
       "category": [
-        "Kategorie",
-        "Lidské zdraví a bezpečnost",
-        "IZS a bezpečnost",
-        "Veřejné služby a služby veřejné správy"
+        "IZS a bezpečnost"
       ],
       "metadata": {
         "mdLang": {
@@ -11330,18 +11327,11 @@
             }
           },
           "idPurp": "Přehled výjezdových základen zdravotnické záchranné služby v Karlovarském kraji",
-          "tpCat": [
-            {
-              "TopicCatCd": {
-                "@_value": "009"
-              }
-            },
-            {
-              "TopicCatCd": {
-                "@_value": "016"
-              }
+          "tpCat": {
+            "TopicCatCd": {
+              "@_value": "009"
             }
-          ],
+          },
           "dataExt": {
             "geoEle": {
               "GeoBndBox": {
