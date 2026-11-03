@@ -7227,10 +7227,10 @@
     },
     {
       "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=25589e2554f54259b200f4adb547db54&sublayer=0",
-      "landingPage": "https://www.datazapad.cz/datasets/25589e2554f54259b200f4adb547db54_0",
+      "identifier": "https://www.arcgis.com/home/item.html?id=25589e2554f54259b200f4adb547db54&sublayer=3",
+      "landingPage": "https://www.datazapad.cz/datasets/25589e2554f54259b200f4adb547db54_3",
       "title": "Seznam vysokých škol působících v Karlovarském kraji",
-      "description": "<p>Datová sada obsahuje přehled vysokých škol působících v Karlovarském kraji prostřednictvím poboček či středisek, jejich identifikační číslo, sídlo, adresa pobočky, kontaktní údaje (telefon, e-mail), webová stránka a prostorová lokalizace poboček. Souřadnicový systém je použit WGS 1984.</p><div>Poskytovatelem původních dat je Krajský úřad Karlovarského kraje, odbor školství, mládeže a tělovýchovy.</div>",
+      "description": "<p>Datová sada obsahuje přehled vysokých škol působících v Karlovarském kraji prostřednictvím poboček či středisek. Datová sada obsahuje název vysoké školy, její identifikační číslo, sídlo, adresu pobočky, kontaktní údaje (telefon, e-mail), webovou stránku a prostorovou lokalizaci poboček. Souřadnicový systém je použit WGS 1984.</p><div>Poskytovatelem dat je Krajské inovační centrum Karlovarského kraje, p.o.</div>",
       "keyword": [
         "Karlovarský kraj",
         "pobočka vysoké školy",
@@ -7239,9 +7239,9 @@
         "škola"
       ],
       "issued": "2025-01-28T10:49:09.000Z",
-      "modified": "2026-02-03T13:30:13.000Z",
+      "modified": "2026-11-03T12:42:35.000Z",
       "publisher": {
-        "name": "Krajský úřad Karlovarského kraje"
+        "name": "Krajské inovační centrum Karlovarského kraje"
       },
       "contactPoint": {
         "@type": "vcard:Contact",
@@ -7250,7 +7250,7 @@
       },
       "accessLevel": "public",
       "spatial": "12.3640,50.0762,12.8735,50.2310",
-      "license": "https://creativecommons.org/publicdomain/zero/1.0",
+      "license": "https://creativecommons.org/licenses/by/4.0",
       "category": [
         "Školství a výzkum"
       ],
@@ -7274,21 +7274,41 @@
           },
           "rpOrgName": "Krajské inovační centrum Karlovarského kraje, p.o."
         },
+        "distInfo": {
+          "distTranOps": {
+            "onLineSrc": {
+              "linkage": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Seznam_vysok%C3%BDch_%C5%A1kol_p%C5%AFsob%C3%ADc%C3%ADch_v_Karlovarsk%C3%A9m_kraji_WFL1/FeatureServer"
+            }
+          }
+        },
+        "mdMaint": {
+          "maintFreq": {
+            "MaintFreqCd": {
+              "@_value": "008"
+            }
+          }
+        },
         "mdDateSt": {
           "@_Sync": "FALSE",
-          "#value": "2026-02-03"
+          "#value": "2026-11-03"
         },
         "Esri": {
           "ArcGISFormat": 1,
           "CreaTime": 11415000,
           "ArcGISProfile": "INSPIRE",
+          "DataProperties": {
+            "itemProps": {
+              "portalDetails": {
+                "thumbnailURL": "https://www.arcgis.com/sharing/rest/content/items/25589e2554f54259b200f4adb547db54/info/thumbnail/thumbnail.png"
+              }
+            }
+          },
           "CreaDate": 20250128,
           "SyncOnce": "TRUE"
         },
-        "mdTimeSt": "13:31:43",
         "dqInfo": {
           "dataLineage": {
-            "statement": "Data Krajského úřadu Karlovarského kraje, odboru školství, mládeže a tělovýchovy a Krajského inovačního centra Karlovarského kraje, p.o."
+            "statement": "Data Krajského inovačního centra Karlovarského kraje, p.o."
           },
           "dqScope": {
             "scpLvl": {
@@ -7313,26 +7333,14 @@
             }
           }
         },
+        "@_xml:lang": "cs",
         "mdHrLv": {
           "ScopeCd": {
             "@_value": "005"
           }
         },
         "dataIdInfo": {
-          "idAbs": "<p>Datová sada obsahuje přehled vysokých škol působících v Karlovarském kraji prostřednictvím poboček či středisek, jejich identifikační číslo, sídlo, adresa pobočky, kontaktní údaje (telefon, e-mail), webová stránka a prostorová lokalizace poboček. Souřadnicový systém je použit WGS 1984.</p><div>Poskytovatelem původních dat je Krajský úřad Karlovarského kraje, odbor školství, mládeže a tělovýchovy.</div>",
-          "idCredit": "Krajský úřad Karlovarského kraje",
-          "dataLang": {
-            "languageCode": {
-              "@_Sync": "FALSE",
-              "@_value": "cze"
-            }
-          },
-          "idPurp": "Přehled vysokých škol, které působí v Karlovarském kraji prostřednictvím poboček či středisek.",
-          "tpCat": {
-            "TopicCatCd": {
-              "@_value": "016"
-            }
-          },
+          "idAbs": "<p>Datová sada obsahuje přehled vysokých škol působících v Karlovarském kraji prostřednictvím poboček či středisek. Datová sada obsahuje název vysoké školy, její identifikační číslo, sídlo, adresu pobočky, kontaktní údaje (telefon, e-mail), webovou stránku a prostorovou lokalizaci poboček. Souřadnicový systém je použit WGS 1984.</p><div>Poskytovatelem dat je Krajské inovační centrum Karlovarského kraje, p.o.</div>",
           "dataExt": {
             "geoEle": {
               "GeoBndBox": {
@@ -7357,7 +7365,7 @@
           },
           "idCitation": {
             "date": {
-              "reviseDate": "2026-02-03T13:30:13"
+              "reviseDate": "2026-11-03T12:42:35"
             },
             "resTitle": {
               "@_Sync": "FALSE",
@@ -7367,9 +7375,16 @@
               "identCode": "publication"
             }
           },
+          "dataLang": {
+            "languageCode": {
+              "@_Sync": "FALSE",
+              "@_value": "cze"
+            }
+          },
           "themeKeys": {
             "thesaName": {
               "date": {
+                "reviseDate": "2026-11-03T12:41:57",
                 "pubDate": "2008-06-01T00:00:00"
               },
               "resTitle": {
@@ -7380,9 +7395,11 @@
             "keyword": [
               "vysoká škola",
               "Karlovarský kraj",
-              "pobočka"
+              "pobočka",
+              "středisko"
             ]
           },
+          "idPurp": "Přehled vysokých škol, které působí v Karlovarském kraji prostřednictvím poboček či středisek.",
           "spatRpType": {
             "SpatRepTypCd": {
               "@_Sync": "FALSE",
@@ -7393,6 +7410,11 @@
             "CharSetCd": {
               "@_Sync": "FALSE",
               "@_value": "004"
+            }
+          },
+          "tpCat": {
+            "TopicCatCd": {
+              "@_value": "016"
             }
           },
           "searchKeys": {
@@ -7415,7 +7437,7 @@
                 "@_value": "007"
               }
             },
-            "rpOrgName": "Krajský úřad Karlovarského kraje"
+            "rpOrgName": "Krajské inovační centrum Karlovarského kraje"
           },
           "resConst": [
             {
@@ -7438,7 +7460,7 @@
             },
             {
               "Consts": {
-                "useLimit": "CC0 1.0"
+                "useLimit": "<p>CC BY 4.0</p>"
               }
             }
           ]
@@ -7458,22 +7480,7 @@
             "@_Sync": "FALSE",
             "@_value": "004"
           }
-        },
-        "distInfo": {
-          "distTranOps": {
-            "onLineSrc": {
-              "linkage": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Seznam_vysok%C3%BDch_%C5%A1kol_p%C5%AFsob%C3%ADc%C3%ADch_v_Karlovarsk%C3%A9m_kraji_WFL1/FeatureServer"
-            }
-          }
-        },
-        "mdMaint": {
-          "maintFreq": {
-            "MaintFreqCd": {
-              "@_value": "008"
-            }
-          }
-        },
-        "@_xml:lang": "cs"
+        }
       },
       "distribution": [
         {
@@ -7481,77 +7488,77 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/datasets/25589e2554f54259b200f4adb547db54_0"
+          "accessURL": "https://www.datazapad.cz/datasets/25589e2554f54259b200f4adb547db54_3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "ArcGIS GeoService",
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
-          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Seznam_vysok%C3%BDch_%C5%A1kol_p%C5%AFsob%C3%ADc%C3%ADch_v_Karlovarsk%C3%A9m_kraji_WFL1/FeatureServer/0"
+          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Seznam_vysok%C3%BDch_%C5%A1kol_p%C5%AFsob%C3%ADc%C3%ADch_v_Karlovarsk%C3%A9m_kraji_WFL1/FeatureServer/3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "CSV",
           "format": "CSV",
           "mediaType": "text/csv",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/25589e2554f54259b200f4adb547db54/csv?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/25589e2554f54259b200f4adb547db54/csv?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Shapefile",
           "format": "ZIP",
           "mediaType": "application/zip",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/25589e2554f54259b200f4adb547db54/shapefile?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/25589e2554f54259b200f4adb547db54/shapefile?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "GeoJSON",
           "format": "GeoJSON",
           "mediaType": "application/vnd.geo+json",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/25589e2554f54259b200f4adb547db54/geojson?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/25589e2554f54259b200f4adb547db54/geojson?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "KML",
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/25589e2554f54259b200f4adb547db54/kml?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/25589e2554f54259b200f4adb547db54/kml?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "File Geodatabase",
           "format": "ZIP",
           "mediaType": "application/zip",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/25589e2554f54259b200f4adb547db54/filegdb?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/25589e2554f54259b200f4adb547db54/filegdb?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Feature Collection",
           "format": "TXT",
           "mediaType": "text/plain",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/25589e2554f54259b200f4adb547db54/featureCollection?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/25589e2554f54259b200f4adb547db54/featureCollection?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Excel",
           "format": "XLSX",
           "mediaType": "application/vnd.ms-excel",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/25589e2554f54259b200f4adb547db54/excel?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/25589e2554f54259b200f4adb547db54/excel?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "GeoPackage",
           "format": "GPKG",
           "mediaType": "application/geopackage+sqlite3",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/25589e2554f54259b200f4adb547db54/geoPackage?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/25589e2554f54259b200f4adb547db54/geoPackage?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "SQLite Geodatabase",
           "format": "GDB",
           "mediaType": "application/geopackage+sqlite3",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/25589e2554f54259b200f4adb547db54/sqlite?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/25589e2554f54259b200f4adb547db54/sqlite?layers=3"
         }
       ],
       "theme": [
@@ -17848,10 +17855,10 @@
     },
     {
       "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=72aa9de6abc94f949f3959e70e0d241d&sublayer=0",
-      "landingPage": "https://www.datazapad.cz/datasets/72aa9de6abc94f949f3959e70e0d241d_0",
+      "identifier": "https://www.arcgis.com/home/item.html?id=72aa9de6abc94f949f3959e70e0d241d&sublayer=3",
+      "landingPage": "https://www.datazapad.cz/datasets/72aa9de6abc94f949f3959e70e0d241d_3",
       "title": "Lékařská a lékárenská pohotovostní služba v Karlovarském kraji",
-      "description": "<p><span style=\"font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif;font-size:14px;\">Datová sada obsahuje časovou a místní specifikaci lékařské pohotovostní služby pro děti, dospělé, stomatologickou a chirurgickou pohotovostní službu (chirurgickou pohotovostní službu pouze v Mariánských Lázních) a lékárenskou pohotovostní službu pro Karlovarský kraj. Souřadnicový systém je použit WGS 1984.</span></p><p><span style=\"font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif;font-size:14px;\">Zdrojem dat je Krajský úřad Karlovarského kraje.</span></p>",
+      "description": "<p><span style=\"background-color:rgb(255,255,255); color:rgb(20,20,20); font-family:&quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:14px;\"><span style=\"display:inline !important; float:none; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; text-align:start; text-decoration-color:initial; text-decoration-style:initial; text-indent:0px; text-transform:none; word-spacing:0px;\">Seznam lékařských a lékárenských pohotovostních služeb v Karlovarském kraji.</span></span><span style=\"background-color:rgb(255,255,255); color:rgb(20,20,20); font-family:&quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;\"><span style=\"display:inline !important; float:none; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; text-align:start; text-decoration-color:initial; text-decoration-style:initial; text-indent:0px; text-transform:none; word-spacing:0px;\"> </span></span><span style=\"font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:14px;\">Datová sada obsahuje časovou a místní specifikaci lékařské pohotovostní služby pro děti, dospělé, stomatologickou a chirurgickou pohotovostní službu (chirurgickou pohotovostní službu pouze v Mariánských Lázních) a lékárenskou pohotovostní službu pro Karlovarský kraj. Obsaženy jsou i webové stránky pohotovostí a telefonní kontakt. Souřadnicový systém je použit WGS 1984.</span></p><p><span style=\"font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:14px;\">Zdrojem dat je Krajský úřad Karlovarského kraje.</span></p>",
       "keyword": [
         "dětská pohotovost",
         "Karlovarský kraj",
@@ -17863,7 +17870,7 @@
         "pohotovostní služba"
       ],
       "issued": "2024-02-15T08:55:43.000Z",
-      "modified": "2026-02-12T11:45:18.000Z",
+      "modified": "2026-11-03T10:42:48.000Z",
       "publisher": {
         "name": "Krajský úřad Karlovarského kraje"
       },
@@ -17900,16 +17907,23 @@
         },
         "mdDateSt": {
           "@_Sync": "FALSE",
-          "#value": "2026-02-12"
+          "#value": "2026-11-03"
         },
         "Esri": {
           "ArcGISFormat": 1,
           "CreaTime": 9545800,
           "ArcGISProfile": "INSPIRE",
+          "DataProperties": {
+            "itemProps": {
+              "portalDetails": {
+                "thumbnailURL": "https://www.arcgis.com/sharing/rest/content/items/72aa9de6abc94f949f3959e70e0d241d/info/thumbnail/thumbnail.png"
+              }
+            }
+          },
           "CreaDate": 20240215,
           "SyncOnce": "TRUE"
         },
-        "mdTimeSt": "11:46:58",
+        "mdTimeSt": "10:43:59",
         "dqInfo": {
           "dataLineage": {
             "statement": "Data Krajského úřadu Karlovarského kraje a Krajského inovačního centra Karlovarského kraje, p.o."
@@ -17943,7 +17957,7 @@
           }
         },
         "dataIdInfo": {
-          "idAbs": "<p><span style=\"font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif;font-size:14px;\">Datová sada obsahuje časovou a místní specifikaci lékařské pohotovostní služby pro děti, dospělé, stomatologickou a chirurgickou pohotovostní službu (chirurgickou pohotovostní službu pouze v Mariánských Lázních) a lékárenskou pohotovostní službu pro Karlovarský kraj. Souřadnicový systém je použit WGS 1984.</span></p><p><span style=\"font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif;font-size:14px;\">Zdrojem dat je Krajský úřad Karlovarského kraje.</span></p>",
+          "idAbs": "<p><span style=\"background-color:rgb(255,255,255); color:rgb(20,20,20); font-family:&quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:14px;\"><span style=\"display:inline !important; float:none; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; text-align:start; text-decoration-color:initial; text-decoration-style:initial; text-indent:0px; text-transform:none; word-spacing:0px;\">Seznam lékařských a lékárenských pohotovostních služeb v Karlovarském kraji.</span></span><span style=\"background-color:rgb(255,255,255); color:rgb(20,20,20); font-family:&quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;\"><span style=\"display:inline !important; float:none; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; text-align:start; text-decoration-color:initial; text-decoration-style:initial; text-indent:0px; text-transform:none; word-spacing:0px;\"> </span></span><span style=\"font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:14px;\">Datová sada obsahuje časovou a místní specifikaci lékařské pohotovostní služby pro děti, dospělé, stomatologickou a chirurgickou pohotovostní službu (chirurgickou pohotovostní službu pouze v Mariánských Lázních) a lékárenskou pohotovostní službu pro Karlovarský kraj. Obsaženy jsou i webové stránky pohotovostí a telefonní kontakt. Souřadnicový systém je použit WGS 1984.</span></p><p><span style=\"font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:14px;\">Zdrojem dat je Krajský úřad Karlovarského kraje.</span></p>",
           "idCredit": "Krajský úřad Karlovarského kraje",
           "dataLang": {
             "languageCode": {
@@ -17952,18 +17966,11 @@
             }
           },
           "idPurp": "Seznam lékařských a lékárenských pohotovostních služeb v Karlovarském kraji.",
-          "tpCat": [
-            {
-              "TopicCatCd": {
-                "@_value": "009"
-              }
-            },
-            {
-              "TopicCatCd": {
-                "@_value": "016"
-              }
+          "tpCat": {
+            "TopicCatCd": {
+              "@_value": "009"
             }
-          ],
+          },
           "dataExt": {
             "geoEle": {
               "GeoBndBox": {
@@ -17988,7 +17995,7 @@
           },
           "idCitation": {
             "date": {
-              "reviseDate": "2026-02-12T11:45:18"
+              "reviseDate": "2026-11-03T10:42:48"
             },
             "resTitle": {
               "@_Sync": "FALSE",
@@ -18001,6 +18008,7 @@
           "themeKeys": {
             "thesaName": {
               "date": {
+                "reviseDate": "2026-11-03T10:42:19",
                 "pubDate": "2008-06-01T00:00:00"
               },
               "resTitle": {
@@ -18009,11 +18017,10 @@
               }
             },
             "keyword": [
-              "Karlovarský kraj",
               "pohotovostní služba",
-              "lékařská pohotovost",
-              "lékárenská pohotovost",
-              "pohotovost"
+              "Karlovarský kraj",
+              "lékařská",
+              "lékárenská"
             ]
           },
           "spatRpType": {
@@ -18105,7 +18112,7 @@
         "mdMaint": {
           "maintFreq": {
             "MaintFreqCd": {
-              "@_value": "006"
+              "@_value": "007"
             }
           }
         },
@@ -18117,77 +18124,77 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/datasets/72aa9de6abc94f949f3959e70e0d241d_0"
+          "accessURL": "https://www.datazapad.cz/datasets/72aa9de6abc94f949f3959e70e0d241d_3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "ArcGIS GeoService",
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
-          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/L%C3%A9ka%C5%99sk%C3%A1_a_l%C3%A9k%C3%A1rensk%C3%A1_pohotovostn%C3%AD_slu%C5%BEba_v_KVK_v_r__2024_WFL1/FeatureServer/0"
+          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/L%C3%A9ka%C5%99sk%C3%A1_a_l%C3%A9k%C3%A1rensk%C3%A1_pohotovostn%C3%AD_slu%C5%BEba_v_KVK_v_r__2024_WFL1/FeatureServer/3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "CSV",
           "format": "CSV",
           "mediaType": "text/csv",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/72aa9de6abc94f949f3959e70e0d241d/csv?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/72aa9de6abc94f949f3959e70e0d241d/csv?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Shapefile",
           "format": "ZIP",
           "mediaType": "application/zip",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/72aa9de6abc94f949f3959e70e0d241d/shapefile?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/72aa9de6abc94f949f3959e70e0d241d/shapefile?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "GeoJSON",
           "format": "GeoJSON",
           "mediaType": "application/vnd.geo+json",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/72aa9de6abc94f949f3959e70e0d241d/geojson?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/72aa9de6abc94f949f3959e70e0d241d/geojson?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "KML",
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/72aa9de6abc94f949f3959e70e0d241d/kml?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/72aa9de6abc94f949f3959e70e0d241d/kml?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "File Geodatabase",
           "format": "ZIP",
           "mediaType": "application/zip",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/72aa9de6abc94f949f3959e70e0d241d/filegdb?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/72aa9de6abc94f949f3959e70e0d241d/filegdb?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Feature Collection",
           "format": "TXT",
           "mediaType": "text/plain",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/72aa9de6abc94f949f3959e70e0d241d/featureCollection?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/72aa9de6abc94f949f3959e70e0d241d/featureCollection?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Excel",
           "format": "XLSX",
           "mediaType": "application/vnd.ms-excel",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/72aa9de6abc94f949f3959e70e0d241d/excel?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/72aa9de6abc94f949f3959e70e0d241d/excel?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "GeoPackage",
           "format": "GPKG",
           "mediaType": "application/geopackage+sqlite3",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/72aa9de6abc94f949f3959e70e0d241d/geoPackage?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/72aa9de6abc94f949f3959e70e0d241d/geoPackage?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "SQLite Geodatabase",
           "format": "GDB",
           "mediaType": "application/geopackage+sqlite3",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/72aa9de6abc94f949f3959e70e0d241d/sqlite?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/72aa9de6abc94f949f3959e70e0d241d/sqlite?layers=3"
         }
       ],
       "theme": [
