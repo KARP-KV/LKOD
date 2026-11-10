@@ -1033,10 +1033,10 @@
     },
     {
       "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=037f7b55d2d34fa88fd63bf2d2903839&sublayer=3",
-      "landingPage": "https://www.datazapad.cz/datasets/037f7b55d2d34fa88fd63bf2d2903839_3",
+      "identifier": "https://www.arcgis.com/home/item.html?id=037f7b55d2d34fa88fd63bf2d2903839&sublayer=0",
+      "landingPage": "https://www.datazapad.cz/datasets/037f7b55d2d34fa88fd63bf2d2903839_0",
       "title": "Přírodní pozoruhodnosti v Karlovarském kraji",
-      "description": "<p><span style='font-size:medium;'>Datová sada obsahuje, kromě přehledu a prostorové lokalizace umístění přírodních pozoruhodností v Karlovarském kraji, rovněž uvedení typu přírodní pozoruhodnosti, specifikaci památky, správce (název organizace, identifikační číslo, právní forma, sídlo, kód adresy, ID datové schránky, kontaktní e-mail a telefonní kontakt), dále pak webovou stránku s informacemi o přírodní pozoruhodnosti. Souřadnicový systém je použit WGS 1984.</span></p><p><span style='font-size:medium;'>Poskytovatelem původních dat pro datovou sadu je Živý kraj - Destinační agentura pro Karlovarský kraj, z.s.</span><br />&nbsp;</p>",
+      "description": "<div style=\"font-family:'Segoe UI'; font-size:14px; font-style:normal; font-weight:400; line-height:20px;\"><span style=\"font-family:Verdana; font-size:14px;\">Datová sada obsahuje přehled přírodních pozoruhodností na území Karlovarského kraje včetně jejich prostorové lokalizace. Součástí datové sady jsou také informace o typu přírodní pozoruhodnosti, její specifikaci a správci, včetně názvu organizace, identifikačního čísla, právní formy, sídla, kódu adresy, identifikátoru datové schránky, kontaktního e-mailu a telefonního spojení. Dále datová sada obsahuje odkaz na webovou stránku s podrobnějšími informacemi o dané přírodní pozoruhodnosti.&nbsp;</span></div><div style=\"font-family:'Segoe UI'; font-size:14px; font-style:normal; font-weight:400; line-height:20px;\"><span style=\"font-family:Verdana; font-size:14px;\">Souřadnice jsou vedeny v souřadnicovém systému WGS 1984.</span></div><div style=\"font-family:'Segoe UI'; font-size:14px; font-style:normal; font-weight:400; line-height:20px;\"><span style=\"font-family:Verdana; font-size:14px;\">Poskytovatelem dat je Krajské inovační centrum Karlovarského kraje, příspěvková organizace.</span><br><span style=\"font-family:Verdana; font-size:14px;\">&nbsp;</span></div>",
       "keyword": [
         "Příroda",
         "pozoruhodnost",
@@ -1044,7 +1044,7 @@
         "Karlovarský kraj"
       ],
       "issued": "2024-10-08T06:57:05.000Z",
-      "modified": "2025-10-23T11:09:09.000Z",
+      "modified": "2026-11-10T09:47:02.000Z",
       "publisher": {
         "name": "Krajské inovační centrum Karlovarského kraje"
       },
@@ -1054,7 +1054,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "12.2514,49.9484,13.0668,50.4024",
+      "spatial": "12.2512,49.9484,13.0668,50.4024",
       "license": "https://creativecommons.org/licenses/by/4.0",
       "category": [
         "Kultura a cestovní ruch"
@@ -1079,21 +1079,34 @@
           },
           "rpOrgName": "Krajské inovační centrum Karlovarského kraje, p.o."
         },
+        "mdMaint": {
+          "maintFreq": {
+            "MaintFreqCd": {
+              "@_value": "008"
+            }
+          }
+        },
         "mdDateSt": {
           "@_Sync": "FALSE",
-          "#value": "2025-10-23"
+          "#value": "2026-11-10"
         },
         "Esri": {
           "ArcGISFormat": 1,
           "CreaTime": 8492700,
           "ArcGISProfile": "INSPIRE",
+          "DataProperties": {
+            "itemProps": {
+              "portalDetails": {
+                "thumbnailURL": "https://www.arcgis.com/sharing/rest/content/items/037f7b55d2d34fa88fd63bf2d2903839/info/thumbnail/thumbnail.png"
+              }
+            }
+          },
           "CreaDate": 20241008,
           "SyncOnce": "TRUE"
         },
-        "mdTimeSt": "11:10:39",
         "dqInfo": {
           "dataLineage": {
-            "statement": "Data Živého kraje - Destinační agentury pro Karlovarský kraj, z.s. a Krajského inovačního centra Karlovarského kraje, p.o."
+            "statement": "Data Krajského inovačního centra Karlovarského kraje, p.o."
           },
           "dqScope": {
             "scpLvl": {
@@ -1118,26 +1131,14 @@
             }
           }
         },
+        "@_xml:lang": "cs",
         "mdHrLv": {
           "ScopeCd": {
             "@_value": "005"
           }
         },
         "dataIdInfo": {
-          "idAbs": "<p><span style='font-size:medium;'>Datová sada obsahuje, kromě přehledu a prostorové lokalizace umístění přírodních pozoruhodností v Karlovarském kraji, rovněž uvedení typu přírodní pozoruhodnosti, specifikaci památky, správce (název organizace, identifikační číslo, právní forma, sídlo, kód adresy, ID datové schránky, kontaktní e-mail a telefonní kontakt), dále pak webovou stránku s informacemi o přírodní pozoruhodnosti. Souřadnicový systém je použit WGS 1984.</span></p><p><span style='font-size:medium;'>Poskytovatelem původních dat pro datovou sadu je Živý kraj - Destinační agentura pro Karlovarský kraj, z.s.</span><br />&nbsp;</p>",
-          "idCredit": "Živý kraj - Destinační agentura pro Karlovarský kraj, z.s.",
-          "dataLang": {
-            "languageCode": {
-              "@_Sync": "FALSE",
-              "@_value": "cze"
-            }
-          },
-          "idPurp": "Přehled přírodních pozoruhodností v Karlovarském kraji.",
-          "tpCat": {
-            "TopicCatCd": {
-              "@_value": "002"
-            }
-          },
+          "idAbs": "<div style=\"font-family:'Segoe UI'; font-size:14px; font-style:normal; font-weight:400; line-height:20px;\"><span style=\"font-family:Verdana; font-size:14px;\">Datová sada obsahuje přehled přírodních pozoruhodností na území Karlovarského kraje včetně jejich prostorové lokalizace. Součástí datové sady jsou také informace o typu přírodní pozoruhodnosti, její specifikaci a správci, včetně názvu organizace, identifikačního čísla, právní formy, sídla, kódu adresy, identifikátoru datové schránky, kontaktního e-mailu a telefonního spojení. Dále datová sada obsahuje odkaz na webovou stránku s podrobnějšími informacemi o dané přírodní pozoruhodnosti.&nbsp;</span></div><div style=\"font-family:'Segoe UI'; font-size:14px; font-style:normal; font-weight:400; line-height:20px;\"><span style=\"font-family:Verdana; font-size:14px;\">Souřadnice jsou vedeny v souřadnicovém systému WGS 1984.</span></div><div style=\"font-family:'Segoe UI'; font-size:14px; font-style:normal; font-weight:400; line-height:20px;\"><span style=\"font-family:Verdana; font-size:14px;\">Poskytovatelem dat je Krajské inovační centrum Karlovarského kraje, příspěvková organizace.</span><br><span style=\"font-family:Verdana; font-size:14px;\">&nbsp;</span></div>",
           "dataExt": {
             "geoEle": {
               "GeoBndBox": {
@@ -1155,14 +1156,14 @@
                 },
                 "westBL": {
                   "@_Sync": "FALSE",
-                  "#value": 12.251433
+                  "#value": 12.251229
                 }
               }
             }
           },
           "idCitation": {
             "date": {
-              "reviseDate": "2025-10-23T11:09:09"
+              "reviseDate": "2026-11-10T09:47:02"
             },
             "resTitle": {
               "@_Sync": "FALSE",
@@ -1172,9 +1173,16 @@
               "identCode": "publication"
             }
           },
+          "dataLang": {
+            "languageCode": {
+              "@_Sync": "FALSE",
+              "@_value": "cze"
+            }
+          },
           "themeKeys": {
             "thesaName": {
               "date": {
+                "reviseDate": "2026-11-10T09:46:31",
                 "pubDate": "2008-06-01T00:00:00"
               },
               "resTitle": {
@@ -1183,11 +1191,13 @@
               }
             },
             "keyword": [
-              "Karlovarský  kraj",
               "příroda",
-              "přírodní pozoruhodnost"
+              "přírodní",
+              "Karlovarský kraj",
+              "pozoruhodnost"
             ]
           },
+          "idPurp": "Přehled přírodních pozoruhodností v Karlovarském kraji.",
           "spatRpType": {
             "SpatRepTypCd": {
               "@_Sync": "FALSE",
@@ -1198,6 +1208,11 @@
             "CharSetCd": {
               "@_Sync": "FALSE",
               "@_value": "004"
+            }
+          },
+          "tpCat": {
+            "TopicCatCd": {
+              "@_value": "002"
             }
           },
           "searchKeys": {
@@ -1262,22 +1277,7 @@
             "@_Sync": "FALSE",
             "@_value": "004"
           }
-        },
-        "distInfo": {
-          "distTranOps": {
-            "onLineSrc": {
-              "linkage": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/P%C5%99%C3%ADrodn%C3%AD_pozoruhodnosti_v_KVK_WFL1/FeatureServer"
-            }
-          }
-        },
-        "mdMaint": {
-          "maintFreq": {
-            "MaintFreqCd": {
-              "@_value": "008"
-            }
-          }
-        },
-        "@_xml:lang": "cs"
+        }
       },
       "distribution": [
         {
@@ -1285,77 +1285,77 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/datasets/037f7b55d2d34fa88fd63bf2d2903839_3"
+          "accessURL": "https://www.datazapad.cz/datasets/037f7b55d2d34fa88fd63bf2d2903839_0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "ArcGIS GeoService",
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
-          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/P%C5%99%C3%ADrodn%C3%AD_pozoruhodnosti_v_KVK_WFL1/FeatureServer/3"
+          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/P%C5%99%C3%ADrodn%C3%AD_pozoruhodnosti_v_KVK_WFL1/FeatureServer/0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "CSV",
           "format": "CSV",
           "mediaType": "text/csv",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/037f7b55d2d34fa88fd63bf2d2903839/csv?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/037f7b55d2d34fa88fd63bf2d2903839/csv?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Shapefile",
           "format": "ZIP",
           "mediaType": "application/zip",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/037f7b55d2d34fa88fd63bf2d2903839/shapefile?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/037f7b55d2d34fa88fd63bf2d2903839/shapefile?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "GeoJSON",
           "format": "GeoJSON",
           "mediaType": "application/vnd.geo+json",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/037f7b55d2d34fa88fd63bf2d2903839/geojson?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/037f7b55d2d34fa88fd63bf2d2903839/geojson?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "KML",
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/037f7b55d2d34fa88fd63bf2d2903839/kml?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/037f7b55d2d34fa88fd63bf2d2903839/kml?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "File Geodatabase",
           "format": "ZIP",
           "mediaType": "application/zip",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/037f7b55d2d34fa88fd63bf2d2903839/filegdb?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/037f7b55d2d34fa88fd63bf2d2903839/filegdb?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Feature Collection",
           "format": "TXT",
           "mediaType": "text/plain",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/037f7b55d2d34fa88fd63bf2d2903839/featureCollection?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/037f7b55d2d34fa88fd63bf2d2903839/featureCollection?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Excel",
           "format": "XLSX",
           "mediaType": "application/vnd.ms-excel",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/037f7b55d2d34fa88fd63bf2d2903839/excel?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/037f7b55d2d34fa88fd63bf2d2903839/excel?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "GeoPackage",
           "format": "GPKG",
           "mediaType": "application/geopackage+sqlite3",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/037f7b55d2d34fa88fd63bf2d2903839/geoPackage?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/037f7b55d2d34fa88fd63bf2d2903839/geoPackage?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "SQLite Geodatabase",
           "format": "GDB",
           "mediaType": "application/geopackage+sqlite3",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/037f7b55d2d34fa88fd63bf2d2903839/sqlite?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/037f7b55d2d34fa88fd63bf2d2903839/sqlite?layers=0"
         }
       ],
       "theme": [
@@ -4329,7 +4329,7 @@
       "identifier": "https://www.arcgis.com/home/item.html?id=135900efd11e4df1865987b57428eb9f&sublayer=0",
       "landingPage": "https://www.datazapad.cz/datasets/135900efd11e4df1865987b57428eb9f_0",
       "title": "Památky UNESCO v Karlovarském kraji",
-      "description": "<div style=\"font-family:&apos; font-size:14px; font-style:normal; font-weight:400; line-height:20px;\"><p><span style=\"font-family:Arial; font-size:14px;\">Datová sada obsahuje seznam památek UNESCO v Karlovarském kraji včetně jejich prostorové lokalizace. Součástí datové sady jsou také informace o typu památky a o správci či informační instituci dané památky, zejména název, identifikační číslo, sídlo, právní forma, kód adresy, identifikátor datové schránky, kontaktní e-mail, telefonní číslo a webové stránky. Data jsou poskytována v souřadnicovém systému WGS 1984.</span></p><p><span style=\"font-family:Arial; font-size:14px;\">Zdrojem dat je Krajské inovační centrum Karlovarského kraje, p.o.</span></p></div><div><br />&nbsp;</div>",
+      "description": "<div><p><span style='font-family:Verdana; font-size:14px;'>Datová sada obsahuje seznam památek UNESCO v Karlovarském kraji včetně jejich prostorové lokalizace. Součástí datové sady jsou také informace o typu památky a o správci či informační instituci dané památky, zejména název, identifikační číslo, sídlo, právní forma, kód adresy, identifikátor datové schránky, kontaktní e-mail, telefonní číslo a webové stránky. Data jsou poskytována v souřadnicovém systému WGS 1984.</span></p><p><span style='font-family:Verdana; font-size:14px;'>Zdrojem dat je Krajské inovační centrum Karlovarského kraje, p.o.</span></p></div><div><br />&nbsp;</div>",
       "keyword": [
         "UNESCO",
         "památka",
@@ -4437,7 +4437,7 @@
           }
         },
         "dataIdInfo": {
-          "idAbs": "<div style=\"font-family:&apos; font-size:14px; font-style:normal; font-weight:400; line-height:20px;\"><p><span style=\"font-family:Arial; font-size:14px;\">Datová sada obsahuje seznam památek UNESCO v Karlovarském kraji včetně jejich prostorové lokalizace. Součástí datové sady jsou také informace o typu památky a o správci či informační instituci dané památky, zejména název, identifikační číslo, sídlo, právní forma, kód adresy, identifikátor datové schránky, kontaktní e-mail, telefonní číslo a webové stránky. Data jsou poskytována v souřadnicovém systému WGS 1984.</span></p><p><span style=\"font-family:Arial; font-size:14px;\">Zdrojem dat je Krajské inovační centrum Karlovarského kraje, p.o.</span></p></div><div><br />&nbsp;</div>",
+          "idAbs": "<div><p><span style='font-family:Verdana; font-size:14px;'>Datová sada obsahuje seznam památek UNESCO v Karlovarském kraji včetně jejich prostorové lokalizace. Součástí datové sady jsou také informace o typu památky a o správci či informační instituci dané památky, zejména název, identifikační číslo, sídlo, právní forma, kód adresy, identifikátor datové schránky, kontaktní e-mail, telefonní číslo a webové stránky. Data jsou poskytována v souřadnicovém systému WGS 1984.</span></p><p><span style='font-family:Verdana; font-size:14px;'>Zdrojem dat je Krajské inovační centrum Karlovarského kraje, p.o.</span></p></div><div><br />&nbsp;</div>",
           "dataExt": {
             "geoEle": {
               "GeoBndBox": {
@@ -5945,7 +5945,7 @@
       "identifier": "https://www.arcgis.com/home/item.html?id=1e64adf22f8448a693f638c9f1334dc9&sublayer=0",
       "landingPage": "https://www.datazapad.cz/datasets/1e64adf22f8448a693f638c9f1334dc9_0",
       "title": "Jiné atraktivity v Karlovarském kraji",
-      "description": "<div><p><span style=\"font-size:14px;\">Datová sada obsahuje přehled jiných (netypických) turistických atraktivit v Karlovarském kraji. Kromě lokalizace jednotlivých atraktivit zahrnuje také informace o provozovateli, zejména identifikační číslo, právní formu, sídlo, kód adresy a identifikátor datové schránky. Dále jsou uvedeny informace o vstupném, webové stránky atraktivity, kontaktní e-mail a telefonní číslo. Data jsou poskytována v souřadnicovém systému WGS 1984.</span></p><p><span style=\"font-size:14px;\">Zdrojem dat je Krajské inovační centrum Karlovarského kraje, p.o.</span></p></div>",
+      "description": "<div><p><span style='font-family:Verdana; font-size:14px;'>Datová sada obsahuje přehled jiných (netypických) turistických atraktivit v Karlovarském kraji. Kromě lokalizace jednotlivých atraktivit zahrnuje také informace o provozovateli, zejména identifikační číslo, právní formu, sídlo, kód adresy a identifikátor datové schránky. Dále jsou uvedeny informace o vstupném, webové stránky atraktivity, kontaktní e-mail a telefonní číslo. Data jsou poskytována v souřadnicovém systému WGS 1984.</span></p><p><span style='font-family:Verdana; font-size:14px;'>Zdrojem dat je Krajské inovační centrum Karlovarského kraje, p.o.</span></p></div>",
       "keyword": [
         "atraktivita",
         "Karlovarský kraj",
@@ -6053,7 +6053,7 @@
           }
         },
         "dataIdInfo": {
-          "idAbs": "<div><p><span style=\"font-size:14px;\">Datová sada obsahuje přehled jiných (netypických) turistických atraktivit v Karlovarském kraji. Kromě lokalizace jednotlivých atraktivit zahrnuje také informace o provozovateli, zejména identifikační číslo, právní formu, sídlo, kód adresy a identifikátor datové schránky. Dále jsou uvedeny informace o vstupném, webové stránky atraktivity, kontaktní e-mail a telefonní číslo. Data jsou poskytována v souřadnicovém systému WGS 1984.</span></p><p><span style=\"font-size:14px;\">Zdrojem dat je Krajské inovační centrum Karlovarského kraje, p.o.</span></p></div>",
+          "idAbs": "<div><p><span style='font-family:Verdana; font-size:14px;'>Datová sada obsahuje přehled jiných (netypických) turistických atraktivit v Karlovarském kraji. Kromě lokalizace jednotlivých atraktivit zahrnuje také informace o provozovateli, zejména identifikační číslo, právní formu, sídlo, kód adresy a identifikátor datové schránky. Dále jsou uvedeny informace o vstupném, webové stránky atraktivity, kontaktní e-mail a telefonní číslo. Data jsou poskytována v souřadnicovém systému WGS 1984.</span></p><p><span style='font-family:Verdana; font-size:14px;'>Zdrojem dat je Krajské inovační centrum Karlovarského kraje, p.o.</span></p></div>",
           "dataExt": {
             "geoEle": {
               "GeoBndBox": {
@@ -7906,7 +7906,7 @@
       "identifier": "https://www.arcgis.com/home/item.html?id=2c9bd5558c4a495c8424a84bc6b370e2&sublayer=0",
       "landingPage": "https://www.datazapad.cz/datasets/2c9bd5558c4a495c8424a84bc6b370e2_0",
       "title": "Náboženské památky v Karlovarském kraji",
-      "description": "<div style=\"font-family:&apos; font-size:14px; font-style:normal; font-weight:400; line-height:20px;\"><span style=\"font-family:Arial; font-size:14px;\">Datová sada obsahuje přehled náboženských památek - klášterů, kostelů, poutních míst - na území Karlovarského kraje včetně jejich prostorové lokalizace. Součástí datové sady jsou také informace o provozovateli památky (název, identifikační číslo, právní forma, sídlo, kód adresy a identifikátor datové schránky, webové stránky, kontaktní e-mail a telefon), údaje o přístupnosti objektu, možnostech prohlídek a vstupném. Souřadnice jsou vedeny v souřadnicovém systému WGS 1984.</span></div><div style=\"font-family:&apos; font-size:14px; font-style:normal; font-weight:400; line-height:20px;\"><span style=\"font-family:Arial; font-size:14px;\">Poskytovatelem dat je Krajské inovační centrum Karlovarského kraje.&nbsp;</span></div>",
+      "description": "<div><span style='font-family:Verdana; font-size:14px;'>Datová sada obsahuje přehled náboženských památek - klášterů, kostelů, poutních míst - na území Karlovarského kraje včetně jejich prostorové lokalizace. Součástí datové sady jsou také informace o provozovateli památky (název, identifikační číslo, právní forma, sídlo, kód adresy a identifikátor datové schránky, webové stránky, kontaktní e-mail a telefon), údaje o přístupnosti objektu, možnostech prohlídek a vstupném. Souřadnice jsou vedeny v souřadnicovém systému WGS 1984.</span></div><div><span style='font-family:Verdana; font-size:14px;'>Poskytovatelem dat je Krajské inovační centrum Karlovarského kraje.&nbsp;</span></div>",
       "keyword": [
         "náboženství",
         "Karlovarský kraj",
@@ -8018,7 +8018,7 @@
           }
         },
         "dataIdInfo": {
-          "idAbs": "<div style=\"font-family:&apos; font-size:14px; font-style:normal; font-weight:400; line-height:20px;\"><span style=\"font-family:Arial; font-size:14px;\">Datová sada obsahuje přehled náboženských památek - klášterů, kostelů, poutních míst - na území Karlovarského kraje včetně jejich prostorové lokalizace. Součástí datové sady jsou také informace o provozovateli památky (název, identifikační číslo, právní forma, sídlo, kód adresy a identifikátor datové schránky, webové stránky, kontaktní e-mail a telefon), údaje o přístupnosti objektu, možnostech prohlídek a vstupném. Souřadnice jsou vedeny v souřadnicovém systému WGS 1984.</span></div><div style=\"font-family:&apos; font-size:14px; font-style:normal; font-weight:400; line-height:20px;\"><span style=\"font-family:Arial; font-size:14px;\">Poskytovatelem dat je Krajské inovační centrum Karlovarského kraje.&nbsp;</span></div>",
+          "idAbs": "<div><span style='font-family:Verdana; font-size:14px;'>Datová sada obsahuje přehled náboženských památek - klášterů, kostelů, poutních míst - na území Karlovarského kraje včetně jejich prostorové lokalizace. Součástí datové sady jsou také informace o provozovateli památky (název, identifikační číslo, právní forma, sídlo, kód adresy a identifikátor datové schránky, webové stránky, kontaktní e-mail a telefon), údaje o přístupnosti objektu, možnostech prohlídek a vstupném. Souřadnice jsou vedeny v souřadnicovém systému WGS 1984.</span></div><div><span style='font-family:Verdana; font-size:14px;'>Poskytovatelem dat je Krajské inovační centrum Karlovarského kraje.&nbsp;</span></div>",
           "dataExt": {
             "geoEle": {
               "GeoBndBox": {
@@ -16517,18 +16517,18 @@
     },
     {
       "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=6be3423787fd4c1fa19a70b025e2eb64&sublayer=3",
-      "landingPage": "https://www.datazapad.cz/datasets/6be3423787fd4c1fa19a70b025e2eb64_3",
+      "identifier": "https://www.arcgis.com/home/item.html?id=6be3423787fd4c1fa19a70b025e2eb64&sublayer=0",
+      "landingPage": "https://www.datazapad.cz/datasets/6be3423787fd4c1fa19a70b025e2eb64_0",
       "title": "Muzea v přírodě a skanzeny v Karlovarském kraji",
-      "description": "<p>Datová sada obsahuje kromě přesné specifikace umístění muzea či skanzenu také informace o provozovateli (identifikační číslo, sídlo, právní formu, kód adresy, ID datové schránky), informaci o vstupném, webové stránky, kontaktní e-mail a telefon muzea v přírodě či skanzenu. Souřadnicový systém je použit WGS 1984.</p><p>Původním zdrojem dat je Živý kraj - Destinační agentura pro Karlovarský kraj, z.s.</p>",
+      "description": "<p><span style=\"font-family:Verdana; font-size:14px;\">Datová sada obsahuje přehled muzeí v přírodě a skanzenů na území Karlovarského kraje včetně jejich prostorové lokalizace. Součástí datové sady jsou také informace o provozovateli, včetně identifikačního čísla, sídla, právní formy, kódu adresy a identifikátoru datové schránky. Dále datová sada obsahuje informace o vstupném, webové stránky, kontaktní e-mail a telefonní spojení. Souřadnice jsou vedeny v souřadnicovém systému WGS 1984.</span></p><p><span style=\"font-family:Verdana; font-size:14px;\">Zdrojem dat je Krajské inovační centrum Karlovarského kraje, příspěvková organizace.</span></p>",
       "keyword": [
         "muzeum",
-        "muzea v přírodě",
         "skanzen",
-        "Karlovarský kraj"
+        "Karlovarský kraj",
+        "v přírodě"
       ],
       "issued": "2024-08-12T09:34:05.000Z",
-      "modified": "2025-09-02T11:32:32.000Z",
+      "modified": "2026-11-10T11:01:59.000Z",
       "publisher": {
         "name": "Krajské inovační centrum Karlovarského kraje"
       },
@@ -16538,7 +16538,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "12.4019,50.0200,12.9107,50.3711",
+      "spatial": "12.4019,50.0201,12.9106,50.3711",
       "license": "https://creativecommons.org/licenses/by/4.0",
       "category": [
         "Kultura a cestovní ruch"
@@ -16561,14 +16561,7 @@
               "@_value": "007"
             }
           },
-          "rpOrgName": "Krajské inovační centrum Karlovarského kraje"
-        },
-        "distInfo": {
-          "distTranOps": {
-            "onLineSrc": {
-              "linkage": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Muzea_v_p%C5%99%C3%ADrod%C4%9B_a_skanzeny_v_KVK_WFL1/FeatureServer"
-            }
-          }
+          "rpOrgName": "Krajské inovační centrum Karlovarského kraje, p.o."
         },
         "mdMaint": {
           "maintFreq": {
@@ -16577,16 +16570,27 @@
             }
           }
         },
+        "mdDateSt": {
+          "@_Sync": "FALSE",
+          "#value": "2026-11-10"
+        },
         "Esri": {
           "ArcGISFormat": 1,
           "CreaTime": 11265100,
           "ArcGISProfile": "INSPIRE",
+          "DataProperties": {
+            "itemProps": {
+              "portalDetails": {
+                "thumbnailURL": "https://www.arcgis.com/sharing/rest/content/items/6be3423787fd4c1fa19a70b025e2eb64/info/thumbnail/thumbnail.png"
+              }
+            }
+          },
           "CreaDate": 20240812,
           "SyncOnce": "TRUE"
         },
         "dqInfo": {
           "dataLineage": {
-            "statement": "Data Živého kraje - Destinační agentury pro Karlovarský kraj, z.s. a Krajského inovačního centra Karlovarského kraje, p.o."
+            "statement": "Data Krajského inovačního centra Karlovarského kraje, p.o."
           },
           "dqScope": {
             "scpLvl": {
@@ -16618,41 +16622,21 @@
           }
         },
         "dataIdInfo": {
-          "idAbs": "<p>Datová sada obsahuje kromě přesné specifikace umístění muzea či skanzenu také informace o provozovateli (identifikační číslo, sídlo, právní formu, kód adresy, ID datové schránky), informaci o vstupném, webové stránky, kontaktní e-mail a telefon muzea v přírodě či skanzenu. Souřadnicový systém je použit WGS 1984.</p><p>Původním zdrojem dat je Živý kraj - Destinační agentura pro Karlovarský kraj, z.s.</p>",
-          "idCredit": "Živý kraj – Destinační agentura pro Karlovarský kraj, z.s.",
-          "dataLang": {
-            "languageCode": {
-              "@_Sync": "FALSE",
-              "@_value": "cze"
-            }
-          },
-          "idPurp": "Přehled muzeí v přírodě a skanzenů v Karlovarském kraji.",
-          "tpCat": [
-            {
-              "TopicCatCd": {
-                "@_value": "016"
-              }
-            },
-            {
-              "TopicCatCd": {
-                "@_value": "017"
-              }
-            }
-          ],
+          "idAbs": "<p><span style=\"font-family:Verdana; font-size:14px;\">Datová sada obsahuje přehled muzeí v přírodě a skanzenů na území Karlovarského kraje včetně jejich prostorové lokalizace. Součástí datové sady jsou také informace o provozovateli, včetně identifikačního čísla, sídla, právní formy, kódu adresy a identifikátoru datové schránky. Dále datová sada obsahuje informace o vstupném, webové stránky, kontaktní e-mail a telefonní spojení. Souřadnice jsou vedeny v souřadnicovém systému WGS 1984.</span></p><p><span style=\"font-family:Verdana; font-size:14px;\">Zdrojem dat je Krajské inovační centrum Karlovarského kraje, příspěvková organizace.</span></p>",
           "dataExt": {
             "geoEle": {
               "GeoBndBox": {
                 "eastBL": {
                   "@_Sync": "FALSE",
-                  "#value": 12.910725
+                  "#value": 12.910575
                 },
                 "southBL": {
                   "@_Sync": "FALSE",
-                  "#value": 50.02
+                  "#value": 50.020104
                 },
                 "northBL": {
                   "@_Sync": "FALSE",
-                  "#value": 50.3711
+                  "#value": 50.371072
                 },
                 "westBL": {
                   "@_Sync": "FALSE",
@@ -16663,7 +16647,7 @@
           },
           "idCitation": {
             "date": {
-              "reviseDate": "2025-09-02T11:32:32"
+              "reviseDate": "2026-11-10T11:01:59"
             },
             "resTitle": {
               "@_Sync": "FALSE",
@@ -16673,9 +16657,16 @@
               "identCode": "publication"
             }
           },
+          "dataLang": {
+            "languageCode": {
+              "@_Sync": "FALSE",
+              "@_value": "cze"
+            }
+          },
           "themeKeys": {
             "thesaName": {
               "date": {
+                "reviseDate": "2026-11-10T11:01:08",
                 "pubDate": "2008-06-01T00:00:00"
               },
               "resTitle": {
@@ -16684,11 +16675,13 @@
               }
             },
             "keyword": [
+              "muzeum",
               "skanzen",
-              "Karlovarský kraj",
-              "muzeum v přírodě"
+              "v přírodě",
+              "Karlovarský kraj"
             ]
           },
+          "idPurp": "Přehled muzeí v přírodě a skanzenů v Karlovarském kraji.",
           "spatRpType": {
             "SpatRepTypCd": {
               "@_Sync": "FALSE",
@@ -16701,12 +16694,17 @@
               "@_value": "004"
             }
           },
+          "tpCat": {
+            "TopicCatCd": {
+              "@_value": "016"
+            }
+          },
           "searchKeys": {
             "keyword": [
               "muzeum",
-              "muzea v přírodě",
               "skanzen",
-              "Karlovarský kraj"
+              "Karlovarský kraj",
+              "v přírodě"
             ]
           },
           "idPoC": {
@@ -16760,6 +16758,7 @@
         },
         "mdChar": {
           "CharSetCd": {
+            "@_Sync": "FALSE",
             "@_value": "004"
           }
         }
@@ -16770,77 +16769,77 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/datasets/6be3423787fd4c1fa19a70b025e2eb64_3"
+          "accessURL": "https://www.datazapad.cz/datasets/6be3423787fd4c1fa19a70b025e2eb64_0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "ArcGIS GeoService",
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
-          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Muzea_v_p%C5%99%C3%ADrod%C4%9B_a_skanzeny_v_KVK_WFL1/FeatureServer/3"
+          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Muzea_v_p%C5%99%C3%ADrod%C4%9B_a_skanzeny_v_KVK_WFL1/FeatureServer/0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "CSV",
           "format": "CSV",
           "mediaType": "text/csv",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/6be3423787fd4c1fa19a70b025e2eb64/csv?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/6be3423787fd4c1fa19a70b025e2eb64/csv?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Shapefile",
           "format": "ZIP",
           "mediaType": "application/zip",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/6be3423787fd4c1fa19a70b025e2eb64/shapefile?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/6be3423787fd4c1fa19a70b025e2eb64/shapefile?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "GeoJSON",
           "format": "GeoJSON",
           "mediaType": "application/vnd.geo+json",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/6be3423787fd4c1fa19a70b025e2eb64/geojson?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/6be3423787fd4c1fa19a70b025e2eb64/geojson?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "KML",
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/6be3423787fd4c1fa19a70b025e2eb64/kml?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/6be3423787fd4c1fa19a70b025e2eb64/kml?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "File Geodatabase",
           "format": "ZIP",
           "mediaType": "application/zip",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/6be3423787fd4c1fa19a70b025e2eb64/filegdb?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/6be3423787fd4c1fa19a70b025e2eb64/filegdb?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Feature Collection",
           "format": "TXT",
           "mediaType": "text/plain",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/6be3423787fd4c1fa19a70b025e2eb64/featureCollection?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/6be3423787fd4c1fa19a70b025e2eb64/featureCollection?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Excel",
           "format": "XLSX",
           "mediaType": "application/vnd.ms-excel",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/6be3423787fd4c1fa19a70b025e2eb64/excel?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/6be3423787fd4c1fa19a70b025e2eb64/excel?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "GeoPackage",
           "format": "GPKG",
           "mediaType": "application/geopackage+sqlite3",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/6be3423787fd4c1fa19a70b025e2eb64/geoPackage?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/6be3423787fd4c1fa19a70b025e2eb64/geoPackage?layers=0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "SQLite Geodatabase",
           "format": "GDB",
           "mediaType": "application/geopackage+sqlite3",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/6be3423787fd4c1fa19a70b025e2eb64/sqlite?layers=3"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/6be3423787fd4c1fa19a70b025e2eb64/sqlite?layers=0"
         }
       ],
       "theme": [
@@ -17887,7 +17886,7 @@
       "identifier": "https://www.arcgis.com/home/item.html?id=72aa9de6abc94f949f3959e70e0d241d&sublayer=3",
       "landingPage": "https://www.datazapad.cz/datasets/72aa9de6abc94f949f3959e70e0d241d_3",
       "title": "Lékařská a lékárenská pohotovostní služba v Karlovarském kraji",
-      "description": "<p><span style=\"background-color:rgb(255,255,255); color:rgb(20,20,20); font-family:&quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:14px;\"><span style=\"display:inline !important; float:none; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; text-align:start; text-decoration-color:initial; text-decoration-style:initial; text-indent:0px; text-transform:none; word-spacing:0px;\">Seznam lékařských a lékárenských pohotovostních služeb v Karlovarském kraji.</span></span><span style=\"background-color:rgb(255,255,255); color:rgb(20,20,20); font-family:&quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;\"><span style=\"display:inline !important; float:none; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; text-align:start; text-decoration-color:initial; text-decoration-style:initial; text-indent:0px; text-transform:none; word-spacing:0px;\"> </span></span><span style=\"font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:14px;\">Datová sada obsahuje časovou a místní specifikaci lékařské pohotovostní služby pro děti, dospělé, stomatologickou a chirurgickou pohotovostní službu (chirurgickou pohotovostní službu pouze v Mariánských Lázních) a lékárenskou pohotovostní službu pro Karlovarský kraj. Obsaženy jsou i webové stránky pohotovostí a telefonní kontakt. Souřadnicový systém je použit WGS 1984.</span></p><p><span style=\"font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:14px;\">Zdrojem dat je Krajský úřad Karlovarského kraje.</span></p>",
+      "description": "<p><span style='background-color:rgb(255,255,255); color:rgb(20,20,20); font-family:Verdana; font-size:14px;'><span style='display:inline !important; float:none; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; text-align:start; text-decoration-color:initial; text-decoration-style:initial; text-indent:0px; text-transform:none; word-spacing:0px;'>Seznam lékařských a lékárenských pohotovostních služeb v Karlovarském kraji.</span></span><span style='background-color:rgb(255,255,255); color:rgb(20,20,20); font-family:Verdana; font-size:16px;'><span style='display:inline !important; float:none; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; text-align:start; text-decoration-color:initial; text-decoration-style:initial; text-indent:0px; text-transform:none; word-spacing:0px;'> </span></span><span style='font-family:Verdana; font-size:14px;'>Datová sada obsahuje časovou a místní specifikaci lékařské pohotovostní služby pro děti, dospělé, stomatologickou a chirurgickou pohotovostní službu (chirurgickou pohotovostní službu pouze v Mariánských Lázních) a lékárenskou pohotovostní službu pro Karlovarský kraj. Obsaženy jsou i webové stránky pohotovostí a telefonní kontakt. Souřadnicový systém je použit WGS 1984.</span></p><p><span style='font-family:Verdana; font-size:14px;'>Zdrojem dat je Krajský úřad Karlovarského kraje.</span></p>",
       "keyword": [
         "dětská pohotovost",
         "Karlovarský kraj",
@@ -17986,7 +17985,7 @@
           }
         },
         "dataIdInfo": {
-          "idAbs": "<p><span style=\"background-color:rgb(255,255,255); color:rgb(20,20,20); font-family:&quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:14px;\"><span style=\"display:inline !important; float:none; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; text-align:start; text-decoration-color:initial; text-decoration-style:initial; text-indent:0px; text-transform:none; word-spacing:0px;\">Seznam lékařských a lékárenských pohotovostních služeb v Karlovarském kraji.</span></span><span style=\"background-color:rgb(255,255,255); color:rgb(20,20,20); font-family:&quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;\"><span style=\"display:inline !important; float:none; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; text-align:start; text-decoration-color:initial; text-decoration-style:initial; text-indent:0px; text-transform:none; word-spacing:0px;\"> </span></span><span style=\"font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:14px;\">Datová sada obsahuje časovou a místní specifikaci lékařské pohotovostní služby pro děti, dospělé, stomatologickou a chirurgickou pohotovostní službu (chirurgickou pohotovostní službu pouze v Mariánských Lázních) a lékárenskou pohotovostní službu pro Karlovarský kraj. Obsaženy jsou i webové stránky pohotovostí a telefonní kontakt. Souřadnicový systém je použit WGS 1984.</span></p><p><span style=\"font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:14px;\">Zdrojem dat je Krajský úřad Karlovarského kraje.</span></p>",
+          "idAbs": "<p><span style='background-color:rgb(255,255,255); color:rgb(20,20,20); font-family:Verdana; font-size:14px;'><span style='display:inline !important; float:none; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; text-align:start; text-decoration-color:initial; text-decoration-style:initial; text-indent:0px; text-transform:none; word-spacing:0px;'>Seznam lékařských a lékárenských pohotovostních služeb v Karlovarském kraji.</span></span><span style='background-color:rgb(255,255,255); color:rgb(20,20,20); font-family:Verdana; font-size:16px;'><span style='display:inline !important; float:none; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; text-align:start; text-decoration-color:initial; text-decoration-style:initial; text-indent:0px; text-transform:none; word-spacing:0px;'> </span></span><span style='font-family:Verdana; font-size:14px;'>Datová sada obsahuje časovou a místní specifikaci lékařské pohotovostní služby pro děti, dospělé, stomatologickou a chirurgickou pohotovostní službu (chirurgickou pohotovostní službu pouze v Mariánských Lázních) a lékárenskou pohotovostní službu pro Karlovarský kraj. Obsaženy jsou i webové stránky pohotovostí a telefonní kontakt. Souřadnicový systém je použit WGS 1984.</span></p><p><span style='font-family:Verdana; font-size:14px;'>Zdrojem dat je Krajský úřad Karlovarského kraje.</span></p>",
           "idCredit": "Krajský úřad Karlovarského kraje",
           "dataLang": {
             "languageCode": {
@@ -22880,7 +22879,7 @@
       "identifier": "https://www.arcgis.com/home/item.html?id=a193c3092bef4fa8b514761b421d9ee1&sublayer=0",
       "landingPage": "https://www.datazapad.cz/datasets/a193c3092bef4fa8b514761b421d9ee1_0",
       "title": "Lázeňská místa v Karlovarském kraji",
-      "description": "<div><span style=\"font-family:Arial; font-size:14px;\">Datová sada obsahuje přehled lázeňských míst v Karlovarském kraji. Součástí datové sady jsou také informace o umístění turistických informačních center v jednotlivých lázeňských místech, jejichž poloha je uvedena pomocí geografických souřadnic. Data jsou poskytována v souřadnicovém systému WGS 1984.</span></div><div><span style=\"font-family:Arial; font-size:14px;\">Zdrojem dat je Krajské inovační centrum Karlovarského kraje, p.o.</span></div>",
+      "description": "<div><span style='font-family:Verdana; font-size:14px;'>Datová sada obsahuje přehled lázeňských míst v Karlovarském kraji. Součástí datové sady jsou také informace o umístění turistických informačních center v jednotlivých lázeňských místech, jejichž poloha je uvedena pomocí geografických souřadnic. Data jsou poskytována v souřadnicovém systému WGS 1984.</span></div><div><span style='font-family:Verdana; font-size:14px;'>Zdrojem dat je Krajské inovační centrum Karlovarského kraje, p.o.</span></div>",
       "keyword": [
         "lázně",
         "Karlovarský kraj",
@@ -22988,7 +22987,7 @@
           }
         },
         "dataIdInfo": {
-          "idAbs": "<div><span style=\"font-family:Arial; font-size:14px;\">Datová sada obsahuje přehled lázeňských míst v Karlovarském kraji. Součástí datové sady jsou také informace o umístění turistických informačních center v jednotlivých lázeňských místech, jejichž poloha je uvedena pomocí geografických souřadnic. Data jsou poskytována v souřadnicovém systému WGS 1984.</span></div><div><span style=\"font-family:Arial; font-size:14px;\">Zdrojem dat je Krajské inovační centrum Karlovarského kraje, p.o.</span></div>",
+          "idAbs": "<div><span style='font-family:Verdana; font-size:14px;'>Datová sada obsahuje přehled lázeňských míst v Karlovarském kraji. Součástí datové sady jsou také informace o umístění turistických informačních center v jednotlivých lázeňských místech, jejichž poloha je uvedena pomocí geografických souřadnic. Data jsou poskytována v souřadnicovém systému WGS 1984.</span></div><div><span style='font-family:Verdana; font-size:14px;'>Zdrojem dat je Krajské inovační centrum Karlovarského kraje, p.o.</span></div>",
           "dataExt": {
             "geoEle": {
               "GeoBndBox": {
