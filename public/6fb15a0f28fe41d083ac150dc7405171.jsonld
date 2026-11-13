@@ -7,21 +7,19 @@
     "cs": "Průmyslové zóny a parky v Karlovarském kraji"
   },
   "popis": {
-    "cs": "Datová sada obsahuje přehled průmyslových zón a parků v Karlovarském kraji včetně prostorové lokalizace. Souřadnicový systém je použit WGS 1984. Zdrojem dat je Krajský úřad Karlovarského kraje, Odbor regionálního rozvoje."
+    "cs": "Datová sada obsahuje přehled průmyslových zón a parků v Karlovarském kraji včetně jejich bodové prostorové lokalizace. Souřadnicový systém je použit WGS 1984.&nbsp;Zdrojem dat je Krajský úřad Karlovarského kraje, Odbor regionálního rozvoje."
   },
   "klíčové_slovo": {
     "cs": [
       "průmyslová zóna",
       "průmyslový park",
-      "Karlovarský kraj",
-      "zóna",
-      "park"
+      "Karlovarský kraj"
     ]
   },
   "téma": [
     "http://publications.europa.eu/resource/authority/data-theme/ECON"
   ],
-  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/OTHER",
+  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
   "prvek_rúian": [
     "https://linked.cuzk.cz/resource/ruian/vusc/51"
   ],
