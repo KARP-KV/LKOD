@@ -17874,7 +17874,7 @@
       "identifier": "https://www.arcgis.com/home/item.html?id=72aa9de6abc94f949f3959e70e0d241d&sublayer=3",
       "landingPage": "https://www.datazapad.cz/datasets/72aa9de6abc94f949f3959e70e0d241d_3",
       "title": "Lékařská a lékárenská pohotovostní služba v Karlovarském kraji",
-      "description": "<p><span style='background-color:rgb(255,255,255); color:rgb(20,20,20); font-family:Verdana; font-size:14px;'><span style='display:inline !important; float:none; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; text-align:start; text-decoration-color:initial; text-decoration-style:initial; text-indent:0px; text-transform:none; word-spacing:0px;'>Seznam lékařských a lékárenských pohotovostních služeb v Karlovarském kraji.</span></span><span style='background-color:rgb(255,255,255); color:rgb(20,20,20); font-family:Verdana; font-size:16px;'><span style='display:inline !important; float:none; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; text-align:start; text-decoration-color:initial; text-decoration-style:initial; text-indent:0px; text-transform:none; word-spacing:0px;'> </span></span><span style='font-family:Verdana; font-size:14px;'>Datová sada obsahuje časovou a místní specifikaci lékařské pohotovostní služby pro děti, dospělé, stomatologickou a chirurgickou pohotovostní službu (chirurgickou pohotovostní službu pouze v Mariánských Lázních) a lékárenskou pohotovostní službu pro Karlovarský kraj. Obsaženy jsou i webové stránky pohotovostí a telefonní kontakt. Souřadnicový systém je použit WGS 1984.</span></p><p><span style='font-family:Verdana; font-size:14px;'>Zdrojem dat je Krajský úřad Karlovarského kraje.</span></p>",
+      "description": "<p><span style=\"background-color:rgb(255,255,255); color:rgb(20,20,20); font-family:Verdana; font-size:14px;\"><span style=\"display:inline !important; float:none; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; text-align:start; text-decoration-color:initial; text-decoration-style:initial; text-indent:0px; text-transform:none; word-spacing:0px;\">Seznam lékařských a lékárenských pohotovostních služeb v Karlovarském kraji.</span></span><span style=\"background-color:rgb(255,255,255); color:rgb(20,20,20); font-family:Verdana; font-size:16px;\"><span style=\"display:inline !important; float:none; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; text-align:start; text-decoration-color:initial; text-decoration-style:initial; text-indent:0px; text-transform:none; word-spacing:0px;\"> </span></span><span style=\"font-family:Verdana; font-size:14px;\">Datová sada obsahuje časovou a místní specifikaci lékařské pohotovostní služby pro děti, dospělé, stomatologickou a chirurgickou pohotovostní službu (chirurgickou pohotovostní službu pouze v Mariánských Lázních) a lékárenskou pohotovostní službu pro Karlovarský kraj. Obsaženy jsou i webové stránky pohotovostí a telefonní kontakt. Souřadnicový systém je použit WGS 1984.</span></p><p><span style=\"font-family:Verdana; font-size:14px;\">Zdrojem dat je Krajský úřad Karlovarského kraje.</span></p>",
       "keyword": [
         "dětská pohotovost",
         "Karlovarský kraj",
@@ -17932,7 +17932,7 @@
           "DataProperties": {
             "itemProps": {
               "portalDetails": {
-                "thumbnailURL": "https://www.arcgis.com/sharing/rest/content/items/72aa9de6abc94f949f3959e70e0d241d/info/thumbnail/thumbnail.png"
+                "thumbnailURL": "https://www.arcgis.com/sharing/rest/content/items/72aa9de6abc94f949f3959e70e0d241d/info/thumbnail/thumbnail.JPEG"
               }
             }
           },
@@ -17973,7 +17973,7 @@
           }
         },
         "dataIdInfo": {
-          "idAbs": "<p><span style='background-color:rgb(255,255,255); color:rgb(20,20,20); font-family:Verdana; font-size:14px;'><span style='display:inline !important; float:none; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; text-align:start; text-decoration-color:initial; text-decoration-style:initial; text-indent:0px; text-transform:none; word-spacing:0px;'>Seznam lékařských a lékárenských pohotovostních služeb v Karlovarském kraji.</span></span><span style='background-color:rgb(255,255,255); color:rgb(20,20,20); font-family:Verdana; font-size:16px;'><span style='display:inline !important; float:none; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; text-align:start; text-decoration-color:initial; text-decoration-style:initial; text-indent:0px; text-transform:none; word-spacing:0px;'> </span></span><span style='font-family:Verdana; font-size:14px;'>Datová sada obsahuje časovou a místní specifikaci lékařské pohotovostní služby pro děti, dospělé, stomatologickou a chirurgickou pohotovostní službu (chirurgickou pohotovostní službu pouze v Mariánských Lázních) a lékárenskou pohotovostní službu pro Karlovarský kraj. Obsaženy jsou i webové stránky pohotovostí a telefonní kontakt. Souřadnicový systém je použit WGS 1984.</span></p><p><span style='font-family:Verdana; font-size:14px;'>Zdrojem dat je Krajský úřad Karlovarského kraje.</span></p>",
+          "idAbs": "<p><span style=\"background-color:rgb(255,255,255); color:rgb(20,20,20); font-family:Verdana; font-size:14px;\"><span style=\"display:inline !important; float:none; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; text-align:start; text-decoration-color:initial; text-decoration-style:initial; text-indent:0px; text-transform:none; word-spacing:0px;\">Seznam lékařských a lékárenských pohotovostních služeb v Karlovarském kraji.</span></span><span style=\"background-color:rgb(255,255,255); color:rgb(20,20,20); font-family:Verdana; font-size:16px;\"><span style=\"display:inline !important; float:none; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; text-align:start; text-decoration-color:initial; text-decoration-style:initial; text-indent:0px; text-transform:none; word-spacing:0px;\"> </span></span><span style=\"font-family:Verdana; font-size:14px;\">Datová sada obsahuje časovou a místní specifikaci lékařské pohotovostní služby pro děti, dospělé, stomatologickou a chirurgickou pohotovostní službu (chirurgickou pohotovostní službu pouze v Mariánských Lázních) a lékárenskou pohotovostní službu pro Karlovarský kraj. Obsaženy jsou i webové stránky pohotovostí a telefonní kontakt. Souřadnicový systém je použit WGS 1984.</span></p><p><span style=\"font-family:Verdana; font-size:14px;\">Zdrojem dat je Krajský úřad Karlovarského kraje.</span></p>",
           "idCredit": "Krajský úřad Karlovarského kraje",
           "dataLang": {
             "languageCode": {
@@ -18128,7 +18128,7 @@
         "mdMaint": {
           "maintFreq": {
             "MaintFreqCd": {
-              "@_value": "007"
+              "@_value": "008"
             }
           }
         },
@@ -26580,10 +26580,10 @@
     },
     {
       "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=d130e2d3a13d4ca39b16761d2131619b&sublayer=0",
-      "landingPage": "https://www.datazapad.cz/datasets/d130e2d3a13d4ca39b16761d2131619b_0",
+      "identifier": "https://www.arcgis.com/home/item.html?id=d130e2d3a13d4ca39b16761d2131619b&sublayer=3",
+      "landingPage": "https://www.datazapad.cz/datasets/d130e2d3a13d4ca39b16761d2131619b_3",
       "title": "Lyžařské vleky a lanovky v Karlovarském kraji",
-      "description": "<p><span style='font-size:medium;'>Datová sada obsahuje přehled lyžařských vleků, lanovek (lanových drah) a pásů (pojízdných koberců) v jednotlivých skiareálech a sportovních areálech v Karlovarském kraji včetně informace o jejich počtu. Obsahuje rovněž informace o provozovateli areálu (název, identifikační číslo, sídlo, právní formu, kód adresy, ID datové schránky), webové stránky, kontaktní telefon, e-mail a prostorovou specifikaci areálu. Souřadnicový systém je použit WGS 1984.</span></p><p><span style='font-size:medium;'>Původním zdrojem dat je Živý kraj - Destinační agentura pro Karlovarský kraj, z.s.&nbsp;</span></p>",
+      "description": "<div style=\"font-family:&apos; font-size:14px; font-style:normal; font-weight:400; line-height:20px;\"><p><span style=\"font-family:Verdana; font-size:14px;\">Datová sada obsahuje přehled lyžařských areálů v Karlovarském kraji včetně počtu lanovek (lanových drah), lyžařských vleků a pojízdných pásů (lyžařských koberců) v jednotlivých areálech. Součástí datové sady jsou také informace o provozovateli areálu (název, identifikační číslo, sídlo, právní forma, kód adresy a identifikátor datové schránky), webové stránky, kontaktní telefon, e-mail a prostorová lokalizace areálu. Geografická data jsou vedena v souřadnicovém systému WGS 1984.</span></p><p><span style=\"font-family:Verdana; font-size:14px;\"><i>Počet vleků zahrnuje také dětské lanové vleky. Pojízdné pásy (lyžařské koberce) jsou vykazovány samostatně.</i></span></p></div><p><span style=\"font-family:Verdana; font-size:14px;\">Zdrojem dat je Krajské inovační centrum Karlovarského kraje, příspěvková organizace.</span></p>",
       "keyword": [
         "Karlovarský kraj",
         "lanovka",
@@ -26594,7 +26594,7 @@
         "lanová dráha"
       ],
       "issued": "2024-10-07T07:21:43.000Z",
-      "modified": "2025-09-30T09:22:49.000Z",
+      "modified": "2026-11-16T12:28:19.000Z",
       "publisher": {
         "name": "Krajské inovační centrum Karlovarského kraje"
       },
@@ -26604,7 +26604,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "12.2029,49.9737,12.9688,50.4190",
+      "spatial": "12.2029,49.9737,12.9835,50.4190",
       "license": "https://creativecommons.org/licenses/by/4.0",
       "category": [
         "Kultura a cestovní ruch"
@@ -26629,13 +26629,6 @@
           },
           "rpOrgName": "Krajské inovační centrum Karlovarského kraje, p.o."
         },
-        "distInfo": {
-          "distTranOps": {
-            "onLineSrc": {
-              "linkage": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Ly%C5%BEa%C5%99sk%C3%A9_vleky_v_Karlovarsk%C3%A9m_kraji_WFL1/FeatureServer"
-            }
-          }
-        },
         "mdMaint": {
           "maintFreq": {
             "MaintFreqCd": {
@@ -26645,18 +26638,25 @@
         },
         "mdDateSt": {
           "@_Sync": "FALSE",
-          "#value": "2025-09-30"
+          "#value": "2026-11-16"
         },
         "Esri": {
           "ArcGISFormat": 1,
           "CreaTime": 9103500,
           "ArcGISProfile": "INSPIRE",
+          "DataProperties": {
+            "itemProps": {
+              "portalDetails": {
+                "thumbnailURL": "https://www.arcgis.com/sharing/rest/content/items/d130e2d3a13d4ca39b16761d2131619b/info/thumbnail/thumbnail.png"
+              }
+            }
+          },
           "CreaDate": 20241007,
           "SyncOnce": "TRUE"
         },
         "dqInfo": {
           "dataLineage": {
-            "statement": "Data Živého kraje - Destinační agentury pro Karlovarský kraj, z.s. a Krajského inovačního centra Karlovarského kraje, p.o."
+            "statement": "Data Krajského inovačního centra Karlovarského kraje, p.o."
           },
           "dqScope": {
             "scpLvl": {
@@ -26688,33 +26688,13 @@
           }
         },
         "dataIdInfo": {
-          "idAbs": "<p><span style='font-size:medium;'>Datová sada obsahuje přehled lyžařských vleků, lanovek (lanových drah) a pásů (pojízdných koberců) v jednotlivých skiareálech a sportovních areálech v Karlovarském kraji včetně informace o jejich počtu. Obsahuje rovněž informace o provozovateli areálu (název, identifikační číslo, sídlo, právní formu, kód adresy, ID datové schránky), webové stránky, kontaktní telefon, e-mail a prostorovou specifikaci areálu. Souřadnicový systém je použit WGS 1984.</span></p><p><span style='font-size:medium;'>Původním zdrojem dat je Živý kraj - Destinační agentura pro Karlovarský kraj, z.s.&nbsp;</span></p>",
-          "idCredit": "Živý kraj - Destinační agentura pro Karlovarský kraj, z.s.",
-          "dataLang": {
-            "languageCode": {
-              "@_Sync": "FALSE",
-              "@_value": "cze"
-            }
-          },
-          "idPurp": "Přehled lyžařských vleků a lanových drah v Karlovarském kraji.",
-          "tpCat": [
-            {
-              "TopicCatCd": {
-                "@_value": "017"
-              }
-            },
-            {
-              "TopicCatCd": {
-                "@_value": "016"
-              }
-            }
-          ],
+          "idAbs": "<div style=\"font-family:&apos; font-size:14px; font-style:normal; font-weight:400; line-height:20px;\"><p><span style=\"font-family:Verdana; font-size:14px;\">Datová sada obsahuje přehled lyžařských areálů v Karlovarském kraji včetně počtu lanovek (lanových drah), lyžařských vleků a pojízdných pásů (lyžařských koberců) v jednotlivých areálech. Součástí datové sady jsou také informace o provozovateli areálu (název, identifikační číslo, sídlo, právní forma, kód adresy a identifikátor datové schránky), webové stránky, kontaktní telefon, e-mail a prostorová lokalizace areálu. Geografická data jsou vedena v souřadnicovém systému WGS 1984.</span></p><p><span style=\"font-family:Verdana; font-size:14px;\"><i>Počet vleků zahrnuje také dětské lanové vleky. Pojízdné pásy (lyžařské koberce) jsou vykazovány samostatně.</i></span></p></div><p><span style=\"font-family:Verdana; font-size:14px;\">Zdrojem dat je Krajské inovační centrum Karlovarského kraje, příspěvková organizace.</span></p>",
           "dataExt": {
             "geoEle": {
               "GeoBndBox": {
                 "eastBL": {
                   "@_Sync": "FALSE",
-                  "#value": 12.968779
+                  "#value": 12.983508
                 },
                 "southBL": {
                   "@_Sync": "FALSE",
@@ -26733,7 +26713,7 @@
           },
           "idCitation": {
             "date": {
-              "reviseDate": "2025-09-30T09:22:49"
+              "reviseDate": "2026-11-16T12:28:19"
             },
             "resTitle": {
               "@_Sync": "FALSE",
@@ -26743,9 +26723,16 @@
               "identCode": "publication"
             }
           },
+          "dataLang": {
+            "languageCode": {
+              "@_Sync": "FALSE",
+              "@_value": "cze"
+            }
+          },
           "themeKeys": {
             "thesaName": {
               "date": {
+                "reviseDate": "2026-11-16T12:27:45",
                 "pubDate": "2008-06-01T00:00:00"
               },
               "resTitle": {
@@ -26754,14 +26741,13 @@
               }
             },
             "keyword": [
-              "vlek",
+              "Karlovarský kraj",
               "lanová dráha",
               "lanovka",
-              "Karlovarský kraj",
-              "lyžařské středisko",
-              "skiareál"
+              "lyžařský vlek"
             ]
           },
+          "idPurp": "Přehled lyžařských vleků a lanových drah v Karlovarském kraji.",
           "spatRpType": {
             "SpatRepTypCd": {
               "@_Sync": "FALSE",
@@ -26772,6 +26758,11 @@
             "CharSetCd": {
               "@_Sync": "FALSE",
               "@_value": "004"
+            }
+          },
+          "tpCat": {
+            "TopicCatCd": {
+              "@_value": "016"
             }
           },
           "searchKeys": {
@@ -26836,6 +26827,7 @@
         },
         "mdChar": {
           "CharSetCd": {
+            "@_Sync": "FALSE",
             "@_value": "004"
           }
         }
@@ -26846,77 +26838,77 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datazapad.cz/datasets/d130e2d3a13d4ca39b16761d2131619b_0"
+          "accessURL": "https://www.datazapad.cz/datasets/d130e2d3a13d4ca39b16761d2131619b_3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "ArcGIS GeoService",
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
-          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Ly%C5%BEa%C5%99sk%C3%A9_vleky_v_Karlovarsk%C3%A9m_kraji_WFL1/FeatureServer/0"
+          "accessURL": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Ly%C5%BEa%C5%99sk%C3%A9_vleky_v_Karlovarsk%C3%A9m_kraji_WFL1/FeatureServer/3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "CSV",
           "format": "CSV",
           "mediaType": "text/csv",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/d130e2d3a13d4ca39b16761d2131619b/csv?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/d130e2d3a13d4ca39b16761d2131619b/csv?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Shapefile",
           "format": "ZIP",
           "mediaType": "application/zip",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/d130e2d3a13d4ca39b16761d2131619b/shapefile?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/d130e2d3a13d4ca39b16761d2131619b/shapefile?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "GeoJSON",
           "format": "GeoJSON",
           "mediaType": "application/vnd.geo+json",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/d130e2d3a13d4ca39b16761d2131619b/geojson?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/d130e2d3a13d4ca39b16761d2131619b/geojson?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "KML",
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/d130e2d3a13d4ca39b16761d2131619b/kml?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/d130e2d3a13d4ca39b16761d2131619b/kml?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "File Geodatabase",
           "format": "ZIP",
           "mediaType": "application/zip",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/d130e2d3a13d4ca39b16761d2131619b/filegdb?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/d130e2d3a13d4ca39b16761d2131619b/filegdb?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Feature Collection",
           "format": "TXT",
           "mediaType": "text/plain",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/d130e2d3a13d4ca39b16761d2131619b/featureCollection?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/d130e2d3a13d4ca39b16761d2131619b/featureCollection?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Excel",
           "format": "XLSX",
           "mediaType": "application/vnd.ms-excel",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/d130e2d3a13d4ca39b16761d2131619b/excel?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/d130e2d3a13d4ca39b16761d2131619b/excel?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "GeoPackage",
           "format": "GPKG",
           "mediaType": "application/geopackage+sqlite3",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/d130e2d3a13d4ca39b16761d2131619b/geoPackage?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/d130e2d3a13d4ca39b16761d2131619b/geoPackage?layers=3"
         },
         {
           "@type": "dcat:Distribution",
           "title": "SQLite Geodatabase",
           "format": "GDB",
           "mediaType": "application/geopackage+sqlite3",
-          "accessURL": "https://www.datazapad.cz/api/download/v1/items/d130e2d3a13d4ca39b16761d2131619b/sqlite?layers=0"
+          "accessURL": "https://www.datazapad.cz/api/download/v1/items/d130e2d3a13d4ca39b16761d2131619b/sqlite?layers=3"
         }
       ],
       "theme": [
